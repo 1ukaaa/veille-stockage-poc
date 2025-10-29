@@ -1,0 +1,7473 @@
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+HARMONY ENERGY FRANCE 
+
+Présentation du projet 
+de stockage d’énergie 
+
+LA TUTELLE 
+
+Historique des versions : 
+
+Version 0 
+
+27 juillet 2023 
+
+Version 1 
+
+20 septembre 2023 
+
+« La capacité à générer et à stocker de l’énergie décarbonée est essentielle 
+
+au développement d’un système énergétique durable » 
+
+Page 1 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Sommaire 
+
+1. 
+
+Présentation de la société ....................................................................................................................................... 3 
+
+1.1.  Historique ...................................................................................................................................................... 3 
+
+1.2.  Harmony Energy France ................................................................................................................................ 3 
+
+1.3.  Politique RSE ................................................................................................................................................. 4 
+
+2. 
+
+Le stockage d'énergie par batteries ......................................................................................................................... 5 
+
+2.1. 
+
+Intérêt de la solution ..................................................................................................................................... 5 
+
+2.2. 
+
+Fonctionnement ............................................................................................................................................ 7 
+
+2.3.  Technologie de batteries .............................................................................................................................. 9 
+
+2.4.  Aspects environnementaux .......................................................................................................................... 9 
+
+2.5.  Contexte surfacique .................................................................................................................................... 10 
+
+3. 
+
+Le projet de La Tutelle ........................................................................................................................................... 11 
+
+3.1.  Choix du site ................................................................................................................................................ 11 
+
+3.2. 
+
+Situation du projet ...................................................................................................................................... 15 
+
+3.3.  Conception du projet .................................................................................................................................. 15 
+
+3.4.  Raccordement du projet ............................................................................................................................. 16 
+
+4. 
+
+Analyse des risques ................................................................................................................................................ 17 
+
+4.1.  Méthodologie d’analyse des risques .......................................................................................................... 17 
+
+4.2.  Revue générale des risques présents ......................................................................................................... 17 
+
+4.3.  Biodiversité ................................................................................................................................................. 20 
+
+4.4.  Milieu potentiellement humide .................................................................................................................. 21 
+
+4.5.  Patrimoine et population locale ................................................................................................................. 22 
+
+4.6. 
+
+Impact sonore ............................................................................................................................................. 25 
+
+4.7.  Risque intrusion .......................................................................................................................................... 28 
+
+4.8.  Risque incendie ........................................................................................................................................... 28 
+
+5. 
+
+Cycle de vie du projet ............................................................................................................................................ 33 
+
+5.1.  Processus de développement ..................................................................................................................... 33 
+
+5.2.  Activités sur site .......................................................................................................................................... 34 
+
+6. 
+
+Bilan carbone ......................................................................................................................................................... 36 
+
+Annexe 1 Plan du projet ....................................................................................................................................................... 38 
+
+Annexe 2 Évaluation de l'état environnemental du site ...................................................................................................... 39 
+
+Annexe 3 Plan du raccordement .......................................................................................................................................... 40 
+
+Annexe 4 Bilan carbone ........................................................................................................................................................ 41 
+
+Annexe 5 Étude acoustique .................................................................................................................................................. 42 
+
+Annexe 6 Étude d’impact visuel ........................................................................................................................................... 43 
+
+Page 2 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+1. Présentation de la société 
+
+1.1.  Historique 
+
+Harmony Energy a été  fondée au Royaume-Uni en 2010 et en une dizaine d’années  la société est devenue  un leader 
+national dans le développement de projets de stockage d’énergie et de centrales de production d’énergie renouvelable. 
+
+Harmony  Energy  a  ainsi  développé,  construit  et  opéré  un  portefeuille  important  de  parcs  de  production  d’énergie 
+renouvelable (éoliens et photovoltaïques) ainsi que des projets de stockage d’énergie par batterie. La carte ci-dessous 
+montre les projets de stockage opérationnels et en cours de construction aujourd’hui : 
+
+Figure 1: Portefeuille de projets BESS de Harmony Energy au Royaume-Uni 
+
+En novembre 2021, Harmony Energy a lancé le Harmony Energy Income Trust plc, un fonds d’investissement coté à la 
+Bourse de Londres ("HEIT"). HEIT est une société d'investissement  gérée par Harmony  Energy  qui finance des  grands 
+projets de stockage d'énergie et de production d'énergie renouvelable et qui délègue à Harmony Energy la gestion des 
+actifs sur toute la durée de vie, jusqu’au démantèlement. 
+
+1.2.  Harmony Energy France 
+
+Fort de son expérience et de ses succès au Royaume-Uni, début 2022 une filiale française, Harmony Energy France, a été 
+créée pour développer en France métropolitaine des projets solaires et de stockage. 
+
+L’équipe française de Harmony Energy dispose d’une forte expérience sur le marché de l’électricité et le développement 
+de  projets  d’énergie  renouvelable  et  de  stockage  d’énergie.  Les  compétences  couvrent  aussi  bien  les  activités  de 
+développement (recherche de foncier, démarches administratives…), d’ingénierie (conception et dimensionnement des 
+centrales,  ingénierie  de  raccordement  au  réseau…),  ou  de  construction  et  opération  (achats,  financement,  mise  en 
+service, exploitation et maintenance…). 
+
+Harmony Energy France se positionne sur l’ensemble du cycle de vie de ses projets, en faisant appel à des partenaires 
+pour certaines activités clés. 
+
+Page 3 sur 43 
+
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Figure 2: Positionnement de Harmony Energy France 
+
+1.3.  Politique RSE 
+
+Harmony Energy France définit sa politique Responsabilité Sociétale des Entreprises (RSE) autour de quatre principaux 
+piliers qui guident notre manière de développer et de construire nos activités. 
+
+ Figure 3: Les piliers RSE de Harmony Energy 
+
+Sur la base de ces 4 piliers, nous avons choisi de définir une stratégie RSE en accord avec nos propres valeurs, tout en 
+s’alignant sur les principales recommandations des organismes internationaux. 
+
+Concrètement Harmony Energy France formalise ses actions autour de sept objectifs de développement durable parmi 
+des dix-sept adoptés par les États membres des Nations Unies. 
+
+Page 4 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Figure 4: Actions RSE de Harmony Energy France 
+
+2. Le stockage d'énergie par batteries 
+
+2.1.  Intérêt de la solution 
+
+Le stockage d’électricité par batteries a atteint la maturité technologique dans la deuxième partie des années 2010, avec 
+un  fort  essor  aux  Etats-Unis,  en  Australie,  au  Royaume-Uni  et  dans  les  zones  non  interconnectées.  En  une  douzaine 
+d’années, le stockage est devenu un levier indispensable de la transition énergétique pour stabiliser le réseau sans avoir 
+recours aux énergies fossiles et afin de mieux intégrer les énergies renouvelables, notamment l’énergie solaire. 
+
+Ces dernières années, le stockage par batteries s’est démocratisé dans le monde entier et en particulier en Europe pour 
+faire face à deux tendances fortes : 
+
+• 
+
+La nécessaire fermeture des centrales fossiles les plus polluantes (charbon, pétrole, gaz), utilisées notamment 
+lors de la période hivernale, remplacées par des énergies renouvelables durables, dont la production est variable 
+et parfois compliquée à intégrer ; 
+
+•  Des  prix  des  marchés  de  l’électricité  soumis  à  une  volatilité  grandissante  du  fait  de  la  hausse  de  la 
+consommation, de la variabilité des énergies renouvelables et des crises successives affectant le prix du gaz ou 
+du pétrole qui peuvent mettre en péril la sécurité d’approvisionnement. 
+
+Figure 5: Les enjeux du marché de l'électricité 
+
+Page 5 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Le stockage d’énergie par batteries répond en effet aux 3 enjeux majeurs que vont connaître les réseaux électriques au 
+XXIème siècle : 
+
+•  Durabilité : 
+
+o 
+
+o 
+
+Les  batteries  électriques  constituent  l’une  des  solutions  flexibles  les  plus  efficaces  et  les  plus 
+décarbonées, avec des émissions nettement inférieures à celles des centrales fossiles traditionnelles. 
+En effet un kWh en provenance du réseau français et ayant transité par une batterie à une empreinte 
+de l’ordre de 100 gCO2/kWh, contre au moins quatre fois plus pour les centrales au gaz, au pétrole et 
+au charbon (de 400 à 1000 gCO2/kWh)1 ; 
+Le stockage par batteries n’émet aucun polluant et s’installe facilement, sans nuisance majeure pour 
+l’environnement.  L’installation  d’une  centrale  de  stockage  occupe  une  surface  faible :  environ  150 
+hectares (voir chapitre 2.5) suffiraient pour atteindre les objectifs nationaux en puissance de stockage 
+par batteries dans les scenarii médians de RTE2 (10 à 13 GW) ; 
+
+o  En stockant l’énergie renouvelable pour pallier un surplus de production ou à une congestion du réseau, 
+les batteries permettent d’utiliser une énergie qui aurait été gaspillée (écrêtée) autrement, avec un très 
+haut rendement énergétique (autour de 85%). 
+
+•  Maîtrise des prix : 
+
+o 
+
+o 
+
+Le stockage par batteries demande un investissement important au départ mais les coûts opérationnels 
+sont faibles et maîtrisés, permettant d’avoir une forte visibilité sur le prix de revient de l’installation ; 
+Le stockage par batteries s’insère sur le marché sans mécanisme de soutien et propose des prix plus 
+compétitifs que les énergies fossiles traditionnelles pour les mêmes services rendus ; 
+
+o  En venant en remplacement des énergies fossiles et en déplaçant des pics de production journaliers 
+vers des pics de consommation, le stockage permet de réduire la volatilité des prix sur la journée. 
+
+• 
+
+Sécurité d’approvisionnement : 
+
+o 
+
+Le stockage est la technologie la plus efficiente pour stabiliser le réseau, avec des temps de réaction 
+extrêmement courts (<500ms contre quelques minutes pour d’autres actifs) ; 
+
+o  En remplacement des énergies fossiles dont l’approvisionnement s’avère aussi de plus en plus incertain, 
+le stockage permet de passer les pics de consommation et de répondre à la demande nationale tout au 
+long de l’année. 
+
+Figure 6: Le stockage de l’électricité, levier de la transition énergétique 
+
+1 Calculs Harmony Energy basés sur des hypothèses courantes du marché 
+2 Futurs énergétiques 2050, RTE, février 2022 : www.rte-france.com/analyses-tendances-et-prospectives/bilan-previsionnel-2050-futurs-energetiques#Lesdocuments  
+
+Page 6 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+En remplaçant des services autrement fournis par des énergies fossiles, le stockage d’énergie par batteries permet donc 
+de  réduire  l’empreinte  carbone  du  système  électrique  tout  en  apportant  une  meilleure  maîtrise  des  coûts  et  de  la 
+capacité d’approvisionnement. 
+
+Le  cas  réel  de  la  Figure  7  ci-dessous  illustre  le  pic  de  consommation  inattendu  du  4  avril  2022,  où  une  nuit 
+exceptionnellement froide et un manque de capacité de production (réelle et prévue) a conduit à des prix d’électricité 
+sur le marché spot extrêmement élevés et donc à de forts coûts d’équilibrage du système. 
+
+Dans ce cas concret, un système électrique intégrant une capacité d’environ 1,5 GW de stockage d’énergie par batteries 
+pour répondre aux besoins d’équilibrage du système, aurait permis d’éviter le démarrage d’une centrale au fuel (à ~700 
+gCO2/kWh). L’usage du stockage plutôt que du fuel aurait ainsi pu conduire à des économies d’environ 150 M€ (ordre de 
+grandeur) pour les fournisseurs et indirectement la collectivité,  tout en évitant  l’émission de près de  2500  tonnes de 
+CO2
+
+3. 
+
+Figure 7: Mix électrique et prix de l’électricité sur le marché spot en France pour la journée du 4 avril 2022 (source RTE Eco2mix)  4 
+
+2.2.  Fonctionnement 
+
+Les batteries sont des dispositifs de stockage électrochimique. Chaque cellule est constituée d’une électrode positive et 
+d’une électrode négative, toutes deux immergées dans un milieu conducteur appelé électrolyte. 
+
+Les  cellules  sont  regroupées  dans  des  racks  et  entreposés  dans  des  armoires  ou  des  containers/enceintes  à 
+environnement contrôlé et conçus pour être installés en extérieur. La température y est régulée grâce à un système de 
+ventilation ou de refroidissement liquide. 
+
+3 Calculs Harmony Energy basés sur des hypothèses courantes du marché 
+4 www.rte-france.com/eco2mix/la-production-delectricite-par-filiere  
+
+Page 7 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Les batteries sont des technologies connectées en courant continu, comme les panneaux photovoltaïques. Ils sont donc 
+couplés  à  des  onduleurs  pour  passer  en  courant  alternatif  et  par  des  transformateurs  qui  permettent  le  passage  en 
+moyenne tension en vue du raccordement au réseau public. 
+
+Un poste de livraison fait le lien entre la centrale de stockage et le réseau public et un local technique permet aux équipes 
+d’exploitation de superviser la centrale et d’assurer sa bonne maintenance. 
+
+Si le raccordement au réseau se fait en haute tension, un poste électrique haute tension (HT) peut également être ajouté 
+sur l’emprise foncière du projet. 
+
+Figure 8 : Plan de principe d’une installation de stockage par batteries 
+
+Figure 9 : Vue aérienne de la centrale de stockage de Contego (34 MW / 68 MWh), développée et opérée par Harmony Energy 
+
+Page 8 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+2.3.  Technologie de batteries 
+
+Actuellement, le marché du stockage par batteries se concentre sur deux technologies au lithium : 
+
+• 
+
+• 
+
+La  technologie  Nickel  Manganèse  Cobalt  (NMC)  est  la  plus  utilisée  dans  le  monde  car  sa  forte  densité 
+énergétique  facilite les usages pour la  mobilité (par exemple les batteries de téléphones portables, voitures 
+électriques, etc.) ; 
+La technologie Lithium Fer Phosphate (LFP) a une densité énergétique moins élevée, mais elle a de nombreux 
+autres avantages qui font qu’elle est aujourd’hui privilégiée pour le stockage stationnaire raccordé au réseau. 
+
+Harmony Energy a choisi de se concentrer sur la technologie LFP pour plusieurs raisons : 
+
+• 
+
+• 
+
+• 
+
+la  technologie  LFP  n’utilise  pas  de  cobalt  dont 
+
+Contrairement  aux  batteries  NMC, 
+la  chaine 
+d’approvisionnement peut avoir des répercussions sociales et environnementales au niveau de l’extraction de 
+la matière première ; 
+Les  batteries  LFP  sont  très  peu  soumises  au  risque  d’emballement  thermique  que  l’on  observe  sur  la 
+technologie  NMC. Les risques d’incendie sont donc drastiquement  réduits. La centrale dispose toutefois de 
+plusieurs systèmes de prévention, de détection et d’extinction des incendies (voir chapitre 4.8 pour une analyse 
+détaillée du risque incendie) ; 
+Il s’agit d’une technologie maîtrisée qui présente le meilleur rapport performance / prix sur le marché. 
+
+Après une durée d’exploitation d’environ 15 ans, les batteries lithium-ion seront démantelées et les différents matériaux 
+séparés  et  recyclés. Les  progrès  technologiques  en  matière de  recyclage  et  d’éco-conception  devraient  permettre,  à 
+horizon 2030, de s’approcher des 100% de valorisation des matériaux. 
+
+En effet, tirée par la fin de vie de la première génération de véhicules électriques, l’industrie du recyclage des batteries 
+sera en plein essor dans les dix prochaines années. Des usines sont actuellement en projet en France et ailleurs en Europe 
+pour justement répondre à la hausse attendue de la demande. 
+
+2.4.  Aspects environnementaux 
+
+Les installations de stockage par batteries de plus de 600 kW sont soumis au régime de la déclaration de l’ICPE 2925-2 
+« Ateliers de charge d’accumulateurs électriques lorsque la charge ne produit pas d’hydrogène ». 
+
+Les installations de stockage par batteries représentent très peu de risques ou de nuisances environnementaux : 
+
+•  Gestion des sols : 
+o 
+
+Le  stockage  par  batteries  ne  demande  pas  de  fondation  conséquente  et  de  ce  fait  une  excavation 
+profonde n’est pas nécessaire ; 
+
+o  Une  surface  limitée  des  sols  étant  imperméabilisée,  il  n’y  pas  ou  peu  d’impact  sur  la  gestion  des 
+
+écoulements d’eau de pluie. 
+
+• 
+
+Insertion paysagère : 
+
+o 
+
+Les installations de stockage occupent une surface relativement faible (de l’ordre de 1 hectare) et n’ont 
+pas de structure très haute ; 
+
+o  Harmony  Energy  choisit  des  terrains  distancés  de  toute  habitation  ou  lieu  recevant  du  public,  de 
+préférence  à  proximité  des  postes  électriques  et  proche  de  pylônes.  Bien  que  le  contexte  local  et 
+l’environnement proche ne présentent pas d’enjeu paysager, Harmony Energy propose la mise en place 
+de haies paysagères pour faciliter l’intégration visuelle de l’installation. 
+
+• 
+
+Émissions : 
+o 
+
+La centrale n’émet aucun gaz, liquide ou solide susceptible de présenter un risque environnemental ou 
+une nuisance olfactive ; 
+Les  ondes  électromagnétiques  générées  par  l’installation  sont  négligeables  et  ne  représente  aucun 
+risque pour la santé ou l’environnement ; 
+Le système de climatisation des unités de stockage génère un bruit régulier qui peut être entendu en 
+limite de propriété mais qui devient rapidement faible et inaudible au-delà de 150 m de distance. Lors 
+
+o 
+
+o 
+
+Page 9 sur 43 
+
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+du choix des terrains, Harmony Energy s’assure que le bruit ne puisse pas constituer une nuisance pour 
+les riverains et s’engage à respecter les normes acoustiques applicables. 
+
+Pour chaque projet, Harmony Energy consulte les parties prenantes locales, notamment : 
+
+- 
+
+- 
+
+- 
+
+Le conseil municipal de la commune concerné par le projet et potentiellement ses administrés et techniciens 
+pour répondre à leurs questions, recueillir leurs avis et prendre des mesures pour répondre à leurs potentielles 
+préoccupations ; 
+Le Service Départemental d’Incendie et de Secours (SDIS) pour prendre en compte leurs recommandations et 
+exigences liés aux risques d’incendie ; 
+La Direction Départementale des Territoires en charge d’instruire le permis de construire, qui peut être force de 
+propositions pour améliorer la conception du projet. 
+
+2.5.  Contexte surfacique 
+
+Réaliser la livraison de 10 à 12 GW de projets de stockage d’énergie nécessitera l’occupation d’une surface d’environ 1,5 
+km2 au sol. Les contraintes technologiques détaillées plus bas, en chapitre 3.1, font qu’une grande majorité des projets 
+de stockage d’énergie par batteries seront positionnés à proximité de postes électriques, souvent sur des terres agricoles. 
+De ce fait, le déploiement du stockage d’énergie en France va engendrer la construction de parcs de stockage d’énergie 
+sur  des  terres  agricoles.  L‘enjeu  énergétique  doit  donc  être  considéré  dans  un  contexte  plus  large,  notamment  par 
+rapport aux enjeux agricoles, alimentaires et de l’artificialisation du sol. 
+
+Cela dit, il est important aussi de considérer l’ordre de grandeur de l’emprise foncière nécessaire pour le déploiement du 
+stockage d’énergie, à la maille nationale. 
+
+À titre indicatif : la surface de la France métropolitaine est d’environ 550 000 km2, dont environ 270 000 km2 (~50%) est 
+dite « Surface Agricole Utile » (SAU). 
+
+La dernière feuille de route du gouvernement (document de travail), publié lundi 12 juin par le secrétaire général à la 
+planification écologique (SGPE) indique un objectif national d’une capacité installée de 140 GW de solaire photovoltaïque, 
+dont une partie pourra être installée en bâtiment et sur parking, environ 45 GW sur des terrain dégradés /  friches et 
+environ  45  GW  sur  des  espaces  naturels,  agricoles  ou  forestiers  (ENAF).  Ces  objectifs  pourraient  se  traduire  par 
+l’occupation d’une surface d’environ 450 km2 par des projets photovoltaïques classiques au sol et d’environ 650 km2 pour 
+des projets agrivoltaïques. 
+
+À  titre  de  comparaison,  une  capacité  installée  de  12  GW  de  stockage  par  batteries  nécessiterait  une  surface  totale 
+d’environ  1,5  km2  (150  hectares)  sur  toute  la  France.  À  l’échelle  départementale,  cela  représenterait  l’équivalent 
+d’environ 1 à 2 projets de 100MW, sur 2 à 3 hectares, par département. 
+
+Le déploient du stockage  d’énergie en France va  donc  inévitablement consommer  des terres agricoles, mais sur une 
+surface très limitée au regard de l’échelle nationale et même départementale. 
+
+Page 10 sur 43 
+
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Figure 10 : Illustration de l’emprise foncière d’environ 12 GW de parcs de stockage d’énergie par batterie à l’échelle nationale 
+
+3. Le projet de La Tutelle 
+
+3.1.  Choix du site 
+
+Harmony Energy prospecte des potentiels sites de développement de projets de stockage d’énergie sur tout le territoire 
+français.  Dans  le  cadre  de  sa  prospection  d’opportunités  dans  le  département  du  Puy-de-Dôme,  Harmony  Energy  a 
+effectué une analyse portant sur tous les postes RTE du département, afin de déterminer lesquels pourraient être adaptés 
+à l’implantation d’un projet de stockage d’énergie par batteries. 
+
+Une centrale de stockage d’électricité multi-mégawatt doit par nature être positionnée proche (idéalement <500m) d’un 
+poste  électrique  existant  ayant  une  capacité  suffisante  d’accueil/raccordement.  Une  distance  plus  importante 
+entrainerait  directement  des  pertes  électriques,  un  câble  électrique  plus  long  (aluminium  ou  cuivre),  des  travaux  de 
+raccordement plus conséquents (terrain privé ou public) et d’importants surcouts. A cela s’ajoute l’impact visuel de la 
+centrale qui s’incérera mieux à proximité du poste RTE puisque la centrale comptera de nombreux transformateurs elle 
+aussi. Harmony Energy développe les sites qui répondent à ce critère premier de proximité, mais qui ont aussi et surtout 
+le moindre impact sur les aspects naturels, sanitaires et environnementaux. 
+
+La méthodologie de recherche et sélection consiste ainsi à identifier les sites qui répondent aux critères suivants : 
+
+- 
+
+- 
+
+- 
+
+Capacité technique du poste : le poste électrique doit avoir une capacité permettant la décharge (injection) ainsi 
+que la charge (soutirage) de batteries. Ensuite, il doit y avoir un terrain d’une surface d’environ 1 hectare ou 
+plus, non-construit à proximité du poste ; 
+Enjeux environnementaux : le  terrain identifié (à proximité du poste électrique) doit se situer dans une zone 
+sans  enjeux  forts,  par  exemple  des  zones  protégées  (N2000,  ZNIEFF,  parc  nationaux)  ou  d’autres  enjeux 
+répertoriés (zone humides, inondations) ; 
+Absence d’habitation proche : bien que les limites de distances minimums fixées par l’ICPE sont peu élevées, 
+pour des raisons d’impact visuel et sonore, Harmony Energy préfère sélectionner les terrains qui ne sont pas à 
+proximité immédiate d’habitations. 
+
+L‘analyse effectuée par Harmony Energy a pu conclure que parmi les 33 postes RTE du département du Puy-de-Dôme, 4 
+auraient une probable capacité de raccordement (Figure 11). Sur les 4 sites techniquement adaptés, aucun ne serait situé 
+
+Page 11 sur 43 
+
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+dans  une  zone  à  fort  enjeu  environnemental  ou  naturel  (Figure  12).  Sur  ces  mêmes  4  sites  restants,  qui  seraient 
+techniquement adaptés et sans enjeux naturels identifiés, 1 serait au cœur d’une zone urbaine (Figure 13). 
+
+Il ressort de cette analyse que sur les 33 postes électriques RTE du département, seuls 3 présentent les caractéristiques 
+recherchées. Ces derniers sont : 
+
+a)  Poste  électrique  de  Volvic,  situé  sur  la  commune  d’Enval :  Site  relativement  contraint  en  termes  de  foncier 
+(habitations assez proches) et qui pourrait être concerné par des questions de remontée de nappe et de zone humide ; 
+b)  Poste électrique de Malintrat situé sur la commune de Malintrat : Harmony Energy développe une centrale de 
+
+stockage d’énergie sur ce poste RTE ;  
+
+c)  Poste  électrique  de  Lignat,  situé  sur  la  commune  de  Saint-Georges-sur-Allier :  Poste  RTE  sur  lequel  se 
+
+raccorderait la centrale de stockage d’énergie du présent dossier. 
+
+Figure 11 : Carte de capacité de raccordement 
+
+Page 12 sur 43 
+
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Figure 12 : Carte des enjeux environnementaux 
+
+Figure 13 : Carte des habitations 
+
+Page 13 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Il est à noter que les grands postes électriques sont pour la plupart situés dans les milieux agricoles, et plus rarement en 
+zone urbaine.  Pour ceux situés en zones urbaines, il y a rarement une surface de terrain disponible  et suffisamment 
+éloigné des habitations à proximité du poste. Ceci est le cas pour les autres opportunités explorées dans les environs de 
+la métropole clermontoise, où les postes n’ont soit pas la capacité d’accueil, soit pas de terrain disponible à proximité. 
+
+Le  choix  de  s’orienter  vers  des  postes  RTE  ayant  une  capacité  d’accueil  disponibles  aujourd’hui  repose  sur  plusieurs 
+critères : 
+
+•  Valoriser le réseau existant : 
+
+RTE dispose d’un réseau national très bien maillé afin de transporter l’électricité sur tout l’hexagone ainsi que 
+vers  nos  voisins  européens.  Ce  réseau  existe  depuis  de  nombreuses  années  et  certains  postes  sont 
+surdimensionnés  par  rapport  aux  besoins  d’énergies  qui  évoluent  avec  les  usages  (changement  de 
+consommation domestique, changements industriels, etc). Il apparait donc que quelques postes RTE en France 
+disposent depuis plus de 10 ans des capacités de raccordement non utilisées et encore disponibles. 
+Limiter l’impact environnemental des centrales de stockage d’énergie : 
+Au-delà de la consommation de  terre agricole  imputant à la  surface directe d’une centrale  de stockage, son 
+raccordement et les travaux liés sont aussi à considérer. Lorsque la liaison entre le poste RTE et la centrale de 
+stockage est de courte distance, elle peut se faire en souterrain. En revanche, une centrale de stockage d’énergie 
+situé dans un lieu nécessitant un renforcement du réseau exigera la création de liaisons HTB depuis un poste 
+RTE  et  cela  se  fait  forcément  en  aérien  puisque  la  distance  dépasse  les  limites  techniques  des  liaisons 
+souterraines. L’impact au sol d’une création de ligne HTB entres postes RTE est conséquente. 
+Par exemple, pour le poste de Lignat, s’il avait fallu renforcer le réseau ceci aurait demandé la création d’une 
+nouvelle ligne 225kV aérienne. Pour simplifier l’exemple ; la liaison 225kV la plus courte depuis le poste de Lignat 
+est la « LIAISON 225kV N0 1 LIGNAT-RULHAT », elle court sur une distance de 10km en aérien, est constituée de 
+23 pylônes, généralement de 27m de haut, et tous les espaces boisés qui sont traversés par cette dernière sont 
+défrichés selon une bande au sol de 30m de large. Les préconisations RTE peuvent même aller jusque 50m de 
+largeur5 pour la bande au sol. Si le poste de Lignat n’avait pas une capacité disponible existante, et en prenant 
+l’hypothèse  que  la  capacité  était  disponible  sur  le  poste  de  Rulhat  (ce  qui  n’est  pas  réellement  le  cas)  pour 
+illustrer cet exemple, il aurait fallu à minima  doubler cette liaison de 10km  en 225kV. Pour ce faire, environ 
+300 000m² (30mx10km) de  terres agricoles, forestières et/ou urbanisées  seraient potentiellement  impactées 
+par la création des 23 pylones suplémentaires ainsi que leurs emprises au sol qui seraient majoritairement sur 
+des  terres  agricoles,  près  de  35 000m²  de  foret  devraient  aussi  defrichés  (estimation  depuis  le  service 
+GéoPortail). L’opération aurait également un fort impact visuel. 
+Fournir un service compétitif à RTE : 
+Bien entendu, un raccordement sans renforcement est synonyme d’un coût de raccordement abordable et d’une 
+solution technique « rapidement » disponible. Ceci bénéficiera à RTE et donc aux consommateurs puisque la 
+centrale de stockage d’énergie pourra fournir au plus vite un service financièrement plus compétitif. 
+
+• 
+
+• 
+
+Le site du projet « La Tutelle » est ainsi identifié comme étant l’un des seuls du département avec les caractéristiques 
+propices au développement d’un projet de stockage d’énergie multi-mégawatt. Harmony Energy poursuit en parallèle le 
+développement d’un deuxième projet dans le Puy-de-Dôme, « Ronzières », situé sur la commune de Malintrat. 
+
+5 Guide pratique « Modalités de gestion de la végétation sous et aux abords des lignes électriques » item 12 
+
+Page 14 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+3.2.  Situation du projet 
+
+Le projet de stockage d’énergie de La Tutelle se situe sur la commune de Saint-Georges-sur-Allier, dans le département 
+du Puy-de-Dôme. Il est situé sur un terrain agricole à quelques dizaines de mètres du poste électrique de RTE nommé 
+Lignat. 
+
+Figure 14: Situation du projet 
+
+Le  terrain  a  été  choisi  pour  le  développement  d’une  centrale  de  stockage  d’énergie  par  batteries  pour  trois  raisons 
+principales : 
+
+• 
+• 
+
+• 
+
+La proximité avec le poste électrique de Lignat, facilitant le raccordement au réseau national ; 
+La  facilité  d’intégration  du  projet  dans  le  paysage  (proche  du  poste  électrique,  éloigné  des  routes  et  des 
+habitations, et avec une haie paysagère), et donc l’absence de nuisance pour la population locale ou les sites 
+patrimoniaux ; 
+L’absence  d’enjeux  environnementaux  importants.  Le  projet  est  éloigné  de  toute  zone  inventoriée  pour  la 
+biodiversité, en dehors de périmètres de captage d’eau et pas diagnostiqué comme étant de caractère humide. 
+
+3.3.  Conception du projet 
+
+En amont de la demande d’étude au cas par cas, Harmony Energy a fait réaliser par RTE une étude exploratoire pour 
+connaître la capacité de raccordement du poste de Lignat. 
+
+Suite à cette analyse, Harmony Energy a reçu la confirmation qu’en vue des informations actuellement disponibles, un 
+projet  de  100MW  /  200MWh  pourrait  être  raccordé  au  réseau  électrique  sans  renforcement  des  infrastructures 
+publiques. Il est à noter que cette capacité de raccordement pourrait être emenée à évoluer avec la confirmation d’autres 
+projets de stockage ou de production d’énergie dans le secteur. Auquel cas la puissance du projet de La Tutelle pourrait 
+être revue à la baisse. 
+
+Un projet de 100MW / 200 MWh permettrait de stocker l’équivalent en consommation moyenne d’environ 60% de la 
+population du département du Puy-de-Dôme pendant 2 heures6. 
+
+6 Sur la base d’une consommation moyenne de 0,5 kWh/personne pour une période de 2h et une population du Puy-de-Dôme de 660 000 habitants 
+
+Page 15 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+L’Annexe 1 au présent document présente ainsi l’implantation du projet, constituée des élements suivants : 
+
+1.  54 unités de stockage contenant les batteries ; 
+2.  27 postes de transformation BT / HTA pour amener la tension à 33kV ; 
+3.  Un poste électrique avec un transformateur de tension 63kV / 33kV ; 
+4.  Un local de maintenance ; 
+5.  Une citerne incendie (120 m2) ; 
+6.  Une piste d’accès, avec parking de stationnement et plateforme DECI ; 
+7.  Une zone de stockage de terre végétale excavée (2070 m2 / 3,5m de haut) ; 
+8.  Une zone de gestion des eaux de ruissellement (380 m2) ; 
+9.  Clôture et haie paysagère. 
+
+La disposition des unités de stockage est étudiée pour faciliter l’installation et la maintenance du système, avec des aires 
+de grutage et des pistes d’accès. Toute les distances réglementaires d’éloignement seront respectées, conformement à 
+la déclaration ICPE du projet. 
+
+Si nécessaire, des mesures pouront être prises pour gérer les eaux, par exemple avec un système de bac de retention des 
+eaux.  Ces  mesures  seront  définies  dans  le  cadre  des  procédures  de  Loi  sur  l’Eau  par  le  bureau  d’études  spécialisé 
+missionné par Harmony Energy. 
+
+3.4.  Raccordement du projet 
+
+La réalisation du raccordement du projet de La Tutelle au poste électrique RTE est à la charge de RTE. Harmony Energy a 
+engagé  le  processus  de  raccordement  auprès  de  RTE,  processus  qui  débute  par  une  phase  d’études  techniques, 
+environnementales, administratives et  financières. Ces études, actuellement en cours, dimensionneront les câbles et 
+détermineront le tracé exact de câbles, entre autres. Néanmoins, le projet étant situé à proximité immédiate du poste 
+électrique (~40m), le raccordement n’aura pas à traverser d’autres terrains, évitant ainsi tout impact sur le milieu naturel. 
+
+Le plan en Annexe 3 présente le raccordement anticipé du projet, depuis le poste électrique RTE de Lignat. 
+
+Concernant le raccordement, Harmony Energy adopte une approche ERC dans son approche de propsection de sites et 
+de développement de centrales de stockage (voir aussi chapitre 4.1). Les impacts sont Évités dans la mesure du possible, 
+et autrement Réduites, en possitionnant le projet au plus proche du poste électrique de Lignat et en suivant la route 
+existant depuis ce poste. En dernier recours, des mesures de Compensation d’impact sur les milieux seront adoptées si 
+elles s’avèrent nécessaires, ce qui est peu probable dans le cas du projet présenté. 
+
+Page 16 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+4. Analyse des risques 
+
+4.1.  Méthodologie d’analyse des risques 
+
+Harmony  Energy  intègre  des  mesures  ERC  (éviter,  réduire,  compenser) 7 dans  toutes  les  étapes  d’identification,  de 
+développement, de construction et de démantèlement de ses projets de stockage d’énergie. Harmony Energy s’appuie 
+sur la séquence ERC présente dans le code de l’environnement et au cœur du processus de l’évaluation environnementale 
+des projets. 
+
+La séquence ERC traduit une hiérarchie de mesures, en priorisant l’évitement d’impacts, puis la réduction des impacts 
+inévitables, et en dernier recours, la compensation des impacts s’ils ne peuvent être ni évités ni réduits suffisamment. 
+
+Figure 15: Méthodologie ERC adoptée par Harmony Energy 
+
+L’approche ERC est adoptée dès la phase de prospection de nouveaux sites (voir chapitre 3.1), afin d’identifier ceux qui 
+permettent d’éviter les impacts les plus importants et de prioriser ceux qui présentent des opportunités de réduction 
+d’impact. 
+
+Afin d’appliquer la méthodologie ERC au projet identifié, il est d’abord impératif de réaliser une analyse exhaustive des 
+risques présents et des impacts potentiels engendrés par ces risques. 
+
+4.2.  Revue générale des risques présents 
+
+Le site du projet de La Tutelle présente très peu de risques, qu’ils soient de nature naturelle, environnementale, sanitaire 
+ou technologique. Le tableau ci-dessous présente une analyse préliminaire des risques considérés par Harmony Energy, 
+en identifiant ceux qui méritent une analyse plus détaillée. 
+
+7 www.notre-environnement.gouv.fr/themes/evaluation/article/eviter-reduire-compenser-erc-en-quoi-consiste-cette-demarche 
+
+Page 17 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Harmony Energy se tiendra à l’écoute des autorités pour analyser plus en détails tout potentiel risque soulevé lors de la 
+préparation et l’instruction des authorisations. 
+
+Type de risque 
+
+Risque identifié 
+
+Qualification 
+du risque ? 
+
+Commentaire 
+
+Naturel 
+
+Argile 
+
+Faible 
+
+Avalanches 
+
+Cavités 
+
+Nul 
+
+Nul 
+
+Inondation 
+
+Faible 
+
+Mouvement de 
+terrain 
+
+Faible 
+
+Radon 
+
+Nul 
+
+Séisme 
+
+Faible 
+
+Impact biodiversité  Biodiversité sur site 
+
+Faible 
+
+Biodiversité à 
+proximité du site 
+
+Faible 
+
+Le site a une exposition forte au risque gonflement d’argile. 
+Une étude géotechnique sera réalisée en amont des travaux 
+pour dimensionner les fondations en fonction de la nature 
+du sol. 
+
+Il  est  à  noter  que  les  fondations  nécessaires  pour  les 
+équipements  d'un  projet  de  stockage  sont  généralement 
+relativement compactes et peu profondes. 
+
+Zone non-concernée par les avalanches. 
+
+Pas de risque de cavités identifié sur la zone. 
+
+Le site est situé à la limite d’une zone identifiée comme étant 
+inondations  de  cave  et 
+potentiellement  sujette  aux 
+remontées de nappe, avec un risque faible. 
+
+Le  site  n’est  pas  dans  une  zone  identifiée  à  risque 
+d’inondation. 
+
+Il n’y a pas de PPRi sur la zone du projet. 
+
+Un  risque  de  mouvements  de  terrain  est  identifié  sur  la 
+commune de Saint-Georges-sur-Allier. Le terrain étant sans 
+pente  importante,  le  projet  ne  sera  pas  concerné  par  ce 
+risque. 
+
+Le potentiel radon associé à la commune de Saint-Georges-
+sur-Allier est de catégorie 1. 
+
+Une  centrale  de  stockage  n’est  pas  occupée  de  manière 
+permanente. Le projet n’est donc pas concerné par ce risque. 
+
+Le projet se situe dans une zone à risque modéré de séisme 
+(niveau  3),  ce  qui  ne  représente  pas  un  risque  significatif 
+pour le projet. 
+
+La séismicité du site est à prendre en compte lors de la phase 
+d’ingénierie détaillée. 
+
+Le  projet  s’implante  sur  un  terrain  agricole  sans  enjeu  de 
+biodiversité répertorié. 
+
+Le pré-diagnostic faune / flore / zone humide réalisé par le 
+bureau  d’études  spécialisé,  Eco-Stratégie  n’a  pas  identifié 
+d’enjeu biodiversité (voir chapitre 4.3). 
+
+Le site est éloigné (>1km) de toutes zones répertoriées pour 
+la  protection  de  la  nature  (ZNIEFF,  Natura  2000,  parc 
+régional,…) et ne crée pas de nuisance ni de danger pour les 
+espèces pouvant passer proche du site (voir chapitre 4.3). 
+
+Milieu 
+potentiellement 
+humide 
+
+Faible 
+
+Le  bureau  d’études  missionné  par  Harmony  Energy  a  pu 
+confirmer le caractère non-humide du site (selon les critères 
+végétation et sol). 
+
+Ce sujet est détaillé en chapitre 4.4. 
+
+Page 18 sur 43 
+
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Type de risque 
+
+Risque identifié 
+
+Qualification 
+du risque ? 
+
+Commentaire 
+
+Risque de nuisance 
+/ sanitaire 
+
+Paysager 
+
+Faible 
+
+Sonore 
+
+Faible 
+
+Odeur 
+
+Eau portable 
+
+Risque industriel / 
+technologique 
+
+Risques industriels 
+des site tiers et de 
+servitudes 
+
+Nul 
+
+Nul 
+
+Faible 
+
+Le  projet  se  situerait  à  proximité  immédiate  du  poste 
+électrique,  à  environ  200m  de  la  route  départementale 
+D212.  Une  entreprise  de  terrassement  et  une  station 
+d’épuration se situent à proximité, entre le poste électrique 
+et la route. 
+
+Il y a très peu de visibilité directe sur l’aire d’étude du projet, 
+et la plantation d’une haie paysagère, telle que prévue par 
+Harmony  Energy,  masquerait  quasi 
+les 
+équipements  de  la  centrale,  qui  sont  limités  à  des  faibles 
+hauteurs. 
+
+totalement 
+
+Le  projet  se  situe  dans  le  rayon  de  protection  au titre  des 
+abords de monuments historiques du Château de Fontanay8, 
+monument  inscrit  en  octobre  2007  en  catégorie  AC1.  Le 
+château est notamment protégé pour la technique du décor, 
+la menuiserie et sculpture. 
+
+Une colline et un bois sépare le projet du château, et de ce 
+fait  il  n’y  pas  de  visibilité  directe  entre  les  deux,  ni  de  co-
+visibilité depuis d’autres lieux au sol. 
+
+Chapitre 4.5 détaille le risque d’impact pour le patrimoine et 
+la population locale. 
+
+La ventilation des unités de batterie émet un léger bruit tout 
+en  respectant  les  limites  réglementaires.  Des  mesures 
+supplémentaires 
+des 
+équipements,…) peuvent être envisagées si nécessaire, par 
+exemple  dans  le  cas  d’habitations  très  proches  dans  un 
+environnement sonore autrement faible. 
+
+anti-bruit, 
+
+bridage 
+
+(murs 
+
+Les  bâtiments  les  plus  proches  considérés  pour  l’étude 
+sonore sont situés à environ 100m au nord et à 400m au sud 
+du projet. 
+
+Ce risque est détaillé davantage en chapitre 4.6. 
+
+En  phase  opérationnelle,  la  centrale  n’émet  aucun  gaz  ou 
+produit susceptible de générer une nuisance olfactive. 
+
+La centrale se situe hors de tout périmètre de captage d’eau 
+potable. 
+
+Il  n’existe  pas  de  site  industriel  à  proximité  du  site  et  la 
+commune  n’a  pas  de  Plan  de  Prévention  des  Risques 
+Technologiques (PPRT) en vigueur. 
+
+Une Déclaration de Travaux (DT) a été effectué pour le projet 
+en janvier 2023, afin de recenser les servitudes existantes sur 
+immédiate.  Aucune 
+le  site  du  projet  et  à  proximité 
+canalisation ou servitude  impactante pour le projet n’a été 
+inventoriée. Les réseaux proches du site figurent sur le plan 
+du projet en Annexe 1. 
+
+8 www.pop.culture.gouv.fr/notice/merimee/PA63000089 
+
+Page 19 sur 43 
+
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Type de risque 
+
+Risque identifié 
+
+Risque 
+technologique du 
+projet de stockage 
+
+Qualification 
+du risque ? 
+
+Faible 
+
+Commentaire 
+
+La  centrale  de  stockage  présente  un  risque  minime 
+d'incendie en tant qu’installation électrique, mais l’usage de 
+très 
+technologie 
+avec 
+batteries 
+significativement ce risque. 
+
+LFP  diminue 
+
+la 
+
+Les accès seront sécurisés pour éviter tout risque d’infraction 
+et d’électrocution par un tiers. Le site sera clôturé et protégé 
+par vidéo surveillance. 
+
+Le risque intrusion est présenté en chapitre 4.7 et le risque 
+incendie est détaillé en chapitre 4.8. 
+
+4.3.  Biodiversité 
+
+Le  projet  est  situé  sur  un  terrain  agricole  et  il  est  éloigné  de  toutes  zones  répertoriées  comme  ayant  des  enjeux 
+biodiversitaires (ZNIEFF, Natura 2000, parc régional,…). 
+
+Harmony  Energy  a  missionné  le  bureau  d’études  Eco-Stratégie  pour  réaliser  un  diagnostic  environnemental  afin 
+d’apprécier les potentialités écologiques. Le rapport de cette étude est joint en Annexe 2. 
+
+Selon l’inventaire effectué par Eco-Stratégie, « Du fait de la pauvreté des habitats présents et de la faible potentialité 
+écologique, l’enjeu potentiel attribué à la terre cultivée est très faible. » 
+
+Figure 16: Situation du projet vis-à-vis des zones naturelles 
+
+Page 20 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+4.4.  Milieu potentiellement humide 
+
+Comme indiqué sur le plan ci-dessous (Figure 17), une partie du projet se situe dans une zone répertoriée comme ayant 
+une « probabilité forte  » ou « probabilité  très forte » d’être potentiellement  humide, selon  la cartographie  de l’INRA 
+d’Orléans  (US  InfoSol)  et  d’AGROCAMPUS  OUEST  à  Rennes  (UMR  SAS)  mandatée  par  le  Ministère  de  l’Écologie,  du 
+Développement Durable et de l’Energie. 
+
+Figure 17: Situation du projet vis-à-vis du potentiel humide (http://geowww.agrocampus-ouest.fr) 
+
+Au vu de ce risque, Harmony Energy a missionné le bureau d’études Eco-Stratégie pour caracteriser la nature humide du 
+site. Le rapport d’ Eco-Stratégie se trouve en Annexe 2. 
+
+L’analyse de la végétation présente sur site et les douze sondages effectués, appliquant les modalités de la loi n°2019-
+773 du 24 juillet 2019 (analyse basée sur les critères pédologique et / ou végétation), ont pu confirmer l’absence de zone 
+humide sur toute la parcelle sur laquelle est situé le projet. 
+
+Figure 18: Localisation des sondages pédologiques 
+
+Page 21 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+4.5.  Patrimoine et population locale 
+
+La centrale de stockage d’énergie n’aura quasiment aucune interaction avec l’extérieur. En effet, la centrale sera pilotée 
+à distance et ne sera que rarement visitée pour des activités de maintenance. En phase d’exploitation, elle n’est déficitaire 
+ou excédentaire en aucun matériau, les seuls flux étant l’électricité qui transite à travers les batteries et les équipements 
+électriques. 
+
+Le terrain jouxte le poste électrique de Lignat, au sud de route départementale D212. Une entreprise de terrassement et 
+une station d’épuration se situent à proximité immédiate.  
+
+Il  y  a  très  peu  de  visibilité  directe  sur  l’aire  d’étude  du  projet,  et  la  plantation  d’une  haie  paysagère,  telle  que  prévue  par 
+Harmony Energy, masquerait quasi totalement les équipements de la centrale, qui sont limités à des faibles hauteurs. 
+
+Le terrain est en dehors de zones urbanisées, mais au sein du périmètre de protection du Château de Fontanay9, monument 
+inscrit en octobre 2007 en catégorie AC1. Le château est notamment protégé pour la technique du décor, la menuiserie et 
+sculpture. 
+
+Une colline et un bois sépare le projet du château, et de ce fait il n’y pas de visibilité directe entre les deux, ni de co-visibilité 
+depuis d’autres lieux au sol. 
+
+Harmony Energy envisage la plantation d’une haie autour de la centrale, longeant la clôture. Le choix de l’emplacement précis 
+de  la  haie,  sa hauteur,  et  les  espèces  d’arbres  constituant  cette haie  pourront  être  adaptés  en  fonction  des  demandes  des 
+autorités et des préconisations du bureau d’étude environnementale. 
+
+Protection au titre des abords de 
+monuments historiques : « Église 
+Saint-Agathe » 
+
+Zone de présomption de 
+prescription archéologique 
+
+Protection au titre des abords de 
+monuments historiques : « Église 
+Saint-Georges » 
+
+Le projet 
+
+Protection au titre des abords de 
+monuments historiques : 
+« Château de Fontanay » 
+
+Figure 19: Situation du projet vis-à-vis de l’atlas des patrimoines 
+
+Afin d’évaluer l’impact visuel de la centrale, Harmony Energy a missionné un architecte pour modéliser la centrale dans 
+son environnement en trois dimensions. Certains photomontages réalisées par Yann Bay Architectes sont présentés ci-
+dessous, illustrant l’absence de nuisance importante liée à l’impact visuel. Le carnet de perspectives est joint en Annexe 
+6. Harmony Energy propose d’effectuer de nouvelles images depuis d’autres points de vue, à la demande des autorités. 
+
+9 www.pop.culture.gouv.fr/notice/merimee/PA63000089 
+
+Page 22 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Vue D 
+
+Vue C 
+
+Vue A 
+
+Vue B 
+
+Figure 20: Carte de localisation des points de vue des photomontages 
+
+Figure 21: Photomontage depuis l’entrée du site, côté sud-ouest du projet (vue A) 
+
+Page 23 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Figure 22: Perspective 3D aérienne du projet, depuis l’ouest du site (vue A) 
+
+Figure 23: Perspective 3D aérienne du projet, depuis l’est du site (vue B) 
+
+Page 24 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Projet 
+
+Figure 24: Photomontage depuis la route départementale D212, au nord du projet (vue C) 
+
+Projet 
+
+Figure 25: Insertion lointaine depuis la route départementale D212, au nord-est du projet (vue D) 
+
+4.6.  Impact sonore 
+
+Le cadre reglémentaire concernant l’impact sonore du projet est fixé par l’Arrêté du 23 janvier 199710 relatif à la limitation 
+des bruits générés dans l’environnement par les Installations Classées pour la Protection de l’Environnement. Le projet 
+doit respecter les limites fixées par arrêté préfectoral, qui définissent pour chacune des périodes de la journée (diurne et 
+nocturne), les niveaux de bruit à ne pas dépasser en limite de propriété du site ainsi que les niveaux sonores en Zone à 
+
+10 www.legifrance.gouv.fr/loda/id/LEGITEXT000005623125 
+
+Page 25 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Émergence Réglementée (ZER), fixés par l’Arrête du 23 janvier 199711. Ce dernier fixe aussi une limite de durée pour les 
+bruits de tonalité marquée, pour les installations concernées. 
+
+L’impact sonore d’un projet de stockage d’énergie est déterminé par : 
+
+- 
+- 
+- 
+- 
+
+- 
+
+Les équipements utilisés (et les émissions sonores associées) et leurs hauteurs par rapport au sol ; 
+Les profils d’utilisation des équipements (niveaux de ventiliation, plages horaires, durées) ; 
+La distance aux habitations ou autres ZER ; 
+L’environnement dans lequel se situe le projet, qui caractérise la propogation sonore (y compris la direction du 
+vent) et le bruit résiduel (autres sources de bruit, industrielles ou naturelles) ; 
+Les mesures éventuellement mises en place pour contrôler les émissions sonores : 
+
+o  Bridage des ventilateurs 
+o 
+o  Atténuation de la propogation sonore par l’installation de barrières 
+
+Limitation du nombre de cycles 
+
+Dans  la  mesure  du  possible,  Harmony  Energy  évite  les  impacts  sonores  directement  par  le  biais  de  sa  méthode  de 
+prospection, qui consiste à prioriser les sites qui ne sont pas proches d’habitations (voir 3.1). Tout potentiel impact est 
+ensuite réduit en privilégeant des équipements de faibles emissions sonores. En cas d’habitation très proche, il y a aussi 
+la possibilité d’adapter l’utilisation des équipements (par exemple, limitations de charge/décharge par journées de fortes 
+températures) et/ou d’installer des barrières anti-bruit autour des équipements les plus bruyants. 
+
+En accord avec l’ARS et la DDT, les ZERs les plus proches qui ont fait l’objet d’étude acoustique pour le projet de La Tutelle 
+sont : 
+
+- 
+- 
+
+Le bâtiment/cabane faisant office de gîte au sein de la ferme à chèvres, à environ 100 au Nord. 
+Le Château de Fontany à environ 400m au Sud. 
+
+Chèvrerie 
+
+Station 
+d’épuration 
+
+Entreprise de 
+terrassement 
+
+D212 
+(source de bruit) 
+
+Poste électrique 
+(source de bruit) 
+
+~100m 
+
+~400m 
+
+Figure 26: Plan indiquant la distance aux ZER les plus proches du projet 
+
+Les équipments du projet qui sont sources de bruit sont essentiellement les unités de batteries et les transformateurs, 
+tous à l’air libre. C’est le système de refroidissement par ventilation dont sont équipés les unités de batteries qui produit 
+les émissions sonores les plus importantes. Les émissions associées sont dépendantes du fournisseur de batteries et la 
+
+11 www.legifrance.gouv.fr/loda/id/LEGITEXT000005623125  
+
+Page 26 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+typologie d’utilisation du système (plages horaires et durées  de charge/décharge) et de  la température ambiante (la 
+nécessité ou non de déclencher les systèmes de refroidissement). La plupart des fournisseurs proposent des équipements 
+qui permettent le respect des niveaux sonores réglementaires en limite de site, sans besoin de mesures complémentaires 
+(bridage,  barrières  anti-bruits).  Les  émissions  associées  aux  autres  équipements,  y  compris  les  transformateurs, sont 
+nettement inférieures. 
+
+Pour le projet de La Tutelle, Harmony Energy a mandaté le bureau d’études spécialisé, ORFEA Acoustique, afin de réaliser 
+une étude acoustique prévisionnelle qui consiste à caractériser la situation sonore actuelle par la mesure du bruit au 
+niveau de la zone d’étude et à simuler l’impact acoustique des installations projetées sur l’environnement. Le rapport 
+complet présentant cette étude est annexé en Annexe 5. 
+
+ORFEA Acoustique a pu réaliser des mesures acoustiques d’état initial sur la zone d’étude le 6 et 7 juillet 2023 et ainsi 
+simuler l’environnment sonore futur, intégrant tous les caractéristiques du projet et de l’environnement. 
+
+L’analyse acoustique a été basée sur le cadre habituel de l’arrête du 23 janvier 1997, ainsi que les éléments du projet 
+d’arrêté12 ICPE futur. 
+
+L’étude a permis de conclure au respect des seuils réglementaires applicables en « Limite de Propriété » et en « Zones 
+à Émergence Réglementée », de jour comme de nuit. 
+
+Les équipements les plus proche de la ZER au nord sont le transformateur Haute-Tension. Ce dernier sera entouré d’un 
+mur  pare  feux  qui  servira  aussi  à  atenuer  la  propogation  des  emissions  sonores.  Il  n’est  pas  nécessaire  d’envisager 
+d’autres mesures de contrôle du type barrière, cependant en cas de dépassement des seuils constaté pendant la phase 
+d’opération, il est toujours possible de contrôler les émissions via le bridage des ventilateurs et la limitation du nombre 
+de cycles de charge/décharge des batteries. 
+
+Il est aussi à noter que le choix des équipments est suscéptible d’évoluer et que les profils précis d’utilisation des batteries 
+n’ont pas encore été déterminés pour le projet. Les fournisseurs d’équipements prévoient de commercialiser dans les 
+prochaines années des nouvelles technologies avec des émissions sonores moindres que celles modélisées dans cette 
+étude. Dans tous les cas, le choix des fournisseurs / équipements se fera aussi en fonction de leurs profils d’emissions 
+sonores, avec un engagement de respecter le cadre modélisé dans l’étude acoutique pré-construction, et respecter les 
+seuils réglementaires en phase opérationelle. 
+
+Par  ailleurs,  l’étude  effectuée  modélise  un  cas  particulier,  c’est-à-dire  lorsque  tous  les  équipements  sont  en  plein 
+fonctionnement, avec  les ventilateurs tous opérationnels et les transformateurs  en pleine  puissance. En réalité cette 
+situation  arrive  très  rarement,  uniquement  en  cas  de  fortes  temperatures  combinées  avec  un  fort  cyclage  de 
+charge/décharge des batteries. En réalité, les cycles élevés de charge/décharge seront très probablement le plus fréquent 
+en hiver, lorsque  les températures seront plus basses, et par conséquent les ventilateurs seront moins sollicités à ce 
+moment-là. 
+
+Harmony  Energy  propose  de  mettre  à  jour  l’étude  acoustique  pour  prendre  compte  de  toute  évolution  du  projet  et 
+s’engage dans tous les cas à respecter le cadre réglementaire. 
+
+12 Projet d’arrêté relatif aux prescriptions générales applicables aux ateliers de charge d’accumulateurs stationnaires d’énergie situés en extérieur, mettant en œuvre des technologies 
+au lithium et soumis à déclaration sous la rubrique n°2925-2 de la nomenclature des ICPE. 
+
+Page 27 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+4.7.  Risque intrusion 
+
+Afin de se prémunir du risque d’intrusion et de dommages par malveillance, Harmony Energy mettra en place : 
+
+-  Une clôture tout le long du périmètre du projet, d’une hauteur d’environ 2,4 mètres ; 
+-  Un système d’entrée sécurisée avec identification des intervenants sur site. Au sein de l’enceinte du projet, des 
+accès spéciaux seront requis pour accéder à certains équipements composant le poste électrique haute tension ; 
+-  Un système de télésurveillance avec plusieurs caméras et des sytèmes d’alarmes pour identifier toute tentative 
+
+d’intrusion, ainsi que des canaux de communication avec les forces de l’ordre. 
+
+4.8.  Risque incendie 
+
+Depuis le début des années 2000, l’émergence des solutions de batteries lithium-ion pour la mobilité, les smartphones 
+et le secteur énergétique s’est accompagné, dans de rares occasions, de départ de feux par emballement thermique. 
+
+En fonction de la technologie en question, les causes techniques de l’emballement thermique peuvent être multiples, par 
+exemple : tension trop élevée, surcharge, surintensité, court-circuit interne à la cellule ou température trop élevée. 
+
+Depuis  la naissance de  projets de stockage d’énergie par batteries et consciente  du risque  incendie qui a pu toucher 
+certains  des  premiers  projets,  toute  la  filière  internationelle  a  travaillé  sur  sa  réduction  et  sa  maitrise.  Aujourd’hui 
+Harmony Energy considère qu’il maitrise le risque incendie et s’engage à le réduire à un minimum à travers les actions 
+suivantes : 
+
+- 
+
+Le choix d’une technologie de batterie pour laquelle le risque d’emballement thermique est jugé quasi nul (4.8.1) 
+; 
+Le respect des dernières normes les plus contraignantes (4.8.2) ; 
+
+- 
+-  Un système de surveillance et de prévention des incendies robuste et fiable (4.8.3) ; 
+-  Des mesures opérationnelles pour minimiser le risque de propagation d’un incendie (4.8.4). 
+
+Pour  les  projets  développés  sur  le  territoire  français,  Harmony  Energy  s’appuie  également  sur  les  conclusions  et  les 
+propositions du document publié en octobre 2022 par le Commissariat à l'Énergie Atomique et aux Énergies Alternatives 
+(CEA) : « Stockage stationnaire de l’énergie : risques et solutions envisageables »13. 
+
+Le  rapport  du  CEA  est  le  fruit  de  4  années  de  travail  effectuées  par  une  équipe  pluridisciplinaire  missionnée  par  la 
+Direction Générale  de la Sécurité Civile et de la Gestion des  Crises (DGSCGC). Le  rapport est destiné  aux services de 
+secours dans l’ensemble de leurs prérogatives (opération, prévention, formation) ainsi qu’aux professionnels de la filière. 
+Il inclut des retours d’expériences réels et des tests effectués sur différentes technologies, en identifiant les phénomènes 
+à risque et les moyens de les traiter par prévention et opération. 
+
+L’équipe pluridisciplinaire était missionnée par M. Alain THIRON pour la DGSCGC et elle était constituée de : 
+
+- 
+
+- 
+
+- 
+
+Personnels des SDIS73, SDIS38 et SDMIS (69), pour leurs apports opérationnels (VDIP) et d'analyse des risques 
+chimiques ; 
+
+Scientifiques-chercheurs issus des laboratoires CEA LITEN de l'INES et du centre de Grenoble, pour leur expertise 
+sur les batteries ainsi que des personnels de la Formation Locale de Sécurité du centre CEA de Grenoble ; 
+
+Experts issus des entreprises SNAM, Elektek, et ACCUWATT. 
+
+Selon les tests effectués, le rapport démontre notamment les faits suivants : 
+
+- 
+
+- 
+
+Le risque d’emballement thermique provient d’une utilisation des accumulateurs Li-ion qui va au-delà de leurs 
+conditions normales d’opération, que ce soient des agressions ; mécaniques, électriques ou thermiques ; 
+
+La chimie NMC, qui a une densité énergétique très élevée, atteint l’emballement thermique a des températures 
+plus basses que les cellules LFP, tout en libérant plus d’énergie. Les tests démontrent une augmentation plus 
+
+13 https://liten.cea.fr/cea-tech/liten/Pages/Medias/Actualites/Batteries/Risques-incendie-des-applications-de-stockage-batteries-dans-le-batiment.aspx  
+
+Page 28 sur 43 
+
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+rapide  et  brutale  (de  l’ordre  de  400°C)  pour  les  cellules  NMC,  versus  une  augmentation  moins  rapide  et 
+beaucoup moins marquée (de l’ordre de 100°C), pour les cellules en LFP ; 
+
+La première difficulté que rencontrent les services de secours réside dans l’incapacité à identifier, en amont, la 
+présence d’un système de stockage électrochimique de l’énergie ; 
+
+Le meilleur moyen d’extinction reste l’eau ; 
+
+La toxicité des fumées n’est pas supérieure à celle d’un incendie classique en milieu ouvert. 
+
+- 
+
+- 
+
+- 
+
+Figure 27: Bilan de l’analyse systémique des systèmes de stockage électrochimique de l’énergie (p.128 du rapport « Stockage stationnaire de 
+l’énergie : risques et solutions envisageables ») 
+
+S’appuyant sur les recommandations du rapport cité, Harmony Energy intègre les choix et les solutions listés ci-dessous, 
+et décrits en plus de détail dans les chapitres 4.8.1 à 4.8.4 : 
+
+- 
+
+Choix  d’un  Battery  Management  System  (BMS)  qui  surveille  la  santé  des  batteries,  afin  de  détecter  toute 
+anomalie qui pourrait engendrer un emballement thermique ; 
+
+-  Des  systèmes  de  détection  (fumées,  flames,  chaleur),  afin  de  pouvoir  implémenter  des  actions  rapides  et 
+précoces  sur  le  sinistre,  permettant  de  neutraliser  les  phénomènes  d’emballement  ou  du  moins  de  les 
+contraindre aux seules cellules concernées par le début de la dérive accidentelle ; 
+
+- 
+
+- 
+
+- 
+
+Choix de technologies et de solutions qui limitent toute propagation d’emballement d’une cellule à une cellule 
+voisine (isolation thermique) ; 
+
+Configuration  de  l’installation  dans  un  objectif  de  limiter  la  densité  énergétique  de  la  centrale  dans  son 
+ensemble,  ainsi  réduisant  à  un  minimum  absolu  tout  risque  d’emballement  entre  les  différentes  unités  de 
+stockage et limitant l’énergie totale dissipée lors d’un événement ; 
+
+Communication auprès des équipes SDIS sur la nature des batteries installées, les dispositifs préventifs installés 
+et  collaboration  en  amont  sur  la  conception  des  dispositions  protectrices  (accès,  citerne,  bornes),  afin  de 
+minimiser  tout  risque,  de  maximiser  les  systèmes  protecteurs  et  d’optimiser  toute  éventuelle  conduite 
+d’intervention sur site. 
+
+4.8.1.  Choix de la technologie LFP 
+
+Historiquement, les premiers projets de stockage utilisaient la technologie Nickel Manganèse Cobalt (NMC). Ce type de 
+batterie, que l’on retrouve  aussi  dans la quasi-totalité des  véhicules électriques, présente l’avantage d’avoir  l'un des 
+meilleurs  rapports  énergie/poids  (ou  densité  énergétique),  un  critère  important  dans  les  applications  de  mobilité. 
+
+Page 29 sur 43 
+
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Cependant  les  batteries  NMC  présente  une  faible  stabilité  thermique,  ce  qui  les  rend  sujettes  à  des  emballements 
+thermiques et donc à des risques de départ de feu. 
+
+Depuis quelques années, les principaux fournisseurs de batteries pour du stockage stationnaire se sont tournées vers la 
+technologie  Lithium  Fer Phosphate (LFP – LiFePo4), qui présente  un risque quasiment nul d’emballement  thermique, 
+contrairement aux autres chimies utilisées et notamment les batteries NMC. 
+
+Comme l’indique une étude du laboratoire Sandia National Laboratories14, pour une même quantité d’énergie stockée, à 
+250°C une cellule LFP peut voir sa température monter de 1,5°C/min contre 100°C/min pour une cellule NMC. 
+
+Figure 28: Comparaison du risque d’emballement thermique pour différentes chimies de batteries 
+
+Cette meilleure resistance à l’emballement thermique pour la chimie LFP limite à la fois la probabilité d'un départ de feu 
+d’une  cellule  et  la  possibilité  de  propagation  du  feu  d’une  cellule  vers  une  cellule  voisine.  De  plus,  la  faible  pente 
+d'emballement  thermique  (°C/mn)  donne  un  temps  bien  plus  favorable  au  BMS  pour  réagir  à  une  hausse  de  la 
+température et couper le système. 
+
+Le fabricant Tesla, l'un des leaders parmis les fournisseurs de batteries stationnaires modialement recconus, a ainsi réalisé 
+des  tests  comparatifs  (s'appuyant  sur  la  méthode  adoptée  internationnelement,  UL  9540A)  afin  de  comparer  sa 
+génération  précédente  de  batteries  en  technologie  NMC  avec  sa  nouvelle  génération  basée  sur  la  chimie  LFP.  En 
+surchauffant  volontairement  certaines  cellules  au  sein  d’une  armoire  à  batterie,  les  tests  n’ont  pas  pu  provoquer 
+d’emballement thermique au dela de la cellule voisine avec la solution LFP : 
+
+14 www.osti.gov/servlets/purl/1336278  
+
+Page 30 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Batterie NMC (chimie « classique ») 
+
+Batterie LFP (nouvelle chimie) 
+
+Le test conduit à l’emballement thermique de toutes les cellules. 
+
+Le test conduit à l'emballement thermique d'une cellule 
+supplémentaire uniquement. 
+
+Le feu a consumé toute l’armoire batterie, flammes visibles 
+depuis l’extérieur. 
+
+Pas de traces substantielles de flammes, pas de flammes visibles 
+depuis l’extérieur. 
+
+Pas de propagation du feu aux armoires adjacentes. 
+L'extinction manuelle des incendies (tuyaux d'arrosage) n'est pas nécessaire pour arrêter la propagation des incendies d'armoire à 
+armoire. 
+Aucun risque d'explosion n'a été observé. 
+Aucun écoulement de matière visible après le test. 
+
+Figure 29: Comparaison des résultats de tests UL 9540A entre le Megapack 1 (batteries NMC) et le Megapack 2 (batteries LFP) 
+
+4.8.2.  Respect des normes 
+
+La  gestion  du  risque  incendie  est  traité  à  travers  plusieurs  normes  ou  tests  de  qualité  que  Harmony  Energy  et  son 
+fournisseur de batteries s’engagent à respecter. 
+
+Ces normes spécifiques aux projets de stockage par batteries ont été éditées au cours des dernières années et bénéficient 
+du retour d’expériences des premiers projets : 
+
+Norme / 
+Standard 
+
+Titre 
+
+Date de 
+publication 
+
+Commentaires 
+
+NF EN IEC 
+60529 
+
+Degrés de protection procurés par les 
+enveloppes (Code IP). 
+
+Décembre 2007 
+
+NF EN IEC 
+62619 
+
+NF EN IEC 
+62933-5-2 
+
+Accumulateurs alcalins et autres 
+accumulateurs à électrolyte non 
+acide - Exigences de sécurité pour les 
+accumulateurs au lithium pour 
+utilisation dans des applications 
+industrielles. 
+
+Systèmes de stockage de l'énergie 
+électrique (EES) - Partie 5-2 : 
+exigences de sécurité pour les 
+systèmes EES intégrés dans un réseau 
+- Systèmes électrochimiques. 
+
+Juin 2017 
+
+Juillet 2020 
+
+UL 9540A 
+
+Méthode de test, évaluation de 
+l’emballement thermique et 
+propagation incendie pour les 
+systèmes de stockage d’énergie par 
+batterie. 
+
+Novembre 2016 
+
+Le respect de cette norme traduit avant tout la 
+capacité de l’enceinte à empêcher 
+l’environnement extérieur d’interférer avec les 
+batteries et/ou les équipements de supervision / 
+protection. 
+
+Cette norme spécifie les exigences et les essais 
+pour le fonctionnement en toute sécurité des 
+éléments et des batteries pour des installations de 
+stockage au lithium dans des applications 
+industrielles, y compris les applications 
+stationnaires. 
+
+Cette norme décrit principalement les aspects liés 
+à la sécurité des personnes et, le cas échéant, les 
+questions de sécurité associées à l'environnement 
+et aux êtres vivants pour les systèmes de stockage 
+de l'énergie raccordés à un réseau qui utilisent un 
+sous-système électrochimique de stockage. 
+
+Il s’agit d’une méthode de test qui caractérise les 
+risques d'incendie et de déflagration liés à 
+l'emballement thermique et à sa propagation dans 
+les systèmes de stockage d'énergie. La norme 
+fournit une évaluation systématique de 
+l'emballement thermique et de sa propagation 
+dans les systèmes de stockage d'énergie au niveau 
+des cellules, des modules, des unités et des 
+installations. 
+
+Figure 30: Normes spécifiques au stockage d’énergie par batteries 
+
+Page 31 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+4.8.3.  Système de contrôle et de protection 
+
+Le Battery Management System (BMS) constitue le cœur du système de supervision et de contrôle au niveau de chaque 
+cellule de batterie. 
+
+Le BMS contrôle en temps réel : 
+
+• 
+• 
+• 
+
+La température du liquide de refroidissement ; 
+La température au niveau de chaque cellule ; 
+La tension et le courant au niveau de chaque cellule, de chaque module, ainsi qu’à la sortie en courant alternatif 
+de chaque onduleur. 
+
+En cas de dépassement de seuils sur ces données transmises en temps réel, le BMS met les batteries en sécurité, avec 
+une mise hors tension, une ventilation et l’enclenchement du refroidissement de secours. 
+
+Des  fusibles  sont  disposés  au  niveau  de  chaque  module  de  batterie  et  de  chaque  répartiteur  DC.  Les  protections 
+électriques sont redondantes, un disjoncteur est positionné en sortie AC de chaque onduleur, et une protection de terre 
+est mise en place. 
+
+4.8.4.  En cas de départ de feu 
+
+Malgré le très faible risque de départ et de propagation de feu avec la technologie choisie, les mesures de prévention, et 
+le  respect  des  normes  en  vigueur,  le  système  de  stockage  proposé  par  Harmony  Energy  prend  aussi  en  compte  des 
+mesures de protection supplémentaires : 
+
+- 
+
+Au niveau de la conception des équipements : 
+
+o  Chaque cellule batterie est située dans une enceinte hermétique qui limite fortement la propagation 
+
+du feu ; 
+
+o  Un système de  ventilation est utilisé pour  évacuer les gaz et limiter les risques de déflagration (par 
+
+dégagement de dihydrogène notamment). 
+
+- 
+
+Au niveau de la conception de la centrale : 
+
+o 
+
+Les unités de batterie sont positionnées par lot de 6, et chaque lot de 6 est espacé de 10m. Ceci afin de 
+faciliter l'accès et d’éviter la propagation d’un feu sur l’ensemble des unités de batterie ; 
+
+o  Tout équipement potentiellement inflammable est éloigné de 10m de toute végétation extérieure afin 
+
+de confiner tout éventuel feu au sein de la centrale ; 
+
+o  Une citerne incendie avec un réservoir de 120m3 est installée pour le  SDIS. L’arrosage avec de l’eau 
+s’est  avéré  être  un  moyen  efficace  pour  éteindre  un  feu  avec  des  batteries  LFP,  mais  l’eau  peut 
+également être utilisée de manière préventive pour protéger les autres équipements et éviter toute 
+propagation d’incendie à l’extérieur du site. 
+
+Toutes les dispositions en cas d’incendie seront discutées avec le SDIS 63 dans le cadre du dossier de permis de construire. 
+Il sera notamment question de clarifier avec eux : 
+
+- 
+- 
+- 
+
+Les accès aux site ; 
+Les procédures en cas de départ de feu ; 
+Le dimensionnement de la bâche à eau (le volume de 120m3 étant un standard qui peut être revu). 
+
+Page 32 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+5. Cycle de vie du projet 
+
+5.1.  Processus de développement 
+
+Le développement du projet de La Tutelle suit un parcours classique au cours duquel les démarches administratives sont 
+conduites en parallèle des démarches de raccordement RTE.  
+
+Harmony Energy attache une haute importance à la consultation de l’ensemble des parties prenantes  tout au long du 
+processus de développement de ces projets. Notamment : 
+
+- 
+
+- 
+
+À partir du moment où un propriétaire présente un intérêt pour louer son terrain, Harmony Energy rencontre 
+les équipes de la mairie  concernée pour  présenter le projet, répondre à leurs questions, prendre en compte 
+leurs remarques/points d’attention, et vérifier qu’il n’y a pas d’opposition de la part de la commune à implanter 
+un projet sur le terrain sélectionné ; 
+Lorsque le besoin ou non de réaliser une étude d’impact a été confirmé, Harmony Energy prend contact avec 
+toutes les entités impliquées dans les démarches administratives pour présenter le projet et prendre en compte 
+leurs  propositions  pour  améliorer  les  dossiers  soumis  lors  des  procédures  de  Loi  sur  l’Eau  et  de  permis  de 
+construire, notamment sur les aspects de sécurité et d’intégration dans l’environnement. Selon les souhaits de 
+la mairie, des réunions, des campagnes d’informations et des consultations peuvent être réalisées auprès des 
+résidents locaux. 
+
+Ces étapes de consultation permettent, dans la mesure où une étude d’impact officielle ne serait pas jugée nécessaire, 
+d’aborder certains sujets avec  les  interlocuteurs spécialisés dans leurs domaines (DREAL, SDIS, CDPENAF, DDT) et de 
+s’assurer au moment du dépôt de permis de construire d’avoir couvert et traité l’ensemble des potentiels problématiques 
+identifiés. 
+
+La figure ci-dessous présente une version simplifiée de la démarche de développement dans le cas où une étude d’impact 
+n’est pas requise. 
+
+Figure 31: Processus de développement d’un projet de stockage par batteries 
+
+Page 33 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+5.2.  Activités sur site 
+
+5.2.1.  Activités en phase de construction 
+
+La phase de chantier à proprement parlé (avant les tests de mise en service) durera environ douze mois, au cours desquels 
+seront réalisées les activités suivantes : 
+
+Installation de la base vie du chantier ; 
+
+• 
+•  Décapage et préparation du sol par travail de pelles mécaniques et camions bennes ; 
+• 
+•  Réalisation  des  fondations  pour 
+
+Installation de la clôture, du portail et des équipements CCTV ; 
+
+l'ensemble  des  équipements  (profondeur  selon  retour  des  études 
+
+géotechniques) ; 
+
+•  Gravillonnage type tout venant pour constituer le sol de la centrale, compacté sur les zones de route d'accès et 
+
+les aires de grutage ; 
+
+•  Dépose de la citerne 120m³ et une borne d’incendie, du conteneur/préfabriqué de stockage de matériel, les 
+
+• 
+
+• 
+• 
+
+deux sur sol compacté ; 
+Levage et pose des unités de batteries (qui arrivent préassemblées), des transformateurs HTA à l’aide d’une grue 
+mobile ; 
+Pose des câbles dans les tranchées, travail à la mini pelle ou trancheuse ; 
+Construction du bâtiment de local technique (<150m² au sol), levage et installation des équipements extérieurs 
+du poste HTB, sectionneur, transformateur 63kV/33kV. 
+
+Ces activités demanderont un accès quotidien permanant au site et plusieurs allers et venues par jour. La nuisance en 
+termes de passage d’engins se concentrera principalement sur les quelques semaines où les unités de batteries seront 
+livrées sur site. 
+
+5.2.1. Activités en phase d’opération 
+
+Au cours de la phase d’exploitation, la centrale est pilotée à distance grâce à un logiciel qui permet d’envoyer les ordres 
+de charge ou de décharge aux batteries, mais qui surveille également que la centrale fonctionne normalement. Il s’agit 
+du  système  Energy  Management  System  (EMS).  Un  protocole  d’alarme  et  d’astreinte  est  utilisé  pour  identifier  des 
+potentiels défauts 24h/24 et 7j/7 et qui peut, soit activer une commande à distance, soit envoyer rapidement une équipe 
+sur place pour traiter toute éventuelle anomalie. Hormis ces mesures correctives éventuelles, la centrale ne sera visitée 
+que quelques jours par an pour effectuer la maintenance préventive des équipements et pour l’entretien des espaces. 
+Pour ces activités, les équipes d’exploitation se déplaceront avec des véhicules utilitaires standards. 
+
+5.2.1. Activités de démantèlement 
+
+La durée de vie des batteries électriques est déterminée par leur utilisation en termes de cycles de charge/décharge, 
+typiquement de l’ordre d’environ 15 ans. Néanmoins, la plupart des autres équipements (containers, poste électrique, 
+transformateur MT/BT) ont des durées de vie beaucoup plus longues, de l’ordre de 30 à 40 ans. 
+
+À  la  fin  de  vie  des  batteries  électriques  (y  compris  les  onduleurs),  Harmony  Energy  privilégie  de  renouveler  ces 
+équipements  à  plus  faible  durée  de  vie  pour  une  nouvelle  période  d’environ  15  ans,  afin  d’ensuite  prévoir  un 
+démantèlement complet de la centrale à la fin de vie des  équipements à plus long  durée de  vie (transformateurs et 
+containers), soit au bout d’environ 30 ans. 
+
+Les durées indiquées ici sont à adapter en fonction des services rendus par les batteries et donc du fonctionnement des 
+équipements au quotidien (notamment le nombre de cycles de charge/décharge), du suivi BMS (Battery Management 
+System), et des inspections qui seront réalisées annuellement. 
+
+Le renouvellement des batteries fait effectivement sens : 
+
+• 
+• 
+
+d’un point de vue écologique : ne pas démanteler et mettre aux rebus des équipements encore fonctionnels ; 
+d’un point de vue économique : maximiser la rentabilité des investissements dans les infrastructures à longue 
+durée de vie ; 
+
+Page 34 sur 43 
+
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+• 
+
+pour répondre aux enjeux énergétiques nationaux : le besoin en stockage d’énergie sera, d’après les scenarii 
+RTE, encore plus important dans 30 ans qu’aujourd’hui. 
+
+Dans le respect des normes en vigueur, Harmony Energy s’engage à recycler les équipements démantelés, notamment 
+les batteries électriques dont le taux de recyclabilité est aujourd'hui évalué à 95%. 
+
+Au moment du démantèlement complet de la centrale, Harmony Energy s’engage à remettre le terrain dans son état 
+d’origine : 
+
+- 
+- 
+- 
+
+Tous les équipements seront retirés du site et traités dans le respect des normes en vigueur ; 
+Les fondations seront retirées du sol et apportés aux sites de traitement adéquats ; 
+Les terres arables qui auront été excavées lors de la construction et, dans la mesure du possible, conservées sur 
+site (voir la zone dédiée « stockage terre végétale, du plan du projet en Annexe 1), seront remises en terre. 
+
+Conformément à la réglementation en vigueur sur la cessation d’activité des ICPE, Harmony Energy fera appel à un bureau 
+d’étude certifié pour attester de la mise en sécurité du site et de sa réhabilitation une fois la phase de démantèlement 
+accomplie. 
+
+Page 35 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+6. Bilan carbone 
+Le chapitre 2.1 du présent document présente l’intérêt de la solution de stockage d’énergie par batteries. En remplaçant 
+des services autrement fournis par des énergies fossiles, il permet de réduire l’empreinte carbone du système électrique 
+tout en apportant une meilleure maîtrise des coûts et de la capacité d’approvisionnement. 
+
+Un projet de stockage d’énergie va ainsi : 
+
+- 
+- 
+
+Être source d’émissions lors de sa phase de développement, de construction, d’opération et de démantèlement ; 
+Éviter des émissions liées aux sources d’énergies carbonées en les substituant sur les services d’équilibrage et 
+de stabilité du réseau. 
+
+Figure 32: Schéma du bilan carbone d’un projet de stockage d’énergie par batteries (non à l’échelle) 
+
+Harmony Energy a été accompagnée par le bureau d’études spécialisée, Gaïana, afin de réaliser un bilan carbone pour 
+une centrale de stockage d’énergie de 100MW. Les résultats de cette étude sont présentés ci-dessous et le rapport est 
+joint en Annexe 4 : 
+
+Phase projet 
+
+Bilan carbone 
+
+Commentaires 
+
+Développement 
+
+<1 Teq.CO2 
+
+Principalement les déplacements de prestataires 
+
+Équipements 
+
+30 873 Teq.CO2 
+
+La fabrication des équipements 
+
+Construction 
+
+1 829 Teq.CO2 
+
+Émissions associées aux activités de chantier 
+
+Changement sol 
+
+264 Teq.CO2 
+
+Émissions associées au changement d’usage du sol 
+
+Exploitation 
+
+8 Teq.CO2 
+
+Émissions associées aux activités de maintenance 
+
+Démantèlement 
+
+1 571 Teq.CO2 
+
+Émissions associées au démantèlement de la centrale 
+
+Total émissions générées : 34 546 Teq.CO2 
+
+Figure 33: Émissions générées par la centrale 
+
+Page 36 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Energie 
+
+Bilan carbone 
+
+Commentaires 
+
+Soutirage d’énergie depuis le réseau RTE 
+
+44 892 tonnes de CO2eq. 
+
+Soutirage depuis le mix français 
+
+Injection d’énergie sur le réseau RTE 
+
+443 080 tonnes de CO2eq. 
+
+À la place de centrales à gaz 
+
+Émissions évitées : 398 188 Teq.CO2 
+
+Figure 34: Émissions évitées par la centrale 
+
+La  somme  des  émissions générées  par  les  phases  de  développement,  construction,  opération  et  démantèlement  du 
+projet a été estimée à 34 546 tonnes équivalent CO2. Les émissions évitées par la substitution du gaz par le stockage par 
+batterie, moins le bilan carbone associé à l’énergie soutirée pour charger les batteries, sont estimées à 398 188 tonnes 
+équivalent CO2. 
+
+Les calculs sont approximatifs et doivent se baser sur un certain nombre d’hypothèses. Cependant, on peut considérer 
+que le projet éviterait une production d’émissions équivalent à environ 11,5 fois celles qu’il va générer par sa conception, 
+construction  et  opération.  Formulé  autrement,  et  hypothèses  moyennées  sur  toute  la  durée  de  vie,  la  centrale  va 
+compenser  ses  propres  émissions  après  environ  41  mois  d’utilisation.  À  partir  de  la  42ème  mois  et  jusqu’à  son 
+démantèlement, la centrale aura un bénéfice net en termes d’impact carbone. 
+
+Figure 35: Résumé du bilan carbone d’une centrale de stockage par batterie 100MW/200MWh 
+
+Page 37 sur 43 
+
+-500 000-400 000-300 000-200 000-100 0000100 000DéveloppementÉquipementsConstructionChangement solExploitationDémantèlementEnergie soutiréeSubstitutiond'injection fossileTeq.CO2Émissions par activité 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Annexe 1 Plan du projet 
+Layout_0d.pdf 
+
+Page 38 sur 43 
+
+ 
+ 
+ 
+ 
+143
+
+t
+e
+l
+e
+C
+
+LA TUTELLE
+
+DECI
+
+LEGENDE:
+
+Aire de grutage
+
+10m*10m
+
+Citerne incendie (120m3)
+
+12m*9m
+
+Plateforme DECI
+
+8m*4m
+
+Local maintenance
+
+12.5m*2.5m (ISO 40ft)
+
+Transformateur HTA & Batterie
+(2 unités)
+
+Racks batterie, onduleurs, système de supervision
+
+Poste HTB
+
+A
+
+B
+
+C
+
+N
+
+C
+
+B
+
+A
+
+c
+
+b
+
+a
+
+N
+
+C
+
+B
+
+A
+
+n
+
+c
+
+ab
+
+1 Transformateur HTB, local HTA, local controle commande et
+supervision, local RTE
+
+Piste d'accès
+
+4m/6m de largeur
+
+Zone d'éloignement
+
+5m des bordures de parcelles pour tout bâtit (ICPE)
+
+Cloture
+
+Hauteur 2.4m centrale, 3m Poste HTB
+
+Réseaux souterrains a créer
+
+Ligne 63kV, Fibre Optique telecom
+
+Haie paysagère
+
+2m de large
+
+Canalisations existantes
+
+Eaux usées (souterrain)
+
+Bassin et noue de collecte
+
+Espace réservé à la gestion et la collecte des eaux pluviales
+
+Talus de terre
+
+Stockage de la terres végétale décapé sur site
+
+Surface prise à bail
+
+16 170m²
+
+20 m²
+
+20 m²
+
+5
+1
+
+Stockage terre végétale
+2070m²; 3,5m de haut; pente 2/3
+
+A
+
+B
+
+C
+
+a
+
+b
+
+c
+
+n
+
+A
+
+B
+
+C
+
+N
+
+N
+
+A
+
+a
+
+b
+
+c
+
+B
+
+C
+
+DECI
+
+Gestion des eaux
+de ruissellement
+
+380m²
+
+21
+
+reto
+urn
+Aire d
+e
+m
+e
+nt
+
+e
+
+reto
+urn
+Aire d
+e
+m
+e
+nt
+
+e
+
+11
+
+FONTANAY
+
+HARMONY ENERGY
+
+N OT APPR O VED
+
+La Tutelle 100MW
+Implantation préliminaire
+
+A3
+
+0
+
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Annexe 2 Évaluation de l'état environnemental du site 
+PRE-DIAGNOSTIC  FAUNE/FLORE/ZONES  HUMIDES  PROJET  STOCKAGE  D’ÉNERGIE  LA  TUTELLE  –  SAINT-GEORGES-SUR-
+ALLIER (63) 
+A23025-R230509-v1, Eco-Stratégie, 09/05/2023 
+
+Page 39 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Immobilière Européenne des Mousquetaires 
+
+HARMONY ENERGY France 
+
+297 RTE DE L'ISLE SUR SORGUE 
+
+84800 LAGNES 
+
+PRE-DIAGNOSTIC FAUNE/FLORE/ZONES HUMIDES  
+PROJET STOCKAGE D’ENERGIE 
+LA TUTELLE – SAINT-GEORGES-SUR-ALLIER (63) 
+
+FEVRIER 2023 
+
+DEPARTEMENT DU PUY DE DOME (63) 
+
+COMMUNE DE SAINT-GEORGES-SUR-ALLIER 
+
+Ingénieurs conseils en aménagement durable du territoire 
+
+42 boulevard Antonio Vivaldi 
+
+Tél. 04 77 92 71 47 / contact@eco-strategie.fr  
+
+42 000 SAINT-ETIENNE 
+
+www.eco-strategie.fr 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ECO-STRATEGIE 
+
+Immobilière Européenne des Mousquetaires 
+
+Maître d’ouvrage : Harmony Energy France 
+
+Bureau d’études : ECO-STRATEGIE 
+
+N° version 
+
+Date 
+
+Auteur 
+
+Contrôle qualité 
+
+A23025-R230509-v1 
+
+09/05/2023 
+
+Baptiste GARDE 
+
+François BOURGEOT 
+
+Le présent dossier est basé sur nos observations de terrain, la bibliographie, notre retour d’expérience 
+en aménagement du territoire et les informations fournies par le porteur de projet. 
+
+Il a pour objet d’assister, en toute objectivité, le maître d’ouvrage dans la définition de son projet. 
+
+Le contenu de ce rapport ne pourra pas être utilisé par un tiers en tant que document contractuel. Il ne 
+peut être utilisé de façon partielle, en isolant telle ou telle partie de son contenu. 
+
+Le présent rapport est protégé par la législation sur le droit d'auteur et sur la propriété intellectuelle. 
+Aucune publication, mention ou reproduction, même partielle, du rapport et de son contenu ne pourra 
+être faite sans accord écrit préalable d’ECO-STRATEGIE et du maître d’ouvrage. 
+
+Les prises de vue présentées ont été réalisées par ECO-STRATEGIE. 
+
+Les fonds de carte sont issus des cartes IGN, de Google Earth et de Géoportail. Les photographies prises 
+sur le site sont précisées.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+SOMMAIRE 
+
+Harmony Energy France 
+
+Sommaire..................................................................................................................... 3 
+
+I-  Aire d’étude et méthodologie ..................................................................................... 4 
+
+I.1. 
+
+Localisation de l’aire d’étude ............................................................................... 4 
+
+I.2.  Méthodologie utilisée ......................................................................................... 5 
+
+I.2.1 
+
+I.2.2 
+
+Périmètre étudié et conditions de la prospection ............................................. 5 
+
+Caractérisation des zones humides ................................................................ 6 
+
+II- 
+
+Résultats ............................................................................................................. 9 
+
+II.1.  Occupation du sol et potentialités écologiques associées ........................................ 9 
+
+II.1.1  Habitat naturel ........................................................................................... 9 
+
+II.1.2 
+
+Flore .......................................................................................................... 9 
+
+II.1.3 
+
+Faune ...................................................................................................... 10 
+
+II.1.4 
+
+Synthèse .................................................................................................. 11 
+
+II.2.  Zones humides ............................................................................................... 11 
+
+II.2.1 
+
+Critère de végétation ................................................................................. 11 
+
+II.2.2 
+
+Critère de pédologie .................................................................................. 11 
+
+II.3.  Continuités écologiques .................................................................................... 13 
+
+III- 
+
+Préconisations .................................................................................................... 14 
+
+II.1.  Haies arbustives .............................................................................................. 14 
+
+II.2.  Espèces végétales exotiques envahissantes ........................................................ 15 
+
+II.3.  Préservation des habitats existants .................................................................... 16 
+
+IV- 
+
+Conclusion ......................................................................................................... 17 
+
+I.  Tables des illustrations ........................................................................................... 18 
+
+II. 
+
+Annexes ............................................................................................................ 19 
+
+A23025–R230509-v1                                                                                                                         
+
+         page 3  
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Harmony Energy France 
+
+I- AIRE D’ETUDE ET METHODOLOGIE 
+
+I.1. 
+
+Localisation de l’aire d’étude 
+
+La commune de Saint-Georges-sur-Allier se trouve dans le département du Puy-de-Dôme, en 
+région Auvergne-Rhône-Alpes. Cette commune est située au cœur de la plaine de la Limagne, 
+sur  la  rive  est  de  l’Allier.  Située  à  environ  2  km  à  la  métropole  de  Clermont-Auvergne,  elle 
+s’inscrit dans une zone à dominance agricole, avec toutefois quelques petits boisements sur la 
+colline de Montfoulhoux et au niveau du lieu-dit Fontanay. 
+
+L’aire d’étude concerne le lieu-dit La Tutelle, au nord de la commune et à une distance d’environ 
+3,7 km des rives de l’Allier. Il s’agit d’une terre cultivée d’une superficie de 2,7 ha, le long de la 
+départementale D212. La Figure 1 localise la commune, l’aire d’étude ainsi que les prises de vue 
+présentées dans ce document. 
+
+Figure 1 – Localisation de l’aire d’étude 
+
+A23025–R230509-v1                                                                                                                         
+
+         page 4  
+
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Harmony Energy France 
+
+Photographie 1 – Vue générale sur l’aire d’étude depuis le sud (source : Eco-Stratégie - 2023) 
+
+I.2.  Méthodologie utilisée 
+
+I.2.1  Périmètre étudié et conditions de la prospection 
+
+La  prospection  de  terrain  a  été  réalisée  par  1  expert  naturaliste  sur  1  journée.  Elle  a  été 
+menée le 27/04/2022 par François Bourgeot (Chef de Projet Ecologie et Biodiversité) du cabinet 
+ECO-STRATEGIE.  
+
+L’aire d’étude a été parcourue à pied selon des transects aléatoires afin de caractériser les grands 
+types de milieux présents et de recenser la flore et la faune présentes. Cette visite ponctuelle a 
+surtout permis d’apprécier les potentialités écologiques de l’aire d’étude en termes d’accueil 
+pour la faune et la flore.  
+
+Les conditions de réalisation de la visite de terrain sont présentées dans le tableau ci-après : 
+
+Tableau 1 – Conditions de réalisation de la prospection de terrain 
+
+N° Passage 
+
+Date 
+
+Météo 
+
+Groupes étudiés 
+
+1 
+
+27/04/2023 
+
+Couvert 
+
+Flore, zones humides, 
+faune, potentialités 
+écologiques 
+
+A23025–R230509-v1                                                                                                                         
+
+         page 5  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Harmony Energy France 
+
+Les  conditions  météorologiques  de  la  visite  de  terrain  se  sont  avérées  favorables  à 
+l’observation  de  la  flore  et  de  la  faune  et  de  l’identification  des  potentialités 
+écologiques du site. 
+
+Dans la suite du document, les espèces de faune citées en italique sont celles considérées comme 
+potentiellement présentes sur l’aire d’étude (et/ou à proximité) car connues localement dans la 
+bibliographie et trouvant sur l’aire d’étude des milieux naturels favorables. 
+
+I.2.2  Caractérisation des zones humides 
+
+I.2.2.1.  Règlementation 
+
+Selon l’article L.211-1 du code de l’Environnement, les zones humides sont définies ainsi : ce 
+sont  « les  terrains  exploités  ou  non,  habituellement  inondés  ou  gorgés  d'eau  douce,  salée  ou 
+saumâtre de façon permanente ou temporaire ; la végétation, quand elle existe, y est dominée 
+par des plantes hygrophiles pendant au moins une partie de l'année ».  
+
+L’arrêté  du  24  juin  2008  modifié  par  l’arrêté  du  1er  octobre  2009  ainsi  que  la  circulaire 
+d’application du 18 janvier 2010 précisent les modalités de définition et de délimitation de  ces 
+zones humides. Selon l’arrêté du 1er octobre 2009, une zone est considérée comme humide si 
+elle présente l'un des critères suivants : 
+
+« 1° Les sols correspondent à un ou plusieurs types pédologiques, exclusivement parmi 
+ceux mentionnés dans la liste figurant à l'annexe 1.1 et identifiés selon la méthode figurant à 
+l'annexe 1.2 au présent arrêté. Pour les sols dont la morphologie correspond aux classes IV d et 
+V a, définis d'après les classes d'hydromorphie du groupe d'étude des problèmes de pédologie 
+appliquée (GEPPA, Groupe d'Etude pour les Problèmes de Pédologie Appliquée, 1981 ; modifié), 
+le préfet de région peut exclure l'une ou l'autre de ces classes et les types de sol associés pour 
+certaines communes, après avis du conseil scientifique régional du patrimoine naturel.  
+
+« 2° Sa végétation, si elle existe, est caractérisée par : 
+
+«  ―  soit  des  espèces  identifiées  et  quantifiées  selon  la  méthode  et  la  liste 
+d'espèces figurant à l'annexe 2.1 au présent arrêté complétée en tant que de besoin par 
+une liste additionnelle d'espèces arrêtées par le préfet de région sur proposition du conseil 
+scientifique  régional  du  patrimoine  naturel,  le  cas  échéant,  adaptée  par  territoire 
+biogéographique ; 
+
+«  ―  soit  des  communautés  d'espèces  végétales,  dénommées  "  habitats  ”, 
+caractéristiques de zones humides, identifiées selon la méthode et la liste correspondante 
+figurant à l'annexe 2.2 au présent arrêté. » 
+
+Enfin, d’après le « Guide d’identification et de délimitation des sols des zones humides » : 
+
+« L’observation  doit  se  faire  à  une  profondeur  supérieure  à  0,70  m  et  jusqu’à  
+1,20  m  si  possible.  La  présence  de  la  roche  mère  à  moindre  profondeur  ou  d’une 
+charge en cailloux trop élevée peut toutefois limiter la profondeur de prospection. 
+
+Les  périodes  sèches  ne  sont  pas  favorables  pour  une  observation  optimale  des 
+taches.  L’observation  peut  également  être  difficile  en  périodes  d’engorgements  du 
+fait de l’ennoyage des sondages ou fosses. Il est préférable d’effectuer les sondages 
+en fin d’hiver, début de printemps. » 
+
+La  Loi  n°2019-773  en  date  du  24  juillet  2019,  portant  création  de  l’Office  français  de  la 
+biodiversité et de la chasse, vient apporter une modification dans son article 23 à l’article L.211-
+1 du code de l’environnement portant sur la caractérisation des zones humides. Ainsi une zone 
+humide peut être déterminée par des critères pédologiques ou de végétation. 
+
+I.2.2.2.  Méthodologie 
+
+Lors de la visite de terrain, les deux critères ont été appliqués : 
+
+•  Critère végétation :  Une végétation  est caractérisée  comme humide lorsqu’au moins 
+
+50% de la flore présente dans l’habitat est caractéristique de zone humide.  
+A23025–R230509-v1                                                                                                                         
+
+         page 6  
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Harmony Energy France 
+
+•  Critère  sol :  L’analyse  pédologique  a  été  effectuée  à  l’aide  d’une  tarière,  permettant 
+d’effectuer  des  sondages  jusqu’à  120  cm  de  profondeur  maximum.  Chaque  sondage  a 
+ensuite été rattaché à une classe d’hydromorphie (GEPPA, 1981). 
+
+Figure 2 - Classes d’hydromorphie (GEPPA 1981, modifié) ; les classes Vb, Vc, Vd, VI, H 
+correspondent à des sols de zones humides, les classes IVd et Va et les types de sols 
+correspondants peuvent être exclus par le préfet de région après avis du conseil scientifique 
+régional du patrimoine naturel 
+
+La détermination du caractère humide du sol se base sur différents critères :  
+
+o  Traits rédoxiques :  
+
+Photographie 2 - Les traits rédoxiques correspondent aux traces orangées dans le sol  
+(source : Eco-Stratégie) 
+
+o  Traits réductiques :  
+
+Photographie 3 - Les traits réductiques correspondents à des traces gris-bleu dans le sol 
+(source : Eco-Stratégie) 
+
+A23025–R230509-v1                                                                                                                         
+
+         page 7  
+
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Harmony Energy France 
+
+Afin  de  délimiter  le  contour  des  éventuelles  zones  humides,  le  nombre  de  sondages  et  leur 
+localisation se basent sur : 
+
+•  La  topographie  du  site :  les  sondages  sont  effectués  à  différentes  altitudes,  en  partie 
+haute et en partie basse, pour explorer les sols minces et en particulier ceux plus profonds 
+à accumulation d’eau possible. Pour exemple : sur une pente continue, si deux sondages 
+effectués au point le plus haut  et au point le  plus bas sont tous les  deux humides, on 
+admet que l’intégralité de la pente l’est ; 
+
+•  Des sondages aléatoires : afin d’éliminer un biais d’observateur et ainsi d’étudier des sols 
+présents sous des végétations non humides. Ces sondages se basent sur la différence de 
+végétation observée. A l’échelle de l’aire d’étude, un sondage minimum est effectué par 
+type de végétation. 
+
+Au total, 10 sondages ont été effectués sur l’aire d’étude. Tous les sondages ont été bloqués 
+entre 40 et 65 cm de profondeur. 
+
+Figure 3 - Localisation des sondages pédologiques au sein de l'aire d'étude 
+
+A23025–R230509-v1                                                                                                                         
+
+         page 8  
+
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+II-  RESULTATS 
+
+Harmony Energy France 
+
+I.1.  Occupation du sol et potentialités écologiques 
+associées 
+
+L’aire d’étude accueille une terre cultivée sur l’intégralité du site étudié, soit 2,7 ha.  
+
+L’aire  d’étude  correspond  donc  à  un  milieu  ouvert.  Sa  périphérie  immédiate  comprend 
+toutefois quelques haies bocagères (en particulier sud-ouest) et des fossés couverts de ronces 
+et  de  buissons.  Les  parcelles  à  l’extérieur  de  l’aire  d’étude  comprennent  également  quelques 
+haies bocagères. Le boisement le plus proche se trouve à environ 200 m du site.  
+
+Au niveau de la flore, le cortège potentiel est extrêmement réduit, dû à l’utilisation du site  en 
+monoculture. La présence d’un milieu bocager à proximité du site, même réduit, est favorable à 
+la présence de plusieurs espèces animales sur le site, en particulier pour les oiseaux qui peuvent 
+l’utiliser  comme  site  d’alimentation,  mais  l’exploitation  agricole  réduit  toutefois  le  nombre 
+d’espèces potentiellement présentes sur l’ensemble de l’année. 
+
+La figure suivante présente l’occupation du sol de l’aire d’étude (Figure 4). 
+
+Ces occupations du sol  ne sont pas rattachées à des habitats naturels patrimoniaux (d’intérêt 
+communautaire,  déterminants  pour  l’inventaire  ZNIEFF,  à  enjeu  local  de  conservation …). 
+Toutefois,  ils  peuvent  présenter  un  intérêt  pour  la  flore  ou  pour  certains  groupes 
+faunistiques comme habitats d’espèces (cf. analyse présentée aux paragraphes suivants). 
+
+I.1.1  Habitat naturel 
+
+L’aire d’étude immédiate ne présente qu’un seul habitat : une monoculture de blé, ne présentant 
+pas de diversité floristique. 
+
+Le site est bordé de bandes herbeuses présentant davantage de diversité (voir Tableau 2). On 
+notera  également  la  présence  d’une  haie  bocagère  arborée  en  bordure  du  site  et  d’un  fossé 
+pouvant potentiellement être en eau à certaines périodes de l’année. 
+
+I.1.2  Flore 
+
+En l’état, aucune espèce de la flore protégée, d’intérêt communautaire, déterminante de ZNIEFF 
+ou inscrite sur une liste rouge n’a été recensée. L’essentiel de la diversité se concentre au niveau 
+des habitats en périphérie de l’aire d’étude. 
+
+Tableau 2 – Liste de la flore recensée à proximité de l’aire d’étude 
+
+Nom scientifique 
+
+Nom vernaculaire 
+
+PN 
+
+LR.N 
+
+Inv.N 
+
+PR 
+
+LR.R  ZNIEFF  Inv.R 
+
+Statuts France 
+
+Statuts Auvergne 
+
+Urtica dioica 
+
+Ortie dioïque 
+
+Dactylis glomerata 
+
+Dactyle aggloméré 
+
+Anisantha sterilis 
+
+Brome stérile 
+
+Lolium perenne 
+
+Ivraie vivace 
+
+Galium aparine 
+
+Gaillet 
+
+Betula pendula 
+
+Bouleau verruqueux 
+
+Prunus avium 
+
+Carpinus betulus 
+
+Merisier 
+
+Charme 
+
+Prunus spinosa 
+
+Prunellier 
+
+Crataegus monogyna 
+
+Aubépine à un style 
+
+Capsella bursa-pastoris  Capselle bourse-à-pasteur 
+
+Arctium minus 
+
+Bardane à petites têtes 
+
+Alopecurus pratensis 
+
+Vulpin des prés 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+A23025–R230509-v1                                                                                                                         
+
+         page 9  
+
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Hedera helix 
+
+Rubus sp. 
+
+Rosa canina 
+
+- 
+
+Ronce 
+
+Rosier des chiens 
+
+Fraxinus excelsior 
+
+Frêne élevé 
+
+Viscum album 
+
+Gui des feuillus 
+
+Stellaria holostea 
+
+Stellaire holostée 
+
+Plantago lanceolata 
+
+Plantain lancéolé 
+
+Harmony Energy France 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+LC 
+
+- 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+LC 
+
+- 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Légende : PN = Protection nationale / LR.N = Liste Rouge Nationale / Inv.N = Liste Espèce Exotique Envahissante (EEE) 
+Nationale / PR = Protection régionale / LR.R = Liste Rouge Régionale / Inv.R = Liste EEE régionale 
+
+Figure 4 – Habitats relevés au niveau de l’aire d’étude et en périphérie immédiate 
+
+I.1.3  Faune 
+
+Cette  monoculture  est  très  peu  favorable  à  la  nidification  des  oiseaux.  Elle  peut  en  revanche 
+constituer une zone d’alimentation/territoire de chasse pour des oiseaux de milieux ouverts 
+(dont  des  rapaces  tels  que  le  Faucon  crécerelle,  le  Milan  royal…)  mais  aussi  de  milieux 
+anthropiques  (hirondelles,  martinets…).  La  présence  d’un  milieu  bocager  à  proximité,  de 
+buissons et de zones d’herbes non-fauchées en périphérie est également favorable à la présence 
+de nombreux passereaux (en particulier les bruants) pour l’alimentation et la nidification. 
+
+Le site présente très peu d’intérêt pour l’entomofaune, même si des insectes (notamment 
+en lépidoptères et orthoptères) peuvent utiliser les plantes adventices présentes dans le champ 
+ou en périphérie. 
+
+Aucune zone humide ou point d’eau temporaire n’est présent sur de l’aire d’étude, et il est donc 
+improbable que le champ soit fréquenté par des amphibiens, cependant les fossés présents en 
+périphérie peuvent temporairement se remplir d’eau et peuvent donc attirer certaines espèces 
+
+A23025–R230509-v1                                                                                                                         
+
+         page 10  
+
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Harmony Energy France 
+
+pionnières  qui  pourraient  alors  occasionnellement  traverser  le  site.  Ces  fossés  présentent  un 
+enjeu vis-à-vis des amphibiens en jouant le rôle de corridor pour de nombreuses espèces.  
+
+Des  habitats  favorables  aux  reptiles  sont  présents  en  bordure  du  champ (haies  bocagères, 
+gravats), qui peut donc être utilisé comme zone de transit ou d’alimentation. 
+
+I.1.4  Synthèse 
+
+Du  fait  de  la  pauvreté  des  habitats  présents  et  de  la  faible  potentialité  écologique, 
+l’enjeu potentiel attribué à la terre cultivée est très faible. 
+
+I.2.  Zones humides 
+
+I.2.1  Critère de végétation 
+
+Aucune végétation ne présente un faciès humide sur l’aire d’étude.  
+
+I.2.2 Critère de pédologie 
+
+Les 10 sondages pédologiques réalisés sur l’aire d’étude (points de sondages et de relevés 
+n°1 à 10 sur la figure 3) ont permis de détecter un sol très argileux, sec et très compact. 
+
+Aucun sondage de sol ne révèle une classe d’hydromorphie typique d’une zone humide 
+sur le critère pédologique. 
+
+Tableau 3 – Synthèse des résultats de prospection des zones humides (critère pédologique) 
+
+Point 
+
+Milieu/Occupation 
+du sol 
+
+Sol 
+
+Forage 
+
+Classe  
+
+Zone 
+humide 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Champ cultivé 
+
+Limono-argileux 
+
+Absence de trace, bloqué 70 cm 
+
+Champ cultivé 
+
+Limono-argileux 
+
+Absence de trace, bloqué 70 cm 
+
+Champ cultivé 
+
+Limono-argileux 
+
+Absence de trace, bloqué 40 cm 
+
+Champ cultivé 
+
+Limono-argileux 
+
+Absence de trace, bloqué 50 cm 
+
+Champ cultivé 
+
+Limono-argileux 
+
+Absence de trace, bloqué 50 cm 
+
+Champ cultivé 
+
+Limono-argileux 
+
+Absence de trace, bloqué 50 cm 
+
+Champ cultivé 
+
+Limono-argileux 
+
+Absence de trace, bloqué 40 cm 
+
+Champ cultivé 
+
+Limono-argileux 
+
+Absence de trace, bloqué 60 cm 
+
+Champ cultivé 
+
+Limono-argileux 
+
+Absence de trace, bloqué 60 cm 
+
+10 
+
+Champ cultivé 
+
+Limono-argileux 
+
+Absence de trace, bloqué 50 cm 
+
+IIIa 
+
+IIIa 
+
+III 
+
+III 
+
+III 
+
+III 
+
+III 
+
+IIIa 
+
+IIIa 
+
+III 
+
+Non 
+
+Non 
+
+Non 
+
+Non 
+
+Non 
+
+Non 
+
+Non 
+
+Non 
+
+Non 
+
+Non 
+
+A23025–R230509-v1                                                                                                                         
+
+         page 11  
+
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Harmony Energy France 
+
+Figure 5 - Résultat de l'inventaire des zones humides au sein de l'aire d'étude 
+
+Le détail des résultats de l’inventaire des zones humides est présenté en Annexe 1. 
+
+Ainsi, l’aire d’étude n’accueille aucune zone humide. 
+
+A23025–R230509-v1                                                                                                                         
+
+         page 12  
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Harmony Energy France 
+
+I.3.  Continuités écologiques 
+
+L’aire  d’étude  ne comporte  pas  d’élément  de  la  Trame  Verte  et  Bleue (TVB)  à  l’échelle 
+régionale  comme  à  l’échelle  du  Grand  Clermont.  L’aire  d’étude  n’apparaît  pas  connectée  aux 
+éléments supports de la Trame Verte et Bleue aucun corridor écologique n’est présent au sein 
+de l’aire d’étude et ses abords. 
+
+Le secteur est largement dominé par l’activité agricole céréalière et les éléments supports des 
+déplacements de la faune sont globalement peu conservés (haies, alignements d’arbres, …). 
+
+L’enjeu potentiel attribué à l’aire d’étude est globalement faible pour la TVB.  
+
+A22092–R230208-v1                                                                                                                         page 13 
+
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+III-  PRECONISATIONS 
+
+Le  site  actuel  offre  peu  d’opportunités  pour  l’installation  de  la  biodiversité.  Il  bénéficierait 
+grandement  de  la  création  de  nouveaux  habitats  dans  les  espaces  disponibles  sur  le  site,  en 
+particulier : la plantation de haies arbustives et de prairies. 
+
+I.1.  Haies arbustives 
+
+Les haies arbustives fournissent des refuges pour la faune, des zones de reproduction potentielle 
+et  des  sources  de  nourriture  (essences  mellifères  ou  production  de  baies  en  été  et  automne) 
+pour  une  grande  diversité  d’espèces  (insectes,  mammifères,  oiseaux,  etc.).  Les  haies  jouent 
+également  un  rôle  de  fixation  du  sol,  un  filtre  contre  les  polluants  et  une  barrière  aux 
+ruissellements  et  au  vent.  Enfin,  elles  limitent  les  visibilités  directes  avec  les  parcelles 
+avoisinantes et donc l’impact paysager du projet. 
+
+Afin  d’augmenter  le  potentiel  écologique  du  site  une  haie  arborée  avec  strate  arbustive 
+dense  pourrait  donc  être  plantée  sur  le  pourtour  du  site,  avec  un  mélange  de  végétaux 
+d’essences locales (cf. Tableau 4). Afin de favoriser le retour de l’avifaune après travaux, des 
+essences  à  baies  seraient  à  privilégier.  Cela  compléterait  également  le  réseau  de  corridors 
+écologiques déjà présent autour du site et favorable à la petite faune terrestre (déplacements). 
+Le cortège végétal serait donc composé de : 
+
+•  Une haie arbustive à port libre (de 1 à 3 m de H) dont les plants seraient placés tous 
+
+les mètres environ, en quinconce sur une double rangée (Tableau 4) 
+
+•  D’arbres de haut jet en tige, plantés tous les 10 à 20 mètres environs, seuls ou par 
+
+groupe de 2 ou 3, afin de ne pas créer un alignement trop homogène 
+
+•  Choix des essences 
+
+Les espèces utilisées doivent être indigènes à la région. Une espèce indigène est une espèce qui 
+croît naturellement dans une zone donnée de la répartition globale de l’espèce et dont le matériel 
+génétique  s’est  adapté  à  cet  endroit  en  particulier.  Une  espèce  indigène  est  donc 
+particulièrement  adaptée  au  climat,  à  la  faune  et  à  la  flore  qui  l’entoure.  Planter  une  espèce 
+indigène permet de maintenir les équilibres écosystémiques de la région. 
+
+Les semences (ou individus) utilisées seront de provenance régionale (origine locale certifiée). 
+L’exploitant  favorisera  une  démarche  «  Végétal  locale  »  dans  le  cadre  de  ces  plantations.  Au 
+moins 50% de ces plants devront être issus de la filière Végétal Local.  
+
+Tableau 4 – Liste de la flore recensée au sein de l’aire d’étude 
+
+Essence 
+
+Taille 
+
+Forme  
+
+Strate arbustive 
+
+Sambucus nigra 
+Rosa canina 
+Prunus avium 
+Carpinus betulus 
+Corylus avellana 
+Crataegus monogyna 
+Cornus sanguinea 
+Euonymus europaeus 
+Prunus spinosa 
+
+1-3 m 
+1-3 m 
+1-3 m 
+1-3 m 
+1-3 m 
+1-3 m 
+1-3 m 
+1-3 m 
+1-3 m 
+
+Carpinus betulus 
+
+/ 
+
+Strate arborée 
+
+Libre 
+Libre 
+Libre 
+Libre 
+Libre 
+Libre 
+Libre 
+Libre 
+Libre 
+
+Tige 
+
+A22092–R230208-v1                                                                                                                                  page 14 
+
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+Quercus robur 
+Acer campestre 
+Fraxinus excelsior 
+Ulmus minor 
+
+/ 
+/ 
+/ 
+/ 
+
+Tige 
+Tige 
+Tige 
+Tige 
+
+•  Plantation des haies 
+
+La plantation doit avoir lieu en hiver (de fin novembre à fin mars), hors période de gel.  
+
+Si l’état du sol s’avère être de mauvaise qualité, un travail de préparation par apport de terre 
+végétale pourra être envisagé afin de favoriser une bonne reprise des  plantations. Un paillage 
+au pied des plants pourra également être envisagé pour limiter le développement d’adventices 
+concurrentes et limiter l’arrosage. 
+
+Pendant les deux premières années suivants la plantation,  les arrosages  doivent  être répétés 
+autant qu’il en sera nécessaire, et prolongés si cela est utile. Un plombage à la mise en terre 
+des plants permet aussi de garantir la bonne régénération du système racinaire. 
+
+•  Entretien des haies 
+
+Les haies peuvent être entretenues jusqu’à deux fois par an, selon la forme désirée. L’entretien 
+doit se faire en dehors de la période de sensibilité de la faune, située entre mars et aout, afin 
+d’éviter d’impacter des individus nicheurs en particulier. Une attention sera portée à :  
+
+•  Conserver la fonctionnalité de la haie en limitant les interventions de gestion : simple 
+taille de forme si besoin et absence d’abattage d’arbustes, afin de permettre aux haies 
+de s’étoffer ; 
+
+•  Eviter le développement des espèces exotiques invasives par l’emploi de méthodes 
+de lutte adaptées comme l’arrachage des individus et export en filière agrée, etc. ; 
+
+•  Une taille de formation manuelle est à prévoir après un an, puis tous les 2 ans. Les arbres 
+et arbustes hauts doivent être taillés pour obtenir des touffes (recépage) et les fourches 
+supprimées. Il est fortement conseillé de réaliser une taille manuelle plutôt qu’au 
+lamier ou  à  l’épareuse, ces derniers ne permettant pas une bonne régénération des 
+haies  et  étant  défavorables  à  la  biodiversité.  Les  déchets  végétaux  issus  de  la  coupe 
+peuvent être broyés et valorisés (filière bois déchiqueté par exemple) ou laissés sur place 
+(pour les plus fins) et broyés lors de l’entretien de la bande enherbée. 
+
+•  Une taille latérale est à privilégier afin d’étoffer la haie en largeur. Ce type de taille permet 
+de  contrôler  l’emprise  de  la  haie.  Une  taille  sommitale  pourra  être  prévue  lorsque  les 
+végétaux  deviennent  trop  importants  en  termes  de  hauteur.  Ce  type  de  taille  affaiblit 
+progressivement  la  haie  et  favorise  les  espèces  vigoureuses  au  détriment  des  espèces 
+plus fragiles (perte de biodiversité) ; il devra donc être occasionnel. 
+
+•  D’une manière générale, les différentes interventions liées à l’entretien du site doivent se 
+faire  à  l’automne  (octobre  et  novembre),  période  de  moindre  impact  pour  les 
+espèces  susceptibles  d’utiliser  le  site  (chasse,  recherche  de  nourriture  mais  aussi 
+nidification  ou  hibernation).  L’automne  étant  une  période  de  repos  végétatif,  il  est 
+important de réaliser une taille nette avec des outils propres afin de limiter les risques 
+d’infection des arbres et arbustes. En effet, la cicatrisation de ces plaies ne se fera qu’au 
+printemps suivant, période de reprise de la végétation, et elles devront donc passer l’hiver 
+sans développer d’infection.  
+
+I.2.  Espèces végétales exotiques envahissantes 
+
+Certaines  espèces  végétales  exotiques  se  développent  parfois  au  dépend  de  la  diversité  en 
+espèces locales. L’envahissement d’un site peu avoir lieu lors de l’achèvement des travaux si la 
+recolonisation du site par la végétation n’est pas encadrée. Ambrosia artemisiifolia par exemple 
+profite  alors  de  l’absence  de  végétation  pour  coloniser  le  milieu.  Certaines  espèces  invasives 
+peuvent aussi coloniser le site plus tard s’il n’est pas entretenu.  
+
+A22092–R230208-v1                                                                                                                                  page 15 
+
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+Pour lutter contre l’installation de plantes invasives sur le site, il est donc nécessaire de : 
+
+•  Eviter le transport de sols contaminés vers le site lors des travaux en ayant recours à des 
+
+mesures d’hygiène ; 
+
+•  Recouvrir  tous  les  espaces  de  terre  nue  dès  la  fin  des  travaux  avec  des  espèces 
+concurrentes  locales  d’herbacées  indigènes  recouvrantes,  afin  d’éviter  la 
+colonisation du site par des espèces pionnières envahissantes ; 
+
+•  Veiller  à  l’entretien  du  site  de  manière  à  empêcher  le  développement  de  plantes 
+
+invasives : 
+
+o  Arrachage manuel des plants avant le début de la floraison, sur plusieurs années 
+
+et en continu ; 
+
+o  Fauches rases répétées ; 
+o  Veiller  à  l’occupation  des  habitats  par  les  espèces  locales  sélectionnées,  et 
+
+replanter si nécessaire. 
+
+Ainsi, le site pourrait bénéficier de la plantation de prairies indigènes dans tous les espaces non 
+utilisés. Ceci est plus favorable à la biodiversité qu’un sol scellé tout en évitant le développement 
+d’espèces exotiques envahissantes. De plus, les prairies constituent un habitat très favorable à 
+l’entomofaune nécessaire à la pollinisation des plantes et à l’alimentation de nombreuses espèces 
+animales.    
+
+I.3.  Préservation des habitats existants 
+
+Certains habitats favorables à la biodiversité sont présents en bordure du site, en particulier un 
+fossé à caractère humide temporaire et une haie arborée. Ces habitats sont situés à l’extérieur 
+de la zone concernée par les travaux, et ne devraient donc pas être impactés. Pour s’en assurer, 
+l’emprise du chantier devra être clairement délimitée il conviendra de :  
+
+•  Ne pas y accéder avec les engins 
+•  Ne pas combler le fossé, éviter d’éventuels affaissements du terrain causés par le passage 
+
+des engins 
+
+•  Ne pas couper, tailler ou défricher la haie 
+
+Figure 6 – Habitats naturels à préserver : un fossé et une haie 
+
+A22092–R230208-v1                                                                                                                                  page 16 
+
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+IV-  CONCLUSION 
+
+Les enjeux écologiques potentiels sont jugés faibles pour l’ensemble de l’aire d’étude. De plus, 
+aucune zone humide n’a été inventoriée au sein de l’aire d’étude et cette dernière ne semble 
+pas présenter de continuité écologique avec de potentiels réservoirs de biodiversité avoisinants. 
+
+En  l’état  actuel,  le  site  semble  peu  favorable  à  la  présence  d’une  richesse  spécifique 
+importante que ce soit pour la faune et pour la flore. Cependant, il est bordé de haies, fossés 
+humides  et  ourlets  d’herbe  non-fauchés  qui  constituent  des  corridors  importants  pour  la 
+biodiversité et peuvent également servir pour l’alimentation et la reproduction de nombreuses 
+espèces. Des précautions devront donc être prises afin de limiter l’impact des travaux sur ces 
+habitats. 
+
+Le projet pourra bénéficier de la plantation de haies d’espèces indigènes en bordure du site. 
+De plus, des mesures devront être prises pendant et après les travaux pour éviter la colonisation 
+du  site  par  des  espèces  végétales  invasives.  Les  surfaces  non-utilisées  peuvent  être 
+transformées  en  prairies  qui  ont  aussi  l’avantage  de  favoriser  la  diversité  de  l’entomofaune, 
+ainsi que d’un grand nombre de taxons qui en dépendent. 
+
+A22092–R230208-v1                                                                                                                                  page 17 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+I.  TABLES DES ILLUSTRATIONS 
+
+•  Tableaux 
+
+Tableau 1 – Conditions de réalisation de la prospection de terrain ....................................... 5 
+
+Tableau 2 – Liste de la flore recensée au sein de l’aire d’étude ............................................ 9 
+
+Tableau 3 – Synthèse des résultats de prospection des zones humides (critère pédologique)  11 
+
+Tableau 4 – Liste de la flore recensée au sein de l’aire d’étude .......................................... 14 
+
+•  Figures 
+
+Figure 1 – Localisation de l’aire d’étude ............................................................................ 4 
+
+Figure  2  -  Classes  d’hydromorphie  (GEPPA  1981,  modifié) ;  les  classes  Vb,  Vc,  Vd,  VI,  H 
+correspondent  à  des  sols  de  zones  humides,  les  classes  IVd  et  Va  et  les  types  de  sols 
+correspondants  peuvent  être  exclus  par  le  préfet  de  région  après  avis  du  conseil  scientifique 
+régional du patrimoine naturel ........................................................................................ 7 
+
+Figure 3 - Localisation des sondages pédologiques au sein de l'aire d'étude .......................... 8 
+
+Figure 4 - Résultat de l'inventaire des zones humides au sein de l'aire d'étude .................... 12 
+
+Figure 5 – Habitats naturels à préserver : un fossé et une haie ......................................... 16 
+
+•  Photographies 
+
+Photographie 1 – Vue générale sur l’aire d’étude depuis le sud (source : Eco-Stratégie - 2023)
+ ................................................................................................................................... 5 
+
+Photographie 2 - Les traits rédoxiques correspondent aux traces orangées dans le sol  (source : 
+Eco-Stratégie) ............................................................................................................... 7 
+
+Photographie  3  -  Les  traits  réductiques  correspondents  à  des  traces  gris-bleu  dans  le  sol 
+(source : Eco-Stratégie) ................................................................................................. 7 
+
+A22092–R230208-v1                                                                                                                                  page 18 
+
+ 
+ 
+ECO-STRATEGIE 
+
+II.  ANNEXES 
+
+              Harmony Energy France 
+
+Annexe 1 – Résultats de l’inventaire des zones humides (critères de végétation et de sol) 
+
+A22092–R230208-v1                                                                                                                                  page 19 
+
+Numéro de sondage1DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesChamp cultivé sur sol limono-argileuxForage : Absence de trace, bloqué 70cmClasse d'hydromorphie : IIIa=> Sol non caractéristique de zone humide (critère : Sol)27/04/2023Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesChamp cultivé 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 20 
+
+Numéro de sondage2DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesChamp cultivé sur sol limono-argileuxForage : Absence de trace, bloqué 70cmClasse d'hydromorphie : IIIa=> Sol non caractéristique de zone humide (critère : Sol)27/04/2023Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesChamp cultivé 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 21 
+
+Numéro de sondage3DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesChamp cultivé sur sol limono-argileuxForage : Absence de trace, bloqué 40 cmClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)27/04/2023Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesChamp cultivé 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 22 
+
+Numéro de sondage4DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesChamp cultivé sur sol limono-argileuxForage : Absence de trace, bloqué 50 cmClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)27/04/2023Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesChamp cultivé 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 23 
+
+Numéro de sondage5DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesChamp cultivé sur sol limono-argileuxForage : Absence de trace, bloqué 50 cmClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)27/04/2023Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesChamp cultivé 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 24 
+
+Numéro de sondage6DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesChamp cultivé sur sol limono-argileuxForage : Absence de trace, bloqué 50 cmClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)27/04/2023Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesChamp cultivé 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 25 
+
+Numéro de sondage7DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesChamp cultivé sur sol limono-argileuxForage : Absence de trace, bloqué 40 cmClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)27/04/2023Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesChamp cultivé 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 26 
+
+Numéro de sondage8DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesChamp cultivé sur sol limono-argileuxForage : Absence de trace, bloqué 60cmClasse d'hydromorphie : IIIa=> Sol non caractéristique de zone humide (critère : Sol)27/04/2023Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesChamp cultivé 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 27 
+
+Numéro de sondage9DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesChamp cultivé sur sol limono-argileuxForage : Absence de trace, bloqué 60cmClasse d'hydromorphie : IIIa=> Sol non caractéristique de zone humide (critère : Sol)27/04/2023Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesChamp cultivé 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 28 
+
+Numéro de sondage10DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesChamp cultivé sur sol limono-argileuxForage : Absence de trace, bloqué 50 cmClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)27/04/2023Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesChamp cultivé 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Annexe 3 Plan du raccordement 
+LA TUTELLE_cerfa_14734-04_ANNEXE 06_annexe 03 (Raccordement et proximité).pdf 
+
+Page 40 sur 43 
+
+ 
+ 
+ 
+ 
+137
+
+136
+
+Route
+
+135
+
+140
+
+139
+
+141
+
+10
+
+Tracé hypothétique fibre optique
+souterraine
+
+9
+
+PRADE ROCHE
+
+de
+
+142
+
+Tracé hypothétique ligne HTB
+souterraine
+
+FONTANAY
+
+12
+
+130
+
+131
+
+129
+
+210
+
+148
+
+7
+
+4
+
+1
+
+204
+
+9
+
+0
+
+2
+
+205
+
+182
+
+132
+
+133
+
+B ill o m
+
+134
+
+départementale
+
+200
+
+177
+
+181
+
+202
+
+203
+
+207
+
+201
+
+8
+0
+2
+176
+
+184
+
+151
+
+150
+
+178
+
+206
+
+19
+
+20
+
+n° 212
+
+c
+a
+B
+
+17
+
+16
+
+5
+1
+
+t
+e
+l
+e
+C
+
+143
+
+Poste RTE
+
+152
+
+153
+
+11
+
+LA TUTELLE
+
+21
+
+u
+d
+
+Surface prise a bail
+
+R35m
+
+22
+
+R 1 0 0 m
+
+d
+n
+fo
+
+u
+a
+
+at
+n
+Lig
+
+e
+d
+
+min
+e
+h
+C
+
+23
+
+HARMONY ENERGY
+
+N OT APPR O VED
+
+La Tutelle 100MW
+Implantation préliminaire
+
+A3
+
+0
+
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Annexe 4 Bilan carbone 
+Bilan carbone stockage HER.pdf 
+
+Page 41 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Bilan carbone d’un site de stockage
+
+Sommaire
+
+1. Besoins d’Harmony Energy
+
+2. Méthodologie
+
+3. Résultats
+
+1. Bilan carbone
+2. Emissions évitées
+
+4. Contact
+
+Besoins d’Harmony Energy
+
+1.Besoins d’Harmony Energy
+
+Harmony Energy souhaite avoir un outil servant à calculer un bilan carbone simplifié pour estimer les émissions 
+de gaz à effet de serre de leur projet de stockage.
+
+Les émissions évitées seront également estimées.
+
+Méthodologie
+
+2. Méthodologie
+
+Définition du 
+périmètre 
+
+Collecte des 
+données
+
+Calcul et analyse
+
+Partage de l’outil et 
+des résultats
+
+Le Bilan Carbone de l’ADEME a été retenue comme approche méthodologique.
+
+Résultats
+
+3. 1.Résultats du bilan carbone
+
+Définition des périmètres
+
+• Périmètre temporel : du développement de projet au démantèlement de la centrale 
+
+• Durée : 20 ans 
+
+• Périmètre organisationnel : centrale de stockage d’électricité 
+
+Lieu : France
+
+•
+• Technologie utilisée : batteries
+• Capacité : 100MW pour 200MWh 
+• Hypothèse de dégradation temporelle des batteries : 2% par an
+
+• Périmètre opérationnel : toutes les émissions directes et indirectes
+
+• Scopes 1, 2 et 3 
+
+3.1. Résultats du bilan carbone
+
+Résultat global
+
+Emissions CO2e générées 
+par la centrale (Tonnes)
+
+35000
+
+30000
+
+25000
+
+20000
+
+15000
+
+10000
+
+5000
+
+0
+
+30873
+
+Développement (<1%)
+
+Equipement (90%)
+
+Construction (5%)
+
+Exploitation (<1%)
+
+Démantelement (5%)
+
+Changement d'usage des sols (<1%)
+
+1
+
+1829
+
+1571
+
+264
+
+8
+
+Emissions totales générées :
+34 389 tonnes de CO2e
+
+3.1. Résultats du bilan carbone
+
+Focus développement (<1%)
+
+< 1 T
+
+•
+
+Les postes d’émissions sont essentiellement liées aux déplacements des prestataires et de l’équipe d’Harmony 
+Energy France.
+
+Focus équipement (90%)
+
+30 873 T
+
+• C’est le premier poste d’émission sur la durée de vie du projet avec environ 90% de l’empreinte carbone totale, 
+elle correspond à l’achat des équipements. Le premier étant lié à la batterie et le second aux transformateurs.
+Il nous manque ici le facteur d’émission des cellules HTA.
+
+•
+
+Emissions CO2e 
+générées 
+par les équipements
+(Tonnes)
+
+25000
+
+20000
+
+15000
+
+10000
+
+5000
+
+0
+
+20200
+
+10672
+
+Batteries
+
+Transformateurs
+
+Câbles
+
+0,6
+
+3.1. Résultats du bilan carbone
+
+Focus construction (5%)
+
+1 829 T
+
+•
+
+Les postes d’émissions sont : 
+
+• Transport de marchandise en amont (90%)
+• Achats des équipements annexes pour le chantier (grillage, béton, able, etc.) (9%)
+• Déplacements des prestataires et des équipes HEF (<1%)
+• Déchets (<1%)
+
+Focus exploitation (<1%)
+
+8 T
+
+•
+
+Le poste d’émission est :
+
+•
+
+•
+
+Les déplacements pour la maintenance sont également pris en compte mais représentent moins de 1% des 
+émissions.
+Le choix a été fait par HEF de ne pas comptabiliser la consommation d’électricité pendant la durée de vie 
+du projet, nous expliquerons pourquoi dans la slide 3.2 sur les émissions évitées.
+
+3.1. Résultats du bilan carbone
+
+Focus démantèlement (5%)
+
+1 571 T
+
+•
+
+Les postes d’émissions sont : 
+
+• Transport de marchandise en aval (95%)
+• Déplacements des prestataires et des équipes HEF (<1%)
+
+Focus changement d’usage des sols  (<1%)
+
+264 T
+
+• Une surface de 0,9109 hectare va être transformé de prairie à un espace artificialisé (partiellement 
+
+imperméabilisé), il s’agit d’une valeur très conservatrice.
+
+3.2. Emissions évitées
+
+HEF a fait le choix de ne pas comptabiliser la consommation d’énergie dans son bilan carbone car nous traitons ce point là 
+dans ce chapitre.
+
+Estimation de l’énergie totale soutirée/consommée au réseau durant 20 ans : 1,247 TWh 
+Estimation de l’énergie totale injectée dans le réseau durant 20 ans : 1,060 TWh
+
+Hypothèse des émissions générées liées à la consommation, en prenant le facteur d’émission du mix électrique Français : 
+Calcul : énergie totale soutirée au réseau X FE du mix électrique Français = émissions de CO2e liées à la consommation
+Le facteur d’émission (FE) du mix électrique Français est de 36gCO2/kWh en 2021 - source RTE
+1 247*36= 44 892 tonnes de CO2e
+
+Hypothèse des émissions générées liées à la substitution de l’électricité produite par une centrale à gaz par de l’énergie du
+mix électrique Français stocké par la batterie, en prenant le facteur d’émission d’une centrale à gaz : 
+Calcul : énergie injectée dans le réseau X FE d’une centrale à charbon = émissions de CO2e de l’électricité après injection
+Le facteur d’émission (FE) d’une centrale à gaz est de 418gCO2/KWh - source ADEME
+1 060*418= 443 080 tonnes de CO2e
+
+Emissions évitées en phase d’exploitation : 443 080 - 44 892= 398 188 tonnes de CO2e
+
+Contact
+
+Myriam Beaupied
+
+myriam@gaiana-rse.fr
+M : 06.75.78.19.71
+
+www.gaiana-rse.fr
+
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Annexe 5 Étude acoustique 
+RAP2-A2306-109-V4_Etude_impact.pdf 
+
+Page 42 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+RAPPORT D’ETUDE ACOUSTIQUE 
+
+HARMONY ENERGY FRANCE 
+
+PROJET DE STOCKAGE BATTERIES 
+
+SITE DE SAINT-GEORGES-SUR-ALLIER (63) 
+
+Client : HARMONY ENERGY FRANCE SAS 
+Contact : Monsieur Andy SYMONDS  
+Etabli par : Cécile REZE, Acousticienne 
+Approbateur : Guillaume LABEQUE,  Ingénieur Acousticien  
+N° Rapport : RAP2-A2306-109 
+Version : 4 
+Type d’étude : ICPE PROJET  
+Date : 18/09/2023 
+Référence Qualité : R2-DOC-004-14-ICPE 
+
+La reproduction de ce rapport n’est autorisée que sous la forme de facsimilé photographique intégral. 
+Ce rapport contient : 35 pages 
+
+www.orfea-acoustique.com 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOMMAIRE 
+
+1.  CONTEXTE ................................................................................................ 3 
+1.1  Objet de l’étude ........................................................................................................... 3 
+1.2  Objectifs de l’étude acoustique ................................................................................... 3 
+Eléments transmis ....................................................................................................... 3 
+1.3 
+2.  REGLEMENTATION .................................................................................... 4 
+2.1 
+Projet d’arrêté aux ateliers de charge d’accumulateurs stationnaires d’énergie situés 
+en extérieur, mettant en œuvre des technologies au lithium ................................................ 4 
+Arrêté du 23 janvier 1997 ............................................................................................ 5 
+2.2 
+3.  DÉFINITION DES GRANDEURS ACOUSTIQUES............................................ 6 
+3.1  Niveau de pression acoustique continu équivalent pondéré A ................................... 6 
+Emergences .................................................................................................................. 6 
+3.2 
+3.3  Niveau acoustique fractile ........................................................................................... 7 
+Remarque importante sur le bruit résiduel ................................................................. 7 
+3.4 
+4.  ÉTAT INITIAL – JUILLET 2023 ...................................................................... 8 
+4.1 
+Site à l’étude ................................................................................................................ 8 
+4.2  Mesures acoustiques ................................................................................................. 10 
+Résultats de mesure .................................................................................................. 13 
+4.3 
+Analyse des mesures ................................................................................................. 16 
+4.4 
+5.  MODÉLISATION – GÉNÉRALITÉS ............................................................... 17 
+5.1  Méthodologie ............................................................................................................ 17 
+5.2  Méthode de calcul prévisionnel : norme ISO 9613 ................................................... 17 
+Le site ......................................................................................................................... 17 
+5.3 
+Logiciel de calcul prévisionnel : CadnaA .................................................................... 17 
+5.4 
+Les hypothèses de modélisation ............................................................................... 18 
+5.5 
+Points de calculs ......................................................................................................... 18 
+5.6 
+Présentation du modèle 3D ....................................................................................... 19 
+5.7 
+6.  SIMULATION DU PROJET.......................................................................... 20 
+Sources de bruit prises en compte ............................................................................ 20 
+Simulation du fonctionnement du site ...................................................................... 22 
+7.  CONCLUSION ........................................................................................... 25 
+8.  ANNEXES ................................................................................................. 26 
+Fiches de mesures du bruit dans l’environnement ................................................... 26 
+Conditions de propagation d’après la norme NF S 31-010 ........................................ 31 
+Echelle de niveaux sonores ........................................................................................ 32 
+9.  GLOSSAIRE .............................................................................................. 34 
+
+8.1 
+8.2 
+8.3 
+
+6.1 
+6.2 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 2 sur 35 
+
+ 
+1.  CONTEXTE 
+
+1.1  Objet de l’étude 
+
+Monsieur  Andy  SYMONDS,  président  de  la  société  HARMONY  ENERGY  FRANCE,  a  confié  au  bureau 
+d’études  ORFEA  Acoustique  la  réalisation  d’une  étude  acoustique  prévisionnelle  dans  le  cadre  de 
+l’opération  d’implantation  d’un  stockage  de  batteries  sur  la  commune  de  SAINT-GEORGES-SUR-
+ALLIER (63).  
+
+Il  existe  aujourd’hui  un  projet  d’arrêté  des  prescriptions  ICPE  afin  de  les  rendre  applicables  aux 
+installations de batteries stationnaires. Le présent rapport se base sur ce document, qui lui-même fait 
+référence, pour l’acoustique, au cadre réglementaire applicable pour les ICPE à savoir l’arrêté du 23 
+janvier 1997. 
+
+Il est à noter que le projet est porté par la société HARMONY ENERGY FRANCE SAS. 
+
+1.2  Objectifs de l’étude acoustique 
+
+L’étude acoustique consiste à : 
+
+- 
+
+- 
+
+caractériser la situation sonore actuelle par la mesure du bruit au niveau de la zone d’étude et 
+présenter les résultats de manière détaillée afin d’apporter des éléments d’information pour 
+le développeur / futur exploitant du site ; 
+simuler l’impact acoustiques prévisionnel des installations projetées sur l’environnement et 
+définir des principes de traitement nécessaires pour le maîtriser. 
+
+1.3  Eléments transmis 
+
+La  société  HARMONY  ENERGY  FRANCE  a  transmis  les  éléments  suivants  pour  la  réalisation  de  la 
+présente mission : 
+
+-  Plan du projet ; 
+-  Descriptifs et données techniques des équipements. 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 3 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+2.  REGLEMENTATION 
+
+2.1  Projet d’arrêté aux ateliers de charge d’accumulateurs stationnaires d’énergie 
+
+situés en extérieur, mettant en œuvre des technologies au lithium 
+
+L’étude  se  base  sur  le  projet  d’arrêté  relatif  aux  prescriptions  générales  applicables  aux  ateliers  de 
+charge d’accumulateurs stationnaires d’énergie situés en extérieur, mettant en œuvre des technologies 
+au lithium et soumis à déclaration sous la rubrique n°2925-2 de la nomenclature des ICPE […]. 
+
+Ce document, donc quelques extraits sont présentés ci-dessous, fait référence au cadre réglementaire 
+généralement applicable aux ICPE, à savoir l’arrêté du 23 janvier 1997, dont les détails sont présentés 
+en pages suivantes. 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 4 sur 35 
+
+ 
+ 
+ 
+ 
+2.2  Arrêté du 23 janvier 1997 
+
+L’arrêté ministériel du 23 janvier 1997, relatif à la limitation des bruits émis dans l’environnement par 
+les Installations Classées pour la Protection de l’Environnement (ICPE), établit que le seuil admissible 
+des émissions sonores émis par une installation au niveau des Zones à Emergence Réglementée (ZER) 
+se détermine comme suit : 
+
+Niveau de bruit ambiant existant dans 
+les zones à émergence réglementée 
+incluant le bruit de l’établissement 
+
+Emergence1 admissible pour 
+la période allant de 7h à 22h, 
+sauf dimanches et jours fériés 
+
+Emergence admissible 
+pour la période allant de 
+22h à 7h ainsi que les 
+dimanches et jours fériés 
+
+Sup à 35 dB(A) et inf ou égal à 45 dB(A) 
+
+Supérieur à 45 dB(A) 
+
+6 dB(A) 
+
+5 dB(A) 
+
+4 dB(A) 
+
+3 dB(A) 
+
+Une zone à émergence réglementée étant définie comme : 
+
+- 
+
+- 
+
+- 
+
+« l'intérieur  des  immeubles  habités  ou  occupés  par  des  tiers,  existant  à  la  date  de  l'arrêté 
+d'autorisation de l'installation et leurs parties extérieures éventuelles les plus proches (cour, 
+jardin, terrasse) ; 
+les  zones  constructibles  définies  par  des  documents  d'urbanisme  opposables  aux  tiers  et 
+publiés à la date de l'arrêté d'autorisation ; 
+l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date 
+de l'arrêté d'autorisation dans les zones constructibles […]. » 
+
+D’autre part, l’arrêté ministériel précise que « l'arrêté préfectoral d'autorisation fixe, pour chacune des 
+périodes  de  la  journée  (diurne  et  nocturne),  les  niveaux  de  bruit  à  ne  pas  dépasser  en  limites  de 
+propriété  de  l'établissement,  déterminés  de  manière  à  assurer  le  respect  des  valeurs  d'émergence 
+admissibles. Les valeurs fixées par l'arrêté d'autorisation ne peuvent excéder 70 dB(A) pour la période 
+de jour et 60 dB(A) pour la période de nuit, sauf si le bruit résiduel pour la période considérée est 
+supérieur à cette limite. » 
+
+Enfin, le critère  de  tonalité marquée est également à respecter. « La tonalité  marquée est détectée 
+dans un spectre non pondéré de tiers d'octave quand la différence de niveau entre la bande de tiers 
+d'octave  et  les  quatre  bandes  de  tiers  d'octave  les  plus  proches  (les  deux  bandes  immédiatement 
+inférieures et les deux bandes immédiatement supérieures) atteint ou dépasse les niveaux indiqués 
+dans le tableau [ci-après] » : 
+
+Bandes de tiers d'octave 
+
+50 Hz à 315 Hz 
+
+400 Hz à 1250 Hz  1600 Hz à 8000 Hz 
+
+Seuil de détection de tonalité 
+marquée 
+
+10 dB 
+
+5 dB 
+
+5 dB 
+
+« Dans le cas où le bruit particulier de l'établissement est à tonalité marquée […], de manière établie 
+ou  cyclique,  sa  durée  d'apparition  ne  peut  excéder  30  %  de  la  durée  de  fonctionnement  de 
+l'établissement dans chacune des périodes diurne ou nocturne […]. » 
+
+1 Émergence : « la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant 
+(établissement en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'établissement) » 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 5 sur 35 
+
+ 
+ 
+ 
+3.  DÉFINITION DES GRANDEURS ACOUSTIQUES 
+
+3.1  Niveau de pression acoustique continu équivalent pondéré A 
+
+Le niveau de pression acoustique continu équivalent d’un bruit est le niveau de pression acoustique 
+d’un son continu et stable qui, sur une période de temps T appelée durée d’intégration,  a la même 
+pression acoustique quadratique moyenne que le bruit considéré. 
+
+T 
+
+T 
+
+ 
+
+Evolution temporelle du niveau de 
+pression acoustique d’un bruit 
+
+Evolution temporelle du niveau de 
+pression acoustique continu 
+équivalent du bruit 
+
+La pondération A appliquée à un spectre de pression acoustique, effectue une correction du niveau en 
+fonction de la fréquence et permet de rendre compte de la sensibilité de l’oreille humaine qui n’est pas 
+identique à toutes les fréquences. 
+
+Le niveau de pression acoustique continu équivalent pondéré A est noté LAeq,T et sa valeur est exprimée 
+en dB(A). 
+
+3.2  Emergences 
+
+L’émergence est évaluée en calculant la différence entre : 
+
+le  niveau  de  pression  acoustique  continu  équivalent  pondéré  A  du  bruit  ambiant  (bruit  de 
+l’environnement incluant le bruit de l’installation en marche, objet de l’étude, que l’on nomme le bruit 
+particulier) ; 
+
+et le niveau de pression acoustique continu équivalent A du bruit résiduel (bruit de l’environnement 
+en l’absence du bruit particulier, c’est à dire avec l’installation à l’arrêt). 
+
+Soit : 
+
+E = LAeq, Tpart – LAeq, Tres 
+
+Avec : 
+
+- 
+- 
+
+- 
+
+E : l’indicateur d’émergence de niveau en dB(A) ; 
+LAeq, Tpart : le niveau de pression acoustique continu équivalent pondéré A du bruit ambiant, 
+déterminé pendant les périodes d’apparition du bruit particulier et dont la durée cumulée est 
+Tpart ; 
+LAeq,  Tres :  le  niveau  de  pression  acoustique  continu  équivalent  pondéré  A  du  bruit  résiduel, 
+déterminé pendant les périodes d’absence du bruit particulier et dont la durée cumulée est 
+Tres. 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 6 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3  Niveau acoustique fractile 
+
+Par analyse statistique des niveaux de pression acoustique continus équivalents pondérés A obtenus 
+sur des intervalles de temps t «courts», on peut déterminer le niveau de pression acoustique pondéré 
+A  qui  est  dépassé  pendant  N %  de  la  période  de  mesure :  on  le  nomme  le  niveau  de  pression 
+acoustique fractile et on le note LAN,t. 
+
+Par exemple, LA50,1s est le niveau de pression acoustique continu équivalent pondéré A dépassé pendant 
+50 % de la période de mesure, avec une durée d’intégration égale à 1 seconde. 
+
+Dans  le  cas  général  (voir  définition  de  l’émergence),  l’indicateur  préférentiel  est  celui  indiquant  la 
+différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant LAeq, Tpart  et 
+du bruit résiduel LAeq, Tres, déterminés selon la norme NF S 31-010. 
+
+Dans  certaines  situations  particulières,  cet  indicateur  n’est  pas  suffisamment  adapté  et  on  préfère 
+employer le niveau acoustique fractile. 
+
+Ces indicateurs sont utilisés lors de situations se caractérisant par la présence de bruits intermittents, 
+porteurs de beaucoup d’énergie mais qui ont une durée d’apparition suffisamment faible pour ne pas 
+présenter, à l’oreille, d’effet de masque du bruit d’une l’installation. Une telle situation se rencontre 
+notamment lorsqu’il existe un trafic routier très discontinu. 
+
+Le choix sur les indicateurs de niveaux sonores est guidé par la réglementation (Annexe : Méthode de 
+mesure des émissions sonores de l’arrêté ministériel du 23 janvier 1997) : elle indique notamment que 
+si la différence LAeq – LA50 est supérieure à 5 dB(A), alors est utilisé comme indicateur d’émergence la 
+différence entre les indices fractiles LA50 calculés sur le bruit ambiant et le bruit résiduel. 
+
+3.4  Remarque importante sur le bruit résiduel 
+
+La  réglementation  en  vigueur  demande  que  soit  déterminée  l’émergence  sonore.  Celle-ci  est 
+déterminée par la différence entre le bruit dit « ambiant » (bruit incluant les installations) et le bruit 
+dit  « résiduel »  (bruit  sans  les  installations).  Ce  bruit  résiduel  est  soumis  à  des  variations  non 
+maîtrisables  telles  que :  l’influence  significative  des  saisons,  les  effets  météorologiques,  la  faune,  la 
+flore, les activités humaines, etc. 
+
+Pour mieux cerner la variabilité et le côté imprévisible du bruit résiduel, il serait nécessaire de réaliser 
+de nombreuses mesures de longue durée sur plusieurs périodes de l’année. 
+
+La mesure de bruit résiduel présentée dans le présent rapport est donc représentative de la période 
+de  mesure  (période  hivernale).  Ainsi,  ORFEA  ACOUSTIQUE  ne  pourrait  être  tenu  responsable  de 
+l’émergence d’un bruit, en rapport avec le projet traité, si le bruit résiduel devenait plus faible que celui 
+quantifié dans le présent rapport. 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 7 sur 35 
+
+ 
+ 
+ 
+ 
+4.  ÉTAT INITIAL – JUILLET 2023 
+
+4.1  Site à l’étude 
+
+4.1.1  Environnement 
+
+Le futur site de stockage batteries est situé sur la commune de Saint-Georges-sur-Allier (63). 
+
+L’environnement du site est le suivant : 
+
+Site en zone rurale ; 
+
+- 
+-  Route  départementale  D212  au  Nord  du  site  avec  un  trafic  élevé  et  continu  en  journée  et 
+
+discontinu de nuit ; 
+
+-  Route départementale D4 à l’Ouest du site avec un trafic modéré et discontinu ; 
+-  Route départementale D752 à l’Est du site avec un trafic modéré et discontinu ; 
+- 
+Zones habitées au Sud (400 m) ; 
+-  Voies routières/autres industries ; 
+-  Poste de Prade Roche à 50m à l’Ouest du site. 
+
+Une vue du site dans son environnement est présentée ci-dessous : 
+
+D212 
+
+Poste 
+
+D4 
+
+Riverains 
+
+D752 
+
+Limite de propriété du futur site 
+
+Figure 1 : Vue aérienne du site et de son environnement 2 
+
+2 Source Géoportail : le site est susceptible d’avoir évolué depuis la date de la prise de vue 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 8 sur 35 
+
+ 
+ 
+ 
+4.1.2  Activité et fonctionnement 
+
+La société HARMONY ENERGY FRANCE est spécialisée dans les sites de stockage d’énergie. Le site de 
+Saint-Georges-sur-Allier  (63)  fonctionnera  7j/7j  et  24h/24h  avec  des  régimes  dépendants  de  la 
+demande/production d’électricité dans la région. 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 9 sur 35 
+
+ 
+ 
+ 
+4.2  Mesures acoustiques 
+
+4.2.1  Appareillage utilisé 
+
+Les appareils utilisés pour faire les mesures sont : 
+
+Appareils 
+
+Marque 
+
+Type 
+
+N° de série de 
+l’appareil 
+
+Sonomètre 
+
+01dB 
+
+DUO 
+
+12670 
+
+Sonomètre 
+
+01dB 
+
+Gris SOLO 
+
+11570 
+
+Type et n° de 
+série du 
+microphone 
+GRAS 40CD                
+
+Type et n° de série 
+du 
+préamplificateur 
+
+Interne 
+
+1 
+
+331846 
+MCE 212                                
+PRE 21 S                          
+11241 
+134927 
+
+1 
+
+Classe 
+
+Tableau 1 : Liste des appareils de mesure utilisés 
+
+Ce matériel permet de : 
+
+- 
+- 
+- 
+
+faire des mesures de niveau de pression et de niveau équivalent selon la pondération A ; 
+faire des analyses temporelles de niveau équivalent et de valeur crête ; 
+faire des analyses spectrales. 
+
+Les appareils de mesure sont calibrés, avant et après chaque série de mesurages, avec un calibreur 
+acoustique de classe 1. 
+
+Les  logiciels  d’exploitation  des  enregistrements  sonores  permettent  de  caractériser  les  différentes 
+sources de bruit repérées lors des enregistrements (codage d’évènements acoustiques et élimination 
+des évènements parasites), et de chiffrer leurs contributions effectives au niveau de bruit global. 
+
+La durée d’intégration du LAeq est de 1 seconde. 
+
+4.2.2  Période d’intervention 
+
+Les mesures ont été effectuées du jeudi 06 juillet 2023 à 15h au vendredi 06 juillet 2023 à 15h30 par 
+Cécile REZE, acousticienne de la société ORFEA Acoustique. 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 10 sur 35 
+
+ 
+ 
+ 
+ 
+4.2.3  Conditions de mesurage 
+
+Les mesures ont été réalisées conformément à la norme en vigueur NF S 31-010 de décembre 1996 
+relative aux mesures de bruit dans l’environnement. 
+
+Lors de la campagne de mesure, les conditions météorologiques étaient les suivantes : 
+
+couverture nuageuse : ciel nuageux ; 
+vent : faible de secteur variable  ; 
+température : 28°C environ le jour et 20°C la nuit ; 
+
+- 
+- 
+- 
+-  humidité en surface : surface humide. 
+
+Toutes les conditions météorologiques de l’intervention ainsi que leur interprétation sont reportées 
+dans les fiches de mesures en partie annexe. Il convient de noter qu’à courte distance l’influence des 
+conditions météorologiques sur la propagation sonore est minime. 
+
+Les  valeurs  mesurées  sont  représentatives  de  la  période  de  mesurage  et  dépendent  de  nombreux 
+facteurs  (circulation  routière  et  ferroviaire,  trafic  aérien,  activités  humaines  alentours  et  bruits  de 
+l'environnement en général). Elles sont donc susceptibles de variations quotidiennes, hebdomadaires 
+ou saisonnières. 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 11 sur 35 
+
+ 
+ 
+ 
+ 
+4.2.4  Emplacements des mesures 
+
+Les mesures ont été réalisées conformément à la localisation suivante : 
+
+Limite de propriété du futur site 
+
+Point de mesure 
+
+Figure 2 : Localisation des points de mesures 3 
+
+Localisation des points : 
+
+Points 
+
+Localisation 
+
+Point 1 
+
+Au Nord du site au niveau du Domaine des Oliviers (Exploitation agricole) 
+
+Point 2 
+
+Au Sud du site, proximité riverains 
+
+Tableau 2 : Emplacement des points de mesures 
+
+3 Source Géoportail : le site est susceptible d’avoir évolué depuis la date de la prise de vue 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 12 sur 35 
+
+ 
+ 
+ 
+ 
+Le  choix  des  emplacements  de  mesure  a  été  réalisé  en  tenant  compte  de  l’occupation 
+présumée des bâtiments à proximité mais également de la possibilité de réaliser des mesures 
+sur une durée plus ou moins longue de manière sécurisée. 
+Ainsi, l’emplacement Point 1 a permis de réaliser une mesure sur une durée de l’ordre de 
+24 heures environ. Au point 2, les mesures ont été limitées à des durées de l’ordre d’une 
+heure environ, sur chacun des périodes de Jour et de Nuit, compte tenu des contraintes de 
+sécurisation des appareils. 
+
+4.3  Résultats de mesure 
+
+Les  niveaux  globaux  LAeq,  LA50  et  LA90 sont  exprimés  en  dB(A).  Des  fiches  de  mesure  détaillées  sont 
+présentées en annexe. Conformément à la norme NF-S 31-010, les niveaux sonores mesurés en vue 
+d’une comparaison réglementaire sont arrondis au demi-décibel A le plus proche. 
+
+4.3.1  Point 1 : Au Nord du site – Domaine des Oliviers 
+
+Le  tableau  suivant  présente  les  résultats  des  mesures  longues  durées  réalisées  au  niveau  de 
+l’exploitation agricole au Nord durant toute la période réglementaire de jour : 
+
+JOUR 
+07h-22h 
+
+Niveau de bruit résiduel 
+Indice LAeq 
+Niveau de bruit résiduel 
+Indice LA90 
+Niveau de bruit résiduel 
+Indice LA50 
+
+Niveaux par bande d’octave en dB 
+
+63 Hz 
+
+125 Hz 
+
+250 Hz 
+
+500 Hz 
+
+1000 Hz  2000 Hz  4000 Hz 
+
+NIVEAU 
+GLOBAL 
+dB(A) 
+
+53,5 
+
+45,5 
+
+39,0 
+
+38,5 
+
+41,0 
+
+41,0 
+
+41,5 
+
+47,5 
+
+45,5 
+
+40,5 
+
+26,0 
+
+26,5 
+
+30,5 
+
+28,0 
+
+24,5 
+
+36,5 
+
+49,0 
+
+43,0 
+
+32,0 
+
+31,5 
+
+36,0 
+
+34,5 
+
+33,5 
+
+42,5 
+
+Tableau 3 : Résultats au niveau de l’exploitation agricole au Nord pour toute la période réglementaire de jour 
+
+Le  tableau  suivant  présente  les  résultats  des  mesures  longues  durées  réalisées  au  niveau  de 
+l’exploitation agricole au Nord entre 10h et 13h (période la plus calme) : 
+
+JOUR 
+10h-13h 
+
+Niveau de bruit résiduel 
+Indice LAeq 
+Niveau de bruit résiduel 
+Indice LA90 
+Niveau de bruit résiduel 
+Indice LA50 
+
+Niveaux par bande d’octave en dB 
+
+63 Hz 
+
+125 Hz 
+
+250 Hz 
+
+500 Hz 
+
+1000 Hz  2000 Hz  4000 Hz 
+
+NIVEAU 
+GLOBAL 
+dB(A) 
+
+58,5 
+
+48,5 
+
+40,5 
+
+39,0 
+
+34,5 
+
+33,5 
+
+36,0 
+
+43,0 
+
+45,5 
+
+39,5 
+
+26,0 
+
+25,0 
+
+27,5 
+
+24,5 
+
+22,5 
+
+34,0 
+
+48,5 
+
+41,0 
+
+33,0 
+
+29,0 
+
+31,0 
+
+28,5 
+
+28,5 
+
+38,5 
+
+Tableau 4 : Résultats au niveau de l’exploitation agricole au Nord entre 10h et 13h 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 13 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+Le  tableau  suivant  présente  les  résultats  des  mesures  longues  durées  réalisées  au  niveau  de 
+l’exploitation agricole au Nord durant toute la période réglementaire de nuit : 
+
+NUIT 
+22h-07h 
+
+Niveau de bruit résiduel 
+Indice LAeq 
+Niveau de bruit résiduel 
+Indice LA90 
+Niveau de bruit résiduel 
+Indice LA50 
+
+Niveaux par bande d’octave en dB 
+
+63 Hz 
+
+125 Hz 
+
+250 Hz 
+
+500 Hz 
+
+1000 Hz  2000 Hz  4000 Hz 
+
+NIVEAU 
+GLOBAL 
+dB(A) 
+
+48,0 
+
+43,0 
+
+33,0 
+
+33,0 
+
+38,0 
+
+37,5 
+
+37,0 
+
+43,5 
+
+44,5 
+
+40,0 
+
+23,0 
+
+25,0 
+
+28,5 
+
+22,5 
+
+14,0 
+
+33,0 
+
+46,5 
+
+41,5 
+
+26,0 
+
+29,5 
+
+34,5 
+
+32,0 
+
+19,5 
+
+40,0 
+
+Tableau 5 : Résultats au niveau de l’exploitation agricole au Nord pour toute la période réglementaire de nuit 
+
+Le  tableau  suivant  présente  les  résultats  des  mesures  longues  durées  réalisées  au  niveau  de 
+l’exploitation agricole au Nord entre 01h et 04h30 (période la plus calme) : 
+
+NUIT 
+01h-04h30 
+
+Niveau de bruit résiduel 
+Indice LAeq 
+Niveau de bruit résiduel 
+Indice LA90 
+Niveau de bruit résiduel 
+Indice LA50 
+
+Niveaux par bande d’octave en dB 
+
+63 Hz 
+
+125 Hz 
+
+250 Hz 
+
+500 Hz 
+
+1000 Hz  2000 Hz  4000 Hz 
+
+NIVEAU 
+GLOBAL 
+dB(A) 
+
+46,0 
+
+41,0 
+
+26,0 
+
+27,5 
+
+33,0 
+
+29,5 
+
+17,0 
+
+36,0 
+
+44,0 
+
+39,5 
+
+22,0 
+
+23,5 
+
+26,0 
+
+18,5 
+
+13,0 
+
+30,0 
+
+45,5 
+
+40,5 
+
+24,0 
+
+25,5 
+
+29,0 
+
+22,5 
+
+14,5 
+
+32,0 
+
+Tableau 6 : Résultats au niveau de l’exploitation agricole au Nord entre 01h et 04h30 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 14 sur 35 
+
+ 
+ 
+ 
+ 
+4.3.2  Point 2 : Au Sud du site 
+
+Le tableau suivant présente les résultats des mesures courtes durées réalisées au niveau de l’habitation 
+au Sud de jour (entre 14h et 15h) : 
+
+JOUR 
+07h-22h 
+
+Niveau de bruit résiduel 
+Indice LAeq 
+Niveau de bruit résiduel 
+Indice LA90 
+Niveau de bruit résiduel 
+Indice LA50 
+
+Niveaux par bande d’octave en dB 
+
+63 Hz 
+
+125 Hz 
+
+250 Hz 
+
+500 Hz 
+
+1000 Hz  2000 Hz  4000 Hz 
+
+NIVEAU 
+GLOBAL 
+dB(A) 
+
+42,0 
+
+26,0 
+
+27,0 
+
+31,5 
+
+34,0 
+
+32,0 
+
+30,5 
+
+38,5 
+
+37,5 
+
+22,5 
+
+23,0 
+
+25,0 
+
+26,0 
+
+22,0 
+
+17,5 
+
+30,5 
+
+41,0 
+
+24,5 
+
+25,0 
+
+28,5 
+
+31,5 
+
+29,5 
+
+27,0 
+
+36,0 
+
+Tableau 7 : Résultats diurnes au niveau de l’habitation au Sud 
+
+Le tableau suivant présente les résultats des mesures courtes durées réalisées au niveau de l’habitation 
+au Sud de nuit (entre 22h et 23h) : 
+
+NUIT 
+22h-07h 
+
+Niveau de bruit résiduel 
+Indice LAeq 
+Niveau de bruit résiduel 
+Indice LA90 
+Niveau de bruit résiduel 
+Indice LA50 
+
+Niveaux par bande d’octave en dB 
+
+63 Hz 
+
+125 Hz 
+
+250 Hz 
+
+500 Hz 
+
+1000 Hz  2000 Hz  4000 Hz 
+
+NIVEAU 
+GLOBAL 
+dB(A) 
+
+41,5 
+
+32,0 
+
+28,5 
+
+32,0 
+
+34,5 
+
+30,0 
+
+23,5 
+
+50,5 
+
+33,5 
+
+26,5 
+
+22,0 
+
+27,0 
+
+27,5 
+
+23,0 
+
+18,5 
+
+49,5 
+
+40,5 
+
+29,0 
+
+25,0 
+
+31,0 
+
+32,5 
+
+27,0 
+
+20,0 
+
+50,5 
+
+Tableau 8 : Résultats nocturnes au niveau de l’habitation au Sud 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 15 sur 35 
+
+ 
+ 
+ 
+ 
+4.4  Analyse des mesures 
+
+Le point 1, au Nord, est impacté par les activités du Domaine des Olivier (manœuvre d’engins agricoles, 
+cris des animaux…) et par le trafic des départementales D212 au Nord et D4 à l’Ouest.  
+
+Le point 2, au Sud, est principalement impacté par la faune (insectes) de jour comme de nuit. Le trafic 
+de la départementale D212 et le bruit la ligne haute tension participe à l’environnement sonore.  
+
+Les mesures réalisées de nuit au point 2 ont été fortement perturbées par la faune (insectes). C’est 
+pourquoi, elles ne seront pas retenues pour la suite de l’étude. Les niveaux de bruit mesurés au point 
+1 seront considérés pour l’ensemble de la zone pour la période nocturne. 
+
+Les niveaux de bruit résiduels retenus au niveau de chaque point sont donnés dans les tableaux ci-
+après : 
+
+POINT 1 
+NORD 
+
+Niveau de bruit résiduel 
+Période Jour (10h-13h) 
+Indice LA50 
+Niveau de bruit résiduel 
+Période nuit (01h-04h30) 
+Indice LA50 
+
+Niveaux par bande d’octave en dB 
+
+63 Hz  125 Hz  250 Hz  500 Hz  1000 Hz  2000 Hz  4000 Hz 
+
+NIVEAU 
+GLOBAL 
+dB(A) 
+
+48,5 
+
+41,0 
+
+33,0 
+
+29,0 
+
+31,0 
+
+28,5 
+
+28,5 
+
+38,5 
+
+45,5 
+
+40,5 
+
+24,0 
+
+25,5 
+
+29,0 
+
+22,5 
+
+14,5 
+
+32,0 
+
+Tableau 9 : Niveaux de bruit résiduels retenus au point 1 
+
+POINT 2 
+SUD 
+
+Niveau de bruit résiduel 
+Période jour 
+Indice LAeq 
+Niveau de bruit résiduel au 
+point 1 
+Période nuit (01h-04h30) 
+Indice LA50 
+
+Niveaux par bande d’octave en dB 
+
+63 Hz  125 Hz  250 Hz  500 Hz  1000 Hz  2000 Hz  4000 Hz 
+
+NIVEAU 
+GLOBAL 
+dB(A) 
+
+42,0 
+
+26,0 
+
+27,0 
+
+31,5 
+
+34,0 
+
+32,0 
+
+30,5 
+
+38,5 
+
+45,5 
+
+40,5 
+
+24,0 
+
+25,5 
+
+29,0 
+
+22,5 
+
+14,5 
+
+32,0 
+
+Tableau 10 : Niveaux de bruit résiduels retenus au point 2 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 16 sur 35 
+
+ 
+ 
+ 
+5.  MODÉLISATION – GÉNÉRALITÉS  
+
+5.1  Méthodologie  
+
+Dans le but de définir l’impact sonore du futur site au niveau du voisinage, la méthodologie suivante a 
+été retenue : 
+
+- 
+
+Identifier et définir les principales sources sonores identifiées comme bruyantes. 
+
+Les éléments fournis par la société HARMONY ENERGY FRANCE, le retour d’expérience et la 
+base  de  données  d’ORFEA  Acoustique  ainsi  qu’une  recherche  documentaire  ont  permis 
+d’identifier l’ensemble des sources de bruits du futur site et d’estimer les caractéristiques de 
+directivités ainsi que le spectre sonore à prendre en compte dans les calculs. 
+
+-  Construire  un  modèle  acoustique  permettant  de  simuler  l’impact  sonore  du  site  sur 
+
+l’environnement. 
+
+Ce modèle numérique réunit l’ensemble des données topographiques de la zone, les bâtiments 
+et les données dimensionnelles et acoustiques des principales sources sonores. 
+
+- 
+
+Simuler l’impact sonore du projet sur l’environnement. 
+Si nécessaire, des solutions de traitement seront proposées et intégrées au modèle numérique 
+afin de vérifier leur efficacité dans l’environnement.  
+
+5.2  Méthode de calcul prévisionnel : norme ISO 9613 
+
+Le  calcul  des  niveaux  sonores  en  tout  point  du  site  étudié  s’appuie  sur  une  méthode  de  calcul 
+prévisionnel conforme aux exigences des réglementations actuelles : la norme ISO 9613 « Atténuation 
+du son lors de sa propagation à l’air libre, partie 2 : méthode générale de calcul ».  
+
+Cette méthode de calcul prend en compte le bâti, la topographie du site, ainsi que tous les phénomènes 
+liés à la propagation des ondes sonores (réflexion, absorption, effets météorologiques, etc.). 
+
+5.3  Le site 
+
+Le site a été modélisé à partir d’une digitalisation manuelle du site en s’appuyant sur un fond de plan 
+Géoportail et sur les données SIG disponibles (bâtiments, topographie).  
+
+5.4  Logiciel de calcul prévisionnel : CadnaA 
+
+Le  logiciel  CadnaA,  développé  par  DATAKUSTIK,  permet  de  modéliser  la  propagation  acoustique  en 
+espace extérieur en utilisant l’ensemble des paramètres imposés par la méthode ISO 9613. 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 17 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.5  Les hypothèses de modélisation 
+
+Afin de palier à l’absence de certaines données, les hypothèses suivantes ont été considérées dans la 
+modélisation du site. Ces hypothèses ont été discutées et validées avec le client : 
+
+Le site est considéré en fonctionnement nominal 24h/24h et 7j/7j ; 
+
+- 
+-  Un obstacle de 3,5 m (merlon paysager) est implanté en périphéries Nord. 
+
+5.6  Points de calculs 
+
+5.6.1  Localisation des points de calculs 
+La localisation des points de calculs est donnée ci-après. 
+
+ZER 2 : Nord 
+
+LP Ouest 
+
+LP Sud 
+
+LP Nord 
+
+LP Est 
+
+ZER 1 : Sud 
+
+Figure 3 : Vue aérienne du site et localisation des points de calculs (vue globale) 
+
+Tous les points de calculs sont placés à 1,5m du sol  
+
+Les points ZER 1 et ZER 2 sont positionnés à 2 m en avant de des façades des habitations. 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 18 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+5.7  Présentation du modèle 3D 
+
+À partir de ces éléments, un modèle informatique a pu être créé. Les illustrations ci-dessous présentent 
+une vision 3D du site dans son état futur :  
+
+Figure 4 : Vue 3D du site 
+
+Figure 5 : Vue 3D du site 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 19 sur 35 
+
+ 
+ 
+ 
+ 
+6.  SIMULATION DU PROJET 
+
+6.1  Sources de bruit prises en compte 
+
+6.1.1  Localisation des sources de bruit 
+
+Le futur site de stockage batteries de Saint-Georges-sur-Allier sera composé de : 
+
+- 
+- 
+- 
+
+54 unités de batteries MEGAPACK MP 2H; 
+27 transformateurs moyenne tension 33kV / 480V, 4MVA, KNAN ; 
+1 transformateur haute tension 63kV/33kV, 110MVA, ONAF/KNAF. 
+
+Légende : 
+
+Unités de batteries MEGAPACK MP 2H 
+
+Transformateurs moyenne tension 33kV / 480V, 4MVA, KNAN 
+
+Transformateur haute tension 63kV/33kV, 110MVA, ONAF/KNAF 
+
+Merlon de terre de 3,5m de hauteur 
+
+Figure 6 : Localisation des sources du projet 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 20 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.1.2  Niveaux de puissance acoustique des sources de bruit  
+
+Unité de batterie MEGAPACK MP2h de chez TESLA 
+
+Les unités de stockage par batterie intègrent un groupe de climatisation afin de réguler la température 
+de l’équipement ainsi qu’un onduleur. 
+
+L’ensemble de l’unité est assimilée à une source ponctuelle située à 3,5m de hauteur de l’unité. 
+
+Figure 7 : MEGAPACK MP 2h  
+
+Le niveau de puissance acoustiques d’une unité MEGAPACK considéré dans les simulations est de : 
+
+Transformateurs moyenne tension (MV) 
+
+Lw =  73 dB(A) 
+
+Chaque  transformateur  moyenne  tension  33kV/480V,  4MVA,  KNAN,  est  connecté  à  2  unités 
+MEGAPACK. Chaque face d’un transformateur est considérée comme d’égale émissivité. Le niveau de 
+puissance acoustique d’un transformateur moyenne tension considéré dans les simulations est de : 
+
+Transformateurs haute tension (HV) 
+
+Lw = 63 dB(A) 
+
+Un transformateur d’une puissance unitaire de 110MVA est implanté à l’entrée du site. Le niveau de 
+puissance acoustique d’un transformateur haute tension considéré dans les simulations est de : 
+
+Lw = 78 dB(A) 
+
+Les calculs ont été effectués en bandes d’octave mais le détail n’est pas présenté ici, pour plus de clarté. 
+
+De plus, des murs-pare feux d’une hauteur de 4m sont modélisés à 1,5m des parois Ouest, Nord et 
+Est du transformateur 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 21 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+6.2  Simulation du fonctionnement du site  
+
+6.2.1  Cartographie sonore 
+
+La  cartographie  suivante  présente  les  niveaux  sonores  particuliers  en  dB(A)  engendrés  à  1,5m  de 
+hauteur par le site seul lors de la modélisation de ce dernier avec toutes sources en fonctionnement : 
+
+ZER 2 : Nord 
+
+LP Ouest 
+
+LP Nord 
+
+LP Est 
+
+LP Sud 
+
+ZER 1 : Sud 
+
+Figure 8 : Cartographie des niveaux sonores engendrés par le site (en dB(A)) 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 22 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+6.2.2  Limite de propriété 
+
+Les niveaux de bruit ambiant calculés aux points de calculs en LP sont donnés dans les tableaux ci-après 
+et arrondis à 0,5 dB(A) près. 
+
+JOUR 
+07h – 22h 
+Niveaux de bruit résiduel (BR) mesurés 
+en dB(A) 
+Niveaux de bruit particulier (BP) simulés 
+en dB(A) 
+Niveaux de bruit ambiant (BA) calculés 
+en dB(A) 
+(Niveaux de bruit résiduel + Niveaux de bruit particulier) 
+
+Seuil réglementaire en dB(A) 
+
+Dépassement 
+
+LP Nord 
+
+LP Sud 
+
+LP Ouest 
+
+LP Est 
+
+38,5 
+
+36,0 
+
+40,5 
+
+70,0 
+
+NON 
+
+38,5 
+
+42,5 
+
+44,0 
+
+70,0 
+
+NON 
+
+38,5 
+
+41,5 
+
+43,5 
+
+70,0 
+
+NON 
+
+38,5 
+
+44,0 
+
+45,0 
+
+70,0 
+
+NON 
+
+Tableau 11 : Résultats prévisionnels diurnes en Limite de Propriété 
+
+NUIT 
+22h – 07h 
+Niveaux de bruit résiduel (BR) mesurés 
+en dB(A) 
+Niveaux de bruit particulier (BP) simulés 
+en dB(A) 
+Niveaux de bruit ambiant (BA) calculés 
+en dB(A) 
+(Niveaux de bruit résiduel + Niveaux de bruit particulier) 
+
+Seuil réglementaire en dB(A) 
+
+Dépassement 
+
+LP Nord 
+
+LP Sud 
+
+LP Ouest 
+
+LP Est 
+
+32,0 
+
+36,0 
+
+37,5 
+
+60,0 
+
+NON 
+
+32,0 
+
+42,5 
+
+42,5 
+
+60,0 
+
+NON 
+
+32,0 
+
+41,5 
+
+42,0 
+
+60,0 
+
+NON 
+
+32,0 
+
+44,0 
+
+44,0 
+
+60,0 
+
+NON 
+
+Tableau 12 : Résultats prévisionnels nocturnes en Limite de Propriété  
+
+D’après les calculs, aucun dépassement des seuils réglementaires applicables en Limite de Propriété 
+n’est constaté de jour comme de nuit dans le cas où les niveaux de puissance unitaire des équipements 
+du site ne dépassent pas les valeurs suivantes : 
+
+- 
+- 
+- 
+
+27 Transformateurs moyenne tension : Lw = 63 dB(A) (niveau de puissance unitaire) ; 
+1 Transformateur haute tension : Lw = 78 dB(A) ; 
+54 Unités de batteries MEGAPACK : Lw = 73 dB(A) (niveau de puissance unitaire). 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 23 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+6.2.3  Zones à Emergence Réglementée 
+
+Les  niveaux  de  bruit  simulés  au  point  de  calculs  en  ZER  sont  donnés  dans  les  tableaux  ci-après  et 
+arrondis à 0,5 dB(A) près. 
+
+JOUR 
+07h – 22h 
+Niveaux de bruit résiduel (BR) mesurés 
+en dB(A) 
+Niveaux de bruit particulier (BP) simulés 
+en dB(A) 
+Niveaux de bruit ambiant (BA) calculés 
+en dB(A) 
+(Niveaux de bruit résiduel + Niveaux de bruit particulier) 
+Emergences calculées en dB(A) 
+
+Emergence réglementaire 
+
+Dépassement 
+
+ZER 1 : Sud 
+
+ZER 2 : Nord 
+
+38,5 
+
+23,5 
+
+38,5 
+
+0,0 
+
+5,0 
+
+NON 
+
+38,5 
+
+31,5 
+
+39,5 
+
+1,0 
+
+5,0 
+
+NON 
+
+Tableau 13 : Résultats prévisionnels diurnes en Zones à Emergence Réglementée 
+
+NUIT 
+22h-07h 
+Niveaux de bruit résiduel (BR) mesurés 
+en dB(A) 
+Niveaux de bruit particulier (BP) simulés 
+en dB(A) 
+Niveaux de bruit ambiant (BA) calculés 
+en dB(A) 
+(Niveaux de bruit résiduel + Niveaux de bruit particulier) 
+Emergences calculées en dB(A) 
+
+Emergence réglementaire 
+
+Dépassement 
+
+ZER 1 : Sud 
+
+ZER 2 : Nord 
+
+32,0 
+
+23,5 
+
+32,5 
+
+0,5 
+
+3,0 
+
+NON 
+
+32,0 
+
+31,5 
+
+35,0 
+
+3,0 
+
+3,0 
+
+NON 
+
+Tableau 14 : Résultats prévisionnels nocturnes en Zones à Emergence Réglementée 
+
+D’après les calculs, aucun dépassement des seuils réglementaires applicables en Zones à Emergence 
+Réglementée  n’est  constaté  de  jour  comme  de  nuit  dans  le  cas  où  les  niveaux  de  puissance  des 
+équipements du site ne dépassent pas les valeurs suivantes : 
+
+- 
+- 
+- 
+
+27 Transformateurs moyenne tension : Lw = 63 dB(A) (niveau de puissance unitaire) ; 
+1 Transformateur haute tension : Lw = 78 dB(A) ; 
+54 Unités de batteries MEGAPACK : Lw = 73 dB(A) (niveau de puissance unitaire). 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 24 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+7.  CONCLUSION 
+
+Monsieur  Andy  SYMONDS,  président  de  la  société  HARMONY  ENERGY  FRANCE,  a  confié  au  bureau 
+d’études  ORFEA  Acoustique  la  réalisation  d’une  étude  acoustique  prévisionnelle  dans  le  cadre  de 
+l’opération  d’implantation  d’un  stockage  de  batteries  sur  la  commune  de  SAINT-GEORGES-SUR-
+ALLIER (63).  
+
+Les mesures acoustiques d’état initial sur la zone d’étude ont été effectués sur une durée de l’ordre de 
+24 heures du 6 au 7 juillet 2023. 
+
+Les  simulation  ont  été  réalisées  en  tenant  compte  des  niveaux  de  puissances  suivants  pour  les 
+différents équipements du projet : 
+
+- 
+- 
+- 
+
+27 Transformateurs moyenne tension : Lw = 63 dB(A) - niveau de puissance unitaire ; 
+1 Transformateur haute tension : Lw = 78 dB(A) ; 
+54 Unités de batteries MEGAPACK : Lw = 73 dB(A) - niveau de puissance unitaire. 
+
+La  simulation  effectuée  a  permis  de  conclure  au  respect  des  seuils  réglementaires  applicables4  en 
+Limite de Propriété et en Zones à Emergence Réglementée au Nord et au Sud du site de jour comme 
+de nuit.  
+
+Rédacteur 
+
+Vérificateur/ Approbateur 
+
+Cécile REZE 
+Acousticienne 
+
+Guillaume LABEQUE 
+Ingénieur acousticien 
+
+4 Il est rappelé que l’étude se base sur le projet d’arrêté relatif aux prescriptions générales applicables aux ateliers 
+de charge d’accumulateurs stationnaires d’énergie situés en extérieur, mettant en œuvre des technologies au 
+lithium et soumis à déclaration sous la rubrique n°2925-2 de la nomenclature des ICPE, ce texte fait référence, 
+pour l’acoustique, au cadre habituel de l’arrêté du 23 janvier 1997 pour les ICPE. 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 25 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.  ANNEXES 
+
+8.1  Fiches de mesures du bruit dans l’environnement 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 26 sur 35 
+
+ 
+ 
+ 
+ 
+Point 01 
+
+Bruit Résiduel - Période Diurne et Nocturne 
+
+Fiche N° 1 
+
+POINT DE MESURE 
+
+LOCALISATION 
+
+PARAMETRES DE MESURAGE 
+
+Appareil de 
+mesure : 
+
+Sonomètre Gris SOLO 
+N° 11570 Classe 1 
+
+Période de 
+mesurage : 
+
+Le 06/07/2023 à partir de 
+15:56 
+
+Durée : 
+
+23:30 
+
+Emplacement :  A 1,5m au-dessus du sol 
+
+Coordonnées 
+GPS : 
+
+45.72059205564882, 
+3.267954590183901 
+
+Période Jour 
+
+Période Nuit 
+
+U3/T2 
+
+U3/T4 
+
+CONDITIONS METEOROLOGIQUES (selon NF S 31-010) 
+
+Conditions défavorables pour la propagation sonore 
+
+Conditions favorables pour la propagation sonore 
+
+EVOLUTION TEMPORELLE DU NIVEAU SONORE (LAeq,1s EN dB(A)) 
+
+Sources de bruit / Observations 
+
+Le point 1, au Nord, est impacté par les activités du Domaine des Olivier (manœuvre d’engins agricoles, cris des animaux…) 
+et par le trafic des départementales D212 au Nord et D4 à l’Ouest.  
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 27 sur 35 
+
+RESIDUEL JOUR 10h-13hRESIDUEL JOUR 07h-22hRESIDUEL NUIT 01h-04h30RESIDUEL NUIT 22h-07hNon retenue2025303540455055606570758016h18h20h22h00h02h04h06h08h10h12h14h 
+ 
+ 
+ 
+ 
+ 
+ 
+Configuration 
+
+Indicateur 
+
+Bruit Résiduel  
+Jour 07h-22h 
+
+Bruit Résiduel  
+Jour 10h-13h 
+
+Bruit Résiduel  
+Nuit 22h-07h 
+
+Bruit Résiduel  
+Nuit 01h-04h30 
+
+LAeq 
+LA50 
+LA90 
+LAeq 
+LA50 
+LA90 
+LAeq 
+LA50 
+LA90 
+LAeq 
+LA50 
+LA90 
+
+63 
+
+53,4 
+45,6 
+48,8 
+58,6 
+45,4 
+48,5 
+48,2 
+44,7 
+46,6 
+46,0 
+44,2 
+45,6 
+
+125 
+
+45,7 
+40,6 
+43,1 
+48,4 
+39,4 
+41,2 
+42,8 
+39,8 
+41,4 
+41,2 
+39,5 
+40,7 
+
+RESULTATS 
+
+Niveaux par bande d’octave en dB 
+
+250 
+
+38,9 
+25,8 
+31,8 
+40,3 
+26,2 
+33,0 
+32,9 
+23,0 
+26,2 
+26,2 
+21,9 
+24,0 
+
+500 
+
+38,3 
+26,4 
+31,4 
+39,2 
+25,0 
+28,8 
+32,8 
+25,2 
+29,6 
+27,3 
+23,3 
+25,7 
+
+1000 
+
+41,2 
+30,4 
+35,8 
+34,4 
+27,7 
+30,8 
+37,9 
+28,3 
+34,4 
+33,1 
+26,0 
+28,9 
+
+2000 
+
+41,0 
+28,0 
+34,6 
+33,4 
+24,6 
+28,5 
+37,4 
+22,5 
+31,9 
+29,4 
+18,4 
+22,7 
+
+4000 
+
+41,6 
+24,3 
+33,6 
+35,8 
+22,6 
+28,7 
+36,8 
+14,0 
+19,4 
+17,0 
+12,9 
+14,5 
+
+Global en dB(A) 
+
+47,5 
+36,7 
+42,5 
+43,0 
+33,9 
+38,5 
+43,5 
+33,0 
+39,9 
+36,0 
+30,0 
+32,2 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 28 sur 35 
+
+ 
+ 
+ 
+Point 02 
+
+Mesure en Zone à Emergence Réglementée 
+Bruit Résiduel - Période Diurne 
+
+Fiche N° 2 
+
+POINT DE MESURE 
+
+LOCALISATION 
+
+PARAMETRES DE MESURAGE 
+
+Appareil de 
+mesure : 
+
+Sonomètre DUO 
+N° 12670 Classe 1 
+
+Période de 
+mesurage : 
+
+Le 07/07/2023 à partir de 
+13:59 
+
+Durée : 
+
+0:50 
+
+Emplacement :  En ZER  
+
+Coordonnées 
+GPS : 
+CONDITIONS METEOROLOGIQUES (selon NF S 31-010) 
+
+A 1,5m au-dessus du sol 
+
+45.716683709130656, 
+3.2679051924501925 
+
+Période Jour 
+
+U3/T2 
+
+Conditions défavorables pour la propagation sonore 
+
+EVOLUTION TEMPORELLE DU NIVEAU SONORE (LAeq,1s EN dB(A)) 
+
+Sources de bruit / Observations 
+
+Le point 2, au Sud, est principalement impacté par la faune (insectes). Le trafic de la départementale D212 et le bruit la ligne 
+haute tension participe à l’environnement sonore.  
+
+Configuration 
+
+Indicateur 
+
+Bruit Résiduel  
+Jour  
+
+LAeq 
+LA50 
+LA90 
+
+63 
+
+42,0 
+37,7 
+40,8 
+
+125 
+
+25,9 
+22,4 
+24,4 
+
+RESULTATS 
+
+Niveaux par bande d’octave en dB 
+
+250 
+
+26,9 
+22,8 
+25,1 
+
+500 
+
+31,6 
+25,0 
+28,5 
+
+1000 
+
+33,8 
+26,0 
+31,3 
+
+2000 
+
+32,0 
+22,1 
+29,7 
+
+4000 
+
+30,3 
+17,4 
+27,2 
+
+Global en dB(A) 
+
+38,6 
+30,5 
+36,1 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 29 sur 35 
+
+RESIDUEL JOURNon retenue2025303540455055606570758014h0514h1014h1514h2014h2514h3014h3514h4014h45 
+ 
+ 
+ 
+ 
+Point 02 
+
+Mesure en Zone à Emergence Réglementée 
+Bruit Résiduel - Période Nocturne 
+
+Fiche N° 3 
+
+POINT DE MESURE 
+
+LOCALISATION 
+
+PARAMETRES DE MESURAGE 
+
+Appareil de 
+mesure : 
+
+Sonomètre DUO 
+N° 12670 Classe 1 
+
+Période de 
+mesurage : 
+
+Le 06/07/2023 à partir de 
+22:27 
+
+Durée : 
+
+1:00 
+
+Emplacement :  En ZER  
+
+A 1,5m au-dessus du sol 
+
+Coordonnées 
+GPS : 
+
+45.71670828775299, 
+3.2643912886016215 
+
+Période Nuit 
+
+U3/T4 
+
+Conditions favorables pour la propagation sonore 
+
+EVOLUTION TEMPORELLE DU NIVEAU SONORE (LAeq,1s EN dB(A)) 
+
+CONDITIONS METEOROLOGIQUES (selon NF S 31-010) 
+
+Sources de bruit / Observations 
+
+Le point 2, au Sud, est principalement impacté par la faune (insectes). Le trafic de la départementale D212 et le bruit la 
+ligne haute tension participe à l’environnement sonore.  
+
+Configuration 
+
+Indicateur 
+
+Bruit Résiduel  
+Nuit 
+
+LAeq 
+LA50 
+LA90 
+
+63 
+
+41,6 
+33,6 
+40,3 
+
+125 
+
+31,9 
+26,4 
+29,0 
+
+RESULTATS 
+
+Niveaux par bande d’octave en dB 
+
+250 
+
+28,3 
+22,2 
+25,2 
+
+500 
+
+32,1 
+26,8 
+30,8 
+
+1000 
+
+34,4 
+27,4 
+32,3 
+
+2000 
+
+29,8 
+23,1 
+27,2 
+
+4000 
+
+23,7 
+18,7 
+20,1 
+
+Global en dB(A) 
+
+50,5 
+49,5 
+50,4 
+
+Page 30 sur 35 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+RESIDUEL NUITNon retenue2025303540455055606570758022h3022h3522h4022h4522h5022h5523h0023h0523h1023h15 
+ 
+ 
+ 
+ 
+ 
+8.2  Conditions de propagation d’après la norme NF S 31-010 
+
+Afin d’évaluer les effets des conditions météorologiques sur la propagation sonore pendant la durée 
+de mesurage pour une source et un récepteur donné, la norme NF S 31-010 et l’amendement A1 de 
+décembre 2008 définissent une méthodologie permettant de catégoriser les conditions de mesurage. 
+
+L’influence des conditions météorologiques sur la propagation sonore est d’autant plus importante 
+que l’on s’éloigne de la source. 
+
+8.2.1  Définitions des conditions aérodynamiques 
+
+Contraire 
+
+Peu contraire 
+
+De travers 
+
+Peu Portant 
+
+Portant 
+
+Vent fort 
+
+Vent moyen 
+Vent faible 
+
+U1 
+
+U2 
+U3 
+
+U2 
+
+U2 
+U3 
+
+U3 
+
+U3 
+U3 
+
+U4 
+
+U4 
+U3 
+
+U5 
+
+U4 
+U3 
+
+La vitesse du vent est caractérisée de façon conventionnelle à 2 m au-dessus du sol par les termes 
+suivants : 
+
+- 
+- 
+- 
+
+vent fort : vitesse du vent > 3m/s ; 
+vent moyen : 1 m/s < vitesse du vent < 3m/s ; 
+vent faible : vitesse du vent < 1 m/s. 
+
+Les différentes catégories de vent sont définies par référence au secteur d’où vient le vent : 
+
+8.2.2  Définition des conditions thermiques 
+
+Période 
+
+Rayonnement 
+
+Humidité en surface 
+
+Vent 
+
+Fort 
+
+Jour 
+
+Moyen à faible 
+
+Surface sèche 
+
+Surface humide 
+
+Surface sèche 
+
+Surface humide 
+
+Faible ou moyen 
+
+Fort 
+
+Faible ou moyen ou fort 
+
+Faible ou moyen ou fort 
+
+Faible ou moyen 
+
+Fort 
+
+Période de lever ou de coucher du soleil 
+
+Ti 
+
+T1 
+
+T2 
+
+T2 
+
+T2 
+
+T2 
+
+T3 
+
+T3 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 31 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Période 
+
+Couverture nuageuse 
+
+Vent 
+
+Nuit 
+
+Ciel nuageux 
+
+Ciel dégagé 
+
+Faible ou moyen ou fort 
+
+Moyen ou fort 
+
+Faible 
+
+Ti 
+
+T4 
+
+T4 
+
+T5 
+
+Les indices « jour » et « nuit » ont ici le sens courant et ne renvoient pas à une période réglementaire. 
+
+Le rayonnement est fonction de l’intensité de l’énergie solaire qui arrive au sol. 
+
+-  un fort rayonnement se rencontre au moment où le soleil est au voisinage du zénith (± 3h) 
+avec une absence totale de nuages, dans la période allant de l’équinoxe de printemps à celui 
+d’automne ; 
+
+-  un rayonnement moyen se rencontre dans l’une des circonstances suivantes : 
+
+•  soleil à ± 3h par rapport au zénith mais avec une couverture nuageuse au moins égale à 6 
+
+octas ; 
+
+•  1h après le lever du soleil jusqu’à 3h avant le zénith avec une couverture nuageuse au plus 
+
+égale à 4 octas ; 
+
+•  3h après le zénith jusqu’à 1h avant le coucher du soleil avec une couverture nuageuse au 
+
+plus égale à 4 octas. 
+
+La couverture nuageuse est appréciée de façon conventionnelle selon les deux catégories suivantes : 
+
+- 
+- 
+
+ciel nuageux : correspond à plus de 20% du ciel caché (entre 3 et 8 octas) ; 
+ciel dégagé : correspond à plus de 80% du ciel dégagé (inférieure ou égale à 2 octas). 
+
+L’humidité en surface peu se définir ainsi : 
+
+- 
+
+surface sèche : il n’y a pas eu de pluie dans les 48h précédant le mesurage et pas plus de 2 mm 
+dans le courant de la semaine précédant le mesurage ; 
+surface humide : il est tombé au moins 4 mm à 5 mm d’eau dans les dernières 24h. 
+Ces états correspondent à des états particuliers. En réalité, la surface du sol passe de façon continue 
+d’un état à l’autre. La description donnée consiste à préciser l’état dont elle est le plus proche. 
+
+- 
+
+8.2.3  Définition des conditions de propagation Grille Ui/Ti : 
+
+T1 
+T2 
+T3 
+T4 
+T5 
+
+U1 
+
+- - 
+- 
+- 
+
+U2 
+- - 
+- 
+- 
+Z 
++ 
+
+U3 
+- 
+- 
+Z 
++ 
++ 
+
+U4 
+- 
+Z 
++ 
+++ 
+++ 
+
+U5 
+
++ 
++ 
+++ 
+
+- - 
+- 
+Z 
++ 
+++ 
+
+Conditions défavorables pour la propagation sonore 
+Conditions défavorables pour la propagation sonore 
+Conditions homogènes pour la propagation sonore 
+Conditions favorables pour la propagation sonore 
+Conditions favorables pour la propagation sonore 
+
+8.3  Echelle de niveaux sonores 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 32 sur 35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 33 sur 35 
+
+ 
+ 
+ 
+9.  GLOSSAIRE 
+
+Bruit ambiant 
+
+Bruit total composé de l'ensemble des bruits émis par les sources proches et éloignées existantes, dans une situation donnée pendant un 
+intervalle de temps donné. 
+
+Bruit particulier 
+
+Bruit émis par une source identifiée spécifiquement. 
+
+Bruit résiduel 
+
+Bruit ambiant d’un site sans l’activité et sans les sources de bruit incriminées influençant son niveau. 
+
+Emergence 
+
+L'émergence est la différence arithmétique entre le niveau de bruit ambiant (avec source de bruit incriminée) et le niveau de bruit résiduel 
+(sans source de bruit incriminée) au cours d’un intervalle d'observation. 
+
+Décibel 
+
+Le décibel est une unité de mesure logarithmique en acoustique. C’est un terme sans dimension. Il est noté dB. 
+
+Bandes d’Octaves, de Tiers d’Octaves et Niveau Global 
+
+Deux fréquences sont dites séparées d’une octave si le rapport de la plus élevée à la plus faible est égal à 2. Dans le cas du tiers d’octave, ce 
+rapport est de 2 à la puissance 1/3. 
+
+Le niveau global correspond à la somme énergétique de toutes les bandes d’octaves. Il est noté L. 
+
+Niveau sonore 
+
+Le niveau sonore d’un bruit est évalué par l’amplitude de la variation de pression par rapport à la pression atmosphérique moyenne. 
+Le niveau sonore est généralement exprimé en décibel dB et calculé comme suit : 
+
+𝐋𝐩 = 𝟐𝟎 𝐥𝐨𝐠 (
+
+𝐩
+𝐩𝟎
+
+) 
+
+Avec : 
+
+p0 = 2.10-5 Pascal (pression de référence : seuil d’audibilité) 
+
+p = pression acoustique 
+
+Cette grandeur est dépendante de l'environnement de la source. 
+
+Afin de caractériser un bruit fluctant par une seule valeur, on calcule le niveau de pression acoustique continu équivalent Leq. Le niveau 
+sonore équivalent représente le niveau sonore qui contiendrait autant d’énergie que le niveau réel fluctuant sur la durée de l’intervalle 
+considéré. Cet indicateur pondéré A s’écrit LAeq et s’exprime en dB(A). 
+
+Spectre sonore 
+
+Un spectre sonore est la décomposition fréquentielle d’un son. Cette décomposition est couramment réalisée en octave ou tiers d’octave. 
+
+Pondération A 
+
+La pondération A est un filtre particulier dont l’objet est de corriger un signal afin de tenir compte de la non linéarité de perception de 
+l’oreille humaine. 
+Lorsqu’on applique cette correction sur un niveau sonore, celui-ci s’exprime en dB(A).  
+Il existe d’autres pondérations moins courantes qui peuvent être utilisées dans des cas particuliers, les pondérations B et C. 
+
+Indices statistiques (ou indices fractiles) 
+
+Cet indice représente le niveau de pression acoustique dépassé pendant X% de l'intervalle de temps considéré. Les indices les plus souvent 
+utilisés sont les suivants: 
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 34 sur 35 
+
+ 
+- 
+- 
+- 
+
+L10 : niveau sonore atteint ou dépassé pendant 10 % du temps de la mesure, 
+L50 : niveau sonore atteint ou dépassé pendant 50% du temps de la mesure, 
+L90 : niveau sonore atteint ou dépassé pendant 90% du temps de la mesure. 
+
+Tonalité marquée 
+
+La tonalité marquée est détectée dans un spectre non pondéré de tiers d’octave quand la différence de niveau entre une bande de 
+fréquence et les quatre adjacentes atteint ou dépasse 10 dB pour les bandes de tiers d’octave 50 à 315Hz et 5 dB pour les bandes de tiers 
+d’octave 400 à 1250 Hz et 1600 à 8000 Hz. Dans le cas d’un bruit à tonalité marquée, le bruit ne peut dépasser 30% de la durée de 
+fonctionnement sur les périodes diurnes et nocturnes.  
+
+RAP2-A2306-109-V4 – Rapport d’étude – R2-DOC-004-14-ICPE - 18/09/2023 
+
+Page 35 sur 35 
+
+ 
+ 
+ 
+ 
+Présentation du projet de La Tutelle 
+
+Septembre 2023 
+
+Annexe 6 Étude d’impact visuel 
+23.016_APS_B.01_Carnet de perspectives_Ind.B_23.06.28_YBA.pdf 
+
+Page 43 sur 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Désignation
+
+Nbre de pages
+
+Date 1ère diff.
+
+Ind.
+
+Date
+
+B.01.01
+
+Vue interne depuis le Sud-Est
+
+B.01.02
+
+Vue interne depuis le Nord-Est
+
+B.01.03
+
+Vue depuis l'Ouest
+
+B.01.04
+
+Insertion : vue de près depuis la D212
+
+B.01.05
+
+Insertion : vue de loin depuis la D212
+
+B.01.06
+
+Insertion : vue de l'accès depuis le chemin communal
+
+B.01.07
+
+Vue aérienne
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+28/06/23
+
+28/06/23
+
+28/06/23
+
+28/06/23
+
+28/06/23
+
+28/06/23
+
+28/06/23
+
+A
+
+A
+
+A
+
+B
+
+0
+
+0
+
+A
+
+20/07/23
+
+20/07/23
+
+20/07/23
+
+20/07/23
+
+20/07/23
+
+Maître d'ouvrage :
+
+Harmony Energy France
+297, route de l'Isle sur la Sorgue
+
+84800 Lagnes
+
+Opération :
+
+Phase :
+
+CONSTRUCTION D'UN PARC DE STOCKAGE
+
+D'ELECTRICITE
+
+La Tutelle 63800 Saint-Georges-sur-Allier
+
+APS
+
+N° du doc :
+
+Nom du doc :
+
+B.01
+
+CARNET DE
+PERSPECTIVES
+
+Ech. : Multiples
+
+Format : A3
+
+Mission n°
+
+23.016
+
+Nom du fichier informatique :
+23.016_APS_B.01_Carnet de perspectives_Ind.B_23.06.28_YBA
+
+Ind.
+
+Date
+
+Observations
+
+0
+
+A
+
+B
+
+28/06/23
+
+Edition originale
+
+28/06/23
+
+Modifications mineures
+
+20/07/23
+
+Modification de la limite Nord
+
+Emetteur :
+
+YBA
+
+193, rue des Ecoles 13810 Eygalières
+Tel : 04.58.00.13.32 - Fax : 04.58.00.13.34
+Email : contact@yannbay.com
+
+B.01.01 - PERPSECTIVE
+VUE DEPUIS LE SUD-EST
+Fichier informatique :
+
+23.016_APS_B.01.01_Vue depuis le S-E_Ind.0_23.06.28_YBA
+
+Harmony Energy France
+297, route de l'Isle sur la Sorgue
+84800 Lagnes
+
+CONSTRUCTION D'UN PARC DE STOCKAGE
+D'ELECTRICITE
+La Tutelle 63800 Saint-Georges-sur-Allier
+
+Ind.
+
+Date :
+
+Phase : 
+
+A
+
+20/07/23
+
+Format : A3
+
+Mission n°
+
+23.016
+
+APS
+
+YBA
+
+193, rue des Ecoles 13810 Eygalières
+Tel : 04.58.00.13.32 - Fax : 04.58.00.13.34
+Email : contact@yannbay.com
+
+Page :
+
+01
+
+/ 01
+
+B.01.02 - PERPSECTIVE
+VUE DEPUIS LE NORD-EST
+Fichier informatique :
+
+23.016_APS_B.01.02_Vue depuis le N-E_Ind.0_23.06.28_YBA
+
+Harmony Energy France
+297, route de l'Isle sur la Sorgue
+84800 Lagnes
+
+CONSTRUCTION D'UN PARC DE STOCKAGE
+D'ELECTRICITE
+La Tutelle 63800 Saint-Georges-sur-Allier
+
+Ind.
+
+Date :
+
+Phase : 
+
+A
+
+20/07/23
+
+Format : A3
+
+Mission n°
+
+23.016
+
+APS
+
+YBA
+
+193, rue des Ecoles 13810 Eygalières
+Tel : 04.58.00.13.32 - Fax : 04.58.00.13.34
+Email : contact@yannbay.com
+
+Page :
+
+01
+
+/ 01
+
+B.01.03 - PERPSECTIVE
+VUE DEPUIS L'OUEST
+Fichier informatique :
+
+23.016_APS_B.01.03_Vue depuis l'Ouest_Ind.0_23.06.28_YBA
+
+Harmony Energy France
+297, route de l'Isle sur la Sorgue
+84800 Lagnes
+
+CONSTRUCTION D'UN PARC DE STOCKAGE
+D'ELECTRICITE
+La Tutelle 63800 Saint-Georges-sur-Allier
+
+Ind.
+
+Date :
+
+Phase : 
+
+A
+
+20/07/23
+
+Format : A3
+
+Mission n°
+
+23.016
+
+APS
+
+YBA
+
+193, rue des Ecoles 13810 Eygalières
+Tel : 04.58.00.13.32 - Fax : 04.58.00.13.34
+Email : contact@yannbay.com
+
+Page :
+
+01
+
+/ 01
+
+B.01.04.01 - VUE AVEC HAIES
+
+B.01.04.02 - VUE SANS HAIE
+
+B.01.04 - INSERTION
+VUE DEPUIS LE NORD (D212)
+Fichier informatique :
+
+23.016_APS_B.01.04_Insertion depuis D212_Ind.A_23.06.28_YBA
+
+Harmony Energy France
+297, route de l'Isle sur la Sorgue
+84800 Lagnes
+
+CONSTRUCTION D'UN PARC DE STOCKAGE
+D'ELECTRICITE
+La Tutelle 63800 Saint-Georges-sur-Allier
+
+Ind.
+
+Date :
+
+Phase : 
+
+B
+
+20/07/23
+
+Format : A3
+
+Mission n°
+
+23.016
+
+APS
+
+YBA
+
+193, rue des Ecoles 13810 Eygalières
+Tel : 04.58.00.13.32 - Fax : 04.58.00.13.34
+Email : contact@yannbay.com
+
+Page :
+
+01
+
+/ 01
+
+B.01.05 - INSERTION - VUE DE L'ACCES
+DEPUIS LE SUD-OUEST (CHEMIN COMMUNAL)
+Fichier informatique :
+
+23.016_APS_B.01.05_Insertion depuis accès_Ind.0_23.06.28_YBA
+
+Harmony Energy France
+297, route de l'Isle sur la Sorgue
+84800 Lagnes
+
+CONSTRUCTION D'UN PARC DE STOCKAGE
+D'ELECTRICITE
+La Tutelle 63800 Saint-Georges-sur-Allier
+
+Ind.
+
+Date :
+
+Phase : 
+
+0
+
+28/06/23
+
+Format : A3
+
+Mission n°
+
+23.016
+
+APS
+
+YBA
+
+193, rue des Ecoles 13810 Eygalières
+Tel : 04.58.00.13.32 - Fax : 04.58.00.13.34
+Email : contact@yannbay.com
+
+Page :
+
+01
+
+/ 01
+
+PROJET
+
+B.01.06 - INSERTION - VUE LOINTAINE
+DEPUIS LE NORD-EST (D221)
+Fichier informatique :
+
+23.016_APS_B.01.06_Vue lontaine_Ind.0_23.06.28_YBA
+
+Harmony Energy France
+297, route de l'Isle sur la Sorgue
+84800 Lagnes
+
+CONSTRUCTION D'UN PARC DE STOCKAGE
+D'ELECTRICITE
+La Tutelle 63800 Saint-Georges-sur-Allier
+
+Ind.
+
+Date :
+
+Phase : 
+
+0
+
+28/06/23
+
+Format : A3
+
+Mission n°
+
+23.016
+
+APS
+
+YBA
+
+193, rue des Ecoles 13810 Eygalières
+Tel : 04.58.00.13.32 - Fax : 04.58.00.13.34
+Email : contact@yannbay.com
+
+Page :
+
+01
+
+/ 01
+
+PROJET
+
+B.01.07 - VUE AERIENNE
+
+Fichier informatique :
+
+23.016_APS_B.01.07_Vue aérienne_Ind.0_23.06.28_YBA
+
+Harmony Energy France
+297, route de l'Isle sur la Sorgue
+84800 Lagnes
+
+CONSTRUCTION D'UN PARC DE STOCKAGE
+D'ELECTRICITE
+La Tutelle 63800 Saint-Georges-sur-Allier
+
+Ind.
+
+Date :
+
+Phase : 
+
+A
+
+20/07/23
+
+Format : A3
+
+Mission n°
+
+23.016
+
+APS
+
+YBA
+
+193, rue des Ecoles 13810 Eygalières
+Tel : 04.58.00.13.32 - Fax : 04.58.00.13.34
+Email : contact@yannbay.com
+
+Page :
+
+01
+
+/ 01
+
+

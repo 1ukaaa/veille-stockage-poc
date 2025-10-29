@@ -1,0 +1,218 @@
+A
+
+B
+
+C
+
+D
+
+E
+
+1
+
+2
+
+3
+
+4
+
+2.4187
+
+A
+
+B
+
+C
+
+N
+
+BAES
+
+SALLE SCADA
+
+SALLE RTE
+
+S
+E
+A
+B
+
+B
+A
+E
+S
+
+SALLE DE RELAYAGE
+
+S
+S
+F
+
+m
+m
+o
+C
+-
+D
+Q
+
+B
+A
+E
+S
+
+Transf
+aux
+
+Départ
+BESS
+4
+
+Départ
+BESS
+3
+
+Départ
+BESS
+2
+
+Départ
+BESS
+1
+
+Arrivée
+
+S
+E
+A
+B
+
+Transfo Auxiliaire
+
+LV
+connections
+
+UPS
+
+Pièces
+détachées
+
+Camion
+
+Camion
+
+Camion
+
+Camion
+
+Camion
+
+s
+e
+é
+h
+c
+a
+
+t
+
+é
+d
+
+s
+e
+c
+è
+P
+
+i
+
+Projet BESS 3h
+Installée: 69 MVA / 208 MVAh
+Utile:  58 MW /  174 MWh
+
+5
+
+Références:
+Batteries EnerC CATL - Capacité nominale: 4.073 MWh: 51 unités
+MV Station SMA MVPS 4000-S2: 17 unités
+·
+·
+Facteur de puissance (PF) : 0.95 / Facteurs de réduction (pertes) : 15.5% /
+Efficacité des onduleurs : 0.97
+
+Onduleur : 4 MVA
+Transformateur 4 MVA - 20 kV/ 600V
+
+Notes :
+ICPE 2023
+7 m de la limite du site
+7 m des bâtiments
+3 m entre les enceintes, les transformateurs si les enceites sont
+conformes à la norme UL9540A
+
+100 m d'une bouche d'incendie ou doit disposer d'une réserve d'eau de
+120m3
+La cuve des eaux usées doit être placée en fonction de la topographie du
+terrain. La position présentée est indicative.
+
+IND.
+
+DATE
+
+MODIFICATIONS
+
+DESS.
+
+VISA
+
+Création du plan
+
+Annexe 5
+Plan d'implantation
+58 MW
+174 MWh
+
+Conteneurs de batteries
+
+Postes de transformations + onduleurs
+
+Pistes
+
+Clôtures
+
+Accès
+
+Citerne 120 m^3
+
+Evacuation des eaux usées
+
+ECH :
+
+1 / 8 000
+
+Fomat :
+
+A3
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1
+
+2
+
+3
+
+4
+
+5
+
+

@@ -1,0 +1,643 @@
+Rapport sécurité incendie – 
+Système de stockage par batterie 
+Li-ion 
+
+Projet aux mignardières, Saint Jean Le 
+Vieux (01) 
+
+1 
+
+ 
+ 
+ 
+ 
+Sommaire 
+
+Contexte et présentation du projet ........................................................................ 3 
+
+Solutions adoptées pour le système de stockage d’énergie ..................................... 5 
+
+Enceintes de stockage ..................................................................................................................................................... 5 
+
+Système de conversion d’énergie ................................................................................................................................... 7 
+
+Mesures de protection et de lutte contre l’incendie ............................................... 8 
+
+Conception de la solution de stockage ............................................................................................................................ 8 
+Systèmes de détection .................................................................................................................................................... 8 
+
+Systèmes de lutte contre l’incendie suite à un emballement thermique ........................................................................ 9 
+
+Compatibilité du projet avec les exigences nationales .......................................... 12 
+
+Accès au site et accès au réseau incendie ............................................................. 14 
+
+Implantation du projet .................................................................................................................................................. 14 
+Surfaces concernées ..................................................................................................................................................... 16 
+
+Desserte en eau ............................................................................................................................................................ 16 
+
+Annexe n°1 : Certifications détenues par la solution CATL EnerC+ ......................... 17 
+
+Annexe n°2 : Certifications détenues par le skid SMA série MVPS 4000-S2 ............ 18 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Contexte et présentation du 
+
+projet 
+
+Le présent rapport présente les principales mesures de sécurité incendie relatives au système 
+
+de stockage localisé dans la commune de Saint Jean le Vieux (Ain) aux coordonnées suivantes : 
+
+46° 2'20.60"N   5°22'8.27"E. 
+
+L’établissement de ce rapport s‘aligne avec l’adoption exponentielle de solutions de stockage 
+
+par  batteries  lithium-ion  en  France  et  les  réglementations  actuelles  ainsi  que  futures  afin 
+
+d’assurer un maximum de mesures de détection et lutte contre tout événement d’emballement 
+
+thermique  pouvant  mener  à  un  feu  de  batterie  et  éviter  sa  propagation  aux  structures 
+
+avoisinantes.  
+
+Le  système  de  stockage  concerné  aura  un  dimensionnement  de  58  MW  /  174  MWh  et  sera 
+
+raccordé sur des départs existants 30 kV du poste source de HAUTERIVE. Le système utilisera le 
+
+transformateur 30 kV / 63 kV existant du poste source de HAUTERIVE. La Figure 1: Plan de masse 
+
+du système de stockage, présente un plan de masse préliminaire pour ce système de batterie de 
+
+55 MW. La batterie sera connectée au Réseau de transport d'électricité (RTE). 
+
+3 
+
+ 
+ 
+Figure 1: Plan de masse du système de stockage 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+  Solutions adoptées pour le 
+système de stockage d’énergie 
+
+ Enceintes de stockage 
+
+La  solution  EnerC  +  a  été  retenue  dans  le  cadre  préliminaire  de  ce  projet.  Fournie  par  CATL 
+(Contemporary  Amperex  Technology  Co., Limited)1,  cette  solution  a  une  capacité  installée  de 
+
+4.073 MWh et se présente sous la forme d’un conteneur de 20 pieds (cf.  Figure 1Figure 2 ci-
+
+dessous). 
+
+Figure 2: Solution EnerC+ (4.073 MWh) 
+
+Chacun  de  ces  conteneurs  est  doté  d’un  total  de  80  modules  de  batteries,  chaque  module 
+
+contenant 52 cellules pour un total de 4 160 cellules par système EnerC+.  
+
+Cette solution est équipée d’un système de refroidissement liquide en circuit fermé, assurant 
+
+une efficacité optimale et un échange thermique au plus près des modules.  
+
+1 CATL est le plus grand fournisseur de batteries Li-ion à l’échelle mondiale, détenant une part de 34% du marché global (tous usages confondus). 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+Figure 3. Composants principaux d'un système EnerC+ 
+
+6 
+
+Système de refroidissement liquide a ery Management System (système de ges on)Modules de ba eries ranchements électriques 
+ 
+ 
+ 
+ 
+ 
+ 
+ Système de conversion d’énergie 
+
+Le  système  de conversion d’énergie est composé  d’un onduleur bidirectionnel permettant le 
+
+passage d’un courant continu (niveau batterie) à un courant alternatif (sinusoïdal), similaire au 
+
+signal  électrique  au  niveau  du  réseau  public.  De  même,  cet  onduleur  est  connecté  à  un 
+
+transformateur  qui  permettra  d’assurer  une  élévation  de  la  tension  électrique  au  niveau 
+
+adéquat requis par le gestionnaire du réseau de transport (63 kV pour ce projet).  
+
+La solution retenue est fournie à cette étape préliminaire est celle du constructeur allemand 
+SMA  et  fait  partie  de  la  série  MVPS  4000-S2.  Sous  format  skid2,  cette  solution  incorpore 
+
+l’onduleur, le transformateur ainsi que les cellules HTA (ring main unit). 
+
+Figure 4. Système de conversion d’énergie retenu 
+
+2 Terme en anglais correspondant à un châssis métallique sur lequel sont fixés différents équipements, permettant ainsi de tran sporter aisément un 
+équipement complet “prêt à l'emploi". 
+
+7 
+
+ nduleur ransformateurCellules     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Mesures de protection et de 
+
+lutte contre l’incendie 
+
+ Conception  de 
+
+la  solution  de 
+
+stockage 
+
+La solution de stockage par batterie est dotée d’un ensemble de mesures assurant la détection 
+
+d’un événement d’emballement thermique ainsi que des mesures de lutte passives et actives 
+
+contre un incendie.  
+
+Systèmes de détection 
+
+Le tout premier maillon de sécurité incendie est celui de la détection, assurée par le système de 
+
+gestion de la batterie (battery management system ou BMS) et les détecteurs de fumée et de 
+
+chaleur. 
+
+Le  BMS  assure  une  toute  première  détection  des  signaux  liés  à  un  emballement  thermique 
+
+comme les fluctuations anormales de tension, intensité et température au niveau des cellules. 
+
+Si tel est le cas, les  MS permettent une coupure automatique de l’alimentation électrique des 
+cellules avec remontée d’un signal d’alerte à l’opérateur du projet via système SC D 3. 
+
+Chaque  « colonne »  du  système  EnerC+,  regroupant  8 modules, est  dotée  d’un  détecteur  de 
+
+fumée  ainsi  qu’un  détecteur  de  chaleur.  Ces  deux  composants  permettent  de  détecter  un 
+
+événement  d’emballement  thermique  dès  les  premiers  instants  en  décelant  les  premières 
+
+hausses de température ainsi que les fumées dues à la combustion de l’électrolyte.  
+
+3 SCADA: Le système de contrôle et d’acquisition de données en temps réel (SC D ) (en anglais : Supervisory Control  nd Data  cquisition est un 
+système de contrôle qui permet la collecte des données à partir de capteurs et de dispositifs à l'intérieur du système de stockage (tels que la tension 
+de  la  batterie,  le  courant,  la  température,  l'état  de  charge),  le  contrôle  à  distance  du  fonctionnement  du  système  de  stockage  par  les  opérateurs 
+(charge, décharge, ajustement des sorties d'énergie), et l'acquisition de données. 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5. Disposition des détecteurs et dispositif d'extinction dans un système EnerC+ 
+
+Systèmes de lutte contre l’incendie suite à 
+
+un emballement thermique 
+
+Lutte passive : le système est doté de panneaux anti-explosion afin d’éviter tout cumul des gaz 
+
+générés  lors  d’un  feu  de  batterie.  De  même,  les  « portes »  donnant  accès  aux  modules  sont 
+
+munies d’une fixation de sécurité pour éviter leur projection en cas d’incendie. 
+
+Figure 6. Systèmes de lutte passive pour les solutions CATL 
+
+Lutte active : le système est doté d’un dispositif d'extinction d'incendie par aérosol. 
+
+L'agent extincteur libéré par ce dispositif est principalement composé de particules ultrafines de 
+
+sel de potassium. Le sel de potassium est considéré comme l'un des agents extincteurs les plus 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+efficaces, et son mécanisme d'extinction est similaire à celui de l’halon, qui éteint les incendies 
+
+en empêchant la réaction chimique en chaîne complexe de la combustion ou de l'explosion. La 
+
+réaction en chaîne de la combustion nécessite la participation des radicaux OH, H et O, et les 
+
+particules ultrafines de sel de potassium peuvent rapidement consommer ces radicaux libres et 
+
+empêcher la réaction en chaîne de la combustion de se produire. 
+
+Protocole opératoire en cas d’incident :  
+
+Le protocole opératoire du système de sécurité incendie est présenté dans la Figure 7. 
+
+À  la  suite  d’un  emballement  thermique,  le  BMS  détecte  les  tous  premiers  signes  de 
+
+l’emballement  thermique,  procède  à  une  coupure  de  l’alimentation  du  système  de  stockage 
+
+d’énergie (SSE) et notifie l’opérateur du SSE par remontée de l’alerte via système SC D . 
+
+Si cette action a été insuffisante et que l’emballement thermique s’est déjà amorcé, les systèmes 
+
+de détection (fumée et chaleur) sont déclenchés. Lorsqu'un seul détecteur est déclenché, on 
+
+parle d'une alarme incendie de niveau 1. Lorsque les deux détecteurs sont déclenchés, il s'agit 
+
+d'une alarme incendie de deuxième niveau (niveau 2). 
+
+Le système d'extinction par aérosol interagit avec le système de gestion de la batterie (BMS). 
+
+Dans le cas d’une alarme du niveau 2, et passé un certain délai préconfiguré par le fournisseur 
+
+de la solution de stockage, l'aérosol est libéré, toutes les armoires électriques du système sont 
+
+maintenues hors service et un signal est envoyé au système de gestion des urgences. 
+
+10 
+
+ 
+ 
+Figure 7. Diagramme logique du processus opératoire du système de sécurité incendie4 
+
+Phases d'intervention  
+
+En plus des informations relayées par système SC D  à l’opérateur du système de stockage, ces 
+dernières sont également affichées au sein du poste de contrôle disposé à une distance de 7 
+mètres des unités de stockage5. Facilement identifiable et accessible par les services de secours, 
+le poste de contrôle est également doté d’une coupure générale (arrêt d’urgence), d’un plan du 
+site et d’un moyen de communication entre les SDIS et le poste de surveillance de l’installation. 
+
+L’existence d’alarmes visuelles permet à toute personne sur site de détecter au plus vite l’unité 
+affectée en cas d’incident et de faire remonter cette information. Cette personne est ensuite 
+apte à porter assistance aux services de secours, le cas échéant. 
+
+4 ** Sous la nomenclature ICPE 2925-2, les solutions de stockage certifiées sous la norme UL 9540A sont dispensées de l’exigence d’installation d’un 
+système de refroidissement par eau (injection d’eau à l’intérieur des modules ou aspersion d’eau au plus près des modules).   
+5 Sous la nomenclature ICPE 2925-2, le poste de contrôle doit être situé à une distance supérieure ou égale à 7 m des aires de charge. 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Compatibilité du projet avec 
+
+les exigences nationales 
+
+Le tableau ci-dessous récapitule l’ensemble des exigences listées sous la nouvelle version de la 
+
+nomenclature  ICPE  2925-2  ainsi  que  les  propriétés  retenues  pour  le  projet  sous  étude.  Ces 
+
+exigences prennent en compte le fait que la solution est certifiée UL 9540 A. 
+
+La norme UL 9540 A documente les caractéristiques d'incendie des batteries afin d'améliorer la 
+
+conception des installations et empêcher la propagation de feu de batterie à quatre niveaux de 
+
+test : de cellule à cellule, de module à module, d’unité en unité (rack), de conteneur à conteneur. 
+
+Les essais consistent à déclencher un emballement thermique à un des niveaux susmentionnés, 
+
+dans un système complet et entièrement chargé, et d’étudier son impact sur le système adjacent 
+
+(identique  au  premier  mais  sans  aucun  module  à  l'intérieur),  sur  les  murs  avoisinants  et  sur 
+
+l'enceinte du système. 
+
+La  solution  de  stockage  considérée  est  en  adéquation  avec  la  réglementation  en  vigueur 
+
+(projet d’arrêté ICPE 2925-2 en sa version datant du 07 Novembre 2023). 
+
+12 
+
+ 
+ 
+ 
+Distance vis-à-vis des 
+limites du site 
+
+Distance enceintes-
+transformateurs 
+
+Moyens de lutte contre 
+l’incendie : 
+
+▪  Refroidissement 
+▪  Extinction 
+
+Réserves d’eau à la 
+disposition des SDIS 
+
+Tableau 1 : Exigences ICPE et compatibilité du projet de stockage à cette norme 
+
+Exigences ICPE 2925-2 
+
+Propriété retenue pour le projet sous étude 
+
+Compatible ? 
+
+7 mètres 
+
+3 mètres 6 
+
+7 mètres vis-à-vis des limites côté Ouest et 7 m 
+vis-à-vis de la limite de propriété au Nord 
+
+3 mètres 
+
+Les solutions certifiées sous la norme UL 9540A sont 
+exemptées des exigences mentionnées dans l’ rticle 
+4.1 du texte de l’arrêté. 
+
+Le système est équipé d’un système d’extinction 
+par aérosol ainsi que des mesures passives 
+(panneau anti-explosion, système de fixation des 
+portes) 
+
+Oui 
+
+Oui 
+
+Oui 
+
+ oute installation à moins de 70 m d’un ouvrage ou 
+d’une construction doit être desservie par un appareil 
+d’incendie (bouche, poteaux, etc.) situé à moins de 
+100 m de celle-ci et assurant un débit minimal de 
+60m3/h sous une pression minimale d’1 bar pour 2 
+heures au moins.   défaut, une réserve d’eau d’au 
+moins 120 m3 devrait être mise à disposition.  
+
+Réserve d’eau de 120 m3 considérée.  
+
+Oui 
+
+Systèmes de détection 
+
+Capteurs de température et détecteurs de fumée 
+avec transmission d’alarme au poste de contrôle 
+
+Détecteurs de chaleurs et détecteurs de fumée 
+avec transmission d’alarme au poste de contrôle. 
+
+Systèmes d’alerte 
+
+Dispositifs d’alerte sonores et visuels. Cette 
+prescription ne s'applique pas aux installations pour 
+lesquelles aucune personne n’est présente sur le site. 
+
+Pas de présences permanentes prévues sur site. 
+Le système sera opéré à distance. 
+
+Oui 
+
+Oui 
+
+6 Exigence de conformité aux normes NF C15 100, NF C13 200 et NF EN IEC 61936 1 en vigueur 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+   ccès au site et accès au 
+
+réseau incendie  
+
+ Implantation du projet 
+
+Le système de stockage sera installé sur la partie classée en zone Ue des parcelles ZB 125 et ZB 
+
+181  au  PLU  de  Saint-Jean-le-Vieux.  Ces  parcelles  correspondent  à  un  délaissé  de  projet 
+
+d’extension de la station d’épuration de Saint Jean le Vieux.  
+
+Figure 8. Plan de la parcelle zone d’implantation 
+
+Le système de stockage de 58 MW / 174 MWh sera installé sur 8 094 m2 de la parcelle (voir 
+
+Figure 9. Schéma d'implantation du projet de stockage).  
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+Figure 9. Schéma d'implantation du projet de stockage 
+
+La route principale qui longe la parcelle à l’ouest permet d’avoir un accès facile aux camions de 
+secours et de pompiers. Un espace de stationnement de 200 m2 (25m x 8m) pour les pompiers 
+a été prévu à côté du réservoir d’eau de 120 m3.  
+
+La largeur de la route d’accès au site existante est de 5m à l’ouest de la parcelle.  
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Surfaces concernées 
+
+Comme précédemment indiqué dans la section 4 du présent rapport et, au vu des distanciations 
+
+considérées, le projet ne dispose pas de murs coupe-feu.  
+
+Entre chaque conteneur batterie, 3 m ont été considérés comme requis par la norme ICPE 2925 
+
+pour  des  systèmes  vérifiant  la  norme  UL9540A.  Entre  les  conteneurs  batteries  la  limite  de 
+
+propriété,  7  minimum  ont  été  considérés  comme  requis  par  la  norme  ICPE  2925  pour  les 
+
+systèmes  vérifiant  la  norme  UL9540A.  Une  piste  périmétrale  interne  de  4m  de  large  à  été 
+
+considéré pour faciliter l’accès à la totalité du site.  
+
+Une  distance  des  conteneurs  au  poste  de  livraison  de  7m  à  été  réservé  plus  une  aire  de 
+
+manœuvre  de  117  m²  à  l’entrée  du  site  ont  été  prévu  pour  faciliter  leur  accès  et  éviter 
+
+l’encombrement.  
+
+Entre les conteneurs batteries, systèmes de conversion, salle de contrôle (avec transformateur 
+
+auxiliaire et cellules), une marge de 7 m a été considérée, 
+
+Le réservoir d’eau de 120 m3 a été placé au même niveau de que les systèmes de batteries tandis 
+
+que la cuve d’eaux usées est placée en contrebas du système de batteries.  
+
+La hauteur des conteneurs EnerC+ et du skid SMA est de 2.896 m.  
+
+ Desserte en eau 
+
+Le système de stockage par batterie sera accompagné d’une réserve d’eau de 120 m3 comme 
+
+requis par l’ICPE 2925-2. 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   nnexe n°1 : Certifications 
+détenues par la solution C  L 
+EnerC+ 
+
+Le produit EnerC+ est certifié sous les normes suivantes : 
+
+▪  UL 9540 A : Méthode d'essai pour évaluer la propagation des incendies par emballement 
+
+thermique dans les systèmes de stockage d'énergie par batterie 
+
+▪  UL 9540 : Norme pour les systèmes et équipements de stockage d'énergie 
+▪  UL  1973 :  Norme  pour  les  batteries  destinées  à  être  utilisées  dans  des  applications  de 
+
+stockage  stationnaire,  d'alimentation  auxiliaire  de  véhicule,  et  d’alimentation  de  train 
+
+électrique léger (Light Electric Rail ou LER).  
+
+▪ 
+
+IEC  62619 :  Accumulateurs  alcalins  et  autres  accumulateurs  à  électrolyte  non  acide  –
+
+Exigences  de  sécurité  pour  les  accumulateurs  au  lithium  pour  utilisation  dans  des 
+
+applications industrielles 
+
+▪ 
+
+▪ 
+
+▪ 
+
+IEC 62477-1 : Exigences de sécurité applicables aux systèmes et matériels électroniques de 
+
+conversion de puissance 
+
+IEC 62933-5-2 : Systèmes de stockage de l'énergie électrique (EES) – Partie 5-2: Exigences 
+
+de sécurité pour les systèmes EES intégrés dans un réseau – Systèmes électrochimiques 
+
+IEC  63056 :  Accumulateurs  alcalins  et  autres  accumulateurs  à  électrolyte  non  acide  –
+
+Exigences de sécurité pour les accumulateurs au lithium pour utilisation dans des systèmes 
+
+de stockage d'énergie électrique 
+
+▪ 
+
+IEC 61000-6-2/4 : Compatibilité électromagnétique (CEM) – Partie 6-2: Normes génériques 
+
+– Norme d'immunité pour les environnements industriels
+
+17 
+
+ 
+ 
+   nnexe n°2 : Certifications 
+détenues par le skid SM  série 
+MVPS 4000-S2  
+
+Le système de conversion d’énergie MVPS 4000-S2 est certifié sous les normes suivantes : 
+
+▪ 
+
+▪ 
+
+▪ 
+
+IEC  60076 :  Norme  sur  la  conception,  la  fabrication,  les  essais  et  la  mise  en  service  des 
+
+transformateurs de puissance, couvrant les aspects électriques, mécaniques et thermiques. 
+
+IEC  62271-200 :  Norme  pour  les  appareillages  à  courant  alternatif  sous  enveloppe 
+
+métallique pour des tensions nominales comprises entre 1 kV à 52 kV 
+
+IEC  62271-202 :  Norme  pour  les  appareillages  à  haute  tension,  en  particulier  les  postes 
+
+préfabriqués haute tension/basse tension 
+
+▪  EN50588-1 : Norme sur les transformateurs de moyenne puissance 50 Hz, dont la tension 
+
+ne dépasse pas 36 kV 
+
+18 
+
+ 
+ 
+12 rue de la Chaussée d’ ntin 
+
+75009 Paris, France 
+
+Tél : +33 (0)1 78 76 57 0 
+
+19 
+
+ 
+ 
+ 
+
