@@ -214,19 +214,19 @@ def download_document_worker(args: Tuple) -> Tuple[str, bytes, str]:
 
 # ============ Extraction Parallèle ============
 
-def extract_document_worker(args: Tuple) -> Tuple[str, str, str]:
+def extract_document_worker(args: Tuple) -> Tuple[str, str, str, str]:
     """Worker pour extraction parallèle de texte"""
-    filename, data, ext = args
+    filename, data, ext, doc_type = args
     
     try:
         if ext == "pdf":
             text, method = extract_pdf_robust(data)
-            return filename, text, method
+            return filename, text, method, doc_type
         else:
-            return filename, "", "unsupported"
+            return filename, "", "unsupported", doc_type
     except Exception as e:
         logger.error(f"Extraction failed {filename}: {e}")
-        return filename, "", "failed"
+        return filename, "", "failed", doc_type
 
 
 # ============ Process Project Optimisé ============
@@ -247,6 +247,8 @@ def process_project_optimized(
     output_dir.mkdir(parents=True, exist_ok=True)
     
     # 1. Page HTML
+    html = ""
+    final_url = url
     try:
         html, final_url = http_client.get_text(url)
         (output_dir / "page.html").write_text(html, encoding="utf-8")
@@ -256,7 +258,7 @@ def process_project_optimized(
     except Exception as e:
         logger.error(f"Failed to fetch HTML: {e}")
         page_text = ""
-        final_url = url
+        html = ""
     
     # 2. Découverte documents
     doc_links = find_document_links(html, final_url)
@@ -292,28 +294,62 @@ def process_project_optimized(
     has_decision = False
     
     if downloaded_docs:
-        logger.info(f"[{project_id}] Extraction parallèle de {len(downloaded_docs)} PDFs...")
+        logger.info(f"[{project_id}] Extraction parallèle de {len(downloaded_docs)} documents téléchargés...")
         
         # Préparation données extraction
-        extraction_jobs = []
+        extraction_jobs: List[Tuple[str, bytes, str, str]] = []
         url_to_link = {link["url"]: link for link in doc_links}
         
         for idx, (doc_url, blob) in enumerate(downloaded_docs.items(), 1):
             link = url_to_link.get(doc_url, {})
             doc_type = link.get("type", "AUTRE")
-            base_name = f"{idx:02d}_{doc_type}_{slugify(os.path.basename(doc_url))}"
+            ext = (link.get("ext") or "").lower()
+            base_slug = slugify(os.path.splitext(os.path.basename(doc_url))[0])
+            base_prefix = f"{idx:02d}_{doc_type}_{base_slug}"
             
-            if link.get("ext") == "pdf":
-                if not base_name.endswith(".pdf"):
-                    base_name += ".pdf"
-                
-                save_path = output_dir / base_name
+            if ext == "pdf":
+                filename = f"{base_prefix}.pdf"
+                save_path = output_dir / filename
                 save_path.write_bytes(blob)
                 
-                extraction_jobs.append((base_name, blob, "pdf"))
+                extraction_jobs.append((filename, blob, "pdf", doc_type))
                 
                 if doc_type == "DECISION":
                     has_decision = True
+            elif ext == "zip":
+                zip_filename = f"{base_prefix}.zip"
+                (output_dir / zip_filename).write_bytes(blob)
+                
+                zip_dir = output_dir / f"{base_prefix}_zip"
+                extracted = extract_zip_archive(blob, zip_dir)
+                
+                if not extracted:
+                    logger.warning(f"[{project_id}] ZIP vide ou illisible: {doc_url}")
+                    continue
+                
+                for item in extracted[:80]:
+                    file_path = Path(item["path"])
+                    file_ext = file_path.suffix.lower()
+                    try:
+                        file_bytes = file_path.read_bytes()
+                    except Exception as err:
+                        logger.error(f"[{project_id}] Lecture échouée {file_path}: {err}")
+                        continue
+                    
+                    nested_doc_type = classify_document(item.get("original_name", ""), item.get("original_name", ""))
+                    effective_type = nested_doc_type or doc_type
+                    nested_name = f"{zip_dir.name}/{file_path.name}"
+                    
+                    if file_ext in settings.PDF_EXTENSIONS:
+                        extraction_jobs.append((nested_name, file_bytes, "pdf", effective_type))
+                        if effective_type == "DECISION":
+                            has_decision = True
+                    else:
+                        text_chunks.append(
+                            f"[DOC={nested_name}|TYPE={effective_type}|METHOD=unsupported]\n(extension {file_ext} non supportée)"
+                        )
+            else:
+                logger.debug(f"[{project_id}] Extension non gérée pour {doc_url}")
         
         # Extraction parallèle
         with ThreadPoolExecutor(max_workers=MAX_WORKERS_EXTRACTION) as executor:
@@ -323,14 +359,13 @@ def process_project_optimized(
             }
             
             for future in as_completed(futures):
-                filename, text, method = future.result()
+                filename, text, method, doc_type = future.result()
                 
                 # Sauvegarde texte
                 txt_path = output_dir / f"{filename}.txt"
                 txt_path.write_text(text, encoding="utf-8")
                 
                 # Ajout au corpus
-                doc_type = "DECISION" if "DECISION" in filename else "AUTRE"
                 text_chunks.append(f"[DOC={filename}|TYPE={doc_type}|METHOD={method}]\n{text or '(vide)'}")
     
     # 5. Analyse Gemini

@@ -1,0 +1,248 @@
+Bilan carbone d’un site de stockage
+
+Sommaire
+
+1. Besoins d’Harmony Energy
+
+2. Méthodologie
+
+3. Résultats
+
+1. Bilan carbone
+2. Emissions évitées
+
+4. Contact
+
+Besoins d’Harmony Energy
+
+1.Besoins d’Harmony Energy
+
+Harmony Energy souhaite avoir un outil servant à calculer un bilan carbone simplifié pour estimer les émissions 
+de gaz à effet de serre de leur projet de stockage.
+
+Les émissions évitées seront également estimées.
+
+Méthodologie
+
+2. Méthodologie
+
+Définition du 
+périmètre 
+
+Collecte des 
+données
+
+Calcul et analyse
+
+Partage de l’outil et 
+des résultats
+
+Le Bilan Carbone de l’ADEME a été retenue comme approche méthodologique.
+
+Résultats
+
+3. 1.Résultats du bilan carbone
+
+Définition des périmètres
+
+• Périmètre temporel : du développement de projet au démantèlement de la centrale 
+
+• Durée : 20 ans 
+
+• Périmètre organisationnel : centrale de stockage d’électricité 
+
+Lieu : France
+
+•
+• Technologie utilisée : batteries
+• Capacité : 100MW pour 200MWh 
+• Hypothèse de dégradation temporelle des batteries : 2% par an
+
+• Périmètre opérationnel : toutes les émissions directes et indirectes
+
+• Scopes 1, 2 et 3 
+
+3.1. Résultats du bilan carbone
+
+Résultat global
+
+Emissions CO2e générées 
+par la centrale (Tonnes)
+
+35000
+
+30000
+
+25000
+
+20000
+
+15000
+
+10000
+
+5000
+
+0
+
+30873
+
+Développement (<1%)
+
+Equipement (90%)
+
+Construction (5%)
+
+Exploitation (<1%)
+
+Démantelement (5%)
+
+Changement d'usage des sols (<1%)
+
+1
+
+1829
+
+1571
+
+264
+
+8
+
+Emissions totales générées :
+34 389 tonnes de CO2e
+
+3.1. Résultats du bilan carbone
+
+Focus développement (<1%)
+
+< 1 T
+
+•
+
+Les postes d’émissions sont essentiellement liées aux déplacements des prestataires et de l’équipe d’Harmony 
+Energy France.
+
+Focus équipement (90%)
+
+30 873 T
+
+• C’est le premier poste d’émission sur la durée de vie du projet avec environ 90% de l’empreinte carbone totale, 
+elle correspond à l’achat des équipements. Le premier étant lié à la batterie et le second aux transformateurs.
+Il nous manque ici le facteur d’émission des cellules HTA.
+
+•
+
+Emissions CO2e 
+générées 
+par les équipements
+(Tonnes)
+
+25000
+
+20000
+
+15000
+
+10000
+
+5000
+
+0
+
+20200
+
+10672
+
+Batteries
+
+Transformateurs
+
+Câbles
+
+0,6
+
+3.1. Résultats du bilan carbone
+
+Focus construction (5%)
+
+1 829 T
+
+•
+
+Les postes d’émissions sont : 
+
+• Transport de marchandise en amont (90%)
+• Achats des équipements annexes pour le chantier (grillage, béton, able, etc.) (9%)
+• Déplacements des prestataires et des équipes HEF (<1%)
+• Déchets (<1%)
+
+Focus exploitation (<1%)
+
+8 T
+
+•
+
+Le poste d’émission est :
+
+•
+
+•
+
+Les déplacements pour la maintenance sont également pris en compte mais représentent moins de 1% des 
+émissions.
+Le choix a été fait par HEF de ne pas comptabiliser la consommation d’électricité pendant la durée de vie 
+du projet, nous expliquerons pourquoi dans la slide 3.2 sur les émissions évitées.
+
+3.1. Résultats du bilan carbone
+
+Focus démantèlement (5%)
+
+1 571 T
+
+•
+
+Les postes d’émissions sont : 
+
+• Transport de marchandise en aval (95%)
+• Déplacements des prestataires et des équipes HEF (<1%)
+
+Focus changement d’usage des sols  (<1%)
+
+264 T
+
+• Une surface de 0,9109 hectare va être transformé de prairie à un espace artificialisé (partiellement 
+
+imperméabilisé), il s’agit d’une valeur très conservatrice.
+
+3.2. Emissions évitées
+
+HEF a fait le choix de ne pas comptabiliser la consommation d’énergie dans son bilan carbone car nous traitons ce point là 
+dans ce chapitre.
+
+Estimation de l’énergie totale soutirée/consommée au réseau durant 20 ans : 1,247 TWh 
+Estimation de l’énergie totale injectée dans le réseau durant 20 ans : 1,060 TWh
+
+Hypothèse des émissions générées liées à la consommation, en prenant le facteur d’émission du mix électrique Français : 
+Calcul : énergie totale soutirée au réseau X FE du mix électrique Français = émissions de CO2e liées à la consommation
+Le facteur d’émission (FE) du mix électrique Français est de 36gCO2/kWh en 2021 - source RTE
+1 247*36= 44 892 tonnes de CO2e
+
+Hypothèse des émissions générées liées à la substitution de l’électricité produite par une centrale à gaz par de l’énergie du
+mix électrique Français stocké par la batterie, en prenant le facteur d’émission d’une centrale à gaz : 
+Calcul : énergie injectée dans le réseau X FE d’une centrale à charbon = émissions de CO2e de l’électricité après injection
+Le facteur d’émission (FE) d’une centrale à gaz est de 418gCO2/KWh - source ADEME
+1 060*418= 443 080 tonnes de CO2e
+
+Emissions évitées en phase d’exploitation : 443 080 - 44 892= 398 188 tonnes de CO2e
+
+Contact
+
+Myriam Beaupied
+
+myriam@gaiana-rse.fr
+M : 06.75.78.19.71
+
+www.gaiana-rse.fr
+
+

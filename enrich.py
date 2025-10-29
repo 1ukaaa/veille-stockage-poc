@@ -15,17 +15,18 @@ import sys
 import json
 import time
 import re
+import hashlib
+import threading
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple, Any
 from dataclasses import dataclass, field, asdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from functools import lru_cache
 import argparse
 import logging
 
+import httpx
 import pandas as pd
-import google.generativeai as genai
-from google.generativeai import types
 
 from config import settings
 
@@ -53,13 +54,80 @@ class Config:
     REQUEST_TIMEOUT = 25
     MAX_RETRIES = 2
     SEARCH_DELAY = 0.4
-    NUM_SEARCHES = 4
+    NUM_SEARCHES = 5
     
     # Gemini models config
     SEARCH_OUTPUT_TOKENS = 1024
     JSON_OUTPUT_TOKENS = 1536
     SEARCH_TEMPERATURE = 0.1
     JSON_TEMPERATURE = 0.0
+
+
+class GeminiClient:
+    """Client HTTP minimal pour Gemini API avec support Google Search."""
+    
+    BASE_URL = "https://generativelanguage.googleapis.com"
+    
+    def __init__(self, api_key: str, model: str):
+        self.api_key = api_key
+        self.model = model
+        self.client = httpx.Client(
+            base_url=self.BASE_URL,
+            timeout=Config.REQUEST_TIMEOUT,
+            headers={"Content-Type": "application/json"}
+        )
+    
+    def close(self):
+        self.client.close()
+    
+    def generate(
+        self,
+        prompt: str,
+        *,
+        generation_config: Optional[Dict[str, Any]] = None,
+        response_mime_type: Optional[str] = None,
+        use_google_search: bool = False
+    ) -> Dict[str, Any]:
+        body: Dict[str, Any] = {
+            "contents": [
+                {"role": "user", "parts": [{"text": prompt}]}
+            ]
+        }
+        
+        config = dict(generation_config or {})
+        if response_mime_type:
+            config["responseMimeType"] = response_mime_type
+        if config:
+            body["generationConfig"] = config
+        
+        if use_google_search:
+            body["tools"] = [{"googleSearch": {}}]
+        
+        response = self.client.post(
+            f"/v1beta/models/{self.model}:generateContent",
+            params={"key": self.api_key},
+            json=body
+        )
+        response.raise_for_status()
+        data = response.json()
+        
+        candidates = data.get("candidates", [])
+        text_parts: List[str] = []
+        grounding_metadata: Dict[str, Any] = {}
+        
+        if candidates:
+            first = candidates[0]
+            content = first.get("content", {})
+            for part in content.get("parts", []):
+                if "text" in part:
+                    text_parts.append(part["text"])
+            grounding_metadata = first.get("groundingMetadata", {}) or {}
+        
+        return {
+            "text": "".join(text_parts).strip(),
+            "grounding_metadata": grounding_metadata,
+            "raw": data
+        }
 
 
 # Mapping départements (cache statique)
@@ -84,52 +152,75 @@ REGION_SLUGS = {
 class Prompts:
     """Templates de prompts optimisés"""
     
-    SEARCH_PARTICIPATION = """Cherche permis construire: {title}, {commune} ({dept})
-Sources: Participation publique
-1. site:{dept_slug}.gouv.fr "participation du public" "{commune}" batterie
-2. site:{dept_slug}.gouv.fr "consultation publique" "{commune}"
+    SEARCH_PREF_GENERAL = """Tu es un expert des permis de construire français.
+Identifie le permis de construire délivré par la {prefecture_hint} pour le projet "{title}" situé à {commune} ({dept}).
+Utilise uniquement des requêtes Google ciblées sur la préfecture compétente :
+1. prefecture "{commune}" "permis de construire" {dept}
+2. "{prefecture_hint}" "permis de construire" "{commune}"
+Ne retiens que les résultats qui mentionnent explicitement un permis de construire émis par la préfecture (PC). Ignore CERFA, avis MRAE, enquêtes publiques et dossiers de participation.
 
-Format: XXX YYY ZZ RNNNN (ex: 063 204 24 R0004)
-Réponds: Permis [numéro] URL [lien] Confiance [0-1] OU Non trouvé"""
+Format réponse :
+Permis [numéro] Préfecture [nom] URL [lien] Confiance [0-1]
+OU "Non trouvé" si aucun permis préfectoral n'apparaît."""
 
-    SEARCH_RAA = """Cherche permis: {title}, {commune} ({dept})
-Sources: RAA 2024
-1. site:{dept_slug}.gouv.fr RAA 2024 "{commune}" filetype:pdf
-2. site:{dept_slug}.gouv.fr "recueil actes administratifs"
+    SEARCH_PREF_ARRETE = """Recherche l'arrêté préfectoral accordant le permis de construire pour "{title}" à {commune} ({dept}).
+Focus : communiqué ou arrêté signé par la {prefecture_hint}.
+Requêtes suggérées :
+1. "arrêté préfectoral" "permis de construire" "{commune}" {dept}
+2. "{prefecture_hint}" "arrêté" "permis de construire" "{title}"
+Ne renvoie que des permis signés par la préfecture. Écarte CERFA, études d'impact ou autres documents préparatoires.
 
-Format: XXX YYY ZZ RNNNN
-Réponds: Permis [numéro] PDF [lien] Confiance [0-1] OU Non trouvé"""
+Format : Permis [numéro] Préfecture [nom] URL [lien] Confiance [0-1] OU Non trouvé."""
 
-    SEARCH_CERFA = """Cherche permis: {title}, {commune} ({dept})
-Sources: CERFA/MRAE
-1. site:{dept_slug}.gouv.fr CERFA "{commune}" filetype:pdf
-2. site:mrae.developpement-durable.gouv.fr "{commune}"
+    SEARCH_PREF_RAA = """Consulte le Recueil des Actes Administratifs (RAA) ou bulletins de la {prefecture_hint} pour trouver le permis de construire correspondant à "{title}" ({commune}, {dept}).
+Requêtes :
+1. "recueil actes administratifs" "{commune}" "permis de construire"
+2. site:gouv.fr "{commune}" "permis de construire" "{prefecture_hint}"
+Ne t'intéresse qu'aux permis de construire préfectoraux (PC). Ignore décisions CERFA, avis d'enquête, déclarations préalables.
 
-Format: XXX YYY ZZ RNNNN
-Réponds: Permis [numéro] URL [lien] Confiance [0-1] OU Non trouvé"""
+Format : Permis [numéro] Préfecture [nom] URL [lien] Confiance [0-1] OU Non trouvé."""
 
-    SEARCH_ARRETE = """Cherche permis: {title}, {commune} ({dept})
-Sources: Arrêtés
-1. "{commune}" {dept} "arrêté préfectoral" stockage
-2. "{applicant}" permis construire {dept}
+    SEARCH_PREF_ARCHIVE = """Explore les archives ou bases documentaires de la préfecture compétente ({prefecture_hint}) pour le permis de construire du projet "{title}" ({commune}, {dept}).
+Requêtes :
+1. "{prefecture_hint}" "autorisation environnementale" "permis de construire"
+2. "pc" "{commune}" "{prefecture_hint}" filetype:pdf
+Ne remonte que les permis de construire préfectoraux. Exclue avis MRAE, CERFA, documents sans décision de la préfecture.
 
-Format: XXX YYY ZZ RNNNN
-Réponds: Permis [numéro] URL [lien] Confiance [0-1] OU Non trouvé"""
+Format : Permis [numéro] Préfecture [nom] URL [lien] Confiance [0-1] OU Non trouvé."""
 
-    AGGREGATION = """Analyse recherches permis {title}, {commune} ({dept}):
+    SEARCH_PREF_COMMUNICATION = """Vérifie si la {prefecture_hint} a publié un communiqué ou une actualité mentionnant le permis de construire pour "{title}" ({commune}, {dept}).
+Requêtes :
+1. site:gouv.fr "{commune}" "autorisation" "préfecture"
+2. "{prefecture_hint}" "permis de construire" "batterie" "{commune}"
+Ne conserve que des informations confirmant un permis de construire préfectoral. Ignore tout autre document administratif.
 
-R1 (Participation): {r1}
-R2 (RAA): {r2}
-R3 (CERFA): {r3}
-R4 (Arrêtés): {r4}
+Format : Permis [numéro] Préfecture [nom] URL [lien] Confiance [0-1] OU Non trouvé."""
 
-Extrais meilleure info (confiance max). Format XXX YYY ZZ RNNNN.
-Priorité: Participation > RAA > CERFA > Arrêtés
+    AGGREGATION = """Analyse des recherches pour le permis préfectoral du projet "{title}" à {commune} ({dept}).
+Objectif : identifier uniquement le permis de construire émis par la préfecture compétente. Ignore CERFA, avis MRAE, consultations ou dossiers préparatoires.
 
-JSON strict (pas de markdown):
-{{"permit_number":"XXX YYY ZZ RNNNN ou null","permit_type":"PC ou DP ou null","issue_date":"YYYY-MM-DD ou null","applicant":"nom ou null","source_url":"URL ou null","source_type":"participation_publique ou RAA ou CERFA ou arrete ou null","confidence":0.0,"search_summary":"Source retenue"}}
+R1 (Préfecture ciblée) : {r1}
+R2 (Arrêté préfectoral) : {r2}
+R3 (RAA / bulletin) : {r3}
+R4 (Archives préfectorales) : {r4}
+R5 (Communication officielle) : {r5}
 
-Si rien: tout null, confidence 0.0"""
+Retourne un JSON STRICT (aucun texte hors JSON) avec ce schéma :
+{{
+  "permit_number": "XXX YYY ZZ RNNNN ou null",
+  "permit_type": "PC ou null",
+  "issue_date": "YYYY-MM-DD ou null",
+  "applicant": "nom ou null",
+  "source_url": "URL préfectorale ou null",
+  "source_type": "prefecture_arrete | prefecture_raa | prefecture_communique | autre | null",
+  "confidence": 0.0,
+  "search_summary": "Phrase courte décrivant la source retenue"
+}}
+
+Contraintes :
+- Résultat uniquement si la source confirme un permis de construire préfectoral.
+- Si rien de concluant : toutes les valeurs à null et confidence 0.0.
+"""
 
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -139,10 +230,12 @@ Si rien: tout null, confidence 0.0"""
 @dataclass
 class SearchResult:
     """Résultat d'une recherche ciblée"""
+    label: str
     text: str
     urls: List[str] = field(default_factory=list)
     success: bool = False
     duration: float = 0.0
+    api_calls: int = 1
 
 
 @dataclass
@@ -236,18 +329,41 @@ def get_region_slug(region: str) -> str:
     return REGION_SLUGS.get(region.lower(), region.lower().replace(" ", "-"))
 
 
-def extract_grounding_urls(response) -> List[str]:
+@lru_cache(maxsize=128)
+def get_prefecture_hint(dept_code: str) -> str:
+    """Retourne un libellé lisible pour la préfecture départementale"""
+    code = (dept_code or "").strip()
+    if not code:
+        return "préfecture du département"
+    
+    code = code.zfill(2)
+    slug = get_dept_slug(code)
+    if slug.startswith("dept"):
+        return f"préfecture du département {code}"
+    
+    words = slug.replace("-", " ").split()
+    title = " ".join(w.capitalize() for w in words)
+    return f"préfecture de {title}"
+
+
+def extract_grounding_urls(metadata: Optional[Dict[str, Any]]) -> List[str]:
     """Extraction URLs depuis grounding metadata"""
-    urls = []
-    try:
-        if hasattr(response, 'grounding_metadata'):
-            meta = response.grounding_metadata
-            if hasattr(meta, 'grounding_chunks'):
-                for chunk in meta.grounding_chunks[:10]:
-                    if hasattr(chunk, 'web') and chunk.web and chunk.web.uri:
-                        urls.append(str(chunk.web.uri))
-    except Exception as e:
-        logger.debug(f"Grounding extraction error: {e}")
+    urls: List[str] = []
+    if not metadata:
+        return urls
+    
+    chunks = metadata.get("groundingChunks") or metadata.get("grounding_chunks") or []
+    
+    for chunk in chunks[:10]:
+        web = chunk.get("web") if isinstance(chunk, dict) else None
+        if not web and isinstance(chunk, dict):
+            # Certains formats utilisent snake_case
+            web = chunk.get("webData") or chunk.get("web_data")
+        if isinstance(web, dict):
+            uri = web.get("uri") or web.get("url")
+            if uri:
+                urls.append(str(uri))
+    
     return urls
 
 
@@ -262,54 +378,67 @@ class PermitEnricher:
         if not api_key:
             raise ValueError("GOOGLE_API_KEY manquante dans .env")
         
-        self.client = genai.Client(api_key=api_key)
         self.stats = EnricherStats()
         self._cache: Dict[str, PermitData] = {}
+        self._cache_lock = threading.Lock()
+        self.gemini = GeminiClient(api_key, settings.GEMINI_MODEL)
         
         # Configurations Gemini
-        self.config_search = types.GenerateContentConfig(
-            temperature=Config.SEARCH_TEMPERATURE,
-            max_output_tokens=Config.SEARCH_OUTPUT_TOKENS,
-            tools=[types.Tool(google_search=types.GoogleSearch())]
-        )
+        self.search_generation_config = {
+            "temperature": Config.SEARCH_TEMPERATURE,
+            "maxOutputTokens": Config.SEARCH_OUTPUT_TOKENS,
+        }
         
-        self.config_json = types.GenerateContentConfig(
-            temperature=Config.JSON_TEMPERATURE,
-            max_output_tokens=Config.JSON_OUTPUT_TOKENS,
-            response_mime_type="application/json"
-        )
+        self.json_generation_config = {
+            "temperature": Config.JSON_TEMPERATURE,
+            "maxOutputTokens": Config.JSON_OUTPUT_TOKENS,
+        }
     
     def _cache_key(self, project: Dict) -> str:
         """Génère clé cache unique"""
-        return f"{project.get('commune', '')}_{project.get('project_title', '')[:40]}"
+        project_id = project.get("project_id")
+        if project_id:
+            return str(project_id)
+        
+        components = [
+            project.get("project_url", ""),
+            project.get("project_title", ""),
+            project.get("commune", ""),
+            project.get("dept", ""),
+            project.get("year", "")
+        ]
+        composite = "|".join(str(part) for part in components)
+        return hashlib.sha1(composite.encode("utf-8")).hexdigest()
     
     def _execute_search(self, prompt: str, name: str) -> SearchResult:
         """Exécute une recherche ciblée avec validation"""
         start = time.time()
         
         try:
-            response = self.client.models.generate_content(
-                model=settings.GEMINI_MODEL,
-                contents=prompt,
-                config=self.config_search
+            result = self.gemini.generate(
+                prompt,
+                generation_config=self.search_generation_config,
+                use_google_search=True
             )
+            text = result.get("text", "")
+            metadata = result.get("grounding_metadata")
             
             self.stats.increment('api_calls')
             self.stats.increment('search_calls')
             
             # Validation
-            if not hasattr(response, 'text'):
-                logger.debug(f"  ✗ {name}: no text attribute")
-                return SearchResult(text="Non trouvé", success=False, duration=time.time()-start)
+            text = (text or "").strip()
+            urls = extract_grounding_urls(metadata)
             
-            text = str(response.text).strip()
-            
-            if len(text) < 10:
+            if len(text) < 10 and not urls:
                 logger.debug(f"  ✗ {name}: response too short ({len(text)} chars)")
-                return SearchResult(text="Non trouvé", success=False, duration=time.time()-start)
-            
-            # Extraction URLs
-            urls = extract_grounding_urls(response)
+                return SearchResult(
+                    label=name,
+                    text="Non trouvé",
+                    success=False,
+                    duration=time.time() - start,
+                    api_calls=1
+                )
             
             # Détection succès
             success = any(kw in text.lower() for kw in ['permis', 'pc', 'trouvé']) or len(urls) > 0
@@ -317,24 +446,45 @@ class PermitEnricher:
             logger.debug(f"  ✓ {name}: {len(text)} chars, {len(urls)} URLs, success={success}")
             
             return SearchResult(
+                label=name,
                 text=text,
                 urls=urls,
                 success=success,
-                duration=time.time() - start
+                duration=time.time() - start,
+                api_calls=1
             )
         
         except Exception as e:
             logger.debug(f"  ✗ {name} error: {e}")
             self.stats.increment('errors')
             return SearchResult(
+                label=name,
                 text=f"Erreur: {str(e)}",
                 success=False,
-                duration=time.time() - start
+                duration=time.time() - start,
+                api_calls=1
             )
     
     def _aggregate_results(self, title: str, commune: str, dept: str, 
                           results: List[SearchResult]) -> PermitData:
         """Agrège les résultats via Gemini JSON"""
+        total_calls = sum(r.api_calls for r in results)
+        
+        trimmed_blocks: List[str] = []
+        for result in results[:Config.NUM_SEARCHES]:
+            snippet = (result.text or "Non trouvé").strip()
+            trimmed_blocks.append(f"{result.label.upper()}: {snippet[:700]}")
+        
+        while len(trimmed_blocks) < Config.NUM_SEARCHES:
+            trimmed_blocks.append("AUCUNE DONNÉE")
+        
+        if len(results) > Config.NUM_SEARCHES:
+            extras = []
+            for result in results[Config.NUM_SEARCHES:]:
+                snippet = (result.text or "Non trouvé").strip()
+                extras.append(f"{result.label.upper()}: {snippet[:200]}")
+            if extras:
+                trimmed_blocks[-1] += "\nSUPPLÉMENT:\n" + "\n".join(extras)
         
         try:
             # Préparation prompt
@@ -342,27 +492,29 @@ class PermitEnricher:
                 title=title,
                 commune=commune,
                 dept=dept,
-                r1=results[0].text[:700],
-                r2=results[1].text[:700],
-                r3=results[2].text[:700],
-                r4=results[3].text[:700]
+                r1=trimmed_blocks[0],
+                r2=trimmed_blocks[1],
+                r3=trimmed_blocks[2],
+                r4=trimmed_blocks[3],
+                r5=trimmed_blocks[4]
             )
             
             # Appel Gemini
-            response = self.client.models.generate_content(
-                model=settings.GEMINI_MODEL,
-                contents=prompt,
-                config=self.config_json
+            result = self.gemini.generate(
+                prompt,
+                generation_config=self.json_generation_config,
+                response_mime_type="application/json"
             )
             
             self.stats.increment('api_calls')
             self.stats.increment('aggregation_calls')
             
             # Parsing JSON
-            if not hasattr(response, 'text') or not response.text:
+            text = result.get("text", "")
+            if not text:
                 raise ValueError("Empty JSON response")
             
-            data = JSONCleaner.parse(str(response.text))
+            data = JSONCleaner.parse(str(text))
             
             # Collecte URLs
             all_urls = []
@@ -380,7 +532,7 @@ class PermitEnricher:
                 confidence=float(data.get('confidence', 0.0)),
                 search_summary=str(data.get('search_summary', '')),
                 grounding_urls=all_urls[:10],
-                api_calls=Config.NUM_SEARCHES + 1
+                api_calls=total_calls + 1
             )
         
         except Exception as e:
@@ -388,7 +540,7 @@ class PermitEnricher:
             self.stats.increment('errors')
             return PermitData(
                 search_summary=f"Erreur agrégation: {str(e)}",
-                api_calls=Config.NUM_SEARCHES + 1
+                api_calls=total_calls + 1
             )
     
     def search_permit(self, project: Dict, use_cache: bool = True) -> PermitData:
@@ -398,10 +550,13 @@ class PermitEnricher:
         
         # Cache check
         cache_key = self._cache_key(project)
-        if use_cache and cache_key in self._cache:
-            self.stats.increment('cache_hits')
-            logger.info(f"  ⚡ Cache: {project.get('project_title', '')[:40]}")
-            return self._cache[cache_key]
+        if use_cache:
+            with self._cache_lock:
+                cached = self._cache.get(cache_key)
+            if cached:
+                self.stats.increment('cache_hits')
+                logger.info(f"  ⚡ Cache: {project.get('project_title', '')[:40]}")
+                return cached
         
         # Extraction données projet
         title = project.get("project_title", "")
@@ -420,7 +575,8 @@ class PermitEnricher:
             "dept": dept,
             "applicant": applicant,
             "dept_slug": dept_slug,
-            "region_slug": region_slug
+            "region_slug": region_slug,
+            "prefecture_hint": get_prefecture_hint(dept)
         }
         
         # Retry loop
@@ -433,10 +589,11 @@ class PermitEnricher:
                 # ════════════════════════════════════════════════════════
                 
                 searches = [
-                    (Prompts.SEARCH_PARTICIPATION, "Participation"),
-                    (Prompts.SEARCH_RAA, "RAA"),
-                    (Prompts.SEARCH_CERFA, "CERFA"),
-                    (Prompts.SEARCH_ARRETE, "Arrêté")
+                    (Prompts.SEARCH_PREF_GENERAL, "Préfecture générale"),
+                    (Prompts.SEARCH_PREF_ARRETE, "Arrêté préfectoral"),
+                    (Prompts.SEARCH_PREF_RAA, "RAA préfecture"),
+                    (Prompts.SEARCH_PREF_ARCHIVE, "Archives préfecture"),
+                    (Prompts.SEARCH_PREF_COMMUNICATION, "Communication préfecture"),
                 ]
                 
                 results = []
@@ -450,6 +607,25 @@ class PermitEnricher:
                 success_count = sum(1 for r in results if r.success)
                 logger.debug(f"  Recherches: {success_count}/{len(results)} succès")
                 
+                if not any(r.success or r.urls for r in results):
+                    if attempt < Config.MAX_RETRIES - 1:
+                        logger.debug("  Aucun signal préfectoral, nouvelle tentative")
+                        continue
+                    
+                    total_calls = sum(r.api_calls for r in results)
+                    permit_data = PermitData(
+                        search_summary="Aucune source préfectorale concluante",
+                        api_calls=total_calls
+                    )
+                    permit_data.duration = time.time() - start_time
+                    
+                    if use_cache:
+                        with self._cache_lock:
+                            self._cache[cache_key] = permit_data
+                    
+                    logger.info("  ⚠️ 0.00 - N/A (préfecture introuvable)")
+                    return permit_data
+                
                 # ════════════════════════════════════════════════════════
                 # PHASE 2: AGRÉGATION JSON
                 # ════════════════════════════════════════════════════════
@@ -459,7 +635,8 @@ class PermitEnricher:
                 
                 # Cache
                 if use_cache:
-                    self._cache[cache_key] = permit_data
+                    with self._cache_lock:
+                        self._cache[cache_key] = permit_data
                 
                 # Log final
                 status = "✅" if permit_data.confidence > 0.5 else "⚠️"
@@ -489,6 +666,13 @@ class PermitEnricher:
             **asdict(self.stats),
             "cache_size": len(self._cache)
         }
+    
+    def close(self):
+        """Libère ressources clients"""
+        try:
+            self.gemini.close()
+        except Exception:
+            pass
 
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -585,92 +769,94 @@ Exemples:
     # ═══════════════════════════════════════════════════════════════════════
     # TRAITEMENT
     # ═══════════════════════════════════════════════════════════════════════
-    
-    start_time = time.time()
-    results = []
-    low_confidence_count = 0
-    
-    if args.parallel:
-        logger.info(f"⚡ Mode PARALLÈLE ({args.workers} workers, delay={args.delay}s)")
+    try:
+        start_time = time.time()
+        results = []
+        low_confidence_count = 0
         
-        tasks = [(enricher, row.to_dict(), args.delay) for _, row in df.iterrows()]
-        
-        with ThreadPoolExecutor(max_workers=args.workers) as executor:
-            futures = {executor.submit(process_project_worker, task): idx 
-                      for idx, task in enumerate(tasks)}
+        if args.parallel:
+            logger.info(f"⚡ Mode PARALLÈLE ({args.workers} workers, delay={args.delay}s)")
             
-            for future in as_completed(futures):
-                result = future.result()
-                conf = float(result.get("permit_confidence", 0))
+            tasks = [(enricher, row.to_dict(), args.delay) for _, row in df.iterrows()]
+            
+            with ThreadPoolExecutor(max_workers=args.workers) as executor:
+                futures = {executor.submit(process_project_worker, task): idx 
+                          for idx, task in enumerate(tasks)}
                 
-                if conf < args.confidence_threshold:
+                for future in as_completed(futures):
+                    result = future.result()
+                    conf = float(result.get("permit_confidence", 0))
+                    
+                    if conf < args.confidence_threshold:
+                        low_confidence_count += 1
+                    
+                    results.append(result)
+        
+        else:
+            logger.info("🐌 Mode SÉQUENTIEL")
+            
+            for _, row in df.iterrows():
+                permit_data = enricher.search_permit(row.to_dict())
+                result = permit_data.to_csv_dict(row.to_dict())
+                
+                if permit_data.confidence < args.confidence_threshold:
                     low_confidence_count += 1
                 
                 results.append(result)
-    
-    else:
-        logger.info("🐌 Mode SÉQUENTIEL")
+                time.sleep(args.delay)
         
-        for _, row in df.iterrows():
-            permit_data = enricher.search_permit(row.to_dict())
-            result = permit_data.to_csv_dict(row.to_dict())
-            
-            if permit_data.confidence < args.confidence_threshold:
-                low_confidence_count += 1
-            
-            results.append(result)
-            time.sleep(args.delay)
-    
-    duration = time.time() - start_time
-    
-    # ═══════════════════════════════════════════════════════════════════════
-    # EXPORT & STATS
-    # ═══════════════════════════════════════════════════════════════════════
-    
-    # Export principal
-    df_out = pd.DataFrame(results)
-    df_out.to_csv(output_path, index=False, encoding="utf-8")
-    logger.info(f"✅ Export: {len(results)} projets → {output_path}")
-    
-    # Fichier review (confiance faible)
-    if low_confidence_count > 0:
-        review_path = output_path.parent / f"review_{output_path.name}"
-        df_review = df_out[df_out['permit_confidence'].astype(float) < args.confidence_threshold]
-        df_review.to_csv(review_path, index=False, encoding="utf-8")
-        logger.info(f"⚠️  Review: {low_confidence_count} projets → {review_path}")
-    
-    # Statistiques finales
-    stats = enricher.get_stats()
-    found = sum(1 for r in results if r.get('permit_number'))
-    avg_conf = sum(float(r.get('permit_confidence', 0)) for r in results) / max(1, len(results))
-    
-    print("\n" + "="*80)
-    print("📊 RÉSUMÉ FINAL")
-    print("="*80)
-    print(f"Total projets:           {len(results)}")
-    print(f"Permis trouvés:          {found} ({found/len(results)*100:.1f}%)")
-    print(f"Confiance moyenne:       {avg_conf:.2f}")
-    print(f"Confiance < {args.confidence_threshold}:          {low_confidence_count}")
-    print(f"Durée totale:            {duration:.1f}s")
-    print(f"Vitesse:                 {len(results)/duration:.2f} projets/s")
-    print(f"Cache hits:              {stats['cache_hits']}")
-    print(f"Erreurs:                 {stats['errors']}")
-    print("="*80)
-    
-    if args.benchmark:
-        rpm_used = stats['api_calls'] / (duration / 60) if duration > 0 else 0
-        cost = stats['api_calls'] * 0.0035  # Tier 1 pricing
+        duration = time.time() - start_time
         
-        print(f"\n⏱️  BENCHMARK DÉTAILLÉ")
-        print(f"   Appels API totaux:    {stats['api_calls']}")
-        print(f"   - Recherches:         {stats['search_calls']}")
-        print(f"   - Agrégations:        {stats['aggregation_calls']}")
-        print(f"   Appels/projet:        {stats['api_calls']/len(results):.1f}")
-        print(f"   RPM utilisé:          {rpm_used:.0f} / 1000")
-        print(f"   Coût estimé:          ${cost:.3f}")
-        print(f"   Workers:              {args.workers if args.parallel else 1}")
-    
-    print(f"\n✅ Traitement terminé avec succès en {duration:.1f}s\n")
+        # ═══════════════════════════════════════════════════════════════════════
+        # EXPORT & STATS
+        # ═══════════════════════════════════════════════════════════════════════
+        
+        # Export principal
+        df_out = pd.DataFrame(results)
+        df_out.to_csv(output_path, index=False, encoding="utf-8")
+        logger.info(f"✅ Export: {len(results)} projets → {output_path}")
+        
+        # Fichier review (confiance faible)
+        if low_confidence_count > 0:
+            review_path = output_path.parent / f"review_{output_path.name}"
+            df_review = df_out[df_out['permit_confidence'].astype(float) < args.confidence_threshold]
+            df_review.to_csv(review_path, index=False, encoding="utf-8")
+            logger.info(f"⚠️  Review: {low_confidence_count} projets → {review_path}")
+        
+        # Statistiques finales
+        stats = enricher.get_stats()
+        found = sum(1 for r in results if r.get('permit_number'))
+        avg_conf = sum(float(r.get('permit_confidence', 0)) for r in results) / max(1, len(results))
+        
+        print("\n" + "="*80)
+        print("📊 RÉSUMÉ FINAL")
+        print("="*80)
+        print(f"Total projets:           {len(results)}")
+        print(f"Permis trouvés:          {found} ({found/len(results)*100:.1f}%)")
+        print(f"Confiance moyenne:       {avg_conf:.2f}")
+        print(f"Confiance < {args.confidence_threshold}:          {low_confidence_count}")
+        print(f"Durée totale:            {duration:.1f}s")
+        print(f"Vitesse:                 {len(results)/duration:.2f} projets/s")
+        print(f"Cache hits:              {stats['cache_hits']}")
+        print(f"Erreurs:                 {stats['errors']}")
+        print("="*80)
+        
+        if args.benchmark:
+            rpm_used = stats['api_calls'] / (duration / 60) if duration > 0 else 0
+            cost = stats['api_calls'] * 0.0035  # Tier 1 pricing
+            
+            print(f"\n⏱️  BENCHMARK DÉTAILLÉ")
+            print(f"   Appels API totaux:    {stats['api_calls']}")
+            print(f"   - Recherches:         {stats['search_calls']}")
+            print(f"   - Agrégations:        {stats['aggregation_calls']}")
+            print(f"   Appels/projet:        {stats['api_calls']/len(results):.1f}")
+            print(f"   RPM utilisé:          {rpm_used:.0f} / 1000")
+            print(f"   Coût estimé:          ${cost:.3f}")
+            print(f"   Workers:              {args.workers if args.parallel else 1}")
+        
+        print(f"\n✅ Traitement terminé avec succès en {duration:.1f}s\n")
+    finally:
+        enricher.close()
 
 
 if __name__ == "__main__":

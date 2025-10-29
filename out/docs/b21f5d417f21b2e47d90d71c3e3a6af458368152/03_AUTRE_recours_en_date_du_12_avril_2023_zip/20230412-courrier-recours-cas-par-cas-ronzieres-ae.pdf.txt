@@ -1,0 +1,284 @@
+Harmony Energy France SAS
+Siret : 910 193 986 00015
+297 route de l’Isle sur Sorgue 84800 Lagnes
+Phone : 06 86 27 26 14 / 06 45 54 58 32
+info@harmonyenergy.fr | www.harmonyenergy.fr
+
+Le 12 avril 2023
+
+Madame la Préfète de la région Auvergne-Rhône-Alpes
+DREAL Auvergne-Rhône-Alpes
+Service CIDDAE / pôle AE
+69453 LYON
+Cedex 06
+
+Communication adressée également par voie électronique à :
+anais.bailly@developpement-durable.gouv.fr
+ae-dreal-ara@developpement-durable.gouv.fr
+pref-secretariat-prefet@puy-de-dome.gouv.fr
+
+Objet : Recours administratif à la décision (n° 2023-ARA-KKP-4299) relative à un projet relevant d’un examen au cas 
+par cas en application de l’article R. 122-3 du code de l’environnement : Projet de poste de stockage d’énergie par 
+batteries de Ronzières à Malintrat (63)
+
+Madame la Préfète,
+
+La décision d’examen au cas par cas relative au projet en question a été prise le  22 mars 2023. Cette décision porte sur la 
+soumission du projet à évaluation  environnementale, en  application de la section première du chapitre I du titre I du livre 
+premier  du  code  de  l'environnement. Elle nous  a  été  communiquée  et elle  a  été  publiée sur le  site  internet  de  la  DREAL 
+Auvergne-Rhône-Alpes, le 23 mars 2023.
+
+Par la présente lettre, je me permets de vous adresser un recours administratif sur la décision de soumettre le projet à étude 
+environnementale,  en  apportant  des  compléments d’informations sur  les  problématiques  soulevées  par  vos services 
+instructeurs.
+
+Vous trouverez nos réponses aux cinq points que vous avez soulevés, i) à v), et les quatre objectifs spécifiques a) à d), présentés 
+point par point ci-dessous. Cette lettre est aussi complétée par différents documents en annexes, qui viennent mettre à jour 
+notre dossier d’étude cas par cas, afin de renforcer l’analyse des risques naturels, sanitaires et environnementaux.
+
+Début de réponses
+
+Réponses aux points soulevés par la DREAL
+
+Point DREAL i) : Le tracé et les caractéristiques du raccordement du projet au réseau électrique, faisant partie intégrante au 
+projet, ne sont pas précises, que les potentiels impacts sur les milieux traversés ne sont pas évalués et qu'aucune mesure ERC 
+n'est envisagée.
+
+Réponse Harmony Energy i)
+
+Nous précisons que le raccordement du projet de Ronzières au poste électrique RTE est à la charge de RTE. RTE mènera des 
+études de raccordement (techniques, environnementales, administratives, financières), qui dimensionneront les câbles et qui 
+définiront  le  tracé  exact. Néanmoins, le  projet  de  stockage étant séparé  du  poste  électrique  par  environ  200m  de  route 
+départementale, le raccordement suivra la longueur de cette route et ne traversera aucun milieu naturel ou protégé.
+
+Chapitre  3 de  la  Présentation  du  Projet (en  annexe)  a  été  mis  à  jour  afin  d’intégrer  un  nouveau chapitre  portant  sur  le 
+raccordement (3.4). Le tracé présumé du câble RTE est présenté ainsi que les mesures ERC adoptées. Un nouveau plan  de 
+l’emprise projet incluant le tracé du câble depuis le poste RTE de Malintrat est aussi annexé.
+
+1/5
+
+Harmony Energy France SAS
+Siret : 910 193 986 00015
+297 route de l’Isle sur Sorgue 84800 Lagnes
+Phone : 06 86 27 26 14 / 06 45 54 58 32
+info@harmonyenergy.fr | www.harmonyenergy.fr
+
+Point DREAL ii) : Le projet engendrera la perte définitive d'une surface agricole de 1,3 ha, a fort potentiel agronomique, et une 
+imperméabilisation  d'une  surface  comprise  entre  1400  et  2000  m2 sans  en  évaluer  les  impacts  sur  l'activité  agricole  et  les 
+milieux naturels.
+
+Réponse Harmony Energy ii)
+
+Le projet de Ronzières a été conçu de manière à limiter son emprise et à réduire l’imperméabilisation du sol. Les espacements
+entre les équipements sont optimisés afin d’intégrer une capacité importante d’énergie stockée (200MWh), sur une emprise 
+foncière limitée, tout en respectant les normes et les marges de sécurité.
+
+La  surface  de  l’emprise  du  projet  est  de  13  211  m2,  dont  2  261 m2 /  (17,1%) sera imperméabilisée et  10  950 m2 restera 
+totalement ou partiellement  infiltrante. Un dossier loi sur l’eau est  en cours de rédaction afin de déterminer d’éventuelles 
+mesures nécessaires pour la bonne gestion des eaux.
+
+Le projet doit être entièrement démantelé en fin de vie et le terrain remis en état initial. À cet effet, dans la mesure du possible, 
+la terre excavée sera stockée sur place durant la phase d’exploitation pour être replacée à son emplacement originel lors de 
+la remise en état du terrain.
+
+Il est aussi à noter que la parcelle prise pour le projet est en jachère depuis de nombreuses années et que le propriétaire n’a 
+pas l’intention de redémarrer une activité agricole sur le terrain. Ceci contrairement aux autres parcelles considérées autour 
+du poste électrique de Malintrat, qui sont toutes exploitées.
+
+Afin d’évaluer les impacts sur les milieux naturels, une étude de diagnostic environnemental a été effectué en février 2023, 
+par le bureau d’études Eco-Stratégie. Les résultats de cette étude sont présentés en chapitre 4 de la Présentation du Projet et 
+le rapport est annexé.
+
+Point DREAL iii) : En matière de cadre de vie : les imprécisions du projet ne permettent pas de qualifier les impacts paysagers, 
+la position exacte des aménagements n'étant pas arrêtée pour les unités de batteries, les transformateurs et le poste électrique 
+haute tension, que le porteur de projet ne s’engage pas fermement à la mise en œuvre de mesures d'intégration paysagères ; 
+les nuisances sonores générées par les unités de stockage ne sont pas évaluées et aucune mesure ERC n'est envisagée.
+
+Réponse Harmony Energy iii)
+
+Une demande de permis de construire a été déposée le 6 mars 2023 (sous le numéro 101263).
+
+Les documents de la demande du permis de construire précisent la position exacte des aménagements (unités de batteries, 
+transformateurs, poste électrique HT), ainsi que l’engagement du porteur du projet à planter d’une haie paysagère le long de 
+la centrale.
+
+L’impact paysager peut ainsi être évalué à travers les photomontages joints au dossier du permis de construire, dont certains 
+ont été inclus en chapitre 4.5 de la Présentation du Projet. Harmony Energy s’engage à fournir des images depuis tout autre 
+point de vue identifié par vos services, en fonction des besoins exprimés.
+
+Concernant les émissions et les émergences sonores, Harmony Energy s’engage à respecter la règlementation en vigueur et à 
+intégrer des mesures ERC. À cet effet, un nouveau chapitre 4.6 est rajouté à la Présentation du Projet pour évaluer le risque 
+sonore.
+
+Par ailleurs, la contribution de l’ARS en date du 13/03/2023 affirme qu’une « étude d’impact n’est pas avérée d’un point de 
+vue  sanitaire,  le  secteur  concerné  étant  situé  en  dehors  de  périmètres  de  protection  de  captages  d’eau  destinée  à  la 
+consommation humaine et le pétitionnaire s’engageant à respecter les niveaux d’émergence sonore au niveau des riverains. »
+
+Un bureau d’études spécialisé sera mandaté à la demande de vos services, avant et/ou après la construction du projet, afin 
+de confirmer le bon respect de la loi en matière de bruit.
+
+2/5
+
+Harmony Energy France SAS
+Siret : 910 193 986 00015
+297 route de l’Isle sur Sorgue 84800 Lagnes
+Phone : 06 86 27 26 14 / 06 45 54 58 32
+info@harmonyenergy.fr | www.harmonyenergy.fr
+
+Point DREAL iv) : Aucun bilan carbone intégrant la perte de stockage de CO2 par les sols, les émissions engendrées par la phase 
+travaux, par la fabrication des équipements nécessaires à la réalisation du projet et a son exploitation n'est présente.
+
+Réponse Harmony Energy iv)
+
+La Présentation du Projet en annexe de la présente lettre  a été mise à jour afin d’incorporer le calcul du bilan carbone du 
+projet (nouveau chapitre 6). Les émissions liées au changement d’usage du sol (prairie transformée en surface artificialisée) 
+sont estimées à 264 Teq.CO2 (tonnes équivalent CO2), les émissions générées par la phase développement à <1 Teq.CO2, 1 829 
+Teq.CO2 pour  la  phase  travaux,  30 873 Teq.CO2 pour  la  fabrication  des  équipements, 8  Teq.CO2 pour  l’exploitation  de  la 
+centrale et 1 571 Teq.CO2 pour les activités de démantèlement en fin de vie du projet. Selon les hypothèses prises, il est estimé 
+que sur une durée de vie de 20 ans, le projet éviterait 398 188 Teq.CO2 par sa concurrence directe aux centrales électriques
+fossiles. Ainsi, les émissions évitées sont de l’ordre de dix fois plus importantes que le bilan carbone engendrée par les phases 
+de développement, construction, opération et démantèlement du projet.
+
+Point  DREAL  v) :  Le  dossier  ne  justifie  pas le  choix de  moindre impact  au  regard  des autres  alternatives  possibles  dans  un 
+périmètre élargi à l'échelle communale ou de la métropole clermontoise.
+
+Réponse Harmony Energy v)
+
+Un nouveau chapitre 3.1 est inclus dans la Présentation du Projet pour présenter la méthodologie d’indentification et de choix 
+du site.
+
+Pour  des  raisons  technico-économiques,  un  projet  de  stockage  d’énergie  multi-mégawatt  doit  se  situer  au  plus  proche 
+(<~500m) d’une poste-électrique RTE.
+
+Harmony Energy a effectué une analyse exhaustive de tous les potentiels sites dans le département du Puy-de-Dôme et a pu 
+identifier trois sites répondant aux critères techniques et environnementaux, tout en restant éloignés d’au moins 100m des 
+habitations.  Harmony  Energy  étudie  également  les  deux  autres  sites identifiés,  dont  un  qui  est  activement  en  cours  de 
+développement (sur la commune de Saint-Georges-sur-allier) et l’autre est plus contraint en termes de foncier et pourrait être 
+concerné par des questions de remontée de nappe et de zone humide.
+
+Aucun site n’apparait comme propice pour le développement d’une centrale de stockage d’énergie multi-mégawatt sur la 
+métropole clermontoise, pour cause de manque de capacité de raccordement et/ou d’enjeux environnementaux  et/ou de
+disponibilité foncière.
+
+Objectifs spécifiques à considérer
+
+Objectif  DREAL  a) :  Justifier du  choix d'implantation  du  projet au  regard  des  enjeux  environnementaux  en présence  et des 
+autres alternatives possibles sur des secteurs déjà artificialisés à l'échelle communale et/ou de la métropole clermontoise.
+
+Réponse Harmony Energy a)
+
+La réponse du point v) plus haut, et le nouveau chapitre 3.1 de la Présentation du Projet permettent de clarifier les critères 
+d’indentification de sites propices pour le développement d’un projet de stockage d’énergie. À l’échelle de la commune et de 
+la métropole clermontoise, aucun autre site n’a été identifié comme étant adapté.
+
+Objectif DREAL b) : Réaliser un état initial proportionné aux enjeux en matière de milieux naturels, de cadre de vie et d'insertion 
+paysagère du projet dans son environnement proche et éloigné.
+
+Réponse Harmony Energy b)
+
+La réponse aux points ii) et iii) plus haut évoquent le permis de construire, les photomontages réalisés, l’analyse des nuisances 
+sonores et le diagnostic environnemental réalisé par le bureau d’études spécialisé,  Eco-Stratégie. Ce dernier, mandaté par 
+Harmony Energy, a effectivement réalisé un état initial en matière de milieux naturels. Les nouveaux photomontages intégrés
+dans  la  Présentation du  Projet permettent  d’évaluer  l’insertion  paysagère  du  projet  dans  son  environnement  proche  et 
+éloigné.
+
+3/5
+
+Harmony Energy France SAS
+Siret : 910 193 986 00015
+297 route de l’Isle sur Sorgue 84800 Lagnes
+Phone : 06 86 27 26 14 / 06 45 54 58 32
+info@harmonyenergy.fr | www.harmonyenergy.fr
+
+Objectif DREAL c) : Évaluer les impacts du projet au regard des enjeux présents sur le site ainsi que de son raccordement au 
+réseau public.
+
+Réponse Harmony Energy c)
+
+La réponse au point i) plus haut présente l’impact du raccordement du projet au poste électrique de Malintrat et le diagnostic
+environnemental effectué par Eco-Stratégie évalue les impacts au regard des enjeux présents sur le site.
+
+Objectif DREAL d) : Mettre en œuvre les mesures ERC nécessaires permettant de préserver le secteur d'implantation et définir 
+un dispositif de suivi de ces mesures.
+
+Réponse Harmony Energy d)
+
+Harmony  Energy  a  la  volonté  d’intégrer  des  mesures  ERC  dans  toutes  les  étapes  d’identification,  de développement,  de 
+construction et de démantèlement d’un projet de stockage d’énergie. Celle-ci sont présentés dans la Présentation du Projet
+de Ronzières, notamment en chapitre 3.1 pour le choix du site, chapitre 3.4 pour le raccordement et chapitre 4 pour l’analyse 
+de l’ensemble des risques.
+
+Plus spécifiquement, sur la phase d’identification et de développement du projet :
+
+-
+
+-
+
+-
+
+Éviter : L’analyse effectuée par Harmony Energy sur la phase d'identification de sites démontre que pour ce type de 
+projet il n’est pas possible d’éviter des terrains naturels, agricoles ou forestiers. En accord avec la commune et le 
+propriétaire, Harmony Energy a fait le choix d’un terrain agricole non-exploitée depuis de nombreuses années ;
+Réduire : Harmony Energy a fait un travail d'optimisation afin de réduire l'emprise du projet et de limiter la surface 
+imperméabilisée ;
+Compenser :  Bien  que  le projet  ne  soit pas  soumis  à  une  compensation  obligatoire.  Sur  demande  des  autorités, 
+Harmony  Energy  s’engage  à  étudier  la  mise  en  place  de mesures  compensatoires  avec  les  instances  agricoles 
+(chambre d’agriculture), en adéquation avec les impacts du projet qui n’auront pas pu être évités. Le projet intègre 
+également une haie paysagère, qui facilite l’insertion paysagère et peut être source de création de biodiversité.
+
+Fin de réponses
+
+Vous trouverez en annexe à cette lettre la nouvelle version de la Présentation du Projet, ainsi que ses annexes, qui viennent 
+mettre à jour notre dossier d’examen cas par cas.
+
+Il  apparait  qu’une procédure  d’évaluation  environnementale  n’apporterait  pas d’éléments  complémentaires  à  ceux  qui 
+seront présentés plus haut et/ou dans le DLE et le PC. C’est pourquoi je me permets de vous demander la reconsidération de 
+notre dossier.
+
+En sollicitant votre bienveillance dans ce recours qui reprend l’ensemble des éléments manquants de la demande initiale, je 
+vous prie d'accepter mes sincères salutations.
+
+Andy Symonds
+Harmony Energy France
++33 (0)6 45 54 58 32
+andy.symonds@harmonyenergy.fr
+
+4/5
+
+Harmony Energy France SAS
+Siret : 910 193 986 00015
+297 route de l’Isle sur Sorgue 84800 Lagnes
+Phone : 06 86 27 26 14 / 06 45 54 58 32
+info@harmonyenergy.fr | www.harmonyenergy.fr
+
+Informations complémentaires apportées à la demande d’examen au cas par cas
+
+ANNEXE :
+
+Mise à jour de la présentation projet : 
+
+RONZIÈRES_cerfa_14734-04_ANNEXE 08 (Présentation du projet),
+
+avec notamment les modifications suivantes :
+
+Nouveau chapitre 3.1 : méthodologie du choix du site
+Nouveau chapitre 3.4 : raccordement du projet
+
+-
+-
+- Modification de chapitre 4.4 : incorporation d’éléments du dossier de permis de construire
+-
+-
+- Modification de l’Annexe 1 : implantation projet (Layout RONZIERES_0b.pdf)
+-
+-
+
+Nouveau chapitre 4.5 : analyse du risque sonore
+Nouveau chapitre 6 : bilan carbone du projet
+
+Nouvelle Annexe 3 : plan du raccordement
+Nouvelle Annexe 4 : rapport du bilan carbone
+
+5/5
+
+

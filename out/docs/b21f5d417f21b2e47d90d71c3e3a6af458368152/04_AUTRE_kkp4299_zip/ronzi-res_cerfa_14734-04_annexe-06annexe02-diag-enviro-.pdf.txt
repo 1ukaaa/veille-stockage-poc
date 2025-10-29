@@ -1,0 +1,1347 @@
+ECO-STRATEGIE 
+
+Immobilière Européenne des Mousquetaires 
+
+HARMONY ENERGY France 
+
+297 RTE DE L'ISLE SUR SORGUE 
+
+84800 LAGNES 
+
+PRE-DIAGNOSTIC FAUNE/FLORE/ZONES HUMIDES POUR UN PROJET 
+SUR LA PARCELLE ZN 0003 
+
+FEVRIER 2023 
+
+DEPARTEMENT DU PUY DE DOME (63) 
+
+COMMUNE DE MALINTRAT 
+
+Ingénieurs conseils en aménagement durable du territoire 
+
+42 boulevard Antonio Vivaldi 
+
+Tél. 04 77 92 71 47 / contact@eco-strategie.fr  
+
+42 000 SAINT-ETIENNE 
+
+www.eco-strategie.fr 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ECO-STRATEGIE 
+
+Immobilière Européenne des Mousquetaires 
+
+Maître d’ouvrage : Harmony Energy France 
+
+Bureau d’études : ECO-STRATEGIE 
+
+N° version 
+
+Date 
+
+Auteur 
+
+Contrôle qualité 
+
+A22092-R230208-v1 
+
+08/02/2023 
+
+Théo DUBOIS 
+
+François BOURGEOT 
+
+Le présent dossier est basé sur nos observations de terrain, la bibliographie, notre retour d’expérience 
+en aménagement du territoire et les informations fournies par le porteur de projet. 
+
+Il a pour objet d’assister, en toute objectivité, le maître d’ouvrage dans la définition de son projet. 
+
+Le contenu de ce rapport ne pourra pas être utilisé par un tiers en tant que document contractuel. Il ne 
+peut être utilisé de façon partielle, en isolant telle ou telle partie de son contenu. 
+
+Le présent rapport est protégé par la législation sur le droit d'auteur et sur la propriété intellectuelle. 
+Aucune publication, mention ou reproduction, même partielle, du rapport et de son contenu ne pourra 
+être faite sans accord écrit préalable d’ECO-STRATEGIE et du maître d’ouvrage. 
+
+Les prises de vue présentées ont été réalisées par ECO-STRATEGIE. 
+
+Les fonds de carte sont issus des cartes IGN, de Google Earth et de Géoportail. Les photographies prises 
+sur le site sont précisées.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+SOMMAIRE 
+
+                Harmony Energy France 
+
+Sommaire..................................................................................................................... 3 
+
+I-  Aire d’étude et méthodologie ..................................................................................... 4 
+
+I.1. 
+
+Localisation de l’aire d’étude ............................................................................... 4 
+
+I.2.  Méthodologie utilisée ......................................................................................... 5 
+
+I.2.1 
+
+I.2.2 
+
+Périmètre étudié et conditions de la prospection ............................................. 5 
+
+Caractérisation des zones humides ................................................................ 6 
+
+II- 
+
+Résultats ............................................................................................................. 9 
+
+II.1.  Occupation du sol et potentialités écologiques associées ........................................ 9 
+
+II.1.1  Habitat naturel ........................................................................................... 9 
+
+II.1.2 
+
+Flore ........................................................................................................ 10 
+
+II.1.3 
+
+Faune ...................................................................................................... 10 
+
+II.1.4 
+
+Synthèse .................................................................................................. 11 
+
+II.2.  Zones humides ............................................................................................... 11 
+
+II.2.1 
+
+Critère de végétation ................................................................................. 11 
+
+II.2.2 
+
+Critère de pédologie .................................................................................. 11 
+
+II.3.  Continuités écologiques .................................................................................... 13 
+
+III-  Conclusion ......................................................................................................... 14 
+
+I.  Tables des illustrations ........................................................................................... 15 
+
+II. 
+
+Annexes ............................................................................................................ 16 
+
+A22092–R230208-v1                                                                                                                         
+
+         page 3  
+
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+I- AIRE D’ETUDE ET METHODOLOGIE 
+
+I.1. 
+
+Localisation de l’aire d’étude 
+
+                Harmony Energy France 
+
+La  commune  de  Malintrat  se  situe  au  cœur  du  département  du  Puy-de-Dôme,  en  région 
+Auvergne-Rhône-Alpes.  Elle  est  limitrophe  au  nord-est  de  la  commune  de  Clermont-Ferrand. 
+Elle s’intègre dans un paysage agricole classique de la plaine de la Limagne. 
+
+L’aire d’étude se situe au sud du lotissement de Bugheas, ainsi qu’à environ 800 mètres au sud 
+du village communal. Elle est desservie par la route D2 qui la borde à l’est. 
+
+L’aire d’étude a une superficie de 2,3 ha. La Figure 1 localise la commune, l’aire d’étude ainsi 
+que les prises de vue présentées dans ce document. 
+
+Figure 1 – Localisation de l’aire d’étude 
+
+A22092–R230208-v1                                                                                                                         
+
+         page 4  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+                Harmony Energy France 
+
+D2 
+
+Aire d’étude 
+
+Photographie 1 – Vue générale sur l’aire d’étude (localisation approximative) depuis son angle 
+Nord-Est (source : Eco-Stratégie - 2022) 
+
+I.2.  Méthodologie utilisée 
+
+I.2.1  Périmètre étudié et conditions de la prospection 
+
+La  prospection  de  terrain  a  été  réalisée  par  1  expert  naturaliste  sur  1  journée.  Elle  a  été 
+menée le 29/12/2022 par François Bourgeot (Chef de Projet Ecologie et Biodiversité) du cabinet 
+ECO-STRATEGIE.  
+
+L’aire d’étude a été parcourue à pied selon des transects aléatoires afin de caractériser les grands 
+types de milieux présents et de recenser la flore et la faune présentes. Cette visite ponctuelle a 
+surtout permis d’apprécier les potentialités écologiques de l’aire d’étude en termes d’accueil 
+pour la faune et la flore.  
+
+Les conditions de réalisation de la visite de terrain sont présentées dans le tableau ci-après : 
+
+Tableau 1 – Conditions de réalisation de la prospection de terrain 
+
+N° 
+Passage 
+
+Date 
+
+Météo 
+
+Période 
+journalière 
+
+Horaires 
+
+Groupes 
+étudiés 
+
+Méthode 
+
+1 
+
+29/12/2022 
+
+Couvert, vent faible 
+(f1), 5 °C, 
+couverture 
+nuageuse (100%) 
+
+Matinée 
+
+10h30– 
+14h30 
+
+Flore, zones 
+humides, 
+faune, 
+potentialités 
+écologiques 
+
+Transects 
+aléatoire, 
+sondages 
+pédologiques 
+
+Les  conditions  météorologiques  de  la  visite  de  terrain  se  sont  avérées  favorables  à 
+l’observation  de  la  flore  et  de  la  faune  et  de  l’identification  des  potentialités 
+écologiques du site. 
+
+A22092–R230208-v1                                                                                                                         
+
+         page 5  
+
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+                Harmony Energy France 
+Dans la suite du document, les espèces de faune citées en italique sont celles considérées comme 
+potentiellement présentes sur l’aire d’étude (et/ou à proximité) car connues localement dans la 
+bibliographie et trouvant sur l’aire d’étude des milieux naturels favorables. 
+
+I.2.2  Caractérisation des zones humides 
+
+I.2.2.1.  Règlementation 
+
+Selon l’article L.211-1 du code de l’Environnement, les zones humides sont définies ainsi : ce 
+sont  « les  terrains  exploités  ou  non,  habituellement  inondés  ou  gorgés  d'eau  douce,  salée  ou 
+saumâtre de façon permanente ou temporaire ; la végétation, quand elle existe, y est dominée 
+par des plantes hygrophiles pendant au moins une partie de l'année ».  
+
+L’arrêté  du  24  juin  2008  modifié  par  l’arrêté  du  1er  octobre  2009  ainsi  que  la  circulaire 
+d’application du 18 janvier 2010 précisent les modalités de définition et de délimitation de  ces 
+zones humides. Selon l’arrêté du 1er octobre 2009, une zone est considérée comme humide si 
+elle présente l'un des critères suivants : 
+
+« 1° Les sols correspondent à un ou plusieurs types pédologiques, exclusivement parmi 
+ceux mentionnés dans la liste figurant à l'annexe 1.1 et identifiés selon la méthode figurant à 
+l'annexe 1.2 au présent arrêté. Pour les sols dont la morphologie correspond aux classes IV d et 
+V a, définis d'après les classes d'hydromorphie du groupe d'étude des problèmes de pédologie 
+appliquée (GEPPA, Groupe d'Etude pour les Problèmes de Pédologie Appliquée, 1981 ; modifié), 
+le préfet de région peut exclure l'une ou l'autre de ces classes et les types de sol associés pour 
+certaines communes, après avis du conseil scientifique régional du patrimoine naturel.  
+
+« 2° Sa végétation, si elle existe, est caractérisée par : 
+
+«  ―  soit  des  espèces  identifiées  et  quantifiées  selon  la  méthode  et  la  liste 
+d'espèces figurant à l'annexe 2.1 au présent arrêté complétée en tant que de besoin par 
+une liste additionnelle d'espèces arrêtées par le préfet de région sur proposition du conseil 
+scientifique  régional  du  patrimoine  naturel,  le  cas  échéant,  adaptée  par  territoire 
+biogéographique ; 
+
+«  ―  soit  des  communautés  d'espèces  végétales,  dénommées  "  habitats  ”, 
+caractéristiques de zones humides, identifiées selon la méthode et la liste correspondante 
+figurant à l'annexe 2.2 au présent arrêté. » 
+
+Enfin, d’après le « Guide d’identification et de délimitation des sols des zones humides » : 
+
+« L’observation  doit  se  faire  à  une  profondeur  supérieure  à  0,70  m  et  jusqu’à  
+1,20  m  si  possible.  La  présence  de  la  roche  mère  à  moindre  profondeur  ou  d’une 
+charge en cailloux trop élevée peut toutefois limiter la profondeur de prospection. 
+
+Les  périodes  sèches  ne  sont  pas  favorables  pour  une  observation  optimale  des 
+taches.  L’observation  peut  également  être  difficile  en  périodes  d’engorgements  du 
+fait de l’ennoyage des sondages ou fosses. Il est préférable d’effectuer les sondages 
+en fin d’hiver, début de printemps. » 
+
+La  Loi  n°2019-773  en  date  du  24  juillet  2019,  portant  création  de  l’Office  français  de  la 
+biodiversité et de la chasse, vient apporter une modification dans son article 23 à l’article L.211-
+1 du code de l’environnement portant sur la caractérisation des zones humides. Ainsi une zone 
+humide peut être déterminée par des critères pédologiques ou de végétation. 
+
+I.2.2.2.  Méthodologie 
+
+Lors de la visite de terrain, les deux critères ont été appliqués : 
+
+•  Critère végétation :  Une végétation  est caractérisée  comme humide lorsqu’au moins 
+
+50% de la flore présente dans l’habitat est caractéristique de zone humide.  
+
+•  Critère  sol :  L’analyse  pédologique  a  été  effectuée  à  l’aide  d’une  tarière,  permettant 
+d’effectuer  des  sondages  jusqu’à  120  cm  de  profondeur  maximum.  Chaque  sondage  a 
+ensuite été rattaché à une classe d’hydromorphie (GEPPA, 1981). 
+
+A22092–R230208-v1                                                                                                                         
+
+         page 6  
+
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+                Harmony Energy France 
+
+Figure 2 - Classes d’hydromorphie (GEPPA 1981, modifié) ; les classes Vb, Vc, Vd, VI, H 
+correspondent à des sols de zones humides, les classes IVd et Va et les types de sols 
+correspondants peuvent être exclus par le préfet de région après avis du conseil scientifique 
+régional du patrimoine naturel 
+
+La détermination du caractère humide du sol se base sur différents critères :  
+
+o  Traits rédoxiques :  
+
+Photographie 2 - Les traits rédoxiques correspondent aux traces orangées dans le sol  
+(source : Eco-Stratégie) 
+
+o  Traits réductiques :  
+
+Photographie 3 - Les traits réductiques correspondents à des traces gris-bleu dans le sol 
+(source : Eco-Stratégie) 
+
+A22092–R230208-v1                                                                                                                         
+
+         page 7  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+                Harmony Energy France 
+Afin  de  délimiter  le  contour  des  éventuelles  zones  humides,  le  nombre  de  sondages  et  leur 
+localisation se basent sur : 
+
+•  La  topographie  du  site :  les  sondages  sont  effectués  à  différentes  altitudes,  en  partie 
+haute et en partie basse, pour explorer les sols minces et en particulier ceux plus profonds 
+à accumulation d’eau possible. Pour exemple : sur une pente continue, si deux sondages 
+effectués au point le plus  haut  et au point le  plus bas sont tous les  deux humides, on 
+admet que l’intégralité de la pente l’est ; 
+
+•  Des sondages aléatoires : afin d’éliminer un biais d’observateur et ainsi d’étudier des sols 
+présents sous des végétations non humides. Ces sondages se basent sur la différence de 
+végétation observée. A l’échelle de l’aire d’étude, un sondage minimum est effectué par 
+type de végétation. 
+
+Au total, 12 sondages ont été effectués sur l’aire d’étude. Tous les sondages ont été bloqués 
+entre 40 et 65 cm de profondeur. 
+
+Figure 3 - Localisation des sondages pédologiques au sein de l'aire d'étude 
+
+A22092–R230208-v1                                                                                                                         
+
+         page 8  
+
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+II-  RESULTATS 
+
+                Harmony Energy France 
+
+II.1.  Occupation  du  sol  et  potentialités  écologiques 
+associées 
+
+L’aire d’étude accueille une jachère sur l’intégralité du site étudié, soit 2,3 ha.  
+
+L’aire d’étude correspond donc à un milieu ouvert. Aucun élément arbustif ou arboré n’est 
+présent au sein de l’aire d’étude et ses abords.  
+
+La  présence  d’un  unique  habitat  fortement  lié  à  l’activité  anthropique  va  limiter  le  cortège 
+d’espèces présentes ou potentielles que ce soit au niveau de la flore comme de la faune. 
+
+La  figure suivante présente l’occupation du sol de l’aire d’étude. 
+
+Ces occupations du  sol  ne semblent pas  être rattachées  à des habitats naturels patrimoniaux 
+(d’intérêt communautaire, déterminants pour l’inventaire ZNIEFF, à enjeu local de conservation, 
+…).  Toutefois,  ils  peuvent  présenter  un  intérêt  pour  la  flore  ou  pour  certains  groupes 
+faunistiques comme habitats d’espèces (cf. analyse présentée aux paragraphes suivants). 
+
+Figure 4 – Occupation du sol de l’aire d’étude 
+
+II.1.1 
+
+Habitat naturel 
+
+La végétation ouverte correspond à une jachère agricole. Il semblerait qu’aucune plantation n’ait 
+été faite en 2022 laissant, ainsi, une végétation pionnière de friche coloniser le milieu. La flore 
+caractéristique de  ce milieu est difficilement évaluable car de nombreuses  espèces pionnières 
+
+A22092–R230208-v1                                                                                                                         
+
+         page 9  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+                Harmony Energy France 
+sont  annuelles.  Lors  de  l’inventaire  effectué  en  décembre  2022,  seules  les  espèces  pérennes 
+gardant un appareil végétatif extérieur au sol ont pu être observées. 
+
+Cependant il s’agit d’un habitat commun, présentant, dans la plupart des cas, une flore commune 
+non menacée. 
+
+La jachère est principalement dominée par la Picride fausse-épervière (Picris hieracioides). 
+
+II.1.2 
+
+Flore 
+
+En l’état, aucune espèce de la flore protégée, d’intérêt communautaire, déterminante de ZNIEFF 
+ou inscrite sur une liste rouge n’a été recensée.  
+
+Tableau 2 – Liste de la flore recensée au sein de l’aire d’étude 
+
+Espèces 
+
+Setaria pumila 
+
+Brachypodium rupestre 
+
+Crepis sp. 
+
+Bellis perennis 
+
+Plantago lanceolata 
+
+Plantago major 
+
+Plantago media 
+
+Picris hieracioides 
+
+Echium vulgare 
+
+Galium album 
+
+Prunella vulgaris 
+
+Trifolium repens 
+
+Dactylis glomerata 
+
+Arrhenatherum elatius 
+
+Lolium perenne 
+
+Hypochaeris radicata 
+
+Achillea millefolium 
+
+Pilosella officinarum 
+
+Helminthotheca echioides 
+
+Erodium cicutarium 
+
+Silybum marianum 
+
+Cirsium arvense 
+
+Statuts France 
+
+Statuts Auvergne 
+
+PN 
+
+LR.N 
+
+Inv.N 
+
+PR 
+
+LR.R 
+
+ZNIEFF 
+
+Inv.R 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+LC 
+
+LC 
+
+- 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+LC 
+
+LC 
+
+- 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+- 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+- 
+
+- 
+
+- 
+
+LC 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Légende : PN = Protection nationale / LR.N = Liste Rouge Nationale / Inv.N = Liste Espèce Exotique Envahissante (EEE) 
+Nationale / PR = Protection régionale / LR.R = Liste Rouge Régionale / Inv.R = Liste EEE régionale 
+
+II.1.3 
+
+Faune 
+
+La végétation de cette friche semble trop peu dense pour être fonctionnelle comme habitat de 
+nidification  pour  l’avifaune  des  milieux  ouverts.  Elle  peut  en  revanche  constituer  une  zone 
+d’alimentation/territoire de chasse pour des oiseaux de milieux ouverts (dont des rapaces 
+tels que le Faucon crécerelle, le Milan royal…) mais aussi de milieux anthropiques (hirondelles, 
+martinets…). 
+
+De  plus,  selon  leur  cortège  floristique,  les  friches  peuvent  bénéficier  d’une  diversité 
+entomologique plus ou moins importante. Ici, la diversité floristique semble peu élevée. Le milieu 
+ne devrait pas présenter un intérêt particulier pour l’entomofaune (diversité d’espèces) 
+même si des insectes (notamment en Lépidoptères et Orthoptères) y accomplissent leur cycle 
+de vie. 
+
+A22092–R230208-v1                                                                                                                         
+
+         page 10  
+
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+                Harmony Energy France 
+La  friche  étant  isolée  de  tout  habitat  favorable  à  l’herpétofaune,  il  semblerait  peu  probable 
+d’observer des amphibiens nécessitant des zones humides et en eau et des reptiles nécessitant 
+des milieux plus fermés pour s’abriter.  
+
+Des galeries de micromammifères ont été observées sur le site d’étude.  Le site pourrait donc 
+être utilisé par certains petits et moyens mammifères en transit et/ou d’alimentation, dont 
+le Renard roux, ainsi que par des rapaces en chasses. 
+
+. 
+
+II.1.4 
+
+Synthèse 
+
+Du fait de la pauvreté des habitats présents et de la potentialité des espèces présentes 
+au sein d’une jachère récente, l’enjeu potentiel attribué à la jachère est faible. 
+
+II.2.  Zones humides 
+
+II.2.1 
+
+ Critère de végétation 
+
+Aucune végétation ne présente un faciès humide sur l’aire d’étude.  
+
+II.2.2 
+
+Critère de pédologie 
+
+Les 12 sondages pédologiques réalisés sur l’aire d’étude (points de sondages et de relevés 
+n°1 à 12 sur la figure 3) ont permis de détecter un sol très argileux et compact. 
+
+Toutefois,  aucun  sondage  de  sol  ne  révèle  une  classe  d’hydromorphie  typique  d’une 
+zone humide de critère pédologique. 
+
+Tableau 3 – Synthèse des résultats de prospection des zones humides (critère pédologique) 
+
+Point 
+
+Milieu/Occupation du sol 
+
+Sol 
+
+Forage 
+
+Classe  
+
+Zone 
+humide 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+Jachère dominée par des 
+espèces non graminoïdes 
+Jachère dominée par des 
+espèces non graminoïdes 
+
+Jachère dominée par des 
+espèces non graminoïdes 
+
+Jachère dominée par des 
+espèces non graminoïdes 
+Jachère dominée par des 
+espèces non graminoïdes 
+Jachère dominée par des 
+espèces non graminoïdes 
+Jachère dominée par des 
+espèces non graminoïdes 
+Jachère dominée par des 
+espèces non graminoïdes 
+Jachère dominée par des 
+espèces non graminoïdes 
+Jachère dominée par des 
+espèces non graminoïdes 
+Jachère dominée par des 
+espèces non graminoïdes 
+Jachère dominée par des 
+espèces non graminoïdes 
+
+Limono-argileux 
+
+Limono-argileux 
+
+Absence de trace, bloqué 
+40cm 
+Absence de trace, bloqué 
+40cm 
+
+III ou IV 
+
+non 
+
+III ou IV 
+
+non 
+
+Limono-argileux 
+puis limoneux 
+
+Absence de trace, bloqué 60 
+cm 
+
+Limono-argileux 
+
+Limono-argileux 
+
+Limono-argileux 
+
+Limono-argileux 
+
+Limono-argileux 
+
+Limono-argileux 
+
+Limono-argileux 
+
+Limono-argileux 
+
+Limono-argileux 
+
+Absence de trace, bloqué 60 
+cm 
+Absence de trace, bloqué 55 
+cm 
+Absence de trace, bloqué 60 
+cm 
+Absence de trace, bloqué 60 
+cm 
+Absence de trace, bloqué 
+60cm 
+Absence de trace, bloqué 
+40cm 
+Absence de trace, bloqué 50 
+cm 
+Absence de trace, bloqué 60 
+cm 
+Absence de trace, bloqué 65 
+cm 
+
+III 
+
+III 
+
+III 
+
+III 
+
+III 
+
+III 
+
+non 
+
+non 
+
+non 
+
+non 
+
+non 
+
+non 
+
+III ou IV 
+
+non 
+
+III 
+
+III 
+
+III 
+
+non 
+
+non 
+
+non 
+
+A22092–R230208-v1                                                                                                                         
+
+         page 11  
+
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+                Harmony Energy France 
+
+Figure 5 - Résultat de l'inventaire des zones humides au sein de l'aire d'étude 
+
+Le détail des résultats de l’inventaire des zones humides est présenté en Annexe 1. 
+
+Ainsi, l’aire d’étude n’accueille aucune zone humide. 
+
+A22092–R230208-v1                                                                                                                         
+
+         page 12  
+
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Harmony Energy France 
+
+II.3.  Continuités écologiques 
+
+L’aire  d’étude  ne comporte  pas  d’élément  de  la  Trame  Verte  et  Bleue (TVB)  à  l’échelle 
+régionale  comme  à  l’échelle  du  Grand  Clermont.  L’aire  d’étude  n’apparaît  pas  connectée  aux 
+éléments supports de la Trame Verte et Bleue aucun corridor écologique n’est présent au sein 
+de l’aire d’étude et ses abords. 
+
+Le secteur est largement dominé par l’activité agricole céréalière et les éléments supports des 
+déplacements de la faune sont globalement peu conservés (haies, alignements d’arbres, …). 
+
+L’enjeu potentiel attribué à l’aire d’étude est globalement faible pour la TVB.  
+
+A22092–R230208-v1                                                                                                                         page 13 
+
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+III-  CONCLUSION 
+
+Les enjeux écologiques potentiels sont jugés faibles pour l’ensemble de la jachère.  
+
+Cette jachère semble peu favorable à la présence d’une richesse spécifique importante que ce 
+soit pour la faune et pour la flore. 
+
+De plus, aucune zone humide n’a été inventoriée au sein de l’aire d’étude et cette dernière ne 
+semble  pas  présenter  de  continuité  écologique  avec  de  potentiels  réservoirs  de  biodiversité 
+avoisinants. 
+
+A22092–R230208-v1                                                                                                                                  page 14 
+
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+I.  TABLES DES ILLUSTRATIONS 
+
+•  Tableaux 
+
+Tableau 1 – Conditions de réalisation de la prospection de terrain ....................................... 5 
+
+Tableau 2 – Liste de la flore recensée au sein de l’aire d’étude .......................................... 10 
+
+Tableau 3 – Synthèse des résultats de prospection des zones humides (critère pédologique)  11 
+
+•  Figures 
+
+Figure 1 – Localisation de l’aire d’étude ............................................................................ 4 
+
+Figure  2  -  Classes  d’hydromorphie  (GEPPA  1981,  modifié) ;  les  classes  Vb,  Vc,  Vd,  VI,  H 
+correspondent  à  des  sols  de  zones  humides,  les  classes  IVd  et  Va  et  les  types  de  sols 
+correspondants  peuvent  être  exclus  par  le  préfet  de  région  après  avis  du  conseil  scientifique 
+régional du patrimoine naturel ........................................................................................ 7 
+
+Figure 3 - Localisation des sondages pédologiques au sein de l'aire d'étude .......................... 8 
+
+Figure 4 – Occupation du sol de l’aire d’étude ................................................................... 9 
+
+Figure 5 - Résultat de l'inventaire des zones humides au sein de l'aire d'étude .................... 12 
+
+•  Photographies 
+
+Photographie 1 – Vue générale sur l’aire d’étude (localisation approximative) depuis son angle 
+Nord-Est (source : Eco-Stratégie - 2022) ......................................................................... 5 
+
+Photographie 2 - Les traits rédoxiques correspondent aux traces orangées dans le sol  (source : 
+Eco-Stratégie) ............................................................................................................... 7 
+
+Photographie  3  -  Les  traits  réductiques  correspondents  à  des  traces  gris-bleu  dans  le  sol 
+(source : Eco-Stratégie) ................................................................................................. 7 
+
+A22092–R230208-v1                                                                                                                                  page 15 
+
+ 
+ 
+ECO-STRATEGIE 
+
+II.  ANNEXES 
+
+              Harmony Energy France 
+
+Annexe 1 – Résultats de l’inventaire des zones humides (critères de végétation et de sol) 
+
+A22092–R230208-v1                                                                                                                                  page 16 
+
+Numéro de sondage1DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesJachère dominée par des espèces  non graminoïdes sur Limono-argileuxForage : Absence de trace, bloqué 40cmClasse d'hydromorphie : III ou IV=> Sol non caractéristique de zone humide (critère : Sol)29/12/2022Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesJachère dominée par des espèces  non graminoïdes 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 17 
+
+Numéro de sondage2DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesJachère dominée par des espèces  non graminoïdes sur Limono-argileuxForage : Absence de trace, bloqué 40cmClasse d'hydromorphie : III ou IV=> Sol non caractéristique de zone humide (critère : Sol)29/12/2022Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesJachère dominée par des espèces  non graminoïdes 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 18 
+
+Numéro de sondage3DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesJachère dominée par des espèces  non graminoïdes sur Limono-argileux puis limoneuxForage : Absence de trace, bloqué 60 cmClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)29/12/2022Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesJachère dominée par des espèces  non graminoïdes 
+ 
+  
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 19 
+
+Numéro de sondage4DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesJachère dominée par des espèces  non graminoïdes sur Limono-argileuxForage : Absence de trace, bloqué 60 cmClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)29/12/2022Harmony-energyF.BOURGEOTHabitat / cortège d'espèces floristiques observéesJachère dominée par des espèces  non graminoïdes 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 20 
+
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 21 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 22 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 23 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 24 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 25 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 26 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A22092–R230208-v1                                                                                                                                  page 27 
+
+ 
+ 
+
