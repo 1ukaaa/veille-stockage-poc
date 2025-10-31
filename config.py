@@ -64,5 +64,12 @@ class Settings:
     MIN_COMMUNE_MENTIONS: int = 1
     QUICK_SCAN_ENABLED: bool = True
 
+    # Page type classification
+    ENABLE_PAGE_CLASSIFICATION: bool = True
+    
+    # Validation stricte PC vs cas par cas
+    REJECT_CAS_PAR_CAS_AS_PC: bool = True
+    VALIDATE_PC_FORMAT: bool = True
+
 # Instance globale
 settings = Settings()

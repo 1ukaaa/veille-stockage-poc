@@ -1,0 +1,1252 @@
+ECO-STRATEGIE 
+
+Immobilière Européenne des Mousquetaires 
+
+HARMONY ENERGY France 
+
+297 RTE DE L'ISLE SUR SORGUE 
+
+84800 LAGNES 
+
+PRE-DIAGNOSTIC FAUNE/FLORE/ZONES HUMIDES  
+
+NOVEMBRE 2023 
+
+DEPARTEMENT DE SAONE ET LOIRE (71) 
+
+COMMUNE D’ECUISSES 
+
+Ingénieurs conseils en aménagement durable du territoire 
+
+42 boulevard Antonio Vivaldi 
+
+Tél. 04 77 92 71 47 / contact@eco-strategie.fr  
+
+42 000 SAINT-ETIENNE 
+
+www.eco-strategie.fr 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Immobilière Européenne des Mousquetaires 
+
+Maître d’ouvrage : Harmony Energy France 
+
+Bureau d’études : ECO-STRATEGIE 
+
+N° version 
+
+Date 
+
+Auteur 
+
+Contrôle qualité 
+
+A23045-R230215-v1 
+
+24/10/2023 
+
+Théo DUBOIS 
+
+François BOURGEOT 
+
+Le présent dossier est basé sur nos observations de terrain, la bibliographie, notre retour d’expérience 
+en aménagement du territoire et les informations fournies par le porteur de projet. 
+
+Il a pour objet d’assister, en toute objectivité, le maître d’ouvrage dans la définition de son projet. 
+
+Le contenu de ce rapport ne pourra pas être utilisé par un tiers en tant que document contractuel. Il ne 
+peut être utilisé de façon partielle, en isolant telle ou telle partie de son contenu. 
+
+Le présent rapport est protégé par la législation sur le droit d'auteur et sur la propriété intellectuelle. 
+Aucune publication, mention ou reproduction, même partielle, du rapport et de son contenu ne pourra 
+être faite sans accord écrit préalable d’ECO-STRATEGIE et du maître d’ouvrage. 
+
+Les prises de vue présentées ont été réalisées par ECO-STRATEGIE. 
+
+Les fonds de carte sont issus des cartes IGN, de Google Earth et de Géoportail. Les photographies prises 
+sur le site sont précisées.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+SOMMAIRE 
+
+              Harmony Energy France 
+
+Sommaire..................................................................................................................... 3 
+
+I.  Aire d’étude et méthodologie ..................................................................................... 4 
+
+I.1. 
+
+Localisation de l’aire d’étude ............................................................................... 4 
+
+I.2.  Méthodes ......................................................................................................... 5 
+
+I.2.1. 
+
+Périmètre étudié et conditions de la prospection ............................................. 5 
+
+I.1.1 
+
+Caractérisation des zones humides ................................................................ 6 
+
+II. 
+
+Résultats ........................................................................................................... 10 
+
+II.1.  Occupation du sol et potentialités écologiques associées ...................................... 10 
+
+II.1.1.  Habitat naturel ......................................................................................... 10 
+
+II.1.2.  Flore ........................................................................................................ 11 
+
+II.1.3.  Faune ...................................................................................................... 12 
+
+II.1.4.  Synthèse .................................................................................................. 13 
+
+II.2.  Zones humides ............................................................................................... 14 
+
+II.2.1.  Critère de végétation ................................................................................. 14 
+
+II.2.2.  Critère de pédologie .................................................................................. 14 
+
+II.3.  Continuités écologiques .................................................................................... 15 
+
+III. 
+
+IV. 
+
+V. 
+
+Conclusion ......................................................................................................... 17 
+
+Tables des illustrations ........................................................................................ 18 
+
+ANNEXES .......................................................................................................... 19 
+
+A23045-R230215-v1                                                                                                                      
+
+           page 3 
+
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+I.  AIRE D’ETUDE ET METHODOLOGIE 
+
+I.1.  Localisation de l’aire d’étude 
+
+La  commune  d’Ecuisses  se  situe  au cœur  du  département  de  Saône-et-Loire,  en  région 
+Bourgogne  –  Franche-Comté.  Elle  est  limitrophe  à  l’ouest  de  la  commune  de  Montchanin,  au 
+Sud-Est de la ville du Creusot. Elle s’intègre dans un paysage à la fois péri-urbain et agricole à 
+proximité de la route nationale RN80. 
+
+L’aire d’étude se situe au sud-ouest de la commune dans un secteur partagé entre installations 
+industrielles et parcelles agricoles telles que des cultures et des prairies artificielles semées. Elle 
+est desservie par la route « du pont Jeanne Rose » au sud. 
+
+L’aire  d’étude  immédiate  (AEI)  a  une  superficie  d’environ  1,9  ha.  L’aire  d’étude  rapprochée 
+(AER)  représente  une  bande  tampon  de  50  m  autours  de  l’AEI  afin  de  mieux  cerner  les 
+sensibilités. La Figure 1 localise la commune, les aires d’étude. 
+
+Figure 1 – Localisation des aires d’étude. 
+
+A23045-R230215-v1                                                                                                                      
+
+           page 4 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+Photographie 1 – Vue générale sur l’aire d’étude (localisation approximative) depuis son angle 
+Nord-Ouest (source : Eco-Stratégie - 2023) 
+
+I.2.  Méthodes 
+
+I.2.1.   Périmètre étudié et conditions de la prospection 
+
+Les prospections de terrain ont été réalisées par 1 expert naturaliste sur 2 journées. Elles ont 
+été menées le 18/08/2023 et le 14/11/2023 par François Bourgeot (Chef de Projet Ecologie et 
+Biodiversité) du cabinet ECO-STRATEGIE.  
+
+L’aire d’étude a été parcourue à pied selon des transects aléatoires afin de caractériser les grands 
+types de milieux présents et de recenser la flore et la faune présentes. Ces visites ponctuelles 
+ont  surtout  permis  d’apprécier  les  potentialités  écologiques  de  l’aire  d’étude  en  termes 
+d’accueil pour la faune et la flore.  
+
+Les conditions de réalisation des visites de terrain sont présentées dans le tableau ci-après : 
+
+A23045-R230215-v1                                                                                                                      
+
+           page 5 
+
+ 
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+Tableau 1 – Conditions de réalisation de la prospection de terrain 
+
+N° 
+Passage 
+
+Date 
+
+Météo 
+
+Période 
+journalière 
+
+Horaires 
+
+Groupes 
+étudiés 
+
+Méthode 
+
+1 
+
+18/08/2023 
+
+2 
+
+14/11/2023 
+
+Dégagé, vent faible 
+(f1), 30 °C, 
+couverture 
+nuageuse (20%) 
+
+Couvert, vent faible 
+(f1), 5 °C, 
+couverture 
+nuageuse (100 %) 
+
+Mi-journée 
+
+11h00 – 
+13h00 
+
+Flore, zones 
+humides, 
+faune, 
+potentialités 
+écologiques 
+
+Transects 
+aléatoire 
+
+Mi-journée 
+
+8h00 -
+11h00 
+
+Zones humides 
+
+Pédologie / 
+flore 
+
+Les conditions des visites de terrain se sont avérées favorables à l’observation de la flore et 
+de  la  faune  et  à  l’identification  des  potentialités  écologiques  du  site.  Du  fait  de  la 
+sécheresse persistante estivale, il n’avait pas été possible de sonder le sol afin de déterminer la 
+potentielle présence de zones humides. Ceci a été réalisé ultérieurement en période propice. 
+
+Dans la suite du document, les espèces de faune citées en italique sont celles considérées comme 
+potentiellement présentes sur l’aire d’étude (et/ou à proximité) car connues localement dans la 
+bibliographie et trouvant sur l’aire d’étude des milieux naturels favorables.  
+
+I.1.1 Caractérisation des zones humides 
+
+I.1.1.1.  Règlementation 
+
+Selon l’article L.211-1 du code de l’Environnement, les zones humides sont définies ainsi : ce 
+sont  « les  terrains  exploités  ou  non,  habituellement  inondés  ou  gorgés  d'eau  douce,  salée  ou 
+saumâtre de façon permanente ou temporaire ; la végétation, quand elle existe, y est dominée 
+par des plantes hygrophiles pendant au moins une partie de l'année ».  
+
+L’arrêté  du  24  juin  2008  modifié  par  l’arrêté  du  1er  octobre  2009  ainsi  que  la  circulaire 
+d’application du 18 janvier 2010 précisent les modalités de définition et de délimitation de  ces 
+zones humides. Selon l’arrêté du 1er octobre 2009, une zone est considérée comme humide si 
+elle présente l'un des critères suivants : 
+
+« 1° Les sols correspondent à un ou plusieurs types pédologiques, exclusivement parmi 
+ceux mentionnés dans la liste figurant à l'annexe 1.1 et identifiés selon la méthode figurant à 
+l'annexe 1.2 au présent arrêté. Pour les sols dont la morphologie correspond aux classes IV d et 
+V a, définis d'après les classes d'hydromorphie du groupe d'étude des problèmes de pédologie 
+appliquée (GEPPA, Groupe d'Etude pour les Problèmes de Pédologie Appliquée, 1981 ; modifié), 
+le préfet de région peut exclure l'une ou l'autre de ces classes et les types de sol associés pour 
+certaines communes, après avis du conseil scientifique régional du patrimoine naturel.  
+
+« 2° Sa végétation, si elle existe, est caractérisée par : 
+
+«  ―  soit  des  espèces  identifiées  et  quantifiées  selon  la  méthode  et  la  liste 
+d'espèces figurant à l'annexe 2.1 au présent arrêté complétée en tant que de besoin par 
+une liste additionnelle d'espèces arrêtées par le préfet de région sur proposition du conseil 
+scientifique  régional  du  patrimoine  naturel,  le  cas  échéant,  adaptée  par  territoire 
+biogéographique ; 
+
+«  ―  soit  des  communautés  d'espèces  végétales,  dénommées  "  habitats  ”, 
+caractéristiques de zones humides, identifiées selon la méthode et la liste correspondante 
+figurant à l'annexe 2.2 au présent arrêté. » 
+
+Enfin, d’après le « Guide d’identification et de délimitation des sols des zones humides » : 
+
+A23045-R230215-v1                                                                                                                      
+
+           page 6 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+« L’observation  doit  se  faire  à  une  profondeur  supérieure  à  0,70  m  et  jusqu’à  
+1,20  m  si  possible.  La  présence  de  la  roche  mère  à  moindre  profondeur  ou  d’une 
+charge en cailloux trop élevée peut toutefois limiter la profondeur de prospection. 
+
+Les  périodes  sèches  ne  sont  pas  favorables  pour  une  observation  optimale  des 
+taches.  L’observation  peut  également  être  difficile  en  périodes  d’engorgements  du 
+fait de l’ennoyage des sondages ou fosses. Il est préférable d’effectuer les sondages 
+en fin d’hiver, début de printemps. » 
+
+La  Loi  n°2019-773  en  date  du  24  juillet  2019,  portant  création  de  l’Office  français  de  la 
+biodiversité et de la chasse, vient apporter une modification dans son article 23 à l’article L.211-
+1 du code de l’environnement portant sur la caractérisation des zones humides. Ainsi une zone 
+humide peut être déterminée par des critères pédologiques ou de végétation. 
+
+I.1.1.2.  Méthodologie 
+
+Lors de la visite de terrain, les deux critères ont été étudiés : 
+
+•  Critère végétation :  Une végétation  est caractérisée  comme humide lorsqu’au moins 
+
+50% de la flore présente dans l’habitat est caractéristique de zone humide.  
+
+•  Critère  sol :  L’analyse  pédologique  a  été  effectuée  à  l’aide  d’une  tarière,  permettant 
+d’effectuer  des  sondages  jusqu’à  120  cm  de  profondeur  maximum.  Chaque  sondage  a 
+ensuite été rattaché à une classe d’hydromorphie (GEPPA, 1981). 
+
+Figure 2 - Classes d’hydromorphie (GEPPA 1981, modifié) ; les classes Vb, Vc, Vd, VI, H 
+correspondent à des sols de zones humides, les classes IVd et Va et les types de sols 
+correspondants peuvent être exclus par le préfet de région après avis du conseil scientifique 
+régional du patrimoine naturel 
+
+La détermination du caractère humide du sol se base sur différents critères :  
+
+o  Traits rédoxiques :  
+
+A23045-R230215-v1                                                                                                                      
+
+           page 7 
+
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+Photographie 2 - Les traits rédoxiques correspondent aux traces orangées dans le sol  
+(source : Eco-Stratégie) 
+
+o  Traits réductiques :  
+
+Photographie 3 - Les traits réductiques correspondents à des traces gris-bleu dans le sol 
+(source : Eco-Stratégie) 
+
+Afin  de  délimiter  le  contour  des  éventuelles  zones  humides,  le  nombre  de  sondages  et  leur 
+localisation se basent sur : 
+
+•  La  topographie  du  site :  les  sondages  sont  effectués  à  différentes  altitudes,  en  partie 
+haute et en partie basse, pour explorer les sols minces et en particulier ceux plus profonds 
+à accumulation d’eau possible. Pour exemple : sur une pente continue, si deux sondages 
+effectués au point le plus haut  et au point le  plus bas sont tous les  deux humides, on 
+admet que l’intégralité de la pente l’est ; 
+
+•  Des sondages aléatoires : afin d’éliminer un biais d’observateur et ainsi d’étudier des sols 
+présents sous des végétations non humides. Ces sondages se basent sur la différence de 
+végétation observée. A l’échelle de l’aire d’étude, un sondage minimum est effectué par 
+type de végétation. 
+
+Au total, 10 sondages ont été effectués sur l’aire d’étude et à proximité, certains bloqués entre 
+50 et 70 cm de profondeur. 
+
+A23045-R230215-v1                                                                                                                      
+
+           page 8 
+
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+Figure 3 - Localisation des sondages pédologiques au sein de l'aire d'étude 
+
+A23045-R230215-v1                                                                                                                      
+
+           page 9 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+II. 
+
+RESULTATS 
+
+II.1. 
+
+Occupation du sol et potentialités écologiques 
+
+associées 
+
+L’aire  d’étude  accueille  principalement  une  prairie  artificielle  semée  ainsi  qu’un  massif  de 
+robiniers  et  quelques  ronciers  en  périphérie.  L’AER  présente,  en  périphérie,  des  habitats 
+similaires à l’aire d’étude, ainsi qu’à des habitats anthropiques de faible intérêt écologiques.  
+
+L’aire  d’étude  correspond  donc  principalement  à  un  milieu  ouvert  fortement  lié  à 
+l’activité anthropique. 
+
+II.1.1.  Habitat naturel 
+
+L’aire  d’étude  présente  un  habitat  principal,  une  prairie  artificielle  semée.  La  présence  d’un 
+habitat  fortement  lié  à  l’activité  anthropique,  pouvant  se  rapporter  culture  de  plantes 
+fourragères, va limiter le cortège d’espèces présentes ou potentielles que ce soit au niveau de 
+la flore comme de la faune. Les massifs de robiniers et les ronciers quant à eux peuvent présenter 
+un  rôle  plus  intéressant  comme  habitat  d’espèces  pour  plusieurs  taxons  ainsi  qu’un  rôle  de 
+corridor écologique ponctuel, à l’échelle locale. D’un point de vue floristique et d’habitat, il s’agit 
+de végétations pauvres en espèces. 
+
+La figure suivante présente l’occupation du sol de l’aire d’étude. 
+
+Figure 4 – Occupation du sol de l’aire d’étude 
+
+Enfin, le nord de l’AEI présente une prairie qui ne semble pas gérée, dominée par un cortège 
+prairial alliant des espèces d’ourlets et de milieux humides. Il est donc possible que cet habitat 
+soit  caractéristique  de  zone  humide  selon  le  critère  sol,  voire  le  critère  flore  si  les  50%  de 
+recouvrement  de  végétation  humide  sont  atteint  lors  de  l’optimum  de  ce  milieu  (fin  de 
+printemps). 
+
+A23045-R230215-v1                                                                                                                                  page 10 
+
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+Ces occupations du  sol  ne semblent pas  être rattachées  à des habitats naturels patrimoniaux 
+local  de 
+(d’intérêt  communautaire,  déterminants  pour 
+conservation …). Toutefois, ils peuvent présenter un intérêt pour la flore ou pour certains 
+groupes  faunistiques  comme  habitats  d’espèces  (cf.  analyse  présentée  aux  paragraphes 
+suivants). 
+
+l’inventaire  ZNIEFF,  à  enjeu 
+
+II.1.2.  Flore 
+
+En l’état, aucune espèce de la flore protégée, d’intérêt communautaire, déterminante 
+de ZNIEFF ou inscrite sur une liste rouge n’a été recensée.  
+
+Cependant une espèce exotique envahissante a été observée au sein de l’AER, proche du bassin 
+de rétention. Il s’agit de la Vergerette du Canada (Erigeron canadensis), EEE considérée comme 
+invasive avérée à l’échelle nationale et liée aux milieux anthropiques dans la liste régionale. 
+
+Cette plante peut se propager aisément dans les milieux perturbés. Son risque de propagation 
+au sein de l’AEI est considéré comme modéré. 
+
+Une  autre  espèce  exotique  envahissante  fortement  présente  au  sein  de  l’AEI  et  l’AER  est  le 
+Robinier  faux-acacia.  Il  est  considéré  comme  EEE  avérée  à  l’échelle  nationale  et  régionale.  Il 
+occupe les milieux arborés dans l’AEI et l’AER, et peut se propager dans les milieux perturbés. 
+Du fait de l’utilisation agricole intensive de l’aire d’étude, son risque de propagation au sein de 
+l’AEI est considéré comme modéré. 
+
+Figure 5 - Vergerette du Canada (à gauche), Robinier faux-acacia (à droite) (Eco-Stratégie – 2023) 
+
+Tableau 2 – Liste de la flore recensée au sein de l’aire d’étude 
+
+Espèces 
+Robinia pseudoacacia 
+Heracleum sphondylium 
+Daucus carota 
+Plantago major 
+Rubus sp. 
+Urtica dioica 
+Corylus avellana 
+Cichorium intybus 
+Carpinus betulus 
+Galium aparine 
+Trifolium pratense 
+Trifolium repens 
+Arrhenatherum elatius 
+Lolium perenne 
+Dactylis glomerata 
+Bellis perennis 
+Rumex crispus 
+Anthemis cotula 
+Ranunculus bulbosus 
+Plantago lanceolata 
+Rumex obtusifolius 
+Hypochaeris radicata 
+Cytisus scoparius 
+Typha latifolia 
+Erigeron canadensis 
+Cirsium vulgare 
+Rosa canina 
+Prunus spinosa 
+
+PN 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+LR.N 
+NA 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+LC 
+NA 
+LC 
+LC 
+LC 
+
+Inv.N 
+Avérée 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Avérée 
+- 
+- 
+- 
+
+PR 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+LR.R 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+NA 
+- 
+- 
+- 
+
+ZNIEFF 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+Inv.R 
+Généralisée 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Anthropique 
+- 
+- 
+- 
+
+A23045-R230215-v1                                                                                                                                  page 11 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+Espèces 
+Quercus petraea 
+Lythrum salicaria 
+Potentilla reptans 
+
+              Harmony Energy France 
+
+PN 
+- 
+- 
+- 
+
+LR.N 
+- 
+LC 
+LC 
+
+Inv.N 
+- 
+- 
+- 
+
+PR 
+- 
+- 
+- 
+
+LR.R 
+- 
+- 
+- 
+
+ZNIEFF 
+- 
+- 
+- 
+
+Inv.R 
+- 
+- 
+- 
+
+Légende :  PN  =  Protection  nationale  /  LR.  N  =  Liste  Rouge  Nationale,  LC  =  Préoccupation  mineure  /  Inv.N  =  Liste 
+Espèce Exotique Envahissante (EEE) Nationale / PR = Protection régionale /  LR. R = Liste Rouge Régionale / Inv.R = 
+Liste EEE régionale 
+
+Figure 6 - Espèces exotiques envahissantes recensées au sein de l'AEI et ses abords 
+
+II.1.3.  Faune 
+
+La prairie artificielle semble peu propice comme habitat de nidification pour l’avifaune des milieux 
+ouverts. Elle peut en revanche constituer une zone d’alimentation/territoire de chasse pour 
+des oiseaux de milieux ouverts (dont des rapaces tels que le Faucon crécerelle, le Milan royal…) 
+mais aussi de milieux anthropiques (hirondelles, martinets…). 
+
+De plus, du fait des rotation de culture et du cortège floristique paucispécifique planté, la prairie 
+ne  va  pas  constituer  un  habitat  très  favorable  à  l’entomofaune  et  l’herpétofaune.  Elle  peut 
+cependant servir de milieu ponctuel de passage et d’alimentation pour des espèces communes 
+d’hyménoptères (bourdons, abeilles solitaires), orthoptères, lépidoptères, ainsi que pour certains 
+mammifères. 
+
+La prairie, bordée les massifs de robiniers, peut également servir de secteur de chasse pour les 
+chiroptères. 
+
+A23045-R230215-v1                                                                                                                                  page 12 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+Les enjeux du site pour la faune vont principalement se situer dans sa périphérie où les habitats 
+sont plus favorables, notamment à l’ouest où le canal du Centre est présent. 
+
+Les ronciers et les massifs de robiniers vont être des habitats importants pour l’herpétofaune. 
+Ces massifs peuvent aussi constituer des habitats d’espèces pour les reptiles. 
+
+Les massifs peuvent aussi permettre la nidification de certains passereaux inféodés aux milieux 
+semi-ouverts et arbustifs ainsi qu’assurer un rôle de corridor écologique pour la faune locale. 
+
+Du fait de la faible présence de vieux arbres, elles ne semblent toutefois peu favorables à abriter 
+des coléoptères saproxyliques patrimoniaux et semblent également peu propice à l’installation 
+de gites à chiroptères. 
+
+II.1.4.  Synthèse 
+
+Du fait de la présence d’une prairie artificielle semée sur la majorité du site, l’enjeu 
+écologique semble faible au sein de l’AEI pour les habitats, la flore et la faune. L’AER 
+présente des habitats également peu diversifiés qui pourraient présenter des enjeux 
+faibles à modérés. 
+
+A23045-R230215-v1                                                                                                                                  page 13 
+
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+II.2. 
+
+Zones humides 
+
+II.2.1.   Critère de végétation 
+
+Aucune  végétation  ne  présente  un  faciès  humide  sur  l’AEI.  Cependant  un  habitat 
+présentait des espèces caractéristiques de zone humide (Lythrum salicaria, Carex sp.). Il s’agit 
+d’une prairie que ne semble plus être gérée, au nord-est du site d’étude. Il se pourrait que la 
+végétation  soit  caractéristique  de  zone  humide  lors  de  son  optimum  écologique  (fin  de 
+printemps). 
+
+II.2.2.  Critère de pédologie 
+
+Les 10 sondages pédologiques réalisés sur l’aire d’étude (points de sondages et de relevés n°1 
+à 10 sur la figure 3) ont permis de détecter un sol argilo organique en surface, suivi d’horizons 
+sableux vraisemblablement issus de l’altération de la roche mère. 
+
+Aucun sondage de sol ne révèle une classe d’hydromorphie typique d’une zone humide 
+sur le critère pédologique. 
+
+Une  certaine  flore  hygrophile  est  cependant  présente  au  niveau  du  point  de  sondage  n°4, 
+néanmoins  non  caractérisable  en  tant  que  zone  humide,  car  présentant  un  recouvrement 
+inférieur à 50 %. 
+
+Tableau 3 – Synthèse des résultats de prospection des zones humides (critère pédologique) 
+
+Point 
+
+Milieu/Occupation 
+du sol 
+
+Sol 
+
+Forage 
+
+Classe 
+GEPPA 
+
+Zone 
+humide 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Prairie semée 
+
+Prairie semée 
+
+Prairie semée 
+
+Prairie semée 
+
+Prairie semée 
+
+Prairie semée 
+
+Prairie semée 
+
+Prairie semée 
+
+sol argilo-humique puis 
+sableux 
+
+100 cm. Argilo sableux, puis sableux. 
+Non humide 
+
+sol argilo-humique puis 
+sableux 
+
+100 cm. Argilo sableux, puis sableux. 
+Non humide 
+
+sol argilo-humique puis 
+sableux 
+
+Prairie semée 
+
+sol argilo-humique puis 
+sableux 
+
+sol argilo-humique puis 
+sableux 
+
+100 cm. Argilo sableux, puis sableux. 
+Non humide 
+100 cm. Terre organique argileuse. 
+Non humide. Présence sporadique de 
+flore hygrophile (< 50 % de 
+recouvrement) 
+50 cm puis refus. Argilo sableux, puis 
+sableux. Non humide 
+
+sol argilo-humique puis 
+sableux 
+
+50 cm puis refus. Argilo sableux, puis 
+sableux. Non humide 
+
+sol argilo-humique puis 
+sableux 
+
+50 cm puis refus. Argilo sableux, puis 
+sableux. Non humide 
+
+sol argilo-humique puis 
+sableux 
+
+50 cm puis refus. Argilo sableux, puis 
+sableux. Non humide 
+
+sol argilo-humique puis 
+sableux 
+
+70 cm puis refus. Argilo sableux, puis 
+sableux. Non humide 
+
+10 
+
+Prairie semée 
+
+sol argilo-humique puis 
+sableux 
+
+60 cm puis refus. Argilo sableux, puis 
+sableux. Non humide 
+
+III 
+
+III 
+
+III 
+
+non 
+
+non 
+
+non 
+
+III 
+
+non 
+
+III 
+
+III 
+
+III 
+
+III 
+
+III 
+
+III 
+
+non 
+
+non 
+
+non 
+
+non 
+
+non 
+
+non 
+
+A23045-R230215-v1                                                                                                                                  page 14 
+
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+Figure 7 - Résultat de l'inventaire des zones humides au sein de l'aire d'étude 
+
+Le détail des résultats de l’inventaire pédologique des zones humides est présenté en Erreur ! 
+Source du renvoi introuvable.. 
+
+Ainsi, l’aire d’étude n’accueille aucune zone humide. 
+
+II.3. 
+
+Continuités écologiques 
+
+Bien qu’inscrite dans un milieu lié à une activité anthropique agricole et à proximité d’installations 
+industrielles, l’aire d’étude est entourée d’éléments secondaires de la trame verte et bleue. 
+
+Ainsi les massifs de robiniers vont correspondre à des corridors écologique secondaires ponctuel 
+de la trame verte, pour la faune, à l’échelle locale. 
+
+Le canal du Centre va correspondre à un corridor écologique secondaire de la trame verte ainsi 
+que de la trame bleue à l’échelle locale. 
+
+A23045-R230215-v1                                                                                                                                  page 15 
+
+ 
+ 
+ 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+L’enjeu potentiel attribué à l’aire d’étude et ses abords est globalement modéré pour 
+la TVB (Trame verte et bleue).  
+
+A23045-R230215-v1                                                                                                                                  page 16 
+
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+III.  CONCLUSION 
+
+Les enjeux écologiques potentiels sont jugés faibles pour l’ensemble l’AEI. L’AER va présenter 
+des  enjeux  plus  importants  dans  les  secteurs  constituants  des  corridors  qui  pourraient  être 
+considérés comme modérés, notamment pour la faune. Les milieux ouverts de l’AEI et de l’AER 
+ne présentent pas d’intérêt écologique majeur et sont donc considérés à enjeu faible. 
+
+La  prairie  semée,  principal  habitat  du  site  d’étude,  semble  peu  favorable  à  la  présence  d’une 
+richesse spécifique importante que ce soit pour la faune et pour la flore. 
+
+De plus, au regard de l’application de l’arrêté en vigueur, et selon les résultats des inventaires 
+floristiques et des sondages pédologiques, aucune zone humide n’a été inventoriée au sein des 
+aires d’études immédiate et rapprochée. 
+
+A23045-R230215-v1                                                                                                                                  page 17 
+
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+IV. 
+
+TABLES DES ILLUSTRATIONS 
+
+•  Tableaux 
+
+Tableau 1 – Conditions de réalisation de la prospection de terrain ....................................... 6 
+
+Tableau 2 – Liste de la flore recensée au sein de l’aire d’étude .......................................... 11 
+
+•  Figures 
+
+Figure 1 – Localisation de l’aire d’étude ............................................................................ 4 
+
+Figure 2 – Occupation du sol de l’aire d’étude 
+
+10 
+
+Figure 3 - Vergerette du Canada (à gauche), Robinier faux-acacia (à droite) (Eco-Stratégie – 2023) 
+
+Figure 4 - Espèces exotiques envahissantes recensées au sein de l'AEI et ses abords 
+
+11 
+
+12 
+
+•  Photographies 
+
+Photographie 1 – Vue générale sur l’aire d’étude (localisation approximative) depuis son angle 
+Nord-Ouest (source : Eco-Stratégie - 2023) ...................................................................... 5 
+
+A23045-R230215-v1                                                                                                                                  page 18 
+
+ 
+ECO-STRATEGIE 
+
+V. ANNEXES 
+
+              Harmony Energy France 
+
+A23045-R230215-v1                                                                                                                                  page 19 
+
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A23045-R230215-v1                                                                                                                                  page 20 
+
+Numéro de sondage1DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesPrairie semée sur sol argilo-humique puis sableuxForage : 100 cm. Argilo sableux, puis sableux. Non humideClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)14/11/2023Harmony EnergyF. BOURGEOTHabitat / cortège d'espèces floristiques observéesPrairie semée 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A23045-R230215-v1                                                                                                                                  page 21 
+
+Numéro de sondage2DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesPrairie semée sur sol argilo-humique puis sableuxForage : 100 cm. Argilo sableux, puis sableux. Non humideClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)14/11/2023Harmony EnergyF. BOURGEOTHabitat / cortège d'espèces floristiques observéesPrairie semée 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A23045-R230215-v1                                                                                                                                  page 22 
+
+Numéro de sondage3DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesPrairie semée sur sol argilo-humique puis sableuxForage : 100 cm. Argilo sableux, puis sableux. Non humideClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)14/11/2023Harmony EnergyF. BOURGEOTHabitat / cortège d'espèces floristiques observéesPrairie semée 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A23045-R230215-v1                                                                                                                                  page 23 
+
+Numéro de sondage4DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesPrairie semée sur sol argilo-humique puis sableuxForage : 100 cm. Terre organique argileuse. Non humide. Présence sporadique de flore hygrophile.Classe d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)14/11/2023Harmony EnergyF. BOURGEOTHabitat / cortège d'espèces floristiques observéesPrairie semée 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A23045-R230215-v1                                                                                                                                  page 24 
+
+Numéro de sondage5DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesPrairie semée sur sol argilo-humique puis sableuxForage : 50 cm puis refus. Argilo sableux, puis sableux. Non humideClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)14/11/2023Harmony EnergyF. BOURGEOTHabitat / cortège d'espèces floristiques observéesPrairie semée 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A23045-R230215-v1                                                                                                                                  page 25 
+
+Numéro de sondage6DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesPrairie semée sur sol argilo-humique puis sableuxForage : 50 cm puis refus. Argilo sableux, puis sableux. Non humideClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)14/11/2023Harmony EnergyF. BOURGEOTHabitat / cortège d'espèces floristiques observéesPrairie semée 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A23045-R230215-v1                                                                                                                                  page 26 
+
+Numéro de sondage7DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesPrairie semée sur sol argilo-humique puis sableuxForage : 50 cm puis refus. Argilo sableux, puis sableux. Non humideClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)14/11/2023Harmony EnergyF. BOURGEOTHabitat / cortège d'espèces floristiques observéesPrairie semée 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A23045-R230215-v1                                                                                                                                  page 27 
+
+Numéro de sondage8DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesPrairie semée sur sol argilo-humique puis sableuxForage : 50 cm puis refus. Argilo sableux, puis sableux. Non humideClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)14/11/2023Harmony EnergyF. BOURGEOTHabitat / cortège d'espèces floristiques observéesPrairie semée 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A23045-R230215-v1                                                                                                                                  page 28 
+
+Numéro de sondage9DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesPrairie semée sur sol argilo-humique puis sableuxForage : 70 cm puis refus. Argilo sableux, puis sableux. Non humideClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)14/11/2023Harmony EnergyF. BOURGEOTHabitat / cortège d'espèces floristiques observéesPrairie semée 
+ 
+ECO-STRATEGIE 
+
+              Harmony Energy France 
+
+A23045-R230215-v1                                                                                                                                  page 29 
+
+Numéro de sondage10DateSite d'étude / ClientNom des intervenantsObservations pédologiques et/ou floristiquesPrairie semée sur sol argilo-humique puis sableuxForage : 60 cm puis refus. Argilo sableux, puis sableux. Non humideClasse d'hydromorphie : III=> Sol non caractéristique de zone humide (critère : Sol)14/11/2023Harmony EnergyF. BOURGEOTHabitat / cortège d'espèces floristiques observéesPrairie semée 
+ 
+

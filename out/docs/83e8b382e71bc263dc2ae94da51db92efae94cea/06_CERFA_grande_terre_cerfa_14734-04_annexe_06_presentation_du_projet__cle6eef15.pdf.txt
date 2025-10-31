@@ -1,0 +1,1615 @@
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+HARMONY ENERGY FRANCE 
+
+Présentation du projet 
+de stockage d'énergie 
+
+GRANDE TERRE 
+
+Historique des versions : 
+
+Version 0 
+
+1 mars 2023 
+
+« La capacité à générer et à stocker de l’énergie décarbonée est 
+
+essentielle au développement d’un système énergétique durable » 
+
+Page 1 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Sommaire 
+
+1. 
+
+Présentation de la société ......................................................................................................................... 3 
+
+1.1.  Historique ....................................................................................................................................... 3 
+
+1.2.  Harmony Energy France .................................................................................................................. 3 
+
+1.3.  Politique RSE ................................................................................................................................... 4 
+
+2. 
+
+Le stockage d'énergie par batteries........................................................................................................... 5 
+
+2.1. 
+
+Intérêt de la solution....................................................................................................................... 5 
+
+2.2.  Fonctionnement ............................................................................................................................. 8 
+
+2.3.  Technologie de batteries .............................................................................................................. 10 
+
+2.4.  Aspects environnementaux .......................................................................................................... 10 
+
+3. 
+
+Le projet de Grande Terre ....................................................................................................................... 12 
+
+3.1.  Situation du projet ........................................................................................................................ 12 
+
+3.2.  Conception du projet.................................................................................................................... 12 
+
+4. 
+
+Analyse des risques................................................................................................................................. 14 
+
+4.1.  Revue générale des risques ........................................................................................................... 14 
+
+4.2.  Biodiversité .................................................................................................................................. 17 
+
+4.3.  Milieu potentiellement humide .................................................................................................... 18 
+
+4.4.  Patrimoine et population locale ................................................................................................... 19 
+
+4.5.  Risque intrusion ........................................................................................................................... 20 
+
+4.6.  Risque incendie ............................................................................................................................ 20 
+
+5. 
+
+Cycle de vie du projet ............................................................................................................................. 26 
+
+5.1.  Processus de développement ....................................................................................................... 26 
+
+5.2.  Activités sur site ........................................................................................................................... 27 
+
+Annexe 1 Plan du projet ....................................................................................................................................... 29 
+
+Annexe 2 Évaluation de l'état environnemental du site ........................................................................................ 30 
+
+Page 2 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+1. Présentation de la société 
+
+1.1.  Historique 
+
+Harmony Energy a été fondée au Royaume-Uni en 2010 et en une dizaine d’années la société est devenue un leader 
+national  dans  le  développement  de  projets  de  stockage  d’énergie  et  de  centrales  de  production  d’énergie 
+renouvelable. 
+
+Harmony Energy a ainsi développé, construit et opéré un portefeuille important de parcs de production d’énergie 
+renouvelable  (éoliens  et  photovoltaïques)  ainsi  que  des  projets  de  stockage  d’énergie  par  batterie.  La  carte  ci-
+dessous montre les projets de stockage opérationnels et en cours de construction aujourd’hui : 
+
+Figure 1: Portefeuille de projets BESS de Harmony Energy au Royaume-Uni 
+
+En novembre 2021, Harmony Energy a lancé le Harmony Energy Income Trust plc, un fonds d’investissement coté 
+à la Bourse de Londres ("HEIT"). HEIT est une société d'investissement gérée par Harmony Energy qui finance des 
+grands projets de stockage d'énergie et de production d'énergie renouvelable et qui délègue à Harmony Energy la 
+gestion des actifs sur toute la durée de vie, jusqu’au démantèlement. 
+
+1.2.  Harmony Energy France 
+
+Fort de son expérience et de ses succès au Royaume-Uni, début 2022 une filiale française, Harmony Energy France, 
+a été créée pour développer en France métropolitaine des projets solaires et de stockage. 
+
+L’équipe  française  de  Harmony  Energy  cumule  plus  de  35  ans  d’expérience  sur  le  marché  de  l’électricité  et  le 
+développement de projets d’énergie renouvelable et de stockage d’énergie. Les compétences couvrent aussi bien 
+les  activités  de  développement (recherche  de foncier,  démarches  administratives…),  d’ingénierie  (conception  et 
+dimensionnement des centrales, ingénierie de raccordement au réseau…), ou de construction et opération (achats, 
+financement, mise en service, exploitation et maintenance…). 
+
+Harmony  Energy  France  se  positionne  sur  l’ensemble  du  cycle  de  vie  de  ses  projets,  en  faisant  appel  à  des 
+partenaires pour certaines activités clés. 
+
+Page 3 sur 30 
+
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Figure 2: Positionnement de Harmony Energy France 
+
+1.3.  Politique RSE 
+
+Harmony  Energy  France  définit  sa  politique  Responsabilité  Sociétale  des  Entreprises  (RSE)  autour  de  quatre 
+principaux piliers qui guident notre manière de développer et de construire nos activités. 
+
+ Figure 3: Les piliers RSE de Harmony Energy 
+
+Sur la base de ces 4 piliers, nous avons choisi de définir une stratégie RSE en accord avec nos propres valeurs, tout 
+en s’alignant sur les principales recommandations des organismes internationaux. 
+
+Concrètement Harmony Energy France formalise ses actions autour de sept objectifs de développement durable 
+parmi des dix-sept adoptés par les États membres des Nations Unies. 
+
+Page 4 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Figure 4: Actions RSE de Harmony Energy France 
+
+2. Le stockage d'énergie par batteries 
+
+2.1.  Intérêt de la solution 
+
+Le stockage d’électricité par batteries a atteint la maturité technologique dans la deuxième partie des années 2010, 
+avec  un  fort  essor  aux Etats-Unis, en  Australie,  au  Royaume-Uni  et  dans les  zones  non  interconnectées. En  une 
+douzaine d’années, le stockage est devenu un levier indispensable de la transition énergétique pour stabiliser le 
+réseau sans avoir recours aux énergies fossiles et afin de mieux intégrer les énergies renouvelables, notamment 
+l’énergie solaire. 
+
+Ces dernières années, le stockage par batteries s’est démocratisé dans le monde entier et en particulier en Europe 
+pour faire face à deux tendances fortes : 
+
+• 
+
+La  nécessaire  fermeture  des  centrales  fossiles  les  plus  polluantes  (charbon,  pétrole,  gaz),  utilisées 
+notamment  lors  de  la  période  hivernale,  remplacées  par  des  énergies  renouvelables  durables,  dont  la 
+production est variable et parfois compliquée à intégrer ; 
+
+•  Des  prix  des  marchés  de  l’électricité  soumis  à  une  volatilité  grandissante  du  fait  de  la  hausse  de  la 
+consommation, de la variabilité des énergies renouvelables et des crises successives affectant le prix du 
+gaz ou du pétrole qui peuvent mettre en péril la sécurité d’approvisionnement. 
+
+Figure 5: Les enjeux du marché de l'électricité 
+
+Page 5 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Le stockage d’énergie par batteries répond en effet aux 3 enjeux majeurs que vont connaître les réseaux électriques 
+au XXIème siècle : 
+
+•  Durabilité : 
+
+o 
+
+o 
+
+Les  batteries  électriques  constituent  l’une  des  solutions  flexibles  les  plus  efficaces  et  les  plus 
+décarbonées,  avec  des  émissions  nettement 
+inférieures  à  celles  des  centrales  fossiles 
+traditionnelles.  En  effet  un  kWh  en  provenance  du  réseau  français  et  ayant  transité  par  une 
+batterie à une empreinte de l’ordre de 100 gCO2/kWh, contre au moins quatre fois plus pour les 
+centrales au gaz, au pétrole et au charbon (de 400 à 1000 gCO2/kWh)1 ; 
+Le stockage par batteries n’émet aucun polluant et s’installe facilement, sans nuisance majeure 
+pour  l’environnement.  L’installation  d’une  centrale  de  stockage  occupe  une  surface  faible : 
+environ 150 hectares suffiraient pour atteindre les objectifs nationaux en puissance de stockage 
+par batteries dans les scenarii médians de RTE2 (10 à 13 GW) ; 
+
+o  En stockant l’énergie renouvelable pour pallier un surplus de production ou à une congestion du 
+réseau, les batteries permettent d’utiliser une énergie qui aurait été gaspillée (écrêtée) autrement, 
+avec un très haut rendement énergétique (autour de 85%). 
+
+•  Maîtrise des prix : 
+
+o 
+
+o 
+
+Le  stockage  par  batteries  demande  un  investissement  important  au  départ  mais  les  coûts 
+opérationnels sont faibles et maîtrisés, permettant d’avoir une forte visibilité sur le prix de revient 
+de l’installation ; 
+Le stockage par batteries doit s’insérer sur le marché sans mécanisme de soutien et proposer des 
+prix plus compétitifs que les énergies fossiles traditionnelles pour les mêmes services rendus ; 
+o  En  venant  en  remplacement  des  énergies  fossiles  et  en  déplaçant  des  pics  de  production 
+journaliers vers des pics de consommation, le stockage permet de réduire la volatilité des prix sur 
+la journée. 
+
+• 
+
+Sécurité d’approvisionnement : 
+
+o 
+
+Le  stockage  est  la  technologie  la  plus  efficiente  pour  stabiliser  le  réseau,  avec  des  temps  de 
+réaction extrêmement courts (inférieurs à 500ms contre quelques minutes pour certains  autres 
+actifs) ; 
+
+o  En  remplacement  des  énergies  fossiles  dont  l’approvisionnement  s’avère  aussi  de  plus  en  plus 
+incertain, le stockage permet de passer les pics de consommation et de répondre à la demande 
+nationale tout au long de l’année. 
+
+1 Calculs Harmony Energy basés sur des hypothèses courantes du marché 
+2 Futurs énergétiques 2050, RTE, février 2022 : www.rte-france.com/analyses-tendances-et-prospectives/bilan-previsionnel-2050-futurs-energetiques#Lesdocuments  
+
+Page 6 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Figure 6: Le stockage de l’électricité, levier de la transition énergétique 
+
+En remplaçant des services autrement fournis par des énergies fossiles, le stockage d’énergie par batteries permet 
+donc de réduire l’empreinte carbone du système électrique tout en apportant une meilleure maîtrise des coûts et 
+de la capacité d’approvisionnement. 
+
+Dans l’exemple simplifié présenté en Figure 7 ci-dessous (avec des données conservatrices sur : la part du gaz dans 
+les services d’équilibrage et les émissions liées à la construction des batteries), 500 MW de batteries, chargées avec 
+le  mix  énergétique  français,  permettent  d’éviter  l’émission  de  plus  de  30  tonnes  de  CO2  sur  une  période  de 
+seulement 30 minutes. Dans ce même exemple, la centrale Grande Terre d'une puissance de 60 MW participerait 
+donc à une économie directe d’environ 4 tonnes de CO2 en 30 minutes. 
+
+Figure 7: Principe de réduction des émissions de CO2 générée par le stockage sur les services d’équilibrage du réseau électrique 
+
+Page 7 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Le  cas  réel  de  la  Figure  8  ci-dessous  illustre  le  pic  de  consommation  inattendu  du  4  avril  2022,  où  une  nuit 
+exceptionnellement  froide  et  un  manque  de  capacité  de  production  (réelle  et  prévue)  a  conduit  à  des  prix 
+d’électricité sur le marché spot extrêmement élevés et donc à de forts coûts d’équilibrage du système. 
+
+Dans  ce  cas  concret,  un  système  électrique intégrant  une capacité  d’environ  1,5  GW  de  stockage  d’énergie  par 
+batteries pour répondre aux besoins d’équilibrage du système, aurait permis d’éviter le démarrage d’une centrale 
+au  fuel  (à  ~700  gCO2/kWh).  L’usage  du  stockage  plutôt  que  du  fuel  aurait  ainsi  pu  conduire  à  des  économies 
+d’environ  150  M€  (ordre  de  grandeur)  pour  les  fournisseurs  et  indirectement  la  collectivité,  tout  en  évitant 
+l’émission de près de 2500 tonnes de CO2
+
+3. 
+
+Figure 8: Mix électrique et prix de l’électricité sur le marché spot en France pour la journée du 4 avril 2022 (source RTE Eco2mix)  4 
+
+2.2.  Fonctionnement 
+
+Les  batteries  sont  des  dispositifs  de  stockage  électrochimique.  Chaque  cellule  est  constituée  d’une  électrode 
+positive et d’une électrode négative, toutes deux immergées dans un milieu conducteur appelé électrolyte. 
+
+Les  cellules  sont  regroupées  dans  des  racks  et  entreposés  dans  des  armoires  ou  des  containers/enceintes  à 
+environnement contrôlé et conçus pour être installés en extérieur. La température y est régulée grâce à un système 
+de ventilation ou de refroidissement liquide. 
+
+Les batteries sont des technologies connectées en courant continu, comme les panneaux photovoltaïques. Ils sont 
+donc  couplés  à  des  onduleurs  pour  passer  en  courant  alternatif  et  par  des  transformateurs  qui  permettent  le 
+passage en moyenne tension en vue du raccordement au réseau public. 
+
+3 Calculs Harmony Energy basés sur des hypothèses courantes du marché 
+4 www.rte-france.com/eco2mix/la-production-delectricite-par-filiere  
+
+Page 8 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Un poste de livraison fait le lien entre la centrale de stockage et le réseau public et un local technique permet aux 
+équipes d’exploitation de superviser la centrale et d’assurer sa bonne maintenance. 
+
+Si le raccordement au réseau se fait en haute tension, un poste électrique haute tension (HT) peut également être 
+ajouté sur l’emprise foncière du projet. 
+
+Figure 9 : Plan de principe d’une installation de stockage par batteries 
+
+Figure 10 : Vue aérienne de la centrale de stockage de Contego (34 MW / 68 MWh), développée et opérée par Harmony Energy 
+
+Page 9 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+2.3.  Technologie de batteries 
+
+Actuellement, le marché du stockage par batteries se concentre sur deux technologies au lithium : 
+
+• 
+
+• 
+
+La  technologie  Nickel  Manganèse  Cobalt  (NMC)  est  la  plus  utilisée  dans  le  monde  car  sa  forte  densité 
+énergétique facilite les usages pour la mobilité (par exemple les batteries de téléphones portables, voitures 
+électriques, etc.) ; 
+La  technologie  Lithium  Fer  Phosphate  (LFP)  a  une  densité  énergétique  moins  élevée,  mais  elle  a  de 
+nombreux  autres  avantages  qui  font  qu’elle  est  aujourd’hui  privilégiée  pour  le  stockage  stationnaire 
+raccordé au réseau. 
+
+Harmony Energy a choisi de se concentrer sur la technologie LFP pour plusieurs raisons : 
+
+•  Contrairement  aux  batteries  NMC, 
+
+la  technologie  LFP  n’utilise  pas  de  cobalt  dont 
+
+la  chaine 
+d’approvisionnement  peut  avoir  des  répercussions  sociales  et  environnementales  au  niveau  de 
+l’extraction de la matière première ; 
+Les  batteries  LFP  sont  très  peu  soumises  au  risque  d’emballement  thermique  que  l’on  observe  sur  la 
+technologie NMC. Les risques d’incendie sont donc drastiquement réduits. La centrale dispose toutefois 
+de plusieurs systèmes de prévention, de détection et d’extinction des incendies (voir chapitre 4.6 pour 
+une analyse détaillée du risque incendie) ; 
+Il s’agit d’une technologie maîtrisée qui présente le meilleur rapport performance / prix sur le marché. 
+
+• 
+
+• 
+
+Après  une  durée  d’exploitation  d’environ  15  ans,  les  batteries  lithium-ion  seront  démantelées  et  les  différents 
+matériaux séparés et recyclés. Les progrès technologiques en matière de recyclage et d’éco-conception devraient 
+permettre, à horizon 2030, de s’approcher des 100% de valorisation des matériaux. 
+
+En  effet,  tirée  par  la  fin  de  vie  de  la  première  génération  de  véhicules  électriques,  l’industrie  du  recyclage  des 
+batteries sera en plein essor dans les dix prochaines années. Des usines sont actuellement en projet en France et 
+ailleurs en Europe pour justement répondre à la hausse attendue de la demande. 
+
+2.4.  Aspects environnementaux 
+
+Les  installations  de  stockage  par  batteries  de  plus  de  600 kW  sont  soumis  au régime  de  la  déclaration  de  l’ICPE 
+2925-2 « Ateliers de charge d’accumulateurs électriques lorsque la charge ne produit pas d’hydrogène ». 
+
+Les installations de stockage par batteries représentent très peu de risques ou de nuisances environnementaux : 
+
+•  Gestion des sols : 
+
+o 
+
+Le stockage par batteries ne demande pas de fondation conséquente et de ce fait une excavation 
+profonde n’est pas nécessaire ; 
+
+o  Une surface limitée des sols étant imperméabilisée, il n’y pas ou peu d’impact sur la gestion des 
+
+écoulements d’eau de pluie. 
+
+• 
+
+Insertion paysagère : 
+
+o 
+
+Les installations de stockage occupent une surface relativement faible (de l’ordre de 1 hectare) et 
+n’ont pas de structure très haute ; 
+
+o  Harmony Energy choisit des terrains distancés de toute habitation ou lieu recevant du public, de 
+préférence à proximité des postes électriques et proche de pylônes. Bien que le contexte local et 
+l’environnement proche ne présentent pas d’enjeu paysager, Harmony Energy propose la mise en 
+place de haies paysagères pour faciliter l’intégration visuelle de l’installation. 
+
+• 
+
+Émissions : 
+o 
+
+La  centrale  n’émet  aucun  gaz, 
+environnemental ou une nuisance olfactive ; 
+Les ondes électromagnétiques générées par l’installation sont négligeables et ne représente aucun 
+risque pour la santé ou l’environnement ; 
+
+liquide  ou  solide  susceptible  de  présenter  un  risque 
+
+o 
+
+Page 10 sur 30 
+
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+o 
+
+Le système de climatisation des unités de stockage génère un bruit régulier qui peut être entendu 
+en  limite  de  propriété  mais  qui  devient  rapidement  faible  et  inaudible  au-delà  de  150  m  de 
+distance. Lors du choix des terrains, Harmony Energy s’assure que le bruit ne puisse pas constituer 
+une nuisance pour les riverains et s’engage à respecter les normes acoustiques applicables. 
+
+Pour chaque projet, Harmony Energy consulte les parties prenantes locales, notamment : 
+
+- 
+
+- 
+
+- 
+
+Le  conseil  municipal  de  la  commune  concerné  par  le  projet  et  potentiellement  ses  administrés  et 
+techniciens pour répondre à leurs questions, recueillir leurs avis et prendre des mesures pour répondre à 
+leurs potentielles préoccupations ; 
+Le Service Départemental d’Incendie et de Secours (SDIS) pour prendre en compte leurs recommandations 
+et exigences liés aux risques d’incendie ; 
+La Direction Départementale des Territoires en charge d’instruire le permis de construire,  qui peut être 
+force de propositions pour améliorer la conception du projet. 
+
+Page 11 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+3. Le projet de Grande Terre 
+
+3.1.  Situation du projet 
+
+Le  projet  de  stockage  d’énergie  de  Grande  Terre  se  situe  sur  la  commune  de  Charnay-lès-Mâcon,  dans  le 
+département de Saône-et-Loire, en région Bourgogne-Franche-Comté. Il est situé sur un terrain agricole à proximité 
+du poste électrique de RTE nommé Mâcon. 
+
+Figure 11: Situation du projet 
+
+Le terrain a été choisi pour le développement d’une centrale de stockage d’énergie par batteries pour trois raisons 
+principales : 
+
+• 
+
+• 
+
+• 
+
+La  proximité  avec  le  poste  électrique  de  Mâcon,  facilitant  le  raccordement  au  réseau  national  et 
+permettant une continuité dans l’intégration paysagère ; 
+L’absence  de  site  patrimonial  ou  d’habitation  à  proximité  immédiate,  permettant  ainsi  au  projet  de 
+s’implanter sans nuisance pour la population locale ; 
+L’absence d’enjeux environnementaux importants. Le projet est éloigné de toute zone inventoriée pour la 
+biodiversité,  en  dehors  de  périmètres  de  captage  d’eau  et  pas  diagnostiqué  comme  étant  de  caractère 
+humide. 
+
+3.2.  Conception du projet 
+
+Harmony Energy a fait réaliser par RTE une étude exploratoire pour connaître la capacité de raccordement du poste 
+de  Mâcon.  Cette  analyse  a  pu  confirmer  qu’un  projet  de  60MW  /  120MW  pourrait  être  raccordé  au  réseau 
+électrique sans renforcement des infrastructures publiques. 
+
+Un projet de cette dimension permettrait de stocker l’équivalent en consommation moyenne d’environ 44% de la 
+population du département de Saône-et-Loire pendant une période de 2 heures5. 
+
+5 Sur la base d’une consommation moyenne de 0,5 kWh/personne pour une période de 2h et une population de Saône-et-Loire de 550 000 habitants 
+
+Page 12 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Des analyses plus approfondies, réalisées ultérieurement, devront ensuite définir : 
+
+- 
+
+- 
+
+- 
+
+Le  tracé  exact  des  câbles  permettant  de  relier  le  poste  électrique  RTE  au  poste  haute  tension  qui  sera 
+construit par Harmony Energy sur l’emprise du projet ; 
+La position exacte des unités de batteries, des transformateurs et du poste électrique haute tension dans 
+l’emprise du projet ; 
+La quantité exacte d’unités de batteries. 
+
+L’Annexe 1 au présent document présente ainsi une l’implantation préliminaire du projet, constituée des élements 
+suivants : 
+
+1.  42 unités de stockage contenant les batteries ; 
+2.  21 postes de transformation BT / HTA pour amener la tension à 33kV ; 
+3.  Un poste électrique avec un transformateur de tension 63kV / 33kV ; 
+4.  Un local de maintenance ; 
+5.  Une citerne incendie ; 
+6.  Une piste d’accès, avec parking de stationnement et plateforme DECI ; 
+7.  Clôture et haie paysagère. 
+
+La disposition des unités de stockage est étudiée pour faciliter l’installation et la maintenance du système, avec des 
+aires  de  grutage  et  des  pistes  d’accès.  Toute  les  distances  réglementaires  d’éloignement  seront  respectées, 
+conformement à la déclaration ICPE du projet. 
+
+Si  nécessaire,  des  mesures  pouront  être  prises  pour  gérer  les  eaux,  par  exemple  avec  un  système  de  bac  de 
+retention des eaux. Ces mesures seront définies dans le cadre des procédures de Loi sur l’Eau par le bureau d’études 
+spécialisé missionné par Harmony Energy. 
+
+Page 13 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+4. Analyse des risques 
+
+4.1.   Revue générale des risques 
+
+Le site du projet de Grande Terre présente très peu de risques, qu’ils soient de nature naturelle, environnementale, 
+sanitaire  ou  technologique.  Le  tableau  ci-dessous  présente  une  analyse  préliminaire  des  risques  considérés  par 
+Harmony Energy, en identifiant ceux qui méritent une analyse plus détaillée. 
+
+Harmony Energy se tiendra à l’écoute des autorités pour analyser en plus de détail tout potentiel risque soulevé 
+lors de la préparation et l’instruction des authorisations. 
+
+Type de risque 
+
+Risque identifié 
+
+Qualification 
+du risque ? 
+
+Commentaire 
+
+Naturel 
+
+Argile 
+
+Faible 
+
+Avalanches 
+
+Cavités 
+
+Nul 
+
+Nul 
+
+Inondation 
+
+Faible 
+
+Mouvement de 
+terrain 
+
+Radon 
+
+Nul 
+
+Nul 
+
+Séisme 
+
+Faible 
+
+Impact biodiversité  Biodiversité sur site 
+
+Faible 
+
+Le  site  a  une  exposition  moyenne  au  risque  retrait-
+gonflement  d’argile.  Une  étude  géotechnique  sera  réalisée 
+en amont des travaux pour dimensionner les fondations en 
+fonction de la nature du sol. 
+
+Il  est  à  noter  que  les  fondations  nécessaires  pour  les 
+équipements  d'un  projet  de  stockage  sont  généralement 
+relativement compactes et peu profondes. 
+
+Zone non-concernée par les avalanches. 
+
+Pas de risque de cavités identifié sur la zone. 
+
+Le site est situé en limite d'une zone identifiée comme étant 
+potentiellement  sujette  aux  débordements  de  nappe  et 
+inondations de cave, avec une fiabilité faible. 
+
+La  commune  de  Charnay-lès-Mâcon  fait  l'objet  d'un  PPR 
+Inondation,  mais  l'aire  d'étude  est  en  dehors  des  zones 
+identifiées à risque avec prescriptions. 
+
+Le projet serait une dizaine de mètres environ plus haut en 
+altitude que la zone à risque d'inondation (cours d'eau de la 
+Petite Grosne). 
+
+Pas de risque identifié sur la zone. 
+
+Le  potentiel  radon  associé  à  la  commune  de  Charnay-lès-
+Mâcon est de catégorie 1. 
+
+Une  centrale  de  stockage  n’est  pas  occupée  de  manière 
+permanente. Le projet n’est donc pas concerné par ce risque. 
+
+Le  projet  se  situe  dans  une  zone  à  risque faible  de  séisme 
+(niveau  2),  ce  qui  ne  représente  pas  un  risque  significatif 
+pour le projet. 
+
+La  séismicité  est  à  prendre  en  compte  lors  de  la  phase 
+d’ingénierie détaillée. 
+
+Le  projet  s’implante  sur  un  terrain  agricole  sans  enjeu  de 
+biodiversité répertorié au niveau national. 
+
+La pré-diagnostic faune / flore / zone humide réalisée par le 
+bureau  d’études  spécialisé  Eco-Stratégie  n’a  pas  identifiée 
+d’enjeu  biodiversité  important  au  sein  de l'aire  d'étude  du 
+projet (voir chapitre 0). 
+
+Page 14 sur 30 
+
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Type de risque 
+
+Risque identifié 
+
+Biodiversité à 
+proximité du site 
+
+Qualification 
+du risque ? 
+
+Faible 
+
+Commentaire 
+
+Le  site est  en  dehors  de  toutes  zones  répertoriées  pour la 
+protection  de 
+la  nature  (ZNIEFF,  Natura  2000,  parc 
+régional,…) et ne crée pas de nuisance ni de danger pour les 
+espèces pouvant passer proche du site 
+
+La zone progégée la plus proche est la ZNEIFF Roches Sud-
+Mâconnaises (réf. 260014865), voir Figure 12. 
+
+Ce risque est détaillé en chapitre 4.2 plus bas. 
+
+Milieu 
+potentiellement 
+humide 
+
+Faible 
+
+L'aire  d'étude  n'est  pas  située  dans  une  zone  répertoriée 
+potentiellement humide selon la cartographie générique de 
+« milieux potentiellement humides de France »6. 
+
+Risque de nuisance 
+/ sanitaire 
+
+Paysager 
+
+Faible 
+
+Sonore 
+
+Faible 
+
+Odeur 
+
+Eau portable 
+
+Nul 
+
+Nul 
+
+Eco-Stratégie,  le  bureau  d’études  spécialisé  missionné  par 
+Harmony Energy, a pu confirmer le caractère non-humide du 
+site (selon les critères végétation et sol). 
+
+Ce sujet est détaillé en chapitre 4.3. 
+
+Le projet se situe à la limite sud-est du périmètre du Grand 
+Site  de  Solutré  Pouilly  Vergisson7 et  plusieurs  monuments 
+historiques  se  situent  dans  un  rayon  de  <5km  de  l'aire 
+d'étude. 
+
+Afin  d'analyser  l'impact  paysager  du  projet  de  stockage, 
+Harmony  Energy  a  missionnée  le  bureau  d'études  Eco-
+Stratégie pour effectuer une étude d'impact paysagère. 
+
+Cette étude juge que les enjeux sont faibles pour le paysage 
+de proximité  et que le site ne serait pas visible depuis  « la 
+Roche de Solutré ». 
+
+Chapitre 0 traite ce risque en plus de détail. 
+
+Le  projet  se  situe  dans  une  zone  sans  enjeu  sonore 
+particulier. L’habitation la plus proche est à environ 400m du 
+projet. La route nationale N79 est à <200m et une ligne TGV 
+à <50m à l'est du projet. 
+
+La ventilation des unités de batterie émet un léger bruit tout 
+en respectant les limites réglementaires. 
+
+Des mesures supplémentaires (murs anti-bruit) peuvent être 
+envisagées si nécessaire, dans le cas d’habitations à <100m, 
+par exemple. 
+
+S’il est jugé nécessaire, Harmony Energy s’engage également 
+à réaliser une étude acoustique afin de confirmer le respect 
+de la réglementation concernant les émergences sonores. 
+
+En  phase  opérationnelle,  la  centrale  n’émet  aucun  gaz  ou 
+produit susceptible de générer une nuisance olfactive. 
+
+La centrale se situe hors de tout périmètre de captage d’eau 
+potable. 
+
+6 http://geowww.agrocampus-ouest.fr/ 
+7 site web du Grand Site de Solutré Pouilly Vergisson : https://rochedesolutre.com 
+
+Page 15 sur 30 
+
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Type de risque 
+
+Risque identifié 
+
+Risque industriel / 
+technologique 
+
+Risques industriels 
+des site tiers et de 
+servitudes 
+
+Qualification 
+du risque ? 
+
+Nul 
+
+Commentaire 
+
+Il  n’existe  pas  de  site  industriel  à  proximité  du  site  et  la 
+commune  n’a  pas  de  Plan  de  Prévention  des  Risques 
+Technologiques (PPRT) en vigueur. 
+
+Une Déclaration de Travaux (DT) a été effectué pour le projet 
+en août 2022, afin de recenser les servitudes existantes sur 
+le  site  du  projet  et  à  proximité 
+immédiate.  Aucune 
+canalisation ou servitude  impactante pour le projet n’a été 
+inventoriée.  Les  servitudes  proches  du  site 
+(lignes 
+électriques  et  canalisation  SUEZ)  figurent  sur  le  plan  du 
+projet en Annexe 1. 
+
+Risque 
+technologique du 
+projet de stockage 
+
+Faible 
+
+La  centrale  de  stockage  présente  un  risque  minime 
+d'incendie en tant qu’installation électrique, mais l’usage de 
+batteries 
+très 
+technologie 
+avec 
+significativement ce risque. 
+
+LFP  diminue 
+
+la 
+
+Les accès seront sécurisés pour éviter tout risque d’infraction 
+et d’électrocution par un tiers. Le site sera clôturé et protégé 
+par vidéo surveillance. 
+
+Le risque intrusion est présenté en chapitre 4.5 et le risque 
+incendie est détaillé en chapitre 4.6. 
+
+Autres 
+
+Archéologique 
+
+Faible 
+/Moyenne 
+
+Le  projet  se  situe  dans  une  zone  à  présomption  de 
+prescription archéologique qui couvre toute la commune de 
+Charnay-lès-Mâcon. 
+
+Harmony  Energy  a  contacté  la  DRAC  de  Bourgogne  afin  de 
+savoir si la zone d'étude est concernée par ce risque. 
+
+Un diagnostic archéologique anticipé sera réalisé avant toute 
+opération  de  construction,  s'il  en  est  demandé  par  les 
+services de la DRAC. 
+
+Page 16 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+4.2.  Biodiversité 
+
+Le  projet  est  situé  sur  un  terrain  agricole,  éloigné  de  toutes  zones  répertoriées  comme  ayant  des  enjeux 
+biodiversitaires (ZNIEFF, Natura 2000, parc régional,…). 
+
+Harmony Energy  a missionné le  bureau  d’études  Eco-Stratégie  pour  réaliser  un  diagnostic  environnemental  afin 
+d’apprécier les potentialités écologiques. Le rapport de cette étude est joint en Annexe 2. 
+
+Selon l’inventaire effectué par Eco-Stratégie : 
+
+• 
+• 
+
+• 
+
+Les enjeux écologiques potentiels sont jugés faibles pour l’ensemble de l'aire d'étude immédiate ; 
+L’aire d'étude rapprochée présente des enjeux plus importants qui pourraient être jugés modérés, que ce 
+soit pour les habitats, la flore, la faune ainsi que les continuités écologiques ; 
+La culture, principal habitat du site d’étude, semble peu favorable à la présence d’une richesse spécifique 
+importante que ce soit pour la faune et pour la flore. 
+
+ZNIEFF "Roches Sud-
+Mâconnaises" 
+
+ZNIEFF  
+
+1k
+m 
+
+Figure 12: Situation du projet par rapport aux zones naturelles protégées les plus proches 
+
+Page 17 sur 30 
+
+ 
+ 
+ 
+  
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+4.3.  Milieu potentiellement humide 
+
+Harmony  Energy  a  missionné  le  bureau  d’études  Eco-Stratégie  pour  caracteriser  la  nature  humide  du  site.  Le 
+rapport d’Eco-Stratégie se trouve en Annexe 2 du présent document. 
+
+L’analyse  de  la  végétation  présente  sur  site  et  les  douze  sondages  effectués,  appliquant  les  modalités  de  la  loi 
+n°2019-773 du 24 juillet 2019 (analyse basée sur les critères pédologique et / ou végétation), ont pu répertorier 
+une zone humide sur le côté nord du site et une zone en eau a aussi été identifiée à proximité, mais l'analyse a pu 
+confirmer l’absence de zone humide à l'intérieur de toute l'emprise du projet. 
+
+Le projet n'aura de ce fait pas d'impact sur des zones de caractère humide. 
+
+Figure 13: Localisation des sondages pédologiques et résultats de l'étude zone humide 
+
+Page 18 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+4.4.  Patrimoine et population locale 
+
+La centrale de stockage d’energie n’aura quasiment aucune interaction avec l’extérieur. En effet, la centrale sera 
+pilotée à distance et ne sera que rarement visitée pour des activités de maintenance. En phase d’exploitation, elle 
+n’est  déficitaire  ou  excédentaire  en  aucun  matériau,  les  seuls  flux  étant  l’électricité  qui  transite  à  travers  les 
+batteries et les équipements électriques. 
+
+Le terrain choisi pour le projet jouxte la route départementale D89, qui longe le projet sur le bord est. Une ligne 
+TGV passe un peu plus loin à l'Est, suivie ensuite par la route nationale N79. Le poste électrique RTE est en bordure 
+sud du projet. 
+
+Un certain nombre de monuments historiques se situent dans un rayon de <5km de l'aire d'étude (voir Figure 14 et 
+Annexe 2) et le projet se positionne à la limite sud-est du périmètre du Grand Site de Solutré Pouilly Vergisson (voir 
+Figure 15). Le Grand Site, d'une surface de 2 774 hectares, est classé pour la protection des paysages, du terroir, 
+des  gisements  préhistoriques  et  des  espèces  protégées.  L'importance  paysagère  du  Grand  Site  concerne 
+principalement  le  Rocher  Solutré,  un  escarpement  calcaire  emblématique  surplombant  la  commune  de  Solutré-
+Pouilly. 
+
+Afin  d'analyser  l'impact  paysager  du  projet  de  stockage,  Harmony  Energy  a  missionné  le  bureau  d'études  Eco-
+Stratégie pour effectuer une étude d'impact paysagère.  
+
+Bien que certains enjeux ont été constatés, l'étude effectuée par Eco-Stratégie juge l’impact visuel faible pour le 
+paysage de proximité et confirme que le site ne serait pas visible depuis « la Roche de Solutré ». 
+
+Il est également à noter que les équipements de la centrale de stockage sont limités en hauteur et, afin de faciliter 
+l’insertion paysagère, Harmony Energy envisage la plantation de haies paysagères qui longeraient une partie de la 
+clôture. Le choix de l’emplacement de la haie, sa hauteur, et les variétés d’arbres constituant cette haie se feront 
+en fonction des demandes des autorités et des préconisations du bureau d’étude environnementale. 
+
+Zone de présomption de 
+prescription archéologique 
+
+Le projet 
+
+Figure 14: Situation du projet par rapport à l’atlas des patrimoines 
+
+Comme  indiqué  sur  la  Figure  14  ci-dessus,  le  projet  se  situe  dans  une  zone  à  présomption  de  prescription 
+archéologique  qui  couvre  toute  la  commune  de  Charnay-lès-Mâcon.  Un  diagnostic  archéologique  anticipé  sera 
+réalisé avant toute opération de construction, s'il en est jugé nécessaire par les services de la DRAC. 
+
+Page 19 sur 30 
+
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Figure 15: Situation du projet par rapport au Grand Site de Solutré Pouilly Vergisson 
+
+4.5.  Risque intrusion 
+
+Afin de se prémunir du risque d’intrusion et de dommages par malveillance, Harmony Energy mettra en place : 
+
+-  Une clôture tout le long du périmètre du projet, d’une hauteur d’environ 2,5 mètres ; 
+-  Un système d’entrée sécurisée avec identification des intervenants sur site. Au sein de l’enceinte du projet, 
+des accès spéciaux seront requis pour accéder à certains équipements composant le poste électrique haute 
+tension ; 
+
+-  Un  système  de  télésurveillance  avec  plusieurs  caméras  et  des  sytèmes  d’alarmes  pour  identifier  toute 
+
+tentative d’intrusion, ainsi que des canaux de communication avec les forces de l’ordre. 
+
+4.6.  Risque incendie 
+
+Depuis  le  début  des  années  2000,  l’émergence  des  solutions  de  batteries  lithium-ion  pour  la  mobilité,  les 
+smartphones  et  le  secteur  énergétique  s’est  accompagné,  dans  de  rares  occasions,  de  départ  de  feux  par 
+emballement thermique. 
+
+En  fonction  de  la  technologie  en  question,  les  causes  techniques  de  l’emballement  thermique  peuvent  être 
+multiples,  par  exemple :  tension  trop  élevée,  surcharge,  surintensité,  court-circuit  interne  à  la  cellule  ou 
+température trop élevée. 
+
+Depuis la naissance de projets de stockage d’énergie par batteries et consciente du risque incendie qui a pu toucher 
+certains des premiers projets, toute la filière internationelle a travaillé sur sa réduction et sa maitrise. Aujourd’hui 
+Harmony  Energy  considère  qu’il maitrise  le  risque  incendie  et  s’engage  à  le  réduire  à  un  minimum  à  travers les 
+actions suivantes : 
+
+Page 20 sur 30 
+
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+- 
+
+Le  choix  d’une  technologie  de  batterie  pour  laquelle  le  risque  d’emballement  thermique  est  jugé  quasi 
+nul (4.6.1) ; 
+Le respect des dernières normes les plus contraignantes (4.6.2) ; 
+
+- 
+-  Un système de surveillance et de prévention des incendies robuste et fiable (4.6.3) ; 
+-  Des mesures opérationnelles pour minimiser le risque de propagation d’un incendie (4.6.4). 
+
+Pour les projets développés sur le territoire français, Harmony Energy s’appuie également sur les conclusions et les 
+propositions  du  document  publié  en  octobre  2022  par  le  Commissariat  à  l'Énergie  Atomique  et  aux  Énergies 
+Alternatives (CEA) : « Stockage stationnaire de l’énergie : risques et solutions envisageables »8. 
+
+Le rapport du CEA est le fruit de 4 années de travail effectuées par une équipe pluridisciplinaire missionnée par la 
+Direction Générale de la Sécurité Civile et de la Gestion des Crises (DGSCGC). Le rapport est destiné aux services de 
+secours dans l’ensemble de leurs prérogatives (opération, prévention, formation) ainsi qu’aux professionnels de la 
+filière. Il inclut des retours d’expériences réels et des tests effectués sur différentes technologies, en identifiant les 
+phénomènes à risque et les moyens de les traiter par prévention et opération. 
+
+L’équipe pluridisciplinaire était missionnée par M. Alain THIRON pour la DGSCGC et elle était constituée de : 
+
+- 
+
+- 
+
+- 
+
+Personnels  des  SDIS73,  SDIS38  et  SDMIS  (69),  pour  leurs apports  opérationnels  (VDIP)  et  d'analyse  des 
+risques chimiques ; 
+Scientifiques-chercheurs issus  des  laboratoires  CEA  LITEN de  l'INES  et  du centre  de Grenoble,  pour  leur 
+expertise sur les batteries ainsi que des personnels de la Formation Locale de Sécurité du centre CEA de 
+Grenoble ; 
+Experts issus des entreprises SNAM, Elektek, et ACCUWATT. 
+
+Selon les tests effectués, le rapport démontre notamment les faits suivants : 
+
+- 
+
+- 
+
+- 
+
+- 
+- 
+
+Le risque d’emballement thermique provient d’une utilisation des accumulateurs Li-ion qui va au-delà de 
+leurs  conditions  normales  d’opération,  que  ce  soient  des  agressions ;  mécaniques,  électriques  ou 
+thermiques ; 
+La  chimie  NMC,  qui  a  une  densité  énergétique  très  élevée,  atteint  l’emballement  thermique  a  des 
+températures plus basses que les cellules LFP, tout en libérant plus d’énergie. Les tests démontrent une 
+augmentation plus rapide et brutale (de l’ordre de 400°C) pour les cellules NMC, versus une augmentation 
+moins rapide et beaucoup moins marquée (de l’ordre de 100°C), pour les cellules en LFP ; 
+La  première  difficulté  que  rencontrent  les  services  de  secours  réside  dans  l’incapacité  à  identifier,  en 
+amont, la présence d’un système de stockage électrochimique de l’énergie ; 
+Le meilleur moyen d’extinction reste l’eau ; 
+La toxicité des fumées n’est pas supérieure à celle d’un incendie classique en milieu ouvert. 
+
+8 https://liten.cea.fr/cea-tech/liten/Pages/Medias/Actualites/Batteries/Risques-incendie-des-applications-de-stockage-batteries-dans-le-batiment.aspx  
+
+Page 21 sur 30 
+
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Figure 16: Bilan de l’analyse systémique des systèmes de stockage électrochimique de l’énergie (p.128 du rapport « Stockage stationnaire de 
+l’énergie : risques et solutions envisageables ») 
+
+S’appuyant sur les recommandations du rapport cité, Harmony Energy intègre les choix et les solutions listés ci-
+dessous, et décrits en plus de détail dans les chapitres 4.6.1 à 4.6.4 : 
+
+- 
+
+Choix d’un Battery Management System (BMS) qui surveille la santé des batteries, afin de détecter toute 
+anomalie qui pourrait engendrer un emballement thermique ; 
+
+- 
+
+- 
+
+-  Des systèmes de détection (fumées, flames, chaleur), afin de pouvoir implémenter des actions rapides et 
+précoces  sur  le  sinistre,  permettant  de  neutraliser  les  phénomènes  d’emballement  ou  du  moins  de  les 
+contraindre aux seules cellules concernées par le début de la dérive accidentelle ; 
+Choix de technologies et de solutions qui limitent toute propagation d’emballement d’une cellule à une 
+cellule voisine (isolation thermique) ; 
+Configuration de l’installation dans un objectif de limiter la densité énergétique de la centrale dans son 
+ensemble, ainsi réduisant à un minimum absolu tout risque d’emballement entre les différentes unités de 
+stockage et limitant l’énergie totale dissipée lors d’un événement ; 
+Communication auprès des équipes SDIS sur la nature des batteries installées, les dispositifs préventives 
+installés et collaboration en amont sur la conception des dispositions protectrices (accès, citerne, bornes), 
+afin  de  minimiser  tout  risque,  de  maximiser  les  systèmes  protecteurs  et  d’optimiser  toute  éventuelle 
+conduite d’intervention sur site. 
+
+- 
+
+Page 22 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+4.6.1.  Choix de la technologie LFP 
+
+Historiquement, les premiers projets de stockage utilisaient la technologie Nickel Manganèse Cobalt (NMC). Ce type 
+de batterie, que l’on retrouve aussi dans la quasi-totalité des véhicules électriques, présente l’avantage d’avoir l'un 
+des  meilleurs  rapports  énergie/poids  (ou  densité  énergétique),  un  critère  important  dans  les  applications  de 
+mobilité.  Cependant  les  batteries  NMC  présente  une  faible  stabilité  thermique,  ce  qui  les  rend  sujettes  à  des 
+emballements thermiques et donc à des risques de départ de feu. 
+
+Depuis quelques années, les principaux fournisseurs de batteries pour du stockage stationnaire se sont tournées 
+vers la technologie Lithium Fer Phosphate (LFP – LiFePo4), qui présente un risque quasiment nul d’emballement 
+thermique, contrairement aux autres chimies utilisées et notamment les batteries NMC. 
+
+Comme  l’indique  une  étude  du  laboratoire  Sandia  National  Laboratories9,  pour  une  même  quantité  d’énergie 
+stockée, à 250°C une cellule LFP peut voir sa température monter de 1,5°C/min contre 100°C/min pour une cellule 
+NMC. 
+
+Figure 17: Comparaison du risque d’emballement thermique pour différentes chimies de batteries 
+
+Cette meilleure resistance à l’emballement thermique pour la chimie LFP limite à la fois la probabilité d'un départ 
+de feu d’une cellule et la possibilité de propagation du feu d’une cellule vers une cellule voisine. De plus, la faible 
+pente d'emballement thermique (°C/mn) donne un temps bien plus favorable au BMS pour réagir à une hausse de 
+la température et couper le système. 
+
+Le fabricant Tesla, l'un des leaders parmis les fournisseurs de batteries stationnaires modialement recconus, a ainsi 
+réalisé des tests comparatifs (s'appuyant sur la méthode adoptée internationnelement, UL 9540A) afin de comparer 
+sa génération précédente de batteries en technologie NMC avec sa nouvelle génération basée sur la chimie LFP. En 
+surchauffant volontairement certaines cellules au sein d’une armoire à batterie, les tests n’ont pas pu provoquer 
+d’emballement thermique au dela de la cellule voisine avec la solution LFP : 
+
+9 www.osti.gov/servlets/purl/1336278  
+
+Page 23 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Batterie NMC (chimie « classique ») 
+
+Batterie LFP (nouvelle chimie) 
+
+Le test conduit à l’emballement thermique de toutes les cellules. 
+
+Le test conduit à l'emballement thermique d'une cellule 
+supplémentaire uniquement. 
+
+Le feu a consumé toute l’armoire batterie, flammes visibles 
+depuis l’extérieur. 
+
+Pas de traces substantielles de flammes, pas de flammes visibles 
+depuis l’extérieur. 
+
+Pas de propagation du feu aux armoires adjacentes. 
+L'extinction manuelle des incendies (tuyaux d'arrosage) n'est pas nécessaire pour arrêter la propagation des incendies d'armoire à 
+armoire. 
+Aucun risque d'explosion n'a été observé. 
+Aucun écoulement de matière visible après le test. 
+
+Figure 18: Comparaison des résultats de tests UL 9540A entre le Megapack 1 (batteries NMC) et le Megapack 2 (batteries LFP) 
+
+4.6.2.  Respect des normes 
+
+La gestion du risque incendie est traité à travers plusieurs normes ou tests de qualité que Harmony Energy et son 
+fournisseur de batteries s’engagent à respecter. 
+
+Ces  normes  spécifiques  aux  projets  de  stockage  par  batteries  ont  été  éditées  au  cours  des  dernières  années  et 
+bénéficient du retour d’expériences des premiers projets : 
+
+Norme / 
+Standard 
+
+Titre 
+
+Date de 
+publication 
+
+Commentaires 
+
+NF EN IEC 
+60529 
+
+Degrés de protection procurés par les 
+enveloppes (Code IP). 
+
+Décembre 2007 
+
+NF EN IEC 
+62619 
+
+NF EN IEC 
+62933-5-2 
+
+Accumulateurs alcalins et autres 
+accumulateurs à électrolyte non 
+acide - Exigences de sécurité pour les 
+accumulateurs au lithium pour 
+utilisation dans des applications 
+industrielles. 
+
+Systèmes de stockage de l'énergie 
+électrique (EES) - Partie 5-2 : 
+exigences de sécurité pour les 
+systèmes EES intégrés dans un réseau 
+- Systèmes électrochimiques. 
+
+Juin 2017 
+
+Juillet 2020 
+
+UL 9540A 
+
+Méthode de test, évaluation de 
+l’emballement thermique et 
+propagation incendie pour les 
+systèmes de stockage d’énergie par 
+batterie. 
+
+Novembre 2016 
+
+Le respect de cette norme traduit avant tout la 
+capacité de l’enceinte à empêcher 
+l’environnement extérieur d’interférer avec les 
+batteries et/ou les équipements de supervision / 
+protection. 
+
+Cette norme spécifie les exigences et les essais 
+pour le fonctionnement en toute sécurité des 
+éléments et des batteries pour des installations de 
+stockage au lithium dans des applications 
+industrielles, y compris les applications 
+stationnaires. 
+
+Cette norme décrit principalement les aspects liés 
+à la sécurité des personnes et, le cas échéant, les 
+questions de sécurité associées à l'environnement 
+et aux êtres vivants pour les systèmes de stockage 
+de l'énergie raccordés à un réseau qui utilisent un 
+sous-système électrochimique de stockage. 
+
+Il s’agit d’une méthode de test qui caractérise les 
+risques d'incendie et de déflagration liés à 
+l'emballement thermique et à sa propagation dans 
+les systèmes de stockage d'énergie. La norme 
+fournit une évaluation systématique de 
+l'emballement thermique et de sa propagation 
+dans les systèmes de stockage d'énergie au niveau 
+des cellules, des modules, des unités et des 
+installations. 
+
+Figure 19: Normes spécifiques au stockage d’énergie par batteries 
+
+Page 24 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+4.6.3.  Système de contrôle et de protection 
+
+Le Battery Management System (BMS) constitue le cœur du système de supervision et de contrôle au niveau de 
+chaque cellule de batterie. 
+
+Le BMS contrôle en temps réel : 
+
+• 
+• 
+• 
+
+La température du liquide de refroidissement ; 
+La température au niveau de chaque cellule ; 
+La tension et le courant au niveau de chaque cellule, de chaque module, ainsi qu’à la sortie en courant 
+alternatif de chaque onduleur. 
+
+En cas de dépassement de seuils sur ces données transmises en temps réel, le BMS met les batteries en sécurité, 
+avec une mise hors tension, une ventilation et l’enclenchement du refroidissement de secours. 
+
+Des fusibles sont disposés au niveau de chaque module de batterie et de chaque répartiteur DC. Les protections 
+électriques sont redondantes, un disjoncteur est positionné en sortie AC de chaque onduleur, et une protection de 
+terre est mise en place. 
+
+4.6.4.  En cas de départ de feu 
+
+Malgré  le  très  faible  risque  de  départ  et  de  propagation  de  feu  avec  la  technologie  choisie,  les  mesures  de 
+prévention, et le respect des normes en vigueur, le système de stockage proposé par Harmony Energy prend aussi 
+en compte des mesures de protection supplémentaires : 
+
+-  Au niveau de la conception des équipements : 
+
+o  Chaque  cellule  batterie  est  située  dans  une  enceinte  hermétique  qui  limite  fortement  la 
+
+propagation du feu ; 
+
+o  Un système de ventilation est utilisé pour évacuer les gaz et limiter les risques de déflagration (par 
+
+dégagement de dihydrogène notamment). 
+
+-  Au niveau de la conception de la centrale : 
+
+o 
+
+Les unités de batterie sont positionnées par lot de 6, et chaque lot de 6 est espacé de 10m. Ceci 
+afin de faciliter l'accès et d’éviter la propagation d’un feu sur l’ensemble des unités de batterie ; 
+
+o  Tout équipement potentiellement inflammable est éloigné de 10m de toute végétation extérieure 
+
+afin de confiner tout éventuel feu au sein de la centrale ; 
+
+o  Une citerne incendie avec un réservoir de 120m3 est installée pour le SDIS. L’arrosage avec de l’eau 
+s’est avéré être un moyen efficace pour éteindre un feu avec des batteries LFP, mais l’eau peut 
+également  être  utilisée  de  manière  préventive  pour  protéger  les  autres  équipements  et  éviter 
+toute propagation d’incendie à l’extérieur du site. 
+
+Toutes les dispositions en cas d’incendie  seront discutées avec le SDIS 63 dans le cadre du dossier de permis de 
+construire. Il sera notamment question de clarifier avec eux : 
+
+- 
+- 
+- 
+
+Les accès aux site ; 
+Les procédures en cas de départ de feu ; 
+Le dimensionnement de la bâche à eau (le volume de 120m3 étant un standard qui peut être revu). 
+
+Page 25 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+5. Cycle de vie du projet 
+
+5.1.  Processus de développement 
+
+Le  développement  du  projet  de  Grande  Terre  suit  un  parcours  classique  au  cours  duquel  les  démarches 
+administratives sont conduites en parallèle des démarches de raccordement RTE.  
+
+Harmony Energy attache une haute importance à la consultation de l’ensemble des parties prenantes tout au long 
+du processus de développement de ces projets. Notamment : 
+
+- 
+
+-  À  partir  du  moment  où  un  propriétaire  présente  un  intérêt  pour  louer  son  terrain,  Harmony  Energy 
+rencontre les équipes de la mairie concernée pour présenter le projet, répondre à leurs questions, prendre 
+en  compte  leurs  remarques/points  d’attention,  et  vérifier  qu’il  n’y  a  pas  d’opposition  de  la  part  de  la 
+commune à implanter un projet sur le terrain sélectionné ; 
+Lorsque le besoin ou non de réaliser une étude d’impact a été confirmé, Harmony Energy prend contact 
+avec toutes les entités impliquées dans les démarches administratives pour présenter le projet et prendre 
+en compte leurs propositions pour améliorer les dossiers soumis lors des procédures de Loi sur l’Eau et de 
+permis de construire, notamment sur les aspects de sécurité et d’intégration dans l’environnement. Selon 
+les souhaits de la mairie, des réunions, des campagnes d’informations et des consultations peuvent être 
+réalisées auprès des résidents locaux. 
+
+Ces  étapes  de  consultation  permettent,  dans  la  mesure  où  une  étude  d’impact  officielle  ne  serait  pas  jugée 
+nécessaire,  d’aborder  certains  sujets  avec  les  interlocuteurs  spécialisés  dans  leurs  domaines  (DREAL,  SDIS, 
+CDPENAF, DDT) et de s’assurer au moment du dépôt de permis de construire d’avoir couvert et traité l’ensemble 
+des potentiels problématiques identifiés. 
+
+La figure ci-dessous présente une version simplifiée de la démarche de développement dans le cas où une étude 
+d’impact n’est pas requise. 
+
+Figure 20: Processus de développement d’un projet de stockage par batteries 
+
+Page 26 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+5.2.  Activités sur site 
+
+5.2.1.  Activités en phase de construction 
+
+La phase de chantier à proprement parlé (avant les tests de mise en service) durera environ douze mois, au cours 
+desquels seront réalisées les activités suivantes : 
+
+Installation de la base vie du chantier ; 
+
+• 
+•  Décapage et préparation du sol par travail de pelles mécaniques et camions bennes ; 
+• 
+•  Réalisation  des  fondations  pour  l'ensemble  des  équipements  (profondeur  selon  retour  des  études 
+
+Installation de la clôture, du portail et des équipements CCTV ; 
+
+géotechniques) ; 
+
+•  Gravillonnage  type  tout  venant  pour  constituer  le  sol  de  la  centrale,  compacté  sur  les  zones  de  route 
+
+d'accès et les aires de grutage ; 
+
+•  Dépose de la citerne 120m³ et une borne d’incendie, du conteneur/préfabriqué de stockage de matériel, 
+
+• 
+
+les deux sur sol compacté ; 
+Levage et pose des unités de batteries (qui arrivent préassemblées), des transformateurs HTA à l’aide d’une 
+grue mobile ; 
+
+•  Pose des câbles dans les tranchées, travail à la mini pelle ou trancheuse ; 
+•  Construction  du  bâtiment  de  local  technique  (<150m²  au  sol),  levage  et  installation  des  équipements 
+
+extérieurs du poste HTB, sectionneur, transformateur 63kV/33kV. 
+
+Ces activités demanderont un accès quotidien permanant au site et plusieurs allers et venues par jour. La nuisance 
+en termes de passage d’engins se concentrera principalement sur les quelques semaines où les unités de batteries 
+seront livrées sur site. 
+
+5.2.1. Activités en phase d’opération 
+
+Au cours de la phase d’exploitation, la centrale est pilotée à distance grâce à un logiciel qui permet d’envoyer les 
+ordres  de  charge  ou  de  décharge  aux  batteries,  mais  qui  surveille  également  que  la  centrale  fonctionne 
+normalement. Il  s’agit  du  système  Energy Management  System  (EMS).  Un  protocole  d’alarme et  d’astreinte  est 
+utilisé pour identifier des potentiels défauts 24h/24 et 7j/7 et qui peut, soit activer une commande à distance, soit 
+envoyer rapidement une équipe sur place pour traiter toute éventuelle anomalie. Hormis ces mesures correctives 
+éventuelles,  la centrale  ne  sera  visitée  que  quelques  jours  par  an  pour  effectuer la maintenance  préventive  des 
+équipements et pour l’entretien des espaces. Pour ces activités, les équipes d’exploitation se déplaceront avec des 
+véhicules utilitaires standards. 
+
+5.2.1. Activités de démantèlement 
+
+La durée de vie des batteries électriques est déterminée par leur utilisation en termes de cycles de charge/décharge, 
+typiquement  de  l’ordre  d’environ  15  ans.  Néanmoins,  la  plupart  des  autres  équipements  (containers,  poste 
+électrique, transformateur MT/BT) ont des durées de vie beaucoup plus longues, de l’ordre de 30 à 40 ans. 
+
+À  la  fin  de  vie  des  batteries électriques  (y compris  les  onduleurs),  Harmony Energy  privilégie  de  renouveler  ces 
+équipements  à  plus  faible  durée  de  vie  pour  une  nouvelle  période  d’environ  15  ans,  afin  d’ensuite  prévoir  un 
+démantèlement complet de la centrale à la fin de vie des équipements à plus long durée de vie (transformateurs et 
+containers), soit au bout d’environ 30 ans. 
+
+Les durées indiquées ici sont à adapter en fonction des services rendus par les batteries et donc du fonctionnement 
+des  équipements  au  quotidien  (notamment  le  nombre  de  cycles  de  charge/décharge),  du  suivi  BMS  (Battery 
+Management System), et des inspections qui seront réalisées annuellement. 
+
+Le renouvellement des batteries fait effectivement sens : 
+
+Page 27 sur 30 
+
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+•  d’un  point  de  vue  écologique :  ne  pas  démanteler  et  mettre  aux  rebus  des  équipements  encore 
+
+fonctionnels ; 
+
+•  d’un  point  de  vue  économique :  maximiser  la  rentabilité  des  investissements  dans  les  infrastructures  à 
+
+longue durée de vie ; 
+
+•  pour  répondre  aux  enjeux  énergétiques  nationaux :  le  besoin  en  stockage  d’énergie  sera,  d’après  les 
+
+scenarii RTE, encore plus important dans 30 ans qu’aujourd’hui. 
+
+Dans  le  respect  des  normes  en  vigueur,  Harmony  Energy  s’engage  à  recycler  les  équipements  démantelés, 
+notamment les batteries électriques dont le taux de recyclabilité est aujourd'hui évalué à 95%. 
+
+Au moment du démantèlement complet de la centrale, Harmony Energy s’engage à remettre le terrain dans son 
+état d’origine : 
+
+- 
+- 
+- 
+
+Tous les équipements seront retirés du site et traités dans le respect des normes en vigueur ; 
+Les fondations seront retirées du sol et apportés aux sites de traitement adéquats ; 
+Les terres arables qui auront été excavées lors de la construction et, dans la mesure du possible, conservées 
+sur site, seront remises en terre. 
+
+Conformément à la réglementation en vigueur sur la cessation d’activité des ICPE, Harmony Energy fera appel à un 
+bureau  d’étude  certifié  pour  attester  de  la mise  en  sécurité  du  site  et  de  sa  réhabilitation  une  fois  la  phase  de 
+démantèlement accomplie. 
+
+Page 28 sur 30 
+
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Annexe 1 Plan du projet 
+
+Layout GRANDE TERRE_0a.pdf (Implantation préliminaire) 
+
+Page 29 sur 30 
+
+ 
+ 
+ 
+ 
+Présentation du projet | Grande Terre 
+
+Mars 2023 
+
+Annexe 2 Évaluation de l'état environnemental du site 
+
+PRE-DIAGNOSTIC FAUNE/FLORE/ZONES HUMIDES, PAYSAGER ET PATRIMONIAL POUR LE PROJET DE GRANDE TERRE 
+
+A22097-R230215-v1, Eco-Stratégie, 15/02/2023 
+
+Page 30 sur 30 
+
+ 
+ 
+ 
+ 
+ 
+

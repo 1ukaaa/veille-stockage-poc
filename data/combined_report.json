@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "timestamp": "2025-10-31T16:19:52.552183",
+    "input_dir": "out/enriched",
+    "output_file": "data/combined.csv",
+    "num_files": 4,
+    "deduplication_strategy": "keep_best"
+  },
+  "statistics": {
+    "rows_input": 13,
+    "rows_output": 12,
+    "rows_removed_duplicates": 1,
+    "deduplication_rate": 7.7
+  },
+  "files_processed": [
+    "enriched_auvergne-rhone-alpes_2023.csv",
+    "enriched_auvergne-rhone-alpes_2024.csv",
+    "enriched_bourgogne-franche-comte_2023.csv",
+    "enriched_bourgogne-franche-comte_2024.csv"
+  ]
+}

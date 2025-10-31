@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "input_file": "out/analyzed/analyzed_bourgogne-franche-comte_2024.csv",
+    "output_file": "/Users/lukamauvignant/Library/Mobile Documents/com~apple~CloudDocs/veille-stockage-poc/out/enriched/enriched_bourgogne-franche-comte_2024.csv",
+    "timestamp": "2025-10-31 16:14:06",
+    "duration_seconds": 31.9,
+    "projects_processed": 2
+  },
+  "statistics": {
+    "permits_found": 0,
+    "high_confidence": 0,
+    "avg_confidence": 0.0
+  }
+}

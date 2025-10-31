@@ -1,0 +1,2129 @@
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+HARMONY ENERGY FRANCE 
+
+Présentation du projet 
+
+LA TILLE 
+
+Historique des versions du document : 
+
+Version 0 
+
+3 Novembre 
+2023 
+
+Examen cas/cas 
+
+« La capacité à générer et à stocker de l’énergie décarbonée est 
+
+essentielle au développement d’un système énergétique durable » 
+
+Page 1 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Sommaire 
+
+1. 
+
+Présentation de la société ................................................................................................................................... 3 
+
+1.1.  Historique ................................................................................................................................................... 3 
+
+1.2.  Harmony Energy France........................................................................................................................... 5 
+
+1.3.  Politique RSE .............................................................................................................................................. 5 
+
+2. 
+
+Le stockage d'énergie par batteries ................................................................................................................... 6 
+
+2.1. 
+
+Intérêt de la solution ................................................................................................................................. 6 
+
+2.2.  Fonctionnement ....................................................................................................................................... 11 
+
+2.3.  Technologie de batteries ......................................................................................................................... 12 
+
+2.4.  Aspects environnementaux ..................................................................................................................... 13 
+
+3. 
+
+Le projet de la Tille ............................................................................................................................................ 14 
+
+3.1.  Choix du site ............................................................................................................................................ 14 
+
+3.2.  Localisation du projet ............................................................................................................................. 14 
+
+3.3.  Conception du projet ............................................................................................................................. 16 
+
+3.4.  Raccordement du projet ........................................................................................................................ 16 
+
+4. 
+
+Analyse des risques ............................................................................................................................................. 17 
+
+4.1.  Méthodologie d’analyse des risques ...................................................................................................... 17 
+
+4.2.  Revue générale des risques ..................................................................................................................... 18 
+
+4.3.  Biodiversité ............................................................................................................................................... 23 
+
+4.4.  Milieu potentiellement humide ............................................................................................................. 23 
+
+4.5.  Patrimoine et population locale ............................................................................................................ 24 
+
+4.6. 
+
+Impact sonore .......................................................................................................................................... 27 
+
+4.7.  Risque intrusion ....................................................................................................................................... 29 
+
+4.8.  Risque incendie........................................................................................................................................ 29 
+
+5. 
+
+Cycle de vie du projet ....................................................................................................................................... 34 
+
+5.1.  Processus de développement ................................................................................................................ 34 
+
+5.2.  Activités sur site ....................................................................................................................................... 35 
+
+6. 
+
+Bilan carbone ...................................................................................................................................................... 37 
+
+Annexe 1 Plan du projet .................................................................................................................................................. 40 
+
+Annexe 2 Évaluation de l'état environnemental du site............................................................................................... 41 
+
+Page 2 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+1. Présentation de la société 
+
+1.1.  Historique 
+
+Harmony Energy a été fondée au Royaume-Uni en 2010 et en une dizaine d’années la société est devenue un 
+leader national dans le développement de projets de stockage d’énergie et de centrales de production d’énergie 
+renouvelable. 
+
+Harmony  Energy  a  ainsi  développé,  construit  et  opéré  un  portefeuille  important  de  parcs  de  production 
+d’énergie renouvelable (éoliens et photovoltaïques) ainsi que des projets de stockage d’énergie par batterie. La 
+carte ci-dessous montre les projets de stockage opérationnels et en cours de construction sur le sol britannique. 
+
+Figure 1: Portefeuille de projets BESS de Harmony Energy au Royaume-Uni 
+
+En novembre 2021, Harmony Energy a lancé le Harmony Energy Income Trust plc, un fonds d’investissement 
+coté à la Bourse de Londres ("HEIT"). HEIT est une  société d'investissement gérée par  Harmony Energy  qui 
+finance  des  grands  projets  de  stockage  d'énergie  et  de  production  d'énergie  renouvelable  et  qui  délègue  à 
+Harmony Energy la gestion des actifs sur toute la durée de vie, jusqu’au démantèlement. 
+
+Aujourd’hui Harmony Energy développent des projets dans 5 pays : Royaume-Uni, Nouvelle-Zélande, France, 
+Allemagne et Pologne, avec toujours la même mission, « de proposer des projets qui permettent une transition 
+vers un système énergétique durable sur les plans environnemental, financier et social ». 
+
+Page 3 sur 41 
+
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Figure 2: Bureaux Harmony Energy 
+
+Figure 3: Les valeurs de la société Harmony Energy 
+
+Page 4 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+1.2.  Harmony Energy France 
+
+Fort de son expérience et de ses succès au Royaume-Uni, début 2022 une filiale française, Harmony Energy 
+France, a été créée pour développer en France métropolitaine des projets solaires et de stockage. 
+
+L’équipe française de Harmony Energy bénéficie d’une expérience importante sur le marché de l’électricité et 
+le développement de projets d’énergie renouvelable et de stockage d’énergie. Les compétences couvrent aussi 
+bien  les  activités  de  développement  (recherche  de  foncier,  démarches  administratives…),  d’ingénierie 
+(conception et dimensionnement des centrales, ingénierie de raccordement au réseau…), ou de construction 
+et opération (achats, financement, mise en service, exploitation et maintenance…). 
+
+Harmony  Energy  France  se  positionne  sur  l’ensemble  du  cycle  de  vie  de  ses  projets,  en  faisant  appel  à  des 
+partenaires pour certaines activités clés. 
+
+Figure 4: Positionnement de Harmony Energy France 
+
+1.3.  Politique RSE 
+
+Harmony  Energy  France  définit  sa politique  Responsabilité  Sociétale  des  Entreprises  (RSE)  autour  de  quatre 
+principaux piliers qui guident notre manière de développer et de construire nos activités. 
+
+ Figure 5: Les piliers RSE de Harmony Energy 
+
+Page 5 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Sur la base de ces 4 piliers, Harmony Energy a choisi de définir une stratégie RSE en accord avec ses propres 
+valeurs, tout en s’alignant sur les principales recommandations des organismes internationaux1. 
+
+Concrètement  Harmony  Energy  France  formalise  ses  actions  autour  de  sept  objectifs  de  développement 
+durable parmi des dix-sept adoptés par les États membres des Nations Unies. 
+
+Figure 6: Actions RSE de Harmony Energy France 
+
+2. Le stockage d'énergie par batteries 
+
+2.1. 
+
+Intérêt de la solution 
+
+Le stockage d’électricité par batteries a atteint la maturité technologique dans la deuxième partie des années 
+2010, avec un fort essor aux Etats-Unis, en Australie, au Royaume-Uni et dans les zones non interconnectées. 
+En  une  douzaine  d’années,  le  stockage  est  devenu  un  levier  indispensable  de  la  transition  énergétique  pour 
+stabiliser le réseau sans avoir recours aux énergies fossiles et afin de mieux intégrer les énergies renouvelables, 
+notamment l’énergie solaire. 
+
+Ces dernières années, le stockage par batteries s’est  démocratisé dans le monde entier et en particulier en 
+Europe pour faire face à deux tendances fortes : 
+
+ 
+
+La  nécessaire  fermeture  des  centrales  fossiles  les  plus  polluantes  (charbon,  pétrole,  gaz),  utilisées 
+notamment lors de la période hivernale, remplacées par des énergies renouvelables durables, dont la 
+production est variable et parfois compliquée à intégrer ; 
+
+  Des  prix  des  marchés  de  l’électricité  soumis  à  une  volatilité  grandissante  du  fait  de  la  hausse  de  la 
+consommation, de la variabilité des énergies renouvelables et des crises successives affectant le prix du 
+gaz ou du pétrole qui peuvent mettre en péril la sécurité d’approvisionnement. 
+
+1 Politique RSE Harmony Energy France disponible sur la page RSE du site internet : www.harmonyenergy.fr  
+
+Page 6 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Figure 7: Les enjeux du marché de l'électricité 
+
+Le stockage d’énergie par batteries répond en effet aux 3 enjeux majeurs que vont connaître les réseaux 
+électriques au XXIème siècle : 
+
+  Durabilité : 
+
+o  Les batteries électriques constituent l’une des solutions flexibles les plus efficaces et les plus 
+décarbonées,  avec  des  émissions  nettement  inférieures  à  celles  des  centrales  fossiles 
+traditionnelles.  En  effet  un  kWh  en  provenance  du  réseau  français  et  ayant  transité  par  une 
+batterie à une empreinte de l’ordre de 100 gCO2/kWh, contre au moins quatre fois plus pour 
+les centrales au gaz, au pétrole et au charbon (de 400 à 1000 gCO2/kWh)2 ; 
+
+o  Le stockage par batteries n’émet aucun polluant et s’installe facilement, sans nuisance majeure 
+pour  l’environnement.  L’installation  d’une  centrale  de  stockage  occupe  une  surface  faible : 
+environ 150 hectares suffiraient pour atteindre les objectifs nationaux en puissance de stockage 
+par batteries dans les scenarii médians de RTE3 (9 à 13 GW) ; 
+
+o  En stockant l’énergie renouvelable pour pallier un surplus de production ou à une congestion 
+du  réseau,  les  batteries  permettent  d’utiliser  une  énergie  qui  aurait  été  gaspillée  (écrêtée) 
+autrement, avec un très haut rendement énergétique (autour de 85%). 
+
+  Maîtrise des prix : 
+
+o  Le  stockage  par  batteries  demande  un  investissement  important  au  départ  mais  les  coûts 
+opérationnels  sont  faibles  et  maîtrisés,  permettant  d’avoir  une  forte  visibilité  sur  le  prix  de 
+revient de l’installation ; 
+
+o  Le stockage par batteries s’insère sur le marché sans mécanisme de soutien et propose des 
+prix plus compétitifs que les énergies fossiles traditionnelles pour les mêmes services rendus ; 
+o  En  venant  en  remplacement  des  énergies  fossiles  et  en  déplaçant  des  pics  de  production 
+journaliers vers des pics de consommation, le stockage permet de réduire la volatilité des prix 
+sur la journée. 
+
+  Sécurité d’approvisionnement : 
+
+o  Le stockage est  la technologie la plus efficiente pour stabiliser le réseau, avec des temps  de 
+
+réaction extrêmement courts (<500ms contre quelques minutes pour d’autres actifs) ; 
+
+o  En remplacement des énergies fossiles dont l’approvisionnement s’avère aussi de plus en plus 
+incertain, le stockage permet de passer les pics de consommation et de répondre à la demande 
+nationale tout au long de l’année. 
+
+2 Calculs Harmony Energy basés sur des hypothèses courantes du marché 
+3 Futurs énergétiques 2050, RTE, février 2022 : www.rte-france.com/analyses-tendances-et-prospectives/bilan-previsionnel-2050-futurs-energetiques#Lesdocuments  
+
+Page 7 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Figure 8: Le stockage de l’électricité, levier de la transition énergétique 
+
+En  remplaçant  des  services  autrement  fournis  par  des  énergies  fossiles,  le  stockage  d’énergie  par  batteries 
+permet donc de réduire l’empreinte carbone du système électrique tout en apportant une meilleure maîtrise 
+des coûts et de la capacité d’approvisionnement. 
+
+Le cas réel de la Figure 9 ci-dessous illustre le pic de consommation inattendu  du 4 avril 2022, où une nuit 
+exceptionnellement  froide  et  un  manque  de  capacité  de  production  (réelle  et  prévue)  a  conduit  à  des  prix 
+d’électricité sur le marché spot extrêmement élevés et donc à de forts coûts d’équilibrage du système. 
+
+Dans ce cas concret, un système électrique intégrant une capacité d’environ 1,5 GW de stockage d’énergie par 
+batteries  pour  répondre  aux  besoins  d’équilibrage  du  système,  aurait  permis  d’éviter  le  démarrage  d’une 
+centrale au fuel (à ~700 gCO2/kWh).  L’usage du stockage plutôt que  du fuel aurait ainsi pu  conduire à des 
+économies d’environ 150 M€ (ordre de grandeur) pour les fournisseurs et indirectement la collectivité, tout en 
+évitant l’émission de près de 2500 tonnes de CO2
+
+4. 
+
+4 Calculs Harmony Energy basés sur des hypothèses courantes du marché 
+
+Page 8 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Figure 9: Mix électrique et prix de l’électricité sur le marché spot en France pour la journée du 4 avril 2022 (source RTE Eco2mix) 5 
+
+Conscients des bénéfices qui peuvent être apportées par l’intégration de systèmes de stockage d’énergie au 
+réseau électrique, de nombreux organismes d’état et européens confirment l’intérêt majeur de la solution et 
+prônent à son déploiement : 
+
+- 
+
+- 
+
+- 
+
+- 
+
+La  CRE  (Commission  de  Régulation  de  l’Energie)  dans  une  délibération  d’avril  2022  a  souligné  « un 
+besoin important et urgent de flexibilité pour les prochaines années » et a notamment préconisé « un 
+dispositif d’appels d’offres dédiés au stockage »  en  tant  qu’  « opportunité à saisir en urgence pour 
+accélérer le rythme de développement du stockage d’électricité »6 ; 
+RTE (Réseau de Transport d’Électricité), le principal client des solutions de stockage sur le territoire 
+français,  confirme le  besoin  de  stockage  par  batteries  dans  l’intégralité  des  scenarii  énergétiques  de 
+20507. Dans ses scenarii médians, 9 à 13GW de batteries devront être installées d’ici 2025 ; 
+L’ADEME (Agence de la Transition Écologique) confirme également la nécessité d’installer massivement 
+du stockage par batteries dans ses Trajectoires d’évolutions du mix électrique 2020-20608 ; 
+La  Commission  Européenne ,  dans  ses  dix  recommandations  sur  le  stockage  d’énergie  publiées  en 
+mars 20239, indique que « l’analyse a montré que le stockage est essentiel pour décarboner le système 
+énergétique de l’UE ». 
+
+5 www.rte-france.com/eco2mix/la-production-delectricite-par-filiere  
+6 Délibération de la CRE du 7 avril 2022 portant avis sur le projet de décret fixant les modalités de la procédure d'appel d'offres portant sur le développement de 
+capacités de stockage d’électricité - CRE 
+7 RTE | Futurs énergétiques 2050 | Documents (rte-futursenergetiques2050.com) 
+8 Trajectoires d'évolution du mix électrique à horizon 2020-2060 - La librairie ADEME 
+9 Recommendations on energy storage (europa.eu) 
+
+Page 9 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Figure 10: Scenarii médians du rapport RTE « Futurs Énergétiques 2050 » 
+
+La  Stratégie  Nationale  Bas  Carbone 10 (SNBC)  donne  la  feuille  de  route  de  la  France  pour  lutter  contre  le 
+changement climatique. Afin de réduire les émissions françaises de gaz à effet de serre, et atteindre la neutralité 
+carbone dès 2050, il faut notamment : 
+
+- 
+
+Réduire  les  consommations  d’énergie  (notamment  à  travers  des  leviers  d’efficacité  énergétique  des 
+équipements et de la sobriété des modes de vie) ; 
+
+-  Décarboner complètement l’énergie produite. 
+
+Figure 11: Consommation et sources d’énergie (Futurs Énergétiques 2050 (RTE) et la SNBC) 
+
+La suppression des énergies fossiles se réalise donc partiellement par une réduction de la consommation finale 
+d’énergie,  mais  aussi  par  une  électrification  des  usages  (notamment  les  véhicules  de  transport,  mais  aussi 
+l’industrie et le résidentiel). De ce fait, les besoins nationaux en termes de capacité de production d’électricité 
+augmenteront de manière importante, et cette production doit provenir de sources peu-carbonées. Dans les 
+années  et  les  décennies  à  venir  la  France  va  donc  intégrer  de  nouveaux  volumes  importants  en  termes  de 
+production  d’énergies  renouvelables.  Étant  donné  le  caractère  non-pilotable  de  la  majorité  des  sources  de 
+production d’énergies renouvelables, ce déploiement massif doit être accompagné par l’intégration de nouvelles 
+capacités de flexibilité afin d’équilibrer l’offre et la demande à tout moment, de garder la fréquence du réseau 
+à 50Hz et de faire en sorte que les consommateurs (résidentiels, tertiaires et industriels) ne soient pas sujets à 
+des délestages voire des coupures non-prévues. 
+
+À  cet  effet,  en  septembre  2023,  RTE  a  publié  un  bilan  prévisionnel,  « 2023-2035 :  première  étape  vers  la 
+neutralité  carbone »11,  dans  lequel il  est  indiqué  que,  « le  développement  des  flexibilités  présente  un  double 
+intérêt » :  « 1.  Pour  assurer  la  sécurité  d’approvisionnement »  et  « 2.  Pour  assurer  l’optimisation  du  système 
+
+10 www.ecologie.gouv.fr/strategie-nationale-bas-carbone-snbc 
+11 www.rte-france.com/actualites/bilan-previsionnel-transformation-systeme-electrique-2023-2035 
+
+Page 10 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+électrique ».  Le  4ème  défi  technique  d’un  système  électrique en  croissance,  cite  (en  page  25  du  rapport  des 
+principaux  résultats),  « Le  développement  des  flexibilités,  thématique  désormais  centrale  et  clé  de  voûte  du 
+nouveau  Bilan  prévisionnel ».  Plus  spécifiquement,  RTE  indique  à  la  figure  18  du  même  document  que 
+« Développer la flexibilité  de la demande et les batteries est un axe prioritaire pour renforcer la sécurité 
+d’approvisionnement  ». 
+
+2.2.  Fonctionnement 
+
+Les batteries sont des dispositifs de stockage électrochimique. Chaque cellule est constituée d’une électrode 
+positive et d’une électrode négative, toutes deux immergées dans un milieu conducteur appelé électrolyte. 
+
+Les cellules  sont regroupées dans  des racks et entreposés dans  des armoires  ou  des  containers/enceintes à 
+environnement contrôlé et conçus  pour être installés en extérieur. La température  y est régulée grâce à un 
+système de ventilation ou de refroidissement liquide. 
+
+Les batteries sont des technologies connectées en courant continu, comme les panneaux photovoltaïques. Ils 
+sont donc couplés à des onduleurs pour passer en courant alternatif et par des transformateurs qui permettent 
+le passage en moyenne tension en vue du raccordement au réseau public. 
+
+Un poste de livraison fait le lien entre la centrale de stockage et le réseau public et un local technique permet 
+aux équipes d’exploitation de superviser la centrale et d’assurer sa bonne maintenance. 
+
+Si le raccordement au réseau se fait en haute tension, un poste électrique haute tension (HT) peut également 
+être ajouté sur l’emprise foncière du projet. 
+
+Figure 12 : Plan de principe d’une installation de stockage par batteries 
+
+Page 11 sur 41 
+
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Figure 13 : Vue aérienne de la centrale de stockage de Contego (34 MW / 68 MWh), développée et opérée par Harmony Energy 
+
+2.3.  Technologie de batteries 
+
+Actuellement, le marché du stockage par batteries se concentre sur deux technologies au lithium : 
+
+ 
+
+ 
+
+La technologie Nickel Manganèse Cobalt (NMC) est la plus utilisée dans le monde car sa forte densité 
+énergétique  facilite  les  usages  pour  la  mobilité  (par  exemple  les  batteries  de  téléphones  portables, 
+voitures électriques, etc.) ; 
+La  technologie  Lithium  Fer  Phosphate (LFP)  a  une  densité  énergétique  moins  élevée,  mais  elle  a  de 
+nombreux  autres  avantages  qui  font  qu’elle  est  aujourd’hui  privilégiée  pour  le  stockage  stationnaire 
+raccordé au réseau. 
+
+Harmony Energy a choisi de se concentrer sur la technologie LFP pour plusieurs raisons : 
+
+ 
+
+  Contrairement  aux  batteries  NMC,  la  technologie  LFP  n’utilise  pas  de  cobalt  dont  la  chaine 
+d’approvisionnement  peut  avoir  des  répercussions  sociales  et  environnementales  au  niveau  de 
+l’extraction de la matière première ; 
+Les batteries LFP sont très peu soumises au risque d’emballement thermique que l’on observe sur la 
+technologie  NMC.  Les  risques  d’incendie  sont  donc  drastiquement  réduits.  La  centrale  dispose 
+toutefois de plusieurs systèmes de prévention, de détection et d’extinction des incendies (voir chapitre 
+4.8 pour une analyse détaillée du risque incendie) ; 
+Il s’agit d’une technologie maîtrisée qui présente le meilleur rapport performance / prix sur le marché. 
+
+ 
+
+Après une durée d’exploitation d’environ 15 ans, les batteries lithium-ion seront démantelées et les différents 
+matériaux  séparés  et  recyclés.  Les  progrès  technologiques  en  matière  de  recyclage  et  d’éco-conception 
+devraient permettre, à horizon 2030, de s’approcher des 100% de valorisation des matériaux. 
+
+En effet, tirée par la fin de vie de la première génération de véhicules électriques, l’industrie du recyclage des 
+batteries sera en plein essor dans les dix prochaines années. Des usines sont actuellement en projet en France 
+et ailleurs en Europe pour justement répondre à la hausse attendue de la demande. 
+
+Page 12 sur 41 
+
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+2.4.  Aspects environnementaux 
+
+Les installations de stockage par batteries de plus de 600 kW sont soumis au régime de la déclaration de l’ICPE 
+2925-2 « Ateliers de charge d’accumulateurs électriques lorsque la charge ne produit pas d’hydrogène ». 
+
+Les installations de stockage par batteries représentent très peu de risques ou de nuisances environnementaux : 
+
+  Gestion des sols : 
+
+o  Le  stockage  par  batteries  ne  demande  pas  de  fondation  conséquente  et  de  ce  fait  une 
+
+excavation profonde n’est pas nécessaire ; 
+
+o  Une surface limitée des sols étant imperméabilisée, il n’y pas ou peu d’impact sur la gestion des 
+
+écoulements d’eau de pluie. 
+
+ 
+
+Insertion paysagère : 
+
+o  Les installations de stockage occupent une surface relativement faible (de l’ordre de 1 hectare) 
+
+et n’ont pas de structure très haute ; 
+
+o  Harmony Energy choisit des terrains distancés de toute habitation ou lieu recevant du public, 
+de préférence à proximité des postes électriques et proche de pylônes. Bien que le contexte 
+local et l’environnement proche ne présentent pas d’enjeu paysager, Harmony Energy propose 
+la mise en place de haies paysagères pour faciliter l’intégration visuelle de l’installation. 
+
+  Émissions : 
+
+o  La  centrale  n’émet  aucun  gaz,  liquide  ou  solide  susceptible  de  présenter  un  risque 
+
+environnemental ou une nuisance olfactive ; 
+
+o  Les  ondes  électromagnétiques  générées  par  l’installation  sont  négligeables  et  ne  représente 
+
+aucun risque pour la santé ou l’environnement ; 
+
+o  Le système de gestion thermique des unités de stockage génère un bruit régulier qui peut être 
+entendu  en  limite  de  propriété  mais  qui  devient  rapidement  très  faible.  Lors  du  choix  des 
+terrains, Harmony Energy s’assure que le bruit ne puisse pas constituer une nuisance pour les 
+riverains et s’engage à respecter les normes acoustiques applicables. 
+
+Pour chaque projet, Harmony Energy consulte les parties prenantes locales, notamment : 
+
+- 
+
+- 
+
+- 
+
+Le  conseil  municipal  de  la  commune  concerné  par  le  projet  et  potentiellement  ses  administrés  et 
+techniciens pour répondre à leurs questions, recueillir leurs avis et prendre des mesures pour répondre 
+à leurs potentielles préoccupations ; 
+Le  Service  Départemental  d’Incendie  et  de  Secours  (SDIS)  pour  prendre  en  compte  leurs 
+recommandations et exigences liés aux risques d’incendie ; 
+La Direction Départementale des Territoires en charge d’instruire le permis de construire, qui peut être 
+force de propositions pour améliorer la conception du projet. 
+
+Page 13 sur 41 
+
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+3. Le projet de la Tille 
+
+3.1.  Choix du site 
+
+Harmony Energy prospecte des potentiels sites de développement de projets de stockage d’énergie sur tout le 
+territoire français. Dans le cadre de sa prospection d’opportunités dans le département du Doubs, Harmony 
+Energy  a  effectué  une analyse  portant  sur  tous  les  postes  RTE  du  département,  afin  de  déterminer  lesquels 
+pourraient être adaptés à l’implantation d’un projet de stockage d’énergie par batteries. 
+
+Une  centrale  de  stockage  d’électricité  de  plusieurs  dizaines  de  mégawatts  doit  par  nature  être  positionnée 
+proche  d’un  poste  électrique  existant  ayant  une  capacité  suffisante  d’accueil/raccordement.  De  par 
+l’augmentation significative de la longueur de câble souterrain à installer, une distance importante entre le poste 
+électrique et le lieu du projet entrainerait des impacts négatifs importants sur les coûts, l’efficacité du système 
+(hausse  des  pertes  électriques),  l’impact  environnemental  du  projet  et  les  nuisances  lors  de  la  phase  de 
+construction. Harmony Energy développe les sites qui répondent à ce critère premier de proximité, mais qui 
+ont aussi et surtout le moindre impact sur les aspects naturels, sanitaires et environnementaux. La méthodologie 
+de recherche et sélection consiste ainsi à identifier les sites qui répondent aux critères suivants : 
+
+-  Capacité  technique  du  poste :   le  poste  électrique  doit  avoir  une  capacité  permettant  la  décharge 
+(injection) ainsi que la charge (soutirage) de batteries (données RTE publiques). Ensuite, il doit y avoir 
+un terrain d’une surface d’environ 1 hectare ou plus, non-construit à proximité du poste ; 
+Enjeux environnementaux :  le terrain identifié (à proximité du poste électrique) doit se situer dans une 
+zone sans enjeux forts, par exemple des zones protégées (N2000, ZNIEFF, parc nationaux) ou d’autres 
+enjeux répertoriés (zone humides, inondations) ; 
+
+- 
+
+-  Absence  d’habitation  proche  :  bien  que  les  limites  de  distances  minimums  fixées  par  l’ICPE  sont 
+nettement inférieures, pour des raisons d’impacts visuel et sonore, Harmony Energy fait le  choix de 
+privilégier les terrains éloignés d’au moins 100m des habitations les plus proches. 
+
+Il est à noter que les grands postes électriques sont  pour la plupart situés dans les milieux agricoles, et plus 
+rarement en zone urbaine. Pour ceux situés en zones urbaines, il y a rarement une surface de terrain disponible 
+et suffisamment éloignée des habitations à proximité du poste. 
+
+Le site du projet « la Tille » est ainsi identifié comme étant l’un des seuls du département du Doubs avec les 
+caractéristiques propices au développement d’un projet de stockage d’énergie multi-mégawatt. 
+
+3.2.  Localisation du projet 
+
+Le  projet  de  stockage  d’énergie  de  la  Tille  se  situe  sur  la  commune  de  Dompierre-Les-Tilleuls,  dans  le 
+département  du  Doubs.  Il  est  situé  sur  un  terrain  agricole  à  proximité  du  poste  électrique  de  RTE  nommé 
+Frasne. 
+
+Page 14 sur 41 
+
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Figure 14 - Situation du projet (échelle 1:50000) 
+
+Le terrain a été choisi pour le développement d’une centrale de stockage d’énergie par batteries pour les raisons 
+principales suivantes : 
+
+ 
+
+ 
+
+ 
+
+La  proximité  avec  le  poste  électrique  de  Frasne,  facilitant  le  raccordement  au  réseau  national  et 
+permettant une continuité dans l’intégration paysagère ; 
+L’absence  de  site  patrimonial  ou  d’habitation  à  proximité  immédiate,  permettant  ainsi  au  projet  de 
+s’implanter sans nuisance pour la population locale (les habitations les plus proches se situent à plus d’1 
+km) ; 
+L’absence d’enjeux environnementaux importants.  
+
+Figure 15 - Photographe aérienne (échelle 1:10000) 
+
+Page 15 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+3.3.  Conception du projet 
+
+Harmony Energy a fait réaliser par RTE une étude exploratoire pour connaître la capacité de raccordement du 
+poste électrique de Frasne. 
+
+Suite à cette analyse, Harmony Energy a reçu la confirmation qu’un projet de 85MW / 170MWh pourrait être 
+raccordé au réseau électrique sans renforcement des infrastructures publiques. 
+
+Un projet de cette dimension permettrait de stocker l’équivalent en consommation moyenne d’environ 62% 
+de la population du département du Doubs pendant 2 heures12. 
+
+L’Annexe 1 au présent document présente ainsi l’implantation du projet, constituée des élements suivants : 
+
+1.  48 unités de stockage contenant les batteries ; 
+2.  24 postes de transformation BT / HTA pour amener la tension à 33kV ; 
+3.  Un poste électrique avec un transformateur de tension 63kV / 33kV ; 
+4.  Un local de maintenance ; 
+5.  Une citerne incendie ; 
+6.  Une piste d’accès, avec parking de stationnement et plateforme DECI ; 
+7.  Clôture (et haie paysagère à confirmer selon intérêt) . 
+
+La disposition des unités de stockage est étudiée pour faciliter l’installation et la maintenance du système, avec 
+des aires de grutage et des pistes d’accès. Toutes les distances réglementaires d’éloignement seront respectées, 
+conformement à la déclaration ICPE du projet. 
+
+Des mesures seront prises pour gérer les eaux de pluie, avec un système de bassin de retention des eaux qui 
+sera à dimensionner en fonction des études hyrauliques. Ces mesures seront définies en détail dans le cadre 
+des procédures de dossier loi sur l’eau par le bureau d’études spécialisé missionné par Harmony Energy. 
+
+3.4.  Raccordement du projet 
+
+La réalisation du raccordement du projet au poste électrique RTE est à la charge de RTE. Harmony Energy a 
+engagé le processus de raccordement auprès de RTE, processus qui débute par une phase d’études techniques, 
+environnementales, administratives et financières. Ces études dimensionneront les câbles et détermineront le 
+tracé exact de câbles, entre autres. 
+
+12 Sur la base d’une consommation moyenne de 0,5 kWh/personne pour une période de 2h et une population de la Doubs d’environ 545 209 habitants (selon le dernier 
+recensement en date de l’INSEE, le RP2020)  
+
+Page 16 sur 41 
+
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Figure 16: Le poste électrique de Frasne (photo prise depuis le nord du poste) 
+
+4. Analyse des risques 
+
+4.1.  Méthodologie d’analyse des risques 
+
+Harmony Energy intègre des mesures ERC (éviter, réduire, compenser)13 dans toutes les étapes d’identification, 
+de  développement,  de  construction  et  de  démantèlement  de  ses  projets  de  stockage  d’énergie.  Harmony 
+Energy s’appuie sur la séquence ERC présente dans le code de l’environnement et au cœur du processus de 
+l’évaluation environnementale des projets. 
+
+La séquence ERC traduit une hiérarchie de mesures, en priorisant l’évitement d’impacts, puis la réduction des 
+impacts inévitables, et en dernier recours, la compensation des impacts s’ils ne peuvent être ni évités ni réduits 
+suffisamment. 
+
+13 www.notre-environnement.gouv.fr/themes/evaluation/article/eviter-reduire-compenser-erc-en-quoi-consiste-cette-demarche 
+
+Page 17 sur 41 
+
+ 
+ 
+ 
+  
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Figure 17: Méthodologie ERC adoptée par Harmony Energy 
+
+L’approche ERC est adoptée dès la phase de prospection de nouveaux sites (voir chapitre 3.1), afin d’identifier 
+ceux qui permettent d’éviter les impacts les plus importants et de prioriser ceux qui présentent des opportunités 
+de réduction d’impact. 
+
+Afin  d’appliquer  la  méthodologie  ERC  au  projet  identifié,  il  est  d’abord  impératif  de  réaliser  une  analyse 
+exhaustive des risques présents et des impacts potentiels engendrés par ces risques. 
+
+4.2.  Revue générale des risques 
+
+L’aire  d’étude  du  projet  présente  très  peu  de  risques,  qu’ils  soient  de  nature  naturelle,  environnementale, 
+sanitaire ou technologique. Le tableau ci-dessous présente une analyse préliminaire des risques considérés par 
+Harmony Energy, en identifiant ceux qui méritent une analyse plus détaillée. 
+
+Harmony Energy se tiendra à l’écoute des autorités pour analyser en plus de détail tout potentiel risque soulevé 
+lors de la préparation et l’instruction des autorisations. 
+
+Page 18 sur 41 
+
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Type de risque 
+
+Risque identifié 
+
+Qualification 
+du risque ? 
+
+Commentaire 
+
+Naturel 
+
+Argile 
+
+Faible 
+
+La  zone  du  site  a  une  exposition  moyenne  au  risque 
+gonflement d’argile. 
+
+Une  étude  géotechnique  sera  réalisée  en  amont  des 
+travaux  pour  dimensionner  les  fondations  en  fonction 
+de la nature précise du sol sous les équipements. 
+
+Il  est  à  noter  que  les  fondations  nécessaires  pour  les 
+sont 
+projet 
+équipements 
+d'un 
+généralement 
+et  peu 
+relativement 
+profondes. 
+
+de 
+compactes 
+
+stockage 
+
+Avalanches 
+
+Cavités 
+
+Inondation 
+
+Mouvement de 
+terrain 
+
+Radon 
+
+Nul 
+
+Nul 
+
+Nul 
+
+Nul 
+
+Nul 
+
+Séisme 
+
+Faible 
+
+Impact 
+biodiversité 
+
+Biodiversité sur site 
+
+Faible 
+
+Zone non-concernée par les avalanches. 
+
+Pas de risque de cavités identifié sur la zone. 
+
+Le  site  n’est  pas  dans  une  zone  identifiée  à  risque 
+d’inondation. 
+
+Il n’y a pas de PPRi sur la zone du projet. 
+
+Pas de risque identifié sur la zone. 
+
+Le potentiel radon est de catégorie 1. 
+
+Une centrale de stockage n’est pas occupée de manière 
+permanente. Le projet n’est donc pas concerné par ce 
+risque. 
+
+Le  projet  se  situe  dans  une  zone  à  risque  modéré  de 
+séisme (niveau 3). 
+
+La séismicité est à prendre en compte lors de la phase 
+d’ingénierie détaillée. 
+
+Les installations de stockage d’énergie par batterie sont 
+peu sensibles aux secousses légères et modérées et sont 
+conçues  pour  opérer  dans  des  zones  à  fort  enjeu 
+séismique., Par conséquent, le risque de séisme pour ce 
+projet est considéré comme faible. 
+
+Le  projet  s’implante  sur  une  prairie  mésique  dans  un 
+secteur exploité de manière plus ou moins intensive. 
+
+Le diagnostic faune / flore / zone humide réalisé par le 
+bureau d’études spécialisé Auddicé n’a identifié aucun 
+enjeu biodiversité sur le site (voir chapitre 4.3). 
+
+Page 19 sur 41 
+
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Type de risque 
+
+Risque identifié 
+
+Qualification 
+du risque ? 
+
+Commentaire 
+
+Biodiversité à 
+proximité du site 
+
+Faible 
+
+Milieu 
+potentiellement 
+humide 
+
+Faible 
+
+Risque de 
+nuisance / 
+sanitaire 
+
+Paysager 
+
+Faible 
+
+Bien que le projet soit situé en dehors de toute zone 
+reportoriée pour la protetion de la biodiviersité, 
+plusieurs Zones Naturelles d’Interet Reconnu (ZNIR) 
+sont réencensées au sein des aires d’étude rapprochée 
+et éloignée (respectivement à 2 et 6 km du site) : 17 
+ZNIEFF de type I, 3 ZNIEFF de type II, 1 ZSC, 1 ZPS, 1 
+APB, 1 RNR et 1 RAMSAR. 
+
+Compte tenu de la relative proximité avec la ZSC 
+«Vallées du Drugeon et du Haut Doubs» ainsi que de la 
+ZPS «Vallées du Drugeon et du Haut Doubs», une 
+étude d’incidence simplifiée pour étudier l’impact sur 
+le réseau Natura 2000 sera nécessaire. Le formulaire 
+est annexé au prédiagnostic écologique. 
+
+Pour le reste des ZNIR, compte tenu de la distance 
+entre ces dernières et le secteur d’étude, aucun 
+impact direct du projet n’est attendu sur ces ZNIR. En 
+effet, les espèces, à grand territoire (Lynx, Busards, 
+Vanneau huppé, Milan royal, Goélands, Grande 
+Aigrette, etc.), recensées au sein de ces sites ne 
+peuvent fréquenter le secteur d’étude qu’en transit 
+périodique. 
+
+(voir chapitre 4.3 pour plus de détails). 
+
+Le  projet  ne  se  situe  pas  dans  une  zone  répertoriée 
+comme  ayant  une  probabilité  d’être  potentiellement 
+humide  selon  la  cartographie  générique  de  « milieux 
+potentiellement humides de France »14. 
+
+Les  15  sondages  pédologiques  réalisés  par  le  bureau 
+d’étude  Auddicé  au  mois  d’octobre  2023  ont  pu 
+confirmer l'absence de zone humide. 
+
+Ce sujet est détaillé en chapitre 4.4. 
+
+Le  projet  ne  se  situe  pas  dans  une  zone  à  fort  enjeu 
+paysager. 
+
+Il n’y a pas de monument historique classé ou inscrit à 
+proximité. 
+
+Les  équipements  du  parc  de  stockage  sont  limités  en 
+hauteur et ne seront que peu visibles depuis les routes 
+les plus proches du projet. 
+
+Afin  de  faciliter  l’insertion  paysagère,  la  plantation  de 
+haies sera étudiée le long des bords de la clôture sur les 
+côtés  les  plus  visibles  du  projet.  Les  variétés  d’arbres 
+constituant les haies pourront se faire en fonction des 
+demandes  des  autorités  et  des  préconisations  du 
+bureau d’étude environnementale. 
+
+Chapitre  4.5  détaille  le  risque  d’impact  pour  le 
+patrimoine et la population locale. 
+
+14 http://geowww.agrocampus-ouest.fr/ 
+
+Page 20 sur 41 
+
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Type de risque 
+
+Risque identifié 
+
+Qualification 
+du risque ? 
+
+Commentaire 
+
+Sonore 
+
+Faible 
+
+Odeur 
+
+Nul 
+
+Eau Potable 
+
+Faible 
+
+Le  projet  se  situe  dans  une  zone  sans  enjeu  sonore 
+particulier. Les habitations les plus proches sont à plus 
+d’1 km à l’Est de l’aire d’étude. 
+
+La ventilation des unités de batterie émet un léger bruit 
+tout en respectant les limites réglementaires. 
+
+Des mesures supplémentaires (murs anti-bruit) peuvent 
+être envisagées si nécessaire, dans le cas d’habitations à 
+<100m,  par  exemple  (ce  qui  n’est  pas  le  cas  pour  ce 
+projet). 
+
+S’il  est  jugé  nécessaire,  Harmony  Energy  s’engage 
+également  à  réaliser  une  étude  acoustique  afin  de 
+confirmer  le  respect  de  la  réglementation  concernant 
+les émergences sonores. Toutefois, il n’est pertinent de 
+réaliser  une  étude  acoustique  que  lorsqu’un  certain 
+nombre  de  paramètres  seront  connus,  notamment  le 
+choix des fournisseurs des batteries. 
+
+En phase opérationnelle, la centrale n’émet aucun gaz 
+ou  produit  susceptible  de  générer  une  nuisance 
+olfactive. 
+
+Le Drugeon est le cours d’eau principal situé au sein de 
+l’aire d’étude éloignée. De nombreuses zones humides 
+et  plans d’eau, en  lien  avec le  Drugeon  sont  situés au 
+sein des aires d’étude rapprochée et éloignée. 
+
+Compte tenu de la distance entre le secteur d’étude et 
+les cours d’eau, les zones humides et les plans d’eau au 
+secteur d’étude, aucune connectivité n’est pressentie. 
+
+Également,  le  projet  se  situe  hors  de  toute  aire 
+d’alimentation de captages, la plus proche étant l’AAC 
+la Prise de Mathay, située à environ 500m du projet. 
+
+le  milieu 
+
+Le projet ne représente aucun risque de pollution des 
+nappes  souterraines  étant  donné  l’absence  de  rejet 
+taux 
+extérieur. 
+dans 
+d’imperméabilisation de l’ordre de 15 à 20%, le projet 
+ne  doit  pas  avoir  un  impact  significatif  sur  l’infiltration 
+des  eaux.  Des  noues  et/ou  bassins  de  retention  sont 
+généralement prévus pour gérer les eaux de pluie sur le 
+site du projet. Ce sujet sera approfondi au stade de la 
+déclaration Loi sur l’Eau. 
+
+Avec 
+
+un 
+
+ Ce risque est présenté en plus de détail dans le rapport 
+d’Auddicé joint en Annexe 2. 
+
+Page 21 sur 41 
+
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Type de risque 
+
+Risque identifié 
+
+Risque industriel / 
+technologique 
+
+Risques industriels 
+des site tiers et de 
+servitudes 
+
+Qualification 
+du risque ? 
+
+Faible 
+
+Risque 
+technologique du 
+projet de stockage 
+
+Faible 
+
+Autres 
+
+Archéologique 
+
+Faible 
+
+Commentaire 
+
+Une Installation de Stockage de Déchets Inertes (ISDI) 
+est  actuellement  en  exploitation  dans  la  commune  de 
+Dompierre-les-Tilleuls.  À  environ  2km  du  projet,  il  n’y 
+aura aucun impact entre celle-ci et le projet de stockage 
+d’énergie. 
+
+La commune n’a pas de Plan de Prévention des Risques 
+Technologiques (PPRT) en vigueur. 
+
+Une Déclaration de Travaux (DT) a été effectuée pour 
+le  projet  en  juillet  2023,  afin  de  recenser  les  réseaux 
+existants sur le site du projet et à proximité immédiate. 
+Les réseaux proches du site figurent sur le plan du projet 
+en Annexe 1. 
+
+La  centrale  de  stockage  présente  un  risque  minime 
+d'incendie en tant qu’installation électrique, mais l’usage 
+de  batteries  avec  la  technologie  LFP  diminue  très 
+significativement ce risque. 
+
+Les  accès  seront  sécurisés  pour  éviter  tout  risque 
+d’infraction et d’électrocution par un tiers. Le site sera 
+clôturé et protégé par vidéo surveillance. 
+
+Le  risque  intrusion  est  présenté  en  chapitre  4.7  et  le 
+risque incendie est détaillé en chapitre 4.8. 
+
+L’aire d’étude est au sein de la zone de présomption de 
+prescription archéologique du Doubs.  
+
+Harmony  Energy  a  contacté  la  DRAC  Bourgogne 
+Franche Comté et est en attente de confirmation qu’un 
+diagnostic archéologique ne serait pas nécessaire sur le 
+terrain. Voir chapitre 4.5. 
+
+Page 22 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+4.3.  Biodiversité 
+
+Le projet est situé sur une prairie et l’aire d’étude est en dehors de toute zone répertoriée comme ayant des 
+enjeux biodiversitaires (ZNIEFF, Natura 2000, parc régional,…). 
+
+Les zones de protection les plus proches sont la ZSC «Vallées du Drugeon et du Haut Doubs» ainsi que la ZPS 
+«Vallées du Drugeon et du Haut Doubs» situés à environ 1.5 km de l’air d’étude du projet.Harmony Energy a 
+missionné  le  bureau  d’études  Auddicé  pour  réaliser  un  diagnostic  environnemental  afin  d’apprécier  les 
+potentialités écologiques. Le rapport de cette étude est joint en Annexe 2. 
+
+Le projet 
+
+Figure 18: Situation du projet vis-à-vis des zones naturelles protégées les plus proches 
+
+Le rapport du prédiagnostic écologique conclut qu’il s’agit d’un site approprié pour le développement d’un projet. En effet, après 
+trois sorties réalisées par le bureau d’étude, aucun enjeu écologique pressenti rédhibitoire n’a été mis en évidence. De plus, aucun 
+impact sur les habitats et espèces d’intérêt européen n’est attendu.  
+
+4.4.  Milieu potentiellement humide 
+
+Comme indiqué sur le plan ci-dessous (Figure 19) le projet ne se situe pas dans une zone répertoriée comme 
+potentiellement humide, selon la cartographie de l’INRA d’Orléans (US InfoSol) et d’AGROCAMPUS OUEST à 
+Rennes (UMR SAS) mandatée par le Ministère de l’Écologie, du Développement Durable et de l’Energie. 
+
+Page 23 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Le projet 
+
+Figure 19: Situation du projet vis-à-vis du potentiel humide (http://geowww.agrocampus-ouest.fr) 
+
+Harmony Energy a missionné le bureau d’études Auddicé pour réaliser la détection de zones humides selon la 
+méthode de l’arrêté ministériel du 24 juin 2008 en application des articles L.214-7-1 et R.211-108 du code de 
+l’environnement. 
+
+Les 15 sondages pédologiques réalisés à la tarière à mains ont permis de conclure à l’absence de zone humide 
+sur l’aire du projet (voir rapport en Annexe 2). 
+
+4.5.  Patrimoine et population locale 
+
+La centrale de stockage d’energie n’aura quasiment aucune interaction avec l’extérieur. En effet, la centrale sera 
+pilotée à distance et ne sera que rarement visitée pour des activités de maintenance. En phase d’exploitation, 
+elle n’est déficitaire ou excédentaire en aucun matériau, les seuls flux étant l’électricité qui transite à travers les 
+batteries et les équipements électriques. 
+
+Il n’y a aucun monument historique ou site classé à proximité immédiate du site. Les immeubles classés les plus 
+proches sont à environ 1,5 km, dans le centre de la ville de Frasne. 
+
+Comme  indiqué  sur  Figure  20  ci-dessous,  le  projet  se  situe  dans  la  zone  à  présomption  de  prescription 
+archéologique du Doubs. Harmony Energy a pris contact avec les services de la DRAC pour confirmer qu’un 
+diagnostic ne serait pas nécessaire. 
+
+Page 24 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Zone de présomption de 
+prescription archéologique 
+
+Protection au titre des 
+abords de monuments 
+historiques 
+
+Le projet 
+
+Site classé ou 
+inscrit – Doubs 
+
+Figure 20: Situation du projet vis-à-vis de l’atlas des patrimoines (échelle 1 :75000) 
+
+Harmony Energy  étudie la mise en place une haie paysagère afin de masquer davantage la visibilité de la centrale 
+de stockage et faciliter son insertion paysagère depuis les zones de passage et d’habitation. Des photomontages 
+seront présentés dans le cadre du dossier de permis de construire. 
+
+L’aire d’étude du 
+projet 
+
+Figure 21 - Situation du projet depuis la prairie (à 150m) au Nord du Poste Eléctrique RTE de  de Frasne 
+
+Page 25 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+L’aire d’étude du 
+projet 
+
+Figure 22 - Situation du projet depuis le chemin/sentier qui longe la face sud-est du Poste Electrique de Frasne 
+
+L’aire d’étude du 
+projet 
+
+Figure 23 - Situation du projet depuis la route au nord du Poste Electrique de Frasne 
+
+Page 26 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+L’aire d’étude du projet se situe hors de toute aires d'alimentation de captages validées (et non validées) comme 
+indiqué en Figure 24 ci-dessous. 
+
+Le projet 
+
+Figure 24: Localisation des Aires d'alimentation de captages validées (et non validées) vis à vis de l’aire d’étude du projet 
+
+4.6.  Impact sonore 
+
+Le cadre reglémentaire concernant l’impact sonore du projet est fixé par l’Arrêté du 23 janvier 199715 relatif à la 
+limitation  des  bruits  générés  dans  l’environnement  par  les  Installations  Classées  pour  la  Protection  de 
+l’Environnement. Le projet doit respecter les limites fixées par arrêté préfectoral, qui définissent pour chacune 
+des périodes de la journée (diurne et nocturne), les niveaux de bruit à ne pas dépasser en limite de propriété 
+du site ainsi que les niveaux sonores en Zone à Émergence Réglementée (ZER), fixés par l’Arrête du 23 janvier 
+1997.  Ce  dernier  fixe  aussi  une  limité  de  durée  pour  les  bruits  de  tonalité  marqué,  pour  les  installation 
+concernées. 
+
+L’impact sonore d’un projet de stockage d’énergie est déterminé par : 
+
+- 
+- 
+- 
+- 
+
+Les équipements utilisés (et les émissions sonores associées) et leurs hauteurs par rapport au sol ; 
+Les profils d’utilisation des équipements (niveaux de ventiliation, plages horaires, durées) ; 
+La distance aux habitations ou autres ZER ; 
+L’environnement  dans  lequel  se  situe  le  projet,  qui  caracterise  la  propogation  sonore  (y  compris  la 
+direciton du vent) et le bruit résiduel (autres sources de bruit, industrielles ou naturelles) ; 
+
+15 www.legifrance.gouv.fr/loda/id/LEGITEXT000005623125 
+
+Page 27 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+- 
+
+Les mesures éventuellement mises en place pour controler les émissions sonores (par exemple bridage) 
+ou étenuer la propogation sonore (barrières). 
+
+Dans la mesure du possible, Harmony Energy évite les impacts sonores directement par le biais de sa méthode 
+de prospection, qui consiste à prioriser les sites qui ne sont pas à proximité immédiate d’habitations (voir 3.1). 
+Tout potentiel impact est ensuite réduit en privilégeant des équipements de faibles emissions sonores. En cas 
+d’habitation très proche (ce qui n’est pas le cas pour le projet en question), Harmony Energy a aussi la possibilité 
+d’installer des barrières anti-bruit autour des équipements les plus bruyants. 
+
+Les ZER les plus proches du projet de la Tille sont des habitations individuelles situées à environ 1km à l’Est, 
+dans le village de Dompierre-les-Tilleuls (Figure 25). À cette distance le respect des niveaux d’émergence sera 
+assuré quel que soit la solution technique mise en place. 
+
+Figure 25: Plan indiquant la distance aux ZER les plus proches du projet 
+
+Les  équipments  du  projet  qui  sont  sources  de  bruit  sont  essentiellement  les  unités  de  batteries  et  les 
+transformateurs, tous à l’air libre. C’est le système de gestion thermique par ventilation dont sont équipés les 
+unités  de  batteries  qui  produit  les  émissions  sonores  les  plus  importantes.  Les  émissions  associées  sont 
+dépendantes du fournisseur de batteries et la typologie d’utilisation du système (plages horaires et durées de 
+charge et de décharge). La plupart des fournisseurs proposent des équipements qui permettent le respect des 
+niveaux sonores réglementaires en limite de site, sans besoin de mesures complémentaires (bridage, barrières 
+anti-bruits).  Les  émissions  associées  aux  autres équipements,  y  compris  les  transformateurs,  sont  nettement 
+inférieures. 
+
+Harmony Energy s’engage à respecter le cadre réglementaire et réalisera une étude acoustique dédiée, s’il en 
+est jugé nécessaire par les autorités. 
+
+À ce stade du projet, il n’est pas jugé pertinant de réaliser une étude détaillée pour le projet de la Tille, car ni 
+les équipements ni les profils d’utilisation des batteriess sont déterminés. Une analyse accoustique doit inclure 
+
+Page 28 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+ces éléments, ainsi que des mesures de bruit ambiant relevés sur site (notamment au niveau des habitations les 
+plus proches) afin de confirmer le respect du cadre légal. 
+
+4.7.  Risque intrusion 
+
+Afin de se prémunir du risque d’intrusion et de dommages par malveillance, Harmony Energy mettra en place : 
+
+-  Une clôture tout le long du périmètre du projet, d’une hauteur d’environ 2,5 mètres ; 
+-  Un système d’entrée sécurisée avec identification des intervenants sur site. Au sein de l’enceinte du 
+projet,  des  accès  spéciaux  seront  requis  pour  accéder  à  certains  équipements  composant  le  poste 
+électrique haute tension ; 
+
+-  Un système de télésurveillance avec plusieurs caméras et des sytèmes d’alarmes pour identifier toute 
+
+tentative d’intrusion, ainsi que des canaux de communication avec les forces de l’ordre. 
+
+4.8.  Risque incendie 
+
+Depuis  le  début  des  années  2000,  l’émergence  des  solutions  de  batteries  lithium-ion  pour  la  mobilité,  les 
+smartphones  et  le  secteur  énergétique  s’est  accompagnée,  dans  de  rares  occasions,  de  départ  de  feux  par 
+emballement thermique. 
+
+En  fonction  de  la  technologie  en  question,  les  causes  techniques  de  l’emballement  thermique  peuvent  être 
+multiples, par exemple : tension trop élevée, choc mécanique, surcharge, surintensité, court-circuit interne à la 
+cellule ou température trop élevée. 
+
+Depuis la naissance de projets de stockage d’énergie par batteries et consciente du risque incendie qui a pu 
+toucher certains des premiers projets, toute la filière internationelle a travaillé sur sa réduction et sa maitrise. 
+Aujourd’hui Harmony Energy considère qu’il maitrise le risque incendie et s’engage à le réduire à un minimum 
+à travers les actions suivantes : 
+
+- 
+
+Le choix d’une technologie de batterie pour laquelle le risque d’emballement thermique est jugé quasi 
+nul (4.8.1) ; 
+Le respect des dernières normes les plus contraignantes (4.8.2) ; 
+
+- 
+-  Un système de surveillance et de prévention des incendies robuste et fiable (4.8.3) ; 
+-  Des mesures opérationnelles pour minimiser le risque de propagation d’un incendie (4.8.4). 
+
+Pour les projets développés sur le territoire français, Harmony Energy s’appuie également sur les conclusions 
+et  les  propositions  du  document  publié  en  octobre  2022  par  le  Commissariat  à  l'Énergie  Atomique  et  aux 
+Énergies Alternatives (CEA) : « Stockage stationnaire de l’énergie : risques et solutions envisageables »16. 
+
+Le rapport du CEA est le fruit de 4 années de travail effectuées par une équipe pluridisciplinaire missionnée par 
+la Direction Générale de la Sécurité Civile et de la Gestion des Crises (DGSCGC). Le rapport est destiné aux 
+services  de  secours  dans  l’ensemble  de  leurs  prérogatives  (opération,  prévention,  formation)  ainsi  qu’aux 
+professionnels  de  la  filière.  Il  inclut  des  retours  d’expériences  réels  et  des  tests  effectués  sur  différentes 
+technologies, en identifiant les phénomènes à risque et les moyens de les traiter par prévention et opération. 
+
+L’équipe pluridisciplinaire était missionnée par M. Alain THIRON pour la DGSCGC et elle était constituée de : 
+
+- 
+
+- 
+
+- 
+
+Personnels des SDIS73, SDIS38 et SDMIS (69), pour leurs apports opérationnels (VDIP) et d'analyse des 
+risques chimiques ; 
+
+Scientifiques-chercheurs issus des laboratoires CEA LITEN de l'INES et du centre de Grenoble, pour 
+leur expertise sur les batteries ainsi que des personnels de la Formation Locale de Sécurité du centre 
+CEA de Grenoble ; 
+
+Experts issus des entreprises SNAM, Elektek, et ACCUWATT. 
+
+Selon les tests effectués, le rapport démontre notamment les faits suivants : 
+
+16 https://liten.cea.fr/cea-tech/liten/Pages/Medias/Actualites/Batteries/Risques-incendie-des-applications-de-stockage-batteries-dans-le-batiment.aspx  
+
+Page 29 sur 41 
+
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Le risque d’emballement thermique provient d’une utilisation des accumulateurs Li-ion qui va au-delà 
+de leurs conditions normales d’opération, que ce soient des agressions ; mécaniques, électriques ou 
+thermiques ; 
+
+La  chimie  NMC,  qui  a  une  densité  énergétique  très  élevée,  atteint  l’emballement  thermique  a  des 
+températures plus basses que les cellules LFP, tout en libérant plus d’énergie. Les tests démontrent une 
+augmentation  plus  rapide  et  brutale  (de  l’ordre  de  400°C)  pour  les  cellules  NMC,  versus  une 
+augmentation moins rapide et beaucoup moins marquée (de l’ordre de 100°C), pour les cellules en LFP 
+; 
+
+La première difficulté que rencontrent les services de secours réside dans l’incapacité à identifier, en 
+amont, la présence d’un système de stockage électrochimique de l’énergie ; 
+
+Le meilleur moyen d’extinction reste l’eau ; 
+
+La toxicité des fumées n’est pas supérieure à celle d’un incendie classique en milieu ouvert. 
+
+Figure 26: Bilan de l’analyse systémique des systèmes de stockage électrochimique de l’énergie (p.128 du rapport « Stockage stationnaire 
+de l’énergie : risques et solutions envisageables ») 
+
+S’appuyant sur les recommandations du rapport cité, Harmony Energy intègre les choix et les solutions listés 
+ci-dessous, et décrits en plus de détail dans les chapitres 4.8.1 à 4.8.4 : 
+
+-  Choix d’un Battery Management System (BMS) qui surveille la santé des batteries, afin de détecter toute 
+
+anomalie qui pourrait engendrer un emballement thermique ; 
+
+-  Des systèmes de détection (fumées, flames, chaleur), afin de pouvoir implémenter des actions rapides 
+et précoces sur le sinistre, permettant de neutraliser les phénomènes d’emballement ou du moins de 
+les contraindre aux seules cellules concernées par le début de la dérive accidentelle ; 
+
+-  Choix de technologies et de solutions qui limitent toute propagation d’emballement d’une cellule à une 
+
+cellule voisine (isolation thermique) ; 
+
+-  Configuration de l’installation dans un objectif de limiter la densité énergétique de la centrale dans son 
+ensemble, ainsi réduisant à un minimum absolu tout risque d’emballement entre les différentes unités 
+de stockage et limitant l’énergie totale dissipée lors d’un événement ; 
+
+-  Communication auprès des équipes SDIS sur la nature des batteries installées, les dispositifs préventives 
+installés  et  collaboration  en  amont  sur  la  conception  des  dispositions  protectrices  (accès,  citerne, 
+bornes),  afin  de  minimiser  tout  risque,  de  maximiser  les  systèmes  protecteurs  et  d’optimiser  toute 
+éventuelle conduite d’intervention sur site. 
+
+Page 30 sur 41 
+
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+4.8.1.  Choix de la technologie LFP 
+
+Historiquement, les premiers projets de stockage utilisaient la technologie Nickel Manganèse Cobalt (NMC). 
+Ce type de batterie, que l’on retrouve aussi dans la quasi-totalité des véhicules électriques, présente l’avantage 
+d’avoir  l'un  des  meilleurs  rapports  énergie/poids  (ou  densité  énergétique),  un  critère  important  dans  les 
+applications de mobilité. Cependant les batteries NMC présente une faible stabilité thermique, ce qui les rend 
+sujettes à des emballements thermiques et donc à des risques de départ de feu. 
+
+Depuis quelques années, les principaux fournisseurs de batteries pour du stockage stationnaire se sont tournées 
+vers la technologie Lithium Fer Phosphate (LFP – LiFePo4), qui présente un risque quasiment nul d’emballement 
+thermique, contrairement aux autres chimies utilisées et notamment les batteries NMC. 
+
+Comme l’indique une étude du laboratoire Sandia National Laboratories17, pour une même quantité d’énergie 
+stockée, à 250°C une cellule LFP peut voir sa température monter de 1,5°C/min contre 100°C/min pour une 
+cellule NMC. 
+
+Figure 27: Comparaison du risque d’emballement thermique pour différentes chimies de batteries 
+
+Cette  meilleure  resistance  à  l’emballement  thermique  pour  la  chimie  LFP  limite  à  la  fois  la  probabilité  d'un 
+départ de feu d’une cellule et la possibilité de propagation du feu d’une cellule vers une cellule voisine. De plus, 
+la faible pente d'emballement thermique (°C/mn) donne un temps bien plus favorable au BMS pour réagir à 
+une hausse de la température et couper le système. 
+
+Le fabricant Tesla, l'un des leaders parmi les fournisseurs de batteries stationnaires mondialement recconus, a 
+ainsi réalisé des tests comparatifs (s'appuyant sur la méthode adoptée internationnelement, UL 9540A) afin de 
+comparer sa génération précédente de batteries en technologie NMC avec sa nouvelle génération basée sur la 
+chimie LFP. En surchauffant volontairement certaines cellules au sein d’une armoire à batterie, les tests n’ont 
+pas pu provoquer d’emballement thermique au dela de la cellule voisine avec la solution LFP : 
+
+17 www.osti.gov/servlets/purl/1336278  
+
+Page 31 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Batterie NMC (chimie «  classique ») 
+
+Batterie LFP (nouvelle chimie) 
+
+Le test conduit à l’emballement thermique de toutes les 
+cellules. 
+
+Le test conduit à l'emballement thermique d'une cellule 
+supplémentaire uniquement. 
+
+Le feu a consumé toute l’armoire batterie, flammes visibles 
+depuis l’extérieur. 
+
+Pas de traces substantielles de flammes, pas de flammes 
+visibles depuis l’extérieur. 
+
+Pas de propagation du feu aux armoires adjacentes. 
+L'extinction manuelle des incendies (tuyaux d'arrosage) n'est pas nécessaire pour arrêter la propagation des incendies 
+d'armoire à armoire. 
+Aucun risque d'explosion n'a été observé. 
+Aucun écoulement de matière visible après le test. 
+
+Figure 28: Comparaison des résultats de tests UL 9540A entre le Megapack 1 (batteries NMC) et le Megapack 2 (batteries LFP) 
+
+4.8.2.  Respect des normes 
+
+La gestion du risque incendie est traité à travers plusieurs normes ou tests de qualité que Harmony Energy et 
+son fournisseur de batteries s’engagent à respecter. 
+
+Ces normes spécifiques aux projets de stockage par batteries ont été éditées au cours des dernières années et 
+bénéficient du retour d’expériences des premiers projets : 
+
+Norme / 
+Standard 
+
+Titre 
+
+Date de 
+publication 
+
+Commentaires 
+
+NF EN IEC 
+60529 
+
+Degrés de protection procurés 
+par les enveloppes (Code IP). 
+
+Décembre 2007 
+
+NF EN IEC 
+62619 
+
+NF EN IEC 
+62933-5-2 
+
+Accumulateurs alcalins et autres 
+accumulateurs à électrolyte non 
+acide - Exigences de sécurité pour 
+les accumulateurs au lithium pour 
+utilisation dans des applications 
+industrielles. 
+
+Systèmes de stockage de l'énergie 
+électrique (EES) - Partie 5-2 : 
+exigences de sécurité pour les 
+systèmes EES intégrés dans un 
+réseau - Systèmes 
+électrochimiques. 
+
+Juin 2017 
+
+Juillet 2020 
+
+UL 9540A 
+
+Méthode de test, évaluation de 
+l’emballement thermique et 
+propagation incendie pour les 
+systèmes de stockage d’énergie 
+par batterie. 
+
+Novembre 2016 
+
+Le respect de cette norme traduit avant tout la 
+capacité de l’enceinte à empêcher 
+l’environnement extérieur d’interférer avec les 
+batteries et/ou les équipements de supervision 
+/ protection. 
+
+Cette norme spécifie les exigences et les essais 
+pour le fonctionnement en toute sécurité des 
+éléments et des batteries pour des installations 
+de stockage au lithium dans des applications 
+industrielles, y compris les applications 
+stationnaires. 
+
+Cette norme décrit principalement les aspects 
+liés à la sécurité des personnes et, le cas 
+échéant, les questions de sécurité associées à 
+l'environnement et aux êtres vivants pour les 
+systèmes de stockage de l'énergie raccordés à 
+un réseau qui utilisent un sous-système 
+électrochimique de stockage. 
+
+Il s’agit d’une méthode de test qui caractérise 
+les risques d'incendie et de déflagration liés à 
+l'emballement thermique et à sa propagation 
+dans les systèmes de stockage d'énergie. La 
+norme fournit une évaluation systématique de 
+l'emballement thermique et de sa propagation 
+dans les systèmes de stockage d'énergie au 
+niveau des cellules, des modules, des unités et 
+des installations. 
+
+Figure 29: Normes spécifiques au stockage d’énergie par batteries 
+
+Page 32 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+4.8.3.  Système de contrôle et de protection 
+
+Le Battery Management System (BMS) constitue le cœur du système de supervision et de contrôle au niveau 
+de chaque cellule de batterie. 
+
+Le BMS contrôle en temps réel : 
+
+ 
+ 
+ 
+
+La température du liquide de refroidissement ; 
+La température au niveau de chaque cellule ; 
+La tension et le courant au niveau de chaque cellule, de chaque module, ainsi qu’à la sortie en courant 
+alternatif de chaque onduleur. 
+
+En cas de dépassement de seuils sur ces données transmises en temps réel, le BMS met les batteries en sécurité, 
+avec une mise hors tension, une ventilation et l’enclenchement du refroidissement de secours. 
+
+Des fusibles sont disposés au niveau de chaque module de batterie et de chaque répartiteur DC. Les protections 
+électriques sont redondantes, un disjoncteur est positionné en sortie AC de chaque onduleur, et une protection 
+de terre est mise en place. 
+
+4.8.4.  En cas de départ de feu 
+
+Malgré  le  très  faible  risque  de  départ  et  de  propagation  de  feu  avec  la  technologie  choisie,  les  mesures  de 
+prévention, et le respect des normes en vigueur, le système de stockage proposé par Harmony Energy prend 
+aussi en compte des mesures de protection supplémentaires : 
+
+-  Au niveau de la conception des équipements : 
+
+o  Chaque  cellule  batterie  est  située  dans  une  enceinte  hermétique  qui  limite  fortement  la 
+
+propagation du feu ; 
+
+o  Un système de ventilation est utilisé pour évacuer les gaz et limiter les risques de déflagration 
+
+(par dégagement de dihydrogène notamment). 
+
+-  Au niveau de la conception de la centrale : 
+
+o  Les unités de batterie sont positionnées par lot, et chaque lot est espacé d’au moins 10m. Ceci 
+afin de faciliter l'accès et réduire davantage le risque de propagation d’un feu sur d’une unité 
+de batterie à une autre ; 
+
+o  Tout  équipement  potentiellement  inflammable  est  éloigné  de  10m  de  toute  végétation 
+
+extérieure afin de confiner tout éventuel feu au sein de la centrale ; 
+
+o  Une citerne incendie avec un réservoir de 120m3 est installée pour le SDIS. L’arrosage avec de 
+l’eau ne s’est pas avéré être un moyen efficace pour éteindre un feu avec des batteries LFP, et 
+n’est pas recommandé pour la majorité des systèmes certifiés UL9540A, mais l’eau peut être 
+utilisée de manière préventive pour protéger les autres équipements et éviter toute propagation 
+d’incendie à l’extérieur du site. 
+
+Toutes les dispositions de gestion du risque incendie seront discutées avec le SDIS 25 dans le cadre du dossier 
+de permis de construire. Harmony Energy a notamment pu clarifier avec eux : 
+
+- 
+- 
+- 
+
+Les accès aux site ; 
+Les procédures en cas de départ de feu ; 
+Le dimensionnement de la réserve d’eau (le volume de 120m3 étant un standard qui peut être revu). 
+
+Page 33 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+5. Cycle de vie du projet 
+
+5.1.  Processus de développement 
+
+Le développement du projet de la Tille suit un parcours classique au cours duquel les démarches administratives 
+sont conduites en parallèle des démarches de raccordement RTE.  
+
+Harmony Energy attache une haute importance à la consultation de l’ensemble des parties prenantes tout au 
+long du processus de développement de ces projets. Notamment : 
+
+- 
+
+-  À partir du moment où un propriétaire présente un intérêt pour louer son terrain, Harmony Energy 
+rencontre  les  équipes  de  la  mairie  concernée  pour  présenter  le  projet,  répondre  à  leurs  questions, 
+prendre en compte leurs remarques/points d’attention, et vérifier qu’il n’y a pas d’opposition de la part 
+de la commune à implanter un projet sur le terrain sélectionné ; 
+Lorsque le besoin ou non de réaliser une étude d’impact a été confirmé, Harmony Energy prend contact 
+avec  toutes  les  entités  impliquées  dans  les  démarches  administratives  pour  présenter  le  projet  et 
+prendre en compte leurs propositions pour améliorer les dossiers soumis lors des procédures de loi 
+sur  l’eau  et  de  permis  de  construire,  notamment  sur  les  aspects  de  sécurité  et  d’intégration  dans 
+l’environnement. Selon les souhaits de la mairie, des réunions, des campagnes d’informations et des 
+consultations peuvent être réalisées auprès des résidents locaux. 
+
+Ces étapes de  consultation permettent,  dans la  mesure où une étude d’impact  officielle ne serait pas jugée 
+nécessaire,  d’aborder  certains  sujets  avec  les  interlocuteurs  spécialisés  dans  leurs  domaines  (DREAL,  SDIS, 
+DDT…) et de s’assurer au moment du dépôt de permis de construire d’avoir couvert et traité l’ensemble des 
+potentiels problématiques identifiés. 
+
+La figure ci-dessous présente une version simplifiée de la démarche de développement dans le cas où une étude 
+d’impact n’est pas requise. 
+
+Figure 30: Processus de développement d’un projet de stockage par batteries 
+
+Page 34 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+5.2.  Activités sur site 
+
+5.2.1.  Activités en phase de construction 
+
+La phase de chantier à proprement parlé (avant les tests de mise en service) durera environ douze mois, au 
+cours desquels seront réalisées les activités suivantes : 
+
+Installation de la base vie du chantier ; 
+
+ 
+  Décapage et préparation du sol par travail de pelles mécaniques et camions bennes ; 
+ 
+  Réalisation  des  fondations  pour  l'ensemble  des  équipements  (profondeur  selon  retour  des  études 
+
+Installation de la clôture, du portail et des équipements de vidéosurveillance ; 
+
+géotechniques) ; 
+
+  Gravillonnage type tout venant pour constituer le sol de la centrale, compacté sur les zones de route 
+
+d'accès et les aires de grutage ; 
+
+  Dépose  de  la  citerne  120m³  et  une  borne  d’incendie,  du  conteneur/préfabriqué  de  stockage  de 
+
+ 
+
+matériel, les deux sur sol compacté ; 
+Levage et pose des unités de batteries (qui arrivent préassemblées), des transformateurs BT / HTA à 
+l’aide d’une grue mobile ; 
+
+  Pose des câbles dans les tranchées, travail à la mini pelle ou trancheuse ; 
+  Construction du bâtiment de local technique (<150m² au sol), levage et installation des équipements 
+
+extérieurs du poste HTB, sectionneur, transformateur 63kV/33kV. 
+
+Ces  activités  demanderont  un  accès  quotidien  permanant  au  site  et  plusieurs  allers  et  venues  par  jour.  La 
+nuisance en termes de passage d’engins se concentrera principalement sur les quelques semaines où les unités 
+de batteries seront livrées sur site. 
+
+5.2.1. Activités en phase d’opération 
+
+Au cours de la phase d’exploitation, la centrale est pilotée à distance grâce à un logiciel qui permet d’envoyer 
+les  ordres  de  charge  ou  de  décharge  aux  batteries,  mais  qui  surveille  également  que  la  centrale  fonctionne 
+normalement. Il s’agit du système Energy Management System (EMS). Un protocole d’alarme et d’astreinte est 
+utilisé pour identifier des potentiels défauts 24h/24 et 7j/7 et qui peut, soit activer une commande à distance, 
+soit  envoyer  rapidement  une  équipe  sur  place  pour  traiter  toute  éventuelle  anomalie.  Hormis  ces  mesures 
+correctives  éventuelles,  la  centrale  ne  sera  visitée  que  quelques  jours  par  an  pour  effectuer  la  maintenance 
+préventive des équipements et pour l’entretien des espaces.  Pour ces activités,  les équipes d’exploitation  se 
+déplaceront avec des véhicules utilitaires standards. 
+
+5.2.1. Activités de démantèlement 
+
+La  durée  de  vie  des  batteries  électriques  est  déterminée  par  leur  utilisation  en  termes  de  cycles  de 
+charge/décharge,  typiquement  de  l’ordre  d’environ  15  ans.  Néanmoins,  la  plupart  des  autres  équipements 
+(containers, poste électrique, transformateur BT / HTA) ont des durées de vie beaucoup plus longues, de l’ordre 
+de 30 à 40 ans. 
+
+À la fin de vie des batteries électriques (y compris les onduleurs), Harmony Energy privilégie de renouveler ces 
+équipements à plus faible durée de vie pour une nouvelle période d’environ 15 ans, afin d’ensuite prévoir un 
+démantèlement complet de la centrale à la fin de vie des équipements à plus long durée de vie (transformateurs 
+et containers), soit au bout d’environ 30 ans. 
+
+Les  durées  indiquées  ici  sont  à  adapter  en  fonction  des  services  rendus  par  les  batteries  et  donc  du 
+fonctionnement des équipements au quotidien (notamment le nombre de cycles de charge/décharge), du suivi 
+BMS (Battery Management System), et des inspections qui seront réalisées annuellement. 
+
+Le renouvellement des batteries fait effectivement sens : 
+
+  d’un  point  de  vue  écologique :  ne  pas  démanteler  et  mettre  aux  rebus  des  équipements  encore 
+
+fonctionnels ; 
+
+Page 35 sur 41 
+
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+  d’un point de vue économique : maximiser la rentabilité des investissements dans les infrastructures à 
+
+longue durée de vie ; 
+
+  pour répondre aux enjeux énergétiques nationaux : le besoin en stockage d’énergie sera, d’après les 
+
+scenarii RTE, encore plus important dans 30 ans qu’aujourd’hui. 
+
+Dans  le  respect  des  normes  en  vigueur,  Harmony  Energy  s’engage  à  recycler  les  équipements  démantelés, 
+notamment les batteries électriques dont le taux de recyclabilité est aujourd'hui évalué à 95%. 
+
+Au moment du démantèlement complet de la centrale, Harmony Energy s’engage à remettre le terrain dans 
+son état d’origine : 
+
+- 
+- 
+- 
+
+Tous les équipements seront retirés du site et traités dans le respect des normes en vigueur ; 
+Les fondations seront retirées du sol et apportés aux sites de traitement adéquats ; 
+Les  terres  arables  qui  auront  été  excavées  lors  de  la  construction  et,  dans  la  mesure  du  possible, 
+conservées sur site, seront remises en terre. 
+
+Conformément à la réglementation en vigueur sur la cessation d’activité des ICPE, Harmony Energy fera appel 
+à un bureau d’étude certifié pour attester de la mise en sécurité du site et de sa réhabilitation une fois la phase 
+de démantèlement accomplie. 
+
+Page 36 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+6. Bilan carbone 
+Le chapitre 2.1 du présent document présente l’intérêt de la solution de stockage d’énergie par batteries. En 
+remplaçant des services autrement fournis par des énergies fossiles, il permet de réduire l’empreinte carbone 
+du système électrique tout en apportant une meilleure maîtrise des coûts et de la capacité d’approvisionnement. 
+
+Un projet de stockage d’énergie va ainsi : 
+
+- 
+
+- 
+
+Être  source  d’émissions  lors  de  sa  phase  de  développement,  de  construction,  d’opération  et  de 
+démantèlement ; 
+Éviter  des  émissions  liées  aux  sources  d’énergies  carbonées  en  les  substituant  sur  les  services 
+d’équilibrage et de stabilité du réseau. 
+
+Figure 31: Schéma du bilan carbone d’un projet de stockage d’énergie par batteries (non à l’échelle) 
+
+Harmony  Energy  a  été  accompagnée  par  le  bureau  d’études  spécialisée,  Gaïana18,  afin  de  réaliser  un  bilan 
+carbone pour une centrale de stockage d’énergie par batteries. Les résultats de cette étude, adaptés pour une 
+projet de 85MW/170MWh, sont présentés ci-dessous. 
+
+Phase projet 
+
+Bilan carbone 
+
+Commentaires 
+
+Développement 
+
+<1 Teq.CO2 
+
+Principalement les déplacements de prestataires 
+
+Équipements 
+
+26 242 Teq.CO2 
+
+La fabrication des équipements 
+
+Construction 
+
+1 555 Teq.CO2 
+
+Émissions associées aux activités de chantier 
+
+Changement sol 
+
+224 Teq.CO2 
+
+Émissions associées au changement d’usage du sol 
+
+Exploitation 
+
+7 Teq.CO2 
+
+Émissions associées aux activités de maintenance 
+
+Démantèlement 
+
+1 335 Teq.CO2 
+
+Émissions associées au démantèlement de la centrale 
+
+Total émissions générées : 29 364 Teq.CO 2 
+
+Figure 32: Émissions générées par la centrale 
+
+18 https://gaiana-rse.fr 
+
+Page 37 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Energie 
+
+Bilan carbone 
+
+Commentaires 
+
+Soutirage d’énergie depuis le réseau RTE 
+
+38 158 Teq.CO2 
+
+Soutirage depuis le mix français 
+
+Injection d’énergie sur le réseau RTE 
+
+376 618 Teq.CO2 
+
+À la place de centrales à gaz 
+
+Émissions évitées :  338 460 Teq.CO 2 
+
+Figure 33: Émissions évitées par la centrale 
+
+La somme des émissions générées par les phases de développement, construction, opération et démantèlement 
+du projet a été estimée à 29 364 tonnes équivalent CO2. Les émissions évitées par la substitution du gaz par le 
+stockage  par  batterie,  moins  le  bilan  carbone  associé  à  l’énergie  soutirée  pour  charger  les  batteries,  sont 
+estimées  à  338  460  tonnes  équivalent  CO2.  Les  émissions  générées  additionnées  aux  émissions  évitées  se 
+traduisent  en  un  évitement  total  de  309  096  tonnes  équivalent  CO2,  compensant  ainsi  l’empreinte  de 
+l’équivalent d’environ 34 000 personnes sur une année19. 
+
+Les calculs sont approximatifs et doivent se baser sur un certain nombre d’hypothèses. Cependant, on peut 
+considérer que le projet éviterait une production d’émissions équivalent à environ 11,5 fois celles qu’il va générer 
+par sa conception, construction et opération. Formulé autrement, et hypothèses moyennées sur toute la durée 
+de vie, la centrale va compenser ses propres émissions après environ 41 mois d’utilisation. À partir du 42ème 
+mois et jusqu’à son démantèlement, la centrale aura un bénéfice net en termes d’impact carbone. 
+
+Figure 34: Résumé du bilan carbone d’une centrale de stockage par batterie 85MW/170MWh 
+
+19 Hypothèse 8,9t eq.CO2/personne/an : www.statistiques.developpement-durable.gouv.fr/lempreinte-carbone-de-la-france-de-1995-2021 
+
+Page 38 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+construction 
+
+fabrication 
+
+développement 
+
+Année 7 
+Bilan net zéro : 
+émissions cumulées = 
+émissions évités 
+
+Figure 35: Analyse du bilan carbone de la centrale dans le temps 
+
+bilan 
+carbone 
+net final 
+
+démantèlement 
+
+Page 39 sur 41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Annexe 1 Plan du projet 
+Annexe 01_Plan Implantation 
+
+Page 40 sur 41 
+
+ 
+ 
+ 
+ 
+Présentation du projet | LA TILLE 
+
+Novembre 2023 
+
+Annexe 2 Évaluation de l'état environnemental du site 
+Annexe 02_Rapport_Auddicé_Environnement 
+
+Page 41 sur 41 
+
+ 
+ 
+ 
+

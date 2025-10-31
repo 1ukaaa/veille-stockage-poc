@@ -1,0 +1,266 @@
+Direction régionale de l’environnement,
+de l’aménagement et du logement
+Bourgogne Franche-Comté
+
+ARRÊTÉ
+
+portant décision d’examen au cas par cas
+en application de l’article R.122-3 du Code de l’environnement : 
+
+Projet de création d’un poste de transformation HTB
+sur le territoire de la commune de Vieilmoulin (21)
+
+Le Préfet de la région Bourgogne-Franche-Comté par intérim,
+Le Préfet du Jura
+
+Vu la directive 2011/92/UE du Parlement européen et du Conseil du 13 décembre 2011 modifiée par la directive
+2014/52/UE du 16 avril 2014, concernant l’évaluation des incidences de certains projets publics et privés sur
+l’environnement, notamment son annexe III ;
+
+Vu le Code de l’environnement, notamment ses articles L.122-1, R.122-2, R.122-3, L.512-7-2 et R.181-14 ;
+
+Vu   l’arrêté   du   16 janvier 2023   modifiant   l’arrêté   du   12 janvier 2017   fixant   le   modèle   du   formulaire   de   la
+« demande d'examen au cas par cas » en application de l’article R.122-3-1 du Code de l’environnement ;
+
+Vu   la   demande   d’examen   au   cas   par   cas   n° BFC-2024-4545   relative   au   projet  de   création   d’un   poste   de
+transformation HTB sur le territoire de la commune de Vieilmoulin (21), reçue complète le 13 septembre 2024 et
+portée par la société NEOEN, représentée par M. Xavier BARBARO ;
+
+Vu l’arrêté de M. le Préfet de la région Bourgogne-Franche-Comté par intérim, Préfet du Jura, n° 24-273 BAG du
+2 octobre 2024 portant délégation de signature à M. Olivier DAVID, directeur  régional de l’environnement, de
+l’aménagement et du logement (Dreal) de Bourgogne-Franche-Comté ;
+
+Vu l’avis de l’agence régionale de santé du 25 septembre 2024 ;
+
+Vu la contribution de la direction départementale des territoires de la Côte-d’Or du 2 octobre 2024 ;
+
+Considérant :
+
+1. la nature du projet :
+
+qui consiste, sur une emprise foncière de 19 240 m², en la création d’un poste de transformation HTB privé, de
+225 kV   de   tension   maximale   de   transformation,   pour   stocker   de   l’électricité   par   batterie  ;   l’installation   étant
+composée principalement d’un poste HTB avec local de contrôle comprenant un ensemble de locaux techniques
+(hauteur maximale de 9,2 m, munis de bac de rétention des liquides), de 24 unités de stockage comprenant
+chacune deux containers à batteries et deux convertisseurs, d’un container de maintenance et d’une citerne
+souple à incendie de 120 m³ ; les containers contenant du matériel électrique étant installés sur socles ou plots
+béton ; l’ensemble du site étant entouré d’une clôture grillagée de 2 m de haut, munie de passages à petite
+faune, avec plantation de haies paysagères sur les bordures nord, ouest et sud du site (linéaires non précisés)  ;
+l’accès étant prévu depuis la RD9, puis une voie existante au sud-est ; un entretien des espaces enherbés du
+site étant prévu par fauche régulière pour des raisons de sécurité incendie ; la surface totale imperméabilisée
+étant évaluée à 1 480 m² ;
+
+qui comprend la mise en place de pistes lourdes permettant la circulation périphérique et interne des engins de
+lutte contre les incendies (en grave non traitée, sur 4 m de large, linéaire non précisé), de caniveaux et de
+tranchées,   notamment   pour   le   raccordement   électrique   vers   le   poste   source   public   dit   de   « Vieilmoulin »   à
+
+Adresse postale : 5 Voie Gisèle Halimi - BP 31269,  25005 BESANCON CEDEX
+Standard : 03 39 59 62 00
+www.Bourgogne-franche-comte.developpement-durable.gouv.fr
+
+1/5
+
+Sombernon   (tranchée   de   46 cm   de   large,   d’environ   1,4 m   de   profondeur,   sur   870 m   le   long   de   voiries
+existantes) ; l’ensemble des travaux étant prévu sur une durée de 20 mois ;
+
+dont l’objectif poursuivi est de permettre le raccordement d’un stockage électrique de 100  MVA / 200 MWh au
+réseau   public   d’électricité ;   le   parc   de   batteries   ayant   pour   rôle   d’assurer   l’équilibrage   du   réseau   public,
+notamment en palliant l’intermittence des énergies renouvelables, par l’injection et le soutirage de puissance
+électrique en fonction du rapport production / consommation instantané ;
+
+qui relève de la catégorie n° 32 du tableau annexé à l’article R.122-2 du Code de l’environnement, qui soumet à
+examen au cas par cas les projets de postes de transformation dont la tension maximale de transformation est
+égale   ou   supérieure   à   63 kilovolts,   à   l’exclusion   des   opérations   qui   n’entraînent   pas   d’augmentation   de   la
+surface foncière des postes ;
+
+qui   doit   faire   l’objet   d’un   permis   de   construire,   d’une   déclaration   au   titre   des   installations   classées   pour   la
+protection   de   l’environnement   (ICPE),   d’une   évaluation   des   incidences   Natura 2000   et,   le   cas   échéant,   de
+dossiers au titre de la « loi sur l’eau » et des « espèces protégées » ;
+
+2. la localisation du projet :
+
+situé   au   lieu-dit   « la   Chaleur »,   sur   la   parcelle   cadastrale   n° 0A0022,   sur   le   territoire   de   la   commune   de
+Vieilmoulin (21), relevant du règlement national d’urbanisme (RNU) ; à environ 150 m des habitations les plus
+proches ; à environ 180 m de la RD9 ; à environ 560 m à l’ouest du poste électrique public de Vieilmoulin ;
+
+sur des terrains occupés par de la prairie permanente, désignée « prairie sensible – BCAE9 » d’après la carte
+disponible sur le Géoportail ; entourés de haies et bordés de milieux prairiaux similaires au sud, à l’ouest et à
+l’est, et de cultures céréalières au nord ;
+
+au sein de la zone naturelle d’intérêt écologique, faunistique et floristique (Znieff) de type 2 « Auxois » ; au sein
+du site Natura 2000 « Gîtes et habitats à chauves-souris en Bourgogne » (ZSC n° FR2601012) ; au sein de
+continuums des sous-trames « forêts » et « prairies, bocage », au sein d’un espace à prospecter de la sous-
+trame « pelouses » et partiellement au sein d’un réservoir de biodiversité de la sous-trame « prairies, bocage »
+(partie sud-ouest du site) identifiés dans la trame verte et bleue (TVB) du schéma régional d’aménagement, de
+développement durable et d’égalité des territoires (Sraddet) de Bourgogne-Franche-Comté ; en dehors de zone
+humide inventoriée ;
+
+au sein du périmètre du Sage de l’Armançon ; au droit de la masse d’eau souterraine « Marnes et calcaires de la
+bordure Lias-Trias de l’est du Morvan » (n° FRHG401), intrinsèquement très fortement vulnérable aux pollutions,
+identifiée en bon état quantitatif et en état chimique médiocre  dans  l’état des lieux 2019 du schéma directeur
+d’aménagement et de gestion des eaux (Sdage) du bassin Seine Normandie (pression significative liée aux
+nitrates diffus) ; en dehors de ressource stratégique identifiée pour l’alimentation en eau potable des populations
+actuelles et futures dans le Sdage ; en dehors de périmètre de protection de captage d’alimentation en eau
+potable ; à plus d’un kilomètre de cours d’eau ;
+
+en dehors de zone à risque naturel significatif connu ; en dehors de site ou sol pollué recensé ; en dehors de
+zonage de protection du paysage ou du patrimoine ;
+
+3. les impacts potentiellement notables sur l’environnement et la santé humaine, compte tenu :
+
+de   la   nécessité   d’analyser   l’articulation   du   projet   avec  le   schéma   régional   de   raccordement   au   réseau   des
+énergies   renouvelables   (S3REnR)   de   Bourgogne-Franche-Comté   approuvé   en   2022,   celui-ci   prévoyant   des
+travaux de création et de renforcement au niveau du poste source public de Vieilmoulin existant à proximité ;
+
+de la consommation par le projet de près de 2 ha d’espaces naturels, agricoles et forestiers, qui devra être
+décomptée à la commune sur la période 2021-2031 dans le cadre de l’objectif de « zéro artificialisation nette » ;
+
+du   fait   que   l’article 6   de   l’arrêté   du   14 mars 2023   relatif   aux   règles   de   bonnes   conditions   agricoles   et
+environnementales   (BCAE)   interdit   la   conversion   de   prairies   sensibles   en   surfaces   non   agricoles,   même
+partiellement ;
+
+de la nécessité d’étudier des variantes d’implantation pour justifier le choix d’une solution de moindre impact
+environnemental,  d’autres  sites  paraissant  possibles à  proximité  du poste  source   public  existant,   en  dehors
+notamment de prairies sensibles, voire des zonages naturalistes, et à plus grande distance des habitations ;
+
+du fait qu’un  diagnostic écologique,  avec des inventaires sur les habitats,  la  flore et la faune au niveau  de
+l’emprise du projet et de ses abords, mérite d’être réalisé, étant donné la situation du projet au sein de zonages
+naturalistes, pour caractériser les enjeux en présence et définir les mesures adaptées d’évitement, de réduction
+et de compensation au regard des impacts potentiels du projet, en complément de la mesure d’adaptation du
+calendrier des travaux citée dans le dossier (travaux lourds démarrant hors période de nidification des oiseaux)  ;
+la perte de territoire de reproduction, de chasse, d’alimentation et de repos des espèces étant en particulier à
+
+2/5
+
+évaluer   dans   ce   cadre ;   le   porteur   de   projet   devant   en   outre   apprécier   l’opportunité,   le   cas   échéant,   de
+demander une dérogation « espèces protégées » au titre des articles L.411-1 et 2 du Code de l’environnement,
+notamment   en   cas   de   risque   de   destruction   d’individus   ou   de   destruction,   d’altération   ou   de   dégradation
+d’habitats de ces espèces ;
+
+de  la nécessité de réaliser une évaluation  des incidences sur  les sites  Natura 2000 ; le  maintien  des haies
+boisées existantes en périphérie du site étant à préciser dans ce cadre, ainsi que les modalités d’implantation et
+d’entretien de nouvelles haies paysagères, à privilégier avec des essences locales dans le pourtour extérieur de
+la clôture afin de favoriser une fonctionnalité de couloir de transit, notamment pour les chauves-souris ;
+
+de l’intérêt de préciser l’insertion paysagère du projet, dont la hauteur maximale est relativement conséquente ;
+
+du fait que les modalités de gestion des eaux pluviales sont à préciser, après réalisation d’études géotechniques
+et   hydrauliques,   en   vérifiant   notamment   la   nécessité   de   déposer   un  dossier   au   titre   de   la   « loi   sur   l’eau »
+(rubrique   2.1.5.0),   en   considérant   la   totalité   du   bassin   versant   intercepté   et   en   évaluant   les   conditions
+d’écoulement des eaux pluviales avant et après réalisation du projet ;
+
+de l’engagement du porteur du projet à respecter l’arrêté du 23 janvier 1997 relatif à la limitation des bruits émis
+dans l’environnement par les ICPE ; le respect des exigences réglementaires en matière de nuisance sonore
+méritant toutefois d’être  démontré par la réalisation d’une étude acoustique en préalable à la réalisation du
+projet,  en  prenant   également   en   compte   les  dispositions  de   l’arrêté   du  26 janvier 2007   modifiant  l’arrêté   du
+17 mai 2001 fixant les conditions techniques auxquelles doivent satisfaire les distributions d’énergie électrique ;
+
+de la nécessité de préciser les mesures à mettre en œuvre en phase de travaux pour prévenir les nuisances sur
+les riverains (bruit, déchets, poussières, trafic, etc.) ; le chantier devant notamment respecter l’arrêté préfectoral
+n°99-242   du   16 juin 1999   relatif   à   la   lutte   contre   les   nuisances   sonores,   l’arrêté   du   12 mai 1997   relatif   aux
+émissions   sonores   des   engins   de   chantier   et   l’arrêté   du   18 mars 2002   relatif   aux   émissions   sonores   dans
+l’environnement des matériels destinés à être utilisés à l’extérieur des bâtiments ; compte tenu de la durée et de
+la nature des travaux, des mesures de gestion des nuisances sonores étant particulièrement à définir en termes
+de réduction des émissions à la source (choix de matériels et de techniques les moins bruyants, sensibilisation
+du personnel,…), d’organisation et de phasage du chantier (réalisation des travaux les plus bruyants dans les
+plages horaires les moins gênantes pour le voisinage, optimisation du positionnement des sources fixes de bruit,
+des zones de stockage, mise en place d’écrans acoustiques,…), de suivi de chantier et de concertation avec les
+riverains (information en amont, charte d’engagements,…), en s’appuyant utilement sur le livre blanc «  silence
+chantier » : https://www.bruit.fr/images/stories/pdf/TR-04-CAHEN-MASSON-CIDB-NUISANCES-CHANTIERS-JUIN-2018.pdf  ;
+
+de la nécessité de préciser les mesures à mettre en œuvre, en phases de travaux et d’exploitation, pour prévenir
+les risques de pollutions des sols et des eaux (gestion des engins, stockage des produits polluants, kits anti-
+pollution, absence d’utilisation de produits phytosanitaires, etc.) et pour limiter les risques de dissémination des
+espèces exotiques envahissantes (notamment l’Ambroisie, à risque sanitaire) ;
+
+Arrête :
+
+Article 1er
+
+En application de la section première du chapitre II du titre II du livre premier du Code de l’environnement, le
+projet de  création d’un poste de transformation HTB sur le territoire de la commune de Vieilmoulin (21)  est
+soumis à évaluation environnementale.
+
+Au vu des informations disponibles, notamment celles fournies par le maître d’ouvrage, et en répondant aux
+attendus   fixés   par   l’article   R.122-5   du   Code   de   l’environnement   relatifs   au   contenu   de   l’étude   d’impact,
+l’évaluation environnementale devra porter une attention particulière aux enjeux soulignés dans les considérants
+de la présente décision.
+
+La présente décision, délivrée en application de l’article R.122-3 du Code de l’environnement, ne dispense pas
+des autorisations administratives auxquelles le projet peut être soumis.
+
+Article 2
+
+3/5
+
+Cette décision sera mise en ligne sur le site internet de la direction régionale de l'environnement, de l’aménage-
+ http://www.bourgogne-franche-comte.developpement-durable.gouv.fr/cas-par-cas-
+ment   et   du   logement :
+dossiers-deposes-et-decisions-rendues-r669.html .
+
+Article 3
+
+Fait à Besançon, le 
+
+Pour le Préfet et par délégation
+Le directeur régional,
+
+4/5
+
+Voies et délais de recours
+
+•
+
+Lorsque la décision dispense le projet d'évaluation environnementale :
+
+Conformément   à   l’avis  du   Conseil   d’État   n° 395 916   du   6 avril 2016,   une   décision   de  dispense   d’évaluation
+environnementale n’est pas un acte faisant grief susceptible de faire l’objet d’un recours contentieux.
+Elle peut en revanche être contestée à l’occasion de l’exercice d’un recours contre la décision approuvant le
+projet.
+Elle peut également être contestée par le biais d'un recours gracieux adressé dans un délai de deux mois à
+compter de la date de notification ou de publication sur internet.
+
+•
+
+Lorsque la décision soumet le projet à évaluation environnementale :
+
+Conformément aux dispositions de l'article R.421-1 et suivants du Code de justice administrative et du Livre IV
+du Code des relations entre le public et l’administration, la présente décision peut faire l'objet, dans un délai de
+deux mois à compter de la date de notification ou de publication sur internet, des recours suivants :
+
+➢ un recours gracieux. En application de l’article R.122-3-1 VII du Code de l’environnement, tout recours
+contentieux   contre   la   décision   imposant   la   réalisation   d’une   évaluation   environnementale   après   un
+examen au cas par cas doit, à peine d’irrecevabilité, être précédé d’un recours administratif préalable
+devant l’autorité chargée de l’examen au cas par cas qui a pris la décision. Le silence de l’Administration
+au terme d’un délai de deux mois vaut rejet implicite. Après un recours gracieux, le délai du recours
+contentieux ne court qu’à compter du rejet explicite ou implicite de ce recours ;
+
+➢ dans   un   délai   de   deux   mois   à   compter   du   rejet   du   recours   gracieux,   un   recours   contentieux,   en
+saisissant le Tribunal administratif compétent. Le Tribunal administratif peut être saisi via l’application
+informatique Télérecours accessible par le site internet www.telerecours.fr.
+
+Où adresser votre recours ?
+
+Recours gracieux :
+Monsieur le Préfet de région Bourgogne-Franche-Comté
+Dreal Bourgogne-Franche-Comté
+5 Voie Gisèle Halimi
+BP 31269
+25005 Besançon cedex
+
+Recours hiérarchique :
+Madame la Ministre de la Transition écologique, de l’Énergie, du Climat et de la Prévention des risques
+CGDD/SEVS
+Tour Sequoia
+92055 La Défense cedex
+
+Recours contentieux :
+Tribunal administratif de Besançon
+30 rue Charles Nodier
+25044 Besançon cedex 3
+
+ou par l'application Télérecours citoyens accessible par le site www.telerecours.fr
+
+5/5
+
+

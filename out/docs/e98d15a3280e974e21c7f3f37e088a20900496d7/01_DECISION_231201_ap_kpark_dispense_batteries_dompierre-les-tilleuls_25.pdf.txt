@@ -1,0 +1,266 @@
+Direction régionale de l'environnement,
+de l'aménagement et du logement
+Bourgogne Franche-Comté
+
+ARRÊTÉ
+
+portant décision d’examen au cas par cas
+en application de l’article R.122-3-1 du code de l’environnement : 
+
+Projet de stockage d’énergie par batteries au lieu-dit « La Tille »
+sur le territoire de la commune de Dompierre-les-Tilleuls (25)
+
+Le préfet de la région Bourgogne-Franche-Comté,
+Préfet de la Côte d’Or
+
+Vu la directive 2011/92/UE du Parlement européen et du Conseil du 13 décembre 2011 modifiée par la directive
+2014/52/UE du 16 avril 2014, concernant l’évaluation des incidences de certains projets publics et privés sur
+l’environnement, notamment son annexe III ;
+
+Vu le code de l’environnement, notamment ses articles L. 122-1, R.122-2, R.122-2-1, et R.122-3 ;
+
+Vu   l’arrêté   du   16   janvier   2023   modifiant   l'arrêté   du   12   janvier   2017   fixant   le   modèle   du   formulaire   de   la
+« demande d'examen au cas par cas » en application de l'article R.122-3-1 du code de l'environnement ;
+
+Vu   la   demande   d’examen   au   cas   par   cas   n°   BFC-2023-4106   relative   au   projet   d’installation   d’un   stockage
+d’énergie  par  batteries  au lieu-dit « La Tille » sur le territoire  de la  commune de Dompierre-les-Tilleuls  (25),
+reçue   complète   le   3   novembre   2023   et   portée   par   la   société   Harmony   Energy   France,   représentée   par
+M. Andrew SYMONDS ;
+
+Vu l’arrêté de M. le Préfet de la région Bourgogne-Franche-Comté n° 23-233-BAG du 01/09/23 portant déléga-
+tion de signature à M. Renaud DURAND, directeur régional adjoint de la direction régionale de l’environnement,
+de l’aménagement et du logement (DREAL) de Bourgogne-Franche-Comté en charge de l’intérim de direction à
+compter du 1er septembre 2023 ;
+
+Vu la décision de M. le directeur adjoint de la DREAL n° BFC-2023-09-01-00013 du 01/09/23 portant subdéléga-
+tion de signature à M. Dominique VANDERSPEETEN, chef du service Transition Écologique, ainsi qu’à ses ad-
+joints MM. Arnaud BOURDOIS et Oscar VINESSE ;
+
+Vu l’avis de l’agence régionale de santé (ARS) du 22 novembre 2023 ;
+
+Considérant :
+
+1. la nature du projet,
+
+qui consiste en l’installation d’un système de stockage d’électricité par batteries d’environ 85 MW et 170 MWh,
+nécessitant la construction d’un poste de transformation ayant une tension maximale de 63 kV, sur une surface
+totale d’environ 1,3 ha ;
+
+qui relève de la catégorie n°32 du tableau annexé à l’article R.122-2 du code de l’environnement, qui soumet à
+examen au cas par cas les projets de postes de transformation dont la tension maximale de transformation est
+supérieure ou égale à 63 kilovolts (à l'exclusion des opérations qui n'entraînent pas d'augmentation de la surface
+foncière des postes) ;
+
+Adresse postale : 5 Voie Gisèle Halimi - BP 31269,  25005 BESANCON CEDEX
+Standard : 03 39 59 62 00
+www.Bourgogne-franche-comte.developpement-durable.gouv.fr
+
+1/4
+
+qui comprend :
+
+•
+
+•
+
+les travaux d’installation de la centrale de stockage d’énergie par batteries, d’une durée prévisible de 12
+mois, qui seront réalisés par le maître d’ouvrage et prévoient notamment :
+
+la réalisation de la plate-forme et des accès (fondations d’une profondeur d’environ 50 à 80 cm
+et dallage béton pour les unités de stockage, grave tout-venant pour le sol de la centrale, les aires de
+grutage et les accès), sur une surface d’environ 1 ha ;
+
+la pose de 24 doubles  unités de batteries et de 24 transformateurs  HTA à l’aide  d’une grue
+
+mobile ;
+
+➢
+
+la réalisation d’un bâtiment technique (surface au sol inférieure à 150 m² et hauteur de 4 m),
+
+d’un poste électrique avec un transformateur 63 kV / 33 kV et de sa cuve de récupération d’huile ;
+
+la pose des câbles dans des tranchées, l’installation d’une citerne à incendie, la mise en place
+
+d’une clôture et du portail ;
+les  travaux  de  raccordement  entre le  poste électrique  de Frasne  situé à proximité  et  la  centrale  de
+stockage d’énergie, d’une durée prévisible de 12 mois (qui pourront s’effectuer en parallèle des travaux
+de   la   centrale),   qui   seront   réalisés   par   le   gestionnaire   du   réseau   électrique   (RTE)   et   prévoient
+notamment :
+
+la mise en place d’un câble électrique souterrain de 63 kV ;
+
+➢
+
+➢
+
+➢
+
+➢
+
+qui   fera   l’objet   d’une   déclaration   au   titre   de   la   législation   des   installations   classées   pour   la   protection   de
+l’environnement (ICPE) (rubrique 2925-2), d’une déclaration au titre de la « loi sur l’eau » (rubrique 2.1.5.0) et
+d’une demande de permis de construire ;
+
+qui   fera   l’objet,   à   l’issue   de   son   exploitation   (environ   30   ans),   d’un   démantèlement,   du   recyclage   des
+équipements  démantelés  et  de  la  remise  à  l’état   d’origine  du  terrain,   conformément   à la  réglementation  en
+vigueur sur la cessation d’activité des ICPE ;
+
+dont l’objectif est de contribuer à la régulation de la fréquence et à la sécurité de l’approvisionnement électrique
+des usagers, et qui constitue une installation d’intérêt collectif ;
+
+2. la localisation du projet,
+
+situé au lieu-dit « La Tille » sur la commune de Dompierre-les-Tilleuls (25), en zone agricole A selon le plan local
+d’urbanisme   intercommunal   (PLUi)   de   la   communauté   de   communes   de   Frasne   et   du   Val   du   Drugeon   en
+vigueur ;
+
+sur une parcelle agricole actuellement à l’état de prairie, au sein d’un environnement rural constitué de terres
+agricoles, à une centaine de mètres du poste électrique de Frasne et à plus d’un kilomètre des habitations les
+plus proches (village de Dompierre-les-Tilleuls) ;
+
+en dehors d’une zone humide, selon l’étude de caractérisation de zones humides réalisée sur la parcelle ;
+
+dans un secteur à enjeux écologiques évalués de « très faible » à « faible » selon le pré-diagnostic écologique
+réalisé sur le secteur d’étude ;
+
+à environ 1,3 km de la zone spéciale de conservation et de la zone de protection spéciale « Vallées du Drugeon
+et du Haut-Doubs » (sites Natura 2000) ;
+
+en zone de présomption de prescription archéologique du Doubs ;
+
+en zone d’exposition au retrait-gonflement des argiles de niveau « moyen » et en zone à risque de séisme de
+niveau « modéré » ;
+
+en dehors d’autre périmètre de protection ou d’inventaire relatif aux milieux naturels, au paysage, au patrimoine,
+à l’eau, aux risques naturels et technologiques ;
+
+3. les impacts non notables sur l’environnement et la santé humaine, compte tenu :
+
+de la surface modérée de sols artificialisés (environ 9 500 m² dont 1 800 m² imperméabilisés) et des mesures de
+gestion des eaux pluviales qui seront mises en place (de type noues et/ou bassin de rétention) ;
+
+2/4
+
+de l’absence d’impact significatif sur les milieux naturels, compte tenu du faible niveau d’enjeux écologiques du
+site et de l’étude d’incidences simplifiée réalisée qui montre l’absence d’impacts significatifs sur Natura 2000 ;
+
+de la consultation du service en  charge de l’archéologie préventive (DRAC), qui prescrira le cas  échéant la
+réalisation d’un diagnostic archéologique ou d’une fouille préventive ;
+
+de l’implantation du projet dans la continuité d’une installation électrique existante (poste électrique de Frasne)
+et des mesures d’insertion paysagère qui seront mises en place le cas échéant (plantation de haies) ;
+
+de l’étude géotechnique qui sera réalisée pour déterminer les fondations adaptées et de la faible sensibilité de
+ce type de projet aux secousses sismiques légères et modérées  ;
+
+de l’absence d’émissions de gaz, de particules ou d’effluents particuliers en phase d’exploitation ;
+
+du   bruit   estimé   de   niveau   « léger »,   émis   notamment   par   les   systèmes   de   ventilation,   compte   tenu   de
+l’éloignement  des habitations  et de la réglementation ICPE en termes  d’émergences  sonores  qui devra être
+respectée ;
+
+des   mesures   qui   seront   mises   en   place   par   le   maître   d’ouvrage   afin   de   limiter   les   risques   liés   au   projet
+(incendie), notamment :
+
+•
+
+•
+•
+•
+
+le choix  d’une technologie de  batterie de type « LFP » (lithium fer phosphate), pour lequel le risque
+d’emballement thermique est très limité ;
+le respect des normes spécifiques aux projets de stockage par batteries en vigueur ;
+la mise en place d’un système de surveillance et de prévention des incendies ;
+des   mesures   opérationnelles   pour   minimiser   le   risque   de   propagation   d’un   incendie   (enceinte
+hermétique, système de ventilation, distance entre lots de batteries, citerne incendie, etc.) ;
+
+de l’absence, en l’état actuel des connaissances, d’autres enjeux environnementaux ou sanitaires identifiés ;
+
+Arrête :
+
+Article 1er
+
+En application de la section première du chapitre II du titre II du livre premier du code de l’environnement, le
+projet d’installation d’un stockage d’énergie par batteries au lieu-dit « La Tille » sur le territoire de la commune
+de Dompierre-les-Tilleuls (25) n’est pas soumis à évaluation environnementale.
+
+Article 2
+
+La présente décision, délivrée en application de l’article R.122-3-1 du code de l'environnement, ne dispense pas
+des autorisations administratives auxquelles le projet peut être soumis.
+
+Conformément aux dispositions de ce même article, l’autorité compétente vérifie au stade de l’autorisation que
+le projet présenté correspond aux caractéristiques et mesures qui ont justifié la présente décision.
+
+Cette décision sera mise en ligne sur le site internet de la direction régionale de l'environnement, de l'aménage-
+ment   et   du   logement :
+ http://www.bourgogne-franche-comte.developpement-durable.gouv.fr/cas-par-cas-
+dossiers-deposes-et-decisions-rendues-r669.html  
+
+Article 3
+
+Fait à Besançon, le 1 décembre 2023
+
+Pour le Préfet et par délégation
+Le directeur régional, et par subdélégation,
+
+         le chef du service transition écologique
+
+Dominique VANDERSPEETEN
+
+3/4
+
+Voies et délais de recours
+
+➢ Lorsque la décision dispense le projet d'évaluation environnementale :
+
+Conformément  à   l’avis   du   Conseil   d’État   n°395   916  du   6 avril 2016,   une   décision   de   dispense   d’évaluation
+environnementale n’est pas un acte faisant grief susceptible de faire l'objet d'un recours contentieux.
+
+Elle peut en revanche être contestée à l’occasion de l’exercice d’un recours contre la décision approuvant le
+projet.
+
+Elle peut également être contestée par le biais d'un recours gracieux adressé dans un délai de deux mois à
+compter de la date de notification ou de publication sur internet.
+
+➢ Lorsque la décision soumet le projet à évaluation environnementale :
+
+Conformément aux dispositions de l'article R.421-1 et suivants du code de justice administrative et du Livre IV
+du code des relations entre le public et l’administration, la présente décision peut faire l'objet, dans un délai de
+deux mois à compter de la date de notification ou de publication sur internet, des recours suivants :
+
+➢ un recours gracieux ou hiérarchique. Dans ce cas, le silence de l’Administration vaut rejet implicite au
+terme d’un délai de deux mois. Après un recours gracieux, le délai du recours contentieux ne court qu’à
+compter du rejet explicite ou implicite de ce recours ;
+
+➢ dans   un   délai   de   deux   mois   à   compter   du   rejet   du   recours   gracieux   ou   hiérarchique,   un   recours
+contentieux, en saisissant le Tribunal administratif compétent. Le Tribunal administratif peut être saisi via
+l’application informatique Télérecours accessible par le site internet www.telerecours.fr.
+
+Où adresser votre recours ?
+
+Recours gracieux :
+Monsieur le Préfet de région Bourgogne-Franche-Comté
+DREAL Bourgogne-Franche-Comté
+5 Voie Gisèle Halimi
+BP 31269
+25005 Besançon cedex
+
+Recours hiérarchique :
+Monsieur le Ministre de la Transition écologique et de la Cohésion des territoires
+CGDD/SEEIDD
+Tour Sequoia
+92055 La Défense cedex
+
+Recours contentieux :
+Tribunal administratif de Besançon
+30 rue Charles Nodier
+25044 Besançon cedex 3
+
+ou par l'application Télérecours citoyens accessible par le site www.telerecours.fr
+
+4/4
+
+

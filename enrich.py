@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """
-ENRICHISSEMENT v13.1 - VERSION FINALE AMÉLIORÉE
+ENRICHISSEMENT v13.3 - VERSION FINALE ROBUSTE
 - Système de scoring multi-critères
 - Validation contenu avant/après extraction
 - Quick PDF scan pour éviter extractions inutiles
 - Cache HEAD requests
-- Filtrage intelligent pré-téléchargement
-- Logs structurés et sans bruit
+- Classification de pages DREAL (vs cas par cas)
+- Validation stricte numéros PC vs cas par cas
+- Logs structurés sans bruit
 
 Auteur: Veille Stockage POC
 Date: Octobre 2025
@@ -20,6 +21,7 @@ import os
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from dataclasses import dataclass
+from enum import Enum
 import argparse
 import logging
 from urllib.parse import urljoin, urlparse
@@ -53,16 +55,9 @@ logger = logging.getLogger(__name__)
 # ═══════════════════════════════════════════════════════════════════════════
 
 def configure_logging(debug: bool):
-    """
-    Configure les logs avec filtrage intelligent
-    - Mode normal : INFO pour ton code, WARNING pour librairies
-    - Mode debug : DEBUG pour ton code, INFO pour librairies importantes
-    """
-    
-    # Niveau pour ton code
+    """Configure les logs avec filtrage intelligent"""
     app_level = logging.DEBUG if debug else logging.INFO
     
-    # Configuration de base
     logging.basicConfig(
         level=logging.DEBUG,
         format="%(asctime)s [%(levelname)s] %(message)s",
@@ -70,36 +65,25 @@ def configure_logging(debug: bool):
         force=True,
     )
     
-    # Logger principal (ton code)
     main_logger = logging.getLogger(__name__)
     main_logger.setLevel(app_level)
     
-    # Loggers spécifiques à ton projet
     logging.getLogger("validation").setLevel(app_level)
     logging.getLogger("utils").setLevel(app_level)
     logging.getLogger("config").setLevel(app_level)
     
-    # ============ SILENCER LES LIBRAIRIES BRUYANTES ============
-    
-    # httpx et httpcore (très verbeux en DEBUG)
+    # Silencer librairies bruyantes
     logging.getLogger("httpx").setLevel(logging.WARNING)
     logging.getLogger("httpcore").setLevel(logging.WARNING)
     logging.getLogger("httpcore.connection").setLevel(logging.WARNING)
     logging.getLogger("httpcore.http11").setLevel(logging.WARNING)
-    
-    # urllib3
     logging.getLogger("urllib3").setLevel(logging.WARNING)
-    
-    # Google API clients
     logging.getLogger("google").setLevel(logging.WARNING)
     logging.getLogger("google.auth").setLevel(logging.WARNING)
-    
-    # Autres librairies
     logging.getLogger("PIL").setLevel(logging.WARNING)
     logging.getLogger("matplotlib").setLevel(logging.WARNING)
     
     if debug:
-        # En mode debug, on veut quand même voir CERTAINES infos importantes
         logging.getLogger("httpx").setLevel(logging.INFO)
         main_logger.debug("🔧 Mode DEBUG activé (logs détaillés)")
 
@@ -111,29 +95,29 @@ def configure_logging(debug: bool):
 class Config:
     CSE_ID = os.getenv("GOOGLE_CSE_ID")
     
-    # Qualité maximale
     MAX_SEARCH_RESULTS = 10
     MAX_PAGES_TO_SCRAPE = 8
     MAX_PDFS_PER_PAGE = 3
     MAX_PDF_SIZE_MB = 20
     
-    # Scoring & Validation
     URL_SCORE_THRESHOLD = 0.25
-    QUICK_SCAN_PAGES = 3
+    QUICK_SCAN_PAGES = 2
     MIN_COMMUNE_MENTIONS = 2
     
-    # Performance
     MAX_WORKERS_SCRAPING = 3
     MAX_WORKERS_GEMINI = 2
     
-    # Gemini
     GEMINI_MODEL = "gemini-2.5-flash"
     MAX_OUTPUT_TOKENS = 2048
     
-    # Delays
     SEARCH_DELAY = 1.0
     SCRAPE_DELAY = 0.3
     PROJECT_DELAY = 1.5
+    
+    # Nouvelles options
+    ENABLE_PAGE_CLASSIFICATION = True
+    REJECT_CAS_PAR_CAS_AS_PC = True
+    VALIDATE_PC_FORMAT = True
 
 
 DEPT_NAMES = {
@@ -141,6 +125,140 @@ DEPT_NAMES = {
     "26": "drome", "38": "isere", "42": "loire", "43": "haute-loire",
     "63": "puy-de-dome", "69": "rhone", "73": "savoie", "74": "haute-savoie"
 }
+
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PAGE CLASSIFICATION (NOUVEAU)
+# ═══════════════════════════════════════════════════════════════════════════
+
+class PageType(Enum):
+    """Types de pages DREAL détectées"""
+    PERMIS_CONSTRUIRE = "permis_construire"
+    CAS_PAR_CAS = "cas_par_cas"
+    CONSULTATION_PUBLIQUE = "consultation"
+    AVIS_MRAE = "avis_mrae"
+    ARRETE_PREFECTORAL = "arrete"
+    AUTRE = "autre"
+
+    def __str__(self):
+        return self.value
+
+
+class PageClassifier:
+    """Classifie les pages DREAL pour éviter confusions cas par cas / PC"""
+    
+    @staticmethod
+    def classify(url: str, content: str) -> Tuple[PageType, str]:
+        """Classifie une page DREAL"""
+        if not content:
+            return PageType.AUTRE, "Contenu vide"
+        
+        content_lower = content.lower()
+        url_lower = url.lower()
+        
+        # ========== DÉTECTION : CAS PAR CAS (À REJETER) ==========
+        if re.search(r'\d{4}-[a-z]{3}-[a-z]{3}-(?:icpe|kkp)', content_lower):
+            if re.search(r'(?:cas\s+par\s+cas|examen\s+préalable|dossier\s+reçu)', content_lower):
+                return PageType.CAS_PAR_CAS, "Numéro cas par cas + mention 'cas par cas'"
+        
+        if re.search(r'dossier\s+n°\s*20\d{2}-[a-z]{3}', content_lower):
+            if re.search(r'(?:décision|cas\s+par\s+cas)', content_lower):
+                return PageType.CAS_PAR_CAS, "Format numéro cas par cas avec 'décision'"
+        
+        # ========== DÉTECTION : PERMIS DE CONSTRUIRE ==========
+        if re.search(r'\bpc\s*(?:\d{2,3}\s+)?(?:\d{3}\s+)?(?:\d{2}\s+)?\d{5}', content_lower):
+            if re.search(r'(?:permis\s+de\s+construire|pc)', content_lower):
+                return PageType.PERMIS_CONSTRUIRE, "Numéro PC détecté + mention 'permis de construire'"
+        
+        if re.search(r'permis\s+(?:de\s+)?construire', content_lower):
+            if re.search(r'(?:dépôt|délivrance|autorisation|date)', content_lower):
+                return PageType.PERMIS_CONSTRUIRE, "Mention explicite 'permis de construire'"
+        
+        # ========== DÉTECTION : CONSULTATION PUBLIQUE ==========
+        if re.search(r'consultation(?:\s+du)?(?:\s+public)?|participation', content_lower):
+            if 'http' in url_lower or 'participation' in content_lower:
+                return PageType.CONSULTATION_PUBLIQUE, "Page consultation du public détectée"
+        
+        # ========== DÉTECTION : AVIS MRAE ==========
+        if re.search(r'mrae|avis\s+délibéré|autorité\s+environnementale', content_lower):
+            if '.pdf' in url_lower or 'avis' in content_lower:
+                return PageType.AVIS_MRAE, "Avis MRAe détecté"
+        
+        # ========== DÉTECTION : ARRÊTÉ PRÉFECTORAL ==========
+        if re.search(r'arrêté|arrete|autorisation\s+préfectorale', content_lower):
+            if re.search(r'(?:n°|numéro|dossier)', content_lower):
+                return PageType.ARRETE_PREFECTORAL, "Arrêté préfectoral détecté"
+        
+        return PageType.AUTRE, "Type de page non identifié"
+
+
+def classify_dreal_page(url: str, content: str) -> PageType:
+    """Wrapper pour classification"""
+    page_type, reason = PageClassifier.classify(url, content)
+    logger.debug(f"      Classification: {page_type} ({reason})")
+    return page_type
+
+
+# ═══════════════════════════════════════════════════════════════════════════
+# VALIDATION PERMIT NUMBERS (NOUVEAU)
+# ═══════════════════════════════════════════════════════════════════════════
+
+def validate_and_clean_permit_number(permit_number: Optional[str], page_type: PageType) -> Tuple[Optional[str], float, str]:
+    """
+    Valide et nettoie un numéro de permis
+    
+    Returns:
+        (permit_number_cleaned, confidence_adjustment, reason)
+    """
+    if not permit_number:
+        return None, 1.0, "Aucun numéro extrait"
+    
+    permit_number = permit_number.strip()
+    
+    # ========== REJETER : Numéros cas par cas ==========
+    if re.match(r'^\d{4}-[a-z]{3}-[a-z]{3}', permit_number.lower()):
+        logger.warning(f"❌ Numéro CAS PAR CAS confondu avec PC: {permit_number}")
+        return None, 0.0, f"Numéro cas par cas rejeté: {permit_number}"
+    
+    # ========== PATTERN PC FRANÇAIS STANDARD ==========
+    pc_standard = re.match(r'^pc\s*(\d{2,3})\s*(\d{3})\s*(\d{2})\s*(\d{5})$', permit_number.lower())
+    if pc_standard:
+        insee, annee, seq, num = pc_standard.groups()
+        cleaned = f"PC {insee} {annee} {seq} {num}"
+        logger.debug(f"    ✓ PC standard validé: {cleaned}")
+        return cleaned, 1.0, "PC format standard"
+    
+    # ========== PATTERN PC COMPACT ==========
+    pc_compact = re.match(r'^pc?(\d{2,3})(\d{3})(\d{2})(\d{5})$', permit_number.lower())
+    if pc_compact:
+        insee, annee, seq, num = pc_compact.groups()
+        cleaned = f"PC {insee} {annee} {seq} {num}"
+        logger.debug(f"    ✓ PC compact nettoyé: {cleaned}")
+        return cleaned, 0.9, "PC format compact (confiance -0.1)"
+    
+    # ========== PATTERN ARRÊTÉ PRÉFECTORAL ==========
+    if re.match(r'^(?:ap|ara-ap)[-\s]\d+', permit_number.lower()):
+        logger.debug(f"    ⚠️  Numéro arrêté (pas PC): {permit_number}")
+        return None, 0.5, f"Arrêté préfectoral (pas numéro PC): {permit_number}"
+    
+    # ========== PATTERN DOSSIER ==========
+    if re.match(r'^dossier\s+n°', permit_number.lower()):
+        logger.debug(f"    ⚠️  Numéro dossier (pas PC): {permit_number}")
+        return None, 0.4, f"Numéro dossier administratif (pas PC): {permit_number}"
+    
+    # ========== FORMAT STANDARD SANS PRÉFIXE ==========
+    if re.match(r'^\d{2,3}\s+\d{3}\s+\d{2}\s+\d{5}$', permit_number):
+        cleaned = f"PC {permit_number}"
+        logger.debug(f"    ⚠️  PC sans préfixe 'PC': {cleaned}")
+        return cleaned, 0.7, "PC sans préfixe (confiance -0.3)"
+    
+    # ========== FORMAT NON RECONNU ==========
+    if len(permit_number) < 5:
+        logger.debug(f"    ✗ Format trop court: {permit_number}")
+        return None, 0.0, f"Format invalide (trop court): {permit_number}"
+    
+    logger.warning(f"⚠️  Format PC non standard: {permit_number}")
+    return permit_number, 0.6, f"Format non standard (confiance réduite): {permit_number}"
 
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -162,7 +280,7 @@ class TemporalFilter:
     
     @staticmethod
     def extract_year_from_text(text: str) -> Optional[int]:
-        """Extrait année depuis texte (première date trouvée)"""
+        """Extrait année depuis texte"""
         matches = re.findall(r'\b(202[0-9])\b', text[:500])
         if matches:
             return int(matches[0])
@@ -295,24 +413,36 @@ class GeminiClient:
     def extract_from_source(self, source: Dict, commune: str, demandeur: str, project_year: int) -> Dict:
         """
         Extraction depuis UNE source avec validation intégrée
+        
+        V2.0 - Améliorations:
+        - Utilise page_type pour adapter le prompt
+        - Valide le numéro PC retourné
+        - Rejet explicite cas par cas
         """
         source_type = source.get("type", "unknown")
+        page_type = source.get("page_type", PageType.AUTRE)
         content = source.get("content", "")[:8000]
         url = source.get("url", "")
         
-        # Contexte selon type
-        if source_type == "arrete_pdf":
-            context = "ARRÊTÉ PRÉFECTORAL (source la plus fiable). Contient le numéro PC et la date de signature."
-        elif source_type == "consultation_html":
-            context = "Page CONSULTATION PUBLIQUE. Contient les dates de consultation et peut mentionner le PC."
-        elif "mrae" in source_type:
-            context = "AVIS MRAe. L'introduction contient la date de dépôt du permis."
-        else:
-            context = "Document administratif officiel."
+        # ✗ REJET PRÉALABLE : Cas par cas
+        if page_type == PageType.CAS_PAR_CAS:
+            logger.warning(f"  ❌ Source cas par cas ignorée (pas de PC)")
+            return {"confidence": 0.0, "reason": "Page cas par cas"}
+        
+        # Contexte adapté selon type de source
+        context_map = {
+            PageType.PERMIS_CONSTRUIRE: "PAGE PERMIS DE CONSTRUIRE (haute priorité). Contient numéro PC et dates dépôt/délivrance.",
+            PageType.CONSULTATION_PUBLIQUE: "PAGE CONSULTATION PUBLIQUE. Contient dépôt du permis et période consultation.",
+            PageType.AVIS_MRAE: "AVIS MRAe. Introduction contient date dépôt du permis.",
+            PageType.ARRETE_PREFECTORAL: "ARRÊTÉ PRÉFECTORAL. Peut contenir numéro PC ou référence permis.",
+            PageType.AUTRE: "Document administratif officiel."
+        }
+        context = context_map.get(page_type, "Document administratif.")
         
         year_min = project_year - 1
         year_max = project_year + 3
         
+        # ✓ NOUVEAU: Prompt avec instruction stricte PC vs CAS PAR CAS
         prompt = f"""{context}
 
 PROJET CIBLE:
@@ -320,28 +450,35 @@ PROJET CIBLE:
 - Demandeur: {demandeur}
 - Année: {project_year}
 
-INSTRUCTION CRITIQUE:
-1. Vérifie d'abord si ce document concerne EXACTEMENT la commune "{commune}"
-2. Si le document mentionne UNE AUTRE COMMUNE, retourne {{"commune_match": false}}
-3. Cherche dates entre {year_min} et {year_max}
+INSTRUCTIONS CRITIQUES - LIRE ATTENTIVEMENT:
+1. Ce document parle-t-il d'un PERMIS DE CONSTRUIRE ou d'un CAS PAR CAS ?
+   - PERMIS DE CONSTRUIRE : Numéro format "PC [INSEE] [ANNEE] [NUMERO]"
+   - CAS PAR CAS : Numéro format "20XX-XYZ-KKP-ICPE-XXXX" → IGNORER COMPLÈTEMENT
+2. Si le document est un CAS PAR CAS (décision préalable), retourne {{"confidence": 0.0}}
+3. Vérifie si ce document concerne EXACTEMENT la commune "{commune}"
+4. Cherche dates entre {year_min} et {year_max}
+5. N'extrais QUE les dates de PERMIS DE CONSTRUIRE, pas de cas par cas
 
 CONTENU:
 {content}
 
-Extrais:
+Extrais SEULEMENT si PERMIS DE CONSTRUIRE:
+- is_construction_permit: true/false (c'est bien un PC ?)
 - commune_found: quelle commune est mentionnée ?
 - commune_match: ce doc concerne-t-il {commune} ? (true/false)
-- permit_number: format "PC XXX YYY..." ou null
-- deposit_date: YYYY-MM-DD ou null
-- issue_date: YYYY-MM-DD ou null
-- consultation_start: YYYY-MM-DD ou null
-- consultation_end: YYYY-MM-DD ou null
+- permit_number: format "PC XXX YYY ZZ AAAAA" ou null
+- deposit_date: YYYY-MM-DD ou null (dépôt du PC)
+- issue_date: YYYY-MM-DD ou null (délivrance du PC)
+- consultation_start: YYYY-MM-DD ou null (début consultation)
+- consultation_end: YYYY-MM-DD ou null (fin consultation)
 
 Convertir dates françaises DD/MM/YYYY → YYYY-MM-DD
 IGNORER dates hors fenêtre {year_min}-{year_max}
+IGNORER numéros CAS PAR CAS (format 20XX-XXX-...)
 
 JSON:
 {{
+  "is_construction_permit": true/false,
   "commune_found": "string",
   "commune_match": true/false,
   "permit_number": "string ou null",
@@ -349,15 +486,15 @@ JSON:
   "issue_date": "YYYY-MM-DD ou null",
   "consultation_start": "YYYY-MM-DD ou null",
   "consultation_end": "YYYY-MM-DD ou null",
-  "confidence": 0.8
+  "confidence": 0.0-1.0
 }}
 
 Confidence:
-- 1.0: Arrêté + PC + date signature + commune match
-- 0.8: PC + 1+ date + commune match
-- 0.6: Dates sans PC mais .gouv.fr + commune match
+- 0.0: Cas par cas OU commune mismatch OU rien trouvé
 - 0.3: Commune match mais infos partielles
-- 0.0: Commune mismatch OU rien trouvé
+- 0.6: PC + 1-2 dates, .gouv.fr
+- 0.8: PC + 2-3 dates, commune match
+- 1.0: PC + date signature + commune match clair
 """
         
         try:
@@ -396,13 +533,20 @@ Confidence:
             try:
                 data = json.loads(raw_text)
                 
-                # Vérification commune_match
+                # ✓ NOUVEAU: Vérifier is_construction_permit
+                if not data.get("is_construction_permit", False):
+                    logger.debug(f"    ⚠️  Gemini: pas un PC ou cas par cas détecté")
+                    return {"confidence": 0.0, "reason": "Not a construction permit"}
+                
+                # ✓ NOUVEAU: Vérifier commune_match
                 if not data.get("commune_match", True):
                     logger.debug(f"    ⚠️  Gemini: commune mismatch (trouvé: {data.get('commune_found')})")
-                    return {"confidence": 0.0, "commune_match": False}
+                    return {"confidence": 0.0, "reason": "Commune mismatch"}
                 
                 data["source_url"] = url
                 data["source_type"] = source_type
+                data["page_type"] = str(page_type)
+                
                 return data
             
             except json.JSONDecodeError as exc:
@@ -489,41 +633,69 @@ def extract_pdf_text(url: str, title: str, http_client: HTTPClient, commune: str
 
 
 # ═══════════════════════════════════════════════════════════════════════════
-# QUERIES
+# QUERIES (AMÉLIORÉ)
 # ═══════════════════════════════════════════════════════════════════════════
 
 def build_queries(project: Dict) -> List[str]:
-    """Construit les requêtes de recherche pour un projet"""
+    """
+    Construit des requêtes Google ciblées pour PERMIS DE CONSTRUIRE
+    
+    V2.0 - Amélioration Phase 3:
+    - Cherche EXPLICITEMENT permis de construire
+    - Exclut pages cas par cas
+    - Priorise pages consultation + arrêtés
+    """
     commune = project.get("commune", "")
     dept = project.get("dept", "")
     year = int(project.get("year", 2023))
     dept_name = DEPT_NAMES.get(dept, f"dept{dept}")
     
     queries = []
-    year_filter = f"{year-1}..{year+3}"
     
-    if commune and dept:
+    if not commune:
+        return queries
+    
+    # ========== QUERY 1 : PERMIS CONSTRUIRE DIRECT ==========
+    if dept:
         queries.append(
-            f'"{commune}" "consultation du public" "permis de construire" '
-            f'stockage batteries site:{dept_name}.gouv.fr daterange:{year_filter}'
+            f'"{commune}" ("permis de construire" OR "PC") '
+            f'stockage batteries électricité énergie '
+            f'-"cas par cas" -"examen préalable" '
+            f'site:{dept_name}.gouv.fr'
+        )
+    else:
+        queries.append(
+            f'"{commune}" ("permis de construire" OR "PC") '
+            f'stockage batteries -"cas par cas"'
         )
     
-    if commune:
+    # ========== QUERY 2 : ARRÊTÉ PRÉFECTORAL ==========
+    queries.append(
+        f'"{commune}" ("arrêté préfectoral" OR "arrêté" OR "autorisation") '
+        f'stockage batteries filetype:pdf'
+    )
+    
+    # ========== QUERY 3 : CONSULTATION PUBLIQUE ==========
+    queries.append(
+        f'"{commune}" ("consultation du public" OR "participation du public") '
+        f'"permis" stockage batteries '
+        f'site:{dept_name}.gouv.fr'
+    )
+    
+    # ========== QUERY 4 : DÉCISIONS DREAL (moins spécifique) ==========
+    queries.append(
+        f'"{commune}" stockage batteries "avis" '
+        f'site:developpement-durable.gouv.fr -"cas par cas"'
+    )
+    
+    # ========== QUERY 5 : DÉCISION PRÉFECTURE ==========
+    if dept:
         queries.append(
-            f'"{commune}" stockage énergie batteries '
-            f'site:developpement-durable.gouv.fr'
+            f'"{commune}" permis construire stockage '
+            f'site:{dept_name}.gouv.fr'
         )
     
-    if commune:
-        queries.append(
-            f'"avis délibéré" "{commune}" stockage batteries filetype:pdf'
-        )
-    
-    if commune and dept:
-        queries.append(
-            f'"{commune}" arrêté permis construire stockage {dept} filetype:pdf'
-        )
-    
+    logger.debug(f"      {len(queries)} requêtes générées")
     return queries
 
 
@@ -574,7 +746,7 @@ class PermitEnricher:
     
     def enrich(self, project: Dict) -> PermitData:
         """
-        VERSION AMÉLIORÉE avec scoring et validation
+        VERSION AMÉLIORÉE avec scoring, validation et classification de pages
         """
         title = project.get("project_title", "")
         commune = project.get("commune", "")
@@ -619,7 +791,6 @@ class PermitEnricher:
             )
             scored_urls.append((score, result))
         
-        # Trier par priorité puis score
         scored_urls.sort(key=lambda x: (x[0].priority, -x[0].score))
         
         # Log des scores
@@ -655,7 +826,8 @@ class PermitEnricher:
                 sources_with_content.append({
                     "url": result["url"],
                     "title": result.get("title", ""),
-                    "content": content,
+                    "content": content["content"],
+                    "page_type": content["page_type"],
                     "score": score.score,
                     "priority": score.priority,
                     "type": SourcePriority.classify_url(result["url"], result.get("title", ""))[1]
@@ -672,7 +844,8 @@ class PermitEnricher:
                     sources_with_content.append({
                         "url": result["url"],
                         "title": result.get("title", ""),
-                        "content": content,
+                        "content": content["content"],
+                        "page_type": content["page_type"],
                         "score": score.score,
                         "priority": score.priority,
                         "type": SourcePriority.classify_url(result["url"], result.get("title", ""))[1]
@@ -696,6 +869,16 @@ class PermitEnricher:
             )
             
             if result.get("confidence", 0) > best_result.confidence:
+                # ✓ NOUVEAU: Validation du numéro PC
+                page_type = PageType(source.get("page_type", "autre")) if source.get("page_type") else PageType.AUTRE
+                
+                permit_number = result.get("permit_number")
+                cleaned_pc, pc_confidence_adj, pc_reason = validate_and_clean_permit_number(permit_number, page_type)
+                
+                if not cleaned_pc and result.get("confidence", 0) > 0.7:
+                    logger.warning(f"  ❌ {pc_reason}")
+                    continue
+                
                 # Validation contenu
                 is_valid, conf_adjustment, reason = validate_content_match(
                     source["content"],
@@ -705,10 +888,12 @@ class PermitEnricher:
                 )
                 
                 if is_valid:
-                    adjusted_confidence = result.get("confidence", 0) * conf_adjustment
+                    # Confiance = combinaison : Gemini × PC validation × contenu
+                    base_confidence = result.get("confidence", 0)
+                    adjusted_confidence = base_confidence * conf_adjustment * pc_confidence_adj
                     
                     best_result = PermitData(
-                        permit_number=result.get("permit_number"),
+                        permit_number=cleaned_pc or result.get("permit_number"),
                         deposit_date=result.get("deposit_date"),
                         issue_date=result.get("issue_date"),
                         consultation_start=result.get("consultation_start"),
@@ -716,13 +901,14 @@ class PermitEnricher:
                         source_url=source["url"],
                         source_type=source["type"],
                         confidence=adjusted_confidence,
-                        summary=f"Trouvé via {source['type']} | {reason}"
+                        summary=f"Trouvé via {source['type']} | {reason} | {pc_reason}"
                     )
                     
-                    logger.info(f"  ✅ Meilleur résultat: {adjusted_confidence:.2f} | {reason}")
+                    logger.info(f"  ✅ Meilleur résultat: {adjusted_confidence:.2f}")
+                    logger.debug(f"      PC: {cleaned_pc} | {pc_reason}")
                     
                     # Early stop si très haute confiance
-                    if adjusted_confidence >= 0.9:
+                    if adjusted_confidence >= 0.95:
                         break
                 else:
                     logger.warning(f"  ❌ Rejeté après validation: {reason}")
@@ -760,18 +946,46 @@ class PermitEnricher:
         
         return best_result
     
-    def _download_and_extract(self, url: str, title: str, commune: str, year: int) -> Optional[str]:
+    def _download_and_extract(self, url: str, title: str, commune: str, year: int) -> Optional[Dict]:
         """
-        Télécharge et extrait le contenu d'une URL
+        Télécharge, classifie et extrait le contenu
+        
+        NOUVEAU: 
+        - Classification de page AVANT extraction
+        - Rejet automatique pages cas par cas
+        - Retourne metadata pour meilleure analyse
         """
         try:
+            content = None
+            page_type = PageType.AUTRE
+            
             if ".pdf" in url.lower():
-                return extract_pdf_text(url, title, self.http_client, commune)
+                # Télécharger PDF
+                content = extract_pdf_text(url, title, self.http_client, commune)
+                page_type = PageType.AUTRE
+                
             else:
+                # Scraper HTML
                 content = scrape_html(url, self.http_client)
-                if content and TemporalFilter.is_relevant(url, content, year):
-                    logger.debug(f"    ✓ HTML: {len(content)} chars")
-                    return content
+                
+                # ✓ NOUVEAU: Classifier la page AVANT d'accepter
+                if content and Config.ENABLE_PAGE_CLASSIFICATION:
+                    page_type = classify_dreal_page(url, content)
+                    
+                    # ✗ REJET: Pages cas par cas
+                    if page_type == PageType.CAS_PAR_CAS and Config.REJECT_CAS_PAR_CAS_AS_PC:
+                        logger.info(f"    ⏭️  REJET: Page cas par cas (pas de PC attendu)")
+                        return None
+            
+            # Validation temporelle
+            if content and TemporalFilter.is_relevant(url, content, year):
+                logger.debug(f"    ✓ Contenu valide: {len(content)} chars | type: {page_type}")
+                return {
+                    "content": content,
+                    "page_type": page_type,
+                    "url": url
+                }
+            
         except Exception as e:
             logger.debug(f"    ✗ Erreur: {e}")
         
@@ -788,7 +1002,7 @@ class PermitEnricher:
 # ═══════════════════════════════════════════════════════════════════════════
 
 def main():
-    parser = argparse.ArgumentParser(description="🎯 Enrichissement v13.1 - Scoring + Validation")
+    parser = argparse.ArgumentParser(description="🎯 Enrichissement v13.3 - Scoring + Validation + Classification")
     parser.add_argument("--input", required=True, help="Fichier CSV d'entrée")
     parser.add_argument("--output", help="Fichier CSV de sortie (optionnel)")
     parser.add_argument("--limit", type=int, help="Limiter nb de projets")
