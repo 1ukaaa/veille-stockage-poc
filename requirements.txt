@@ -5,4 +5,5 @@ pdfminer.six==20231228
 pymupdf==1.24.10
 google-generativeai==0.8.2
 python-dotenv==1.0.1
-playwright==1.40.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1

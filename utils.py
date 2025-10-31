@@ -11,6 +11,7 @@ import hashlib
 import zipfile
 import mimetypes
 import logging
+import threading
 from typing import Tuple, Optional, List
 from pathlib import Path
 from urllib.parse import urljoin
@@ -23,6 +24,10 @@ import fitz  # PyMuPDF
 from config import settings
 
 logger = logging.getLogger(__name__)
+
+
+class HTTPDownloadTooLarge(Exception):
+    """Raised when a download exceeds the configured size limit."""
 
 
 # ============ HTTP Client ============
@@ -38,24 +43,68 @@ class HTTPClient:
             follow_redirects=True
         )
         self._request_count = 0
+        self._request_lock = threading.Lock()
+        self._lock = threading.Lock()
+        self._last_request_end = 0.0
     
-    def get_bytes(self, url: str) -> Tuple[bytes, str]:
+    def _respect_rate_limit(self):
+        if self.delay <= 0:
+            return
+        with self._lock:
+            now = time.monotonic()
+            wait = self.delay - (now - self._last_request_end)
+        if wait > 0:
+            time.sleep(wait)
+
+    def _record_request(self):
+        with self._lock:
+            self._request_count += 1
+            self._last_request_end = time.monotonic()
+
+    def get_bytes(self, url: str, max_bytes: Optional[int] = None) -> Tuple[bytes, str]:
         """Télécharge un contenu binaire"""
-        logger.info(f"GET {url}")
-        response = self.client.get(url)
-        response.raise_for_status()
-        self._request_count += 1
-        time.sleep(self.delay)
-        return response.content, str(response.url)
+        with self._request_lock:
+            self._respect_rate_limit()
+            logger.info(f"GET {url}")
+            try:
+                with self.client.stream("GET", url) as response:
+                    response.raise_for_status()
+                    data = bytearray()
+                    limit = max_bytes or 0
+                    for chunk in response.iter_bytes():
+                        data.extend(chunk)
+                        if limit and len(data) > limit:
+                            raise HTTPDownloadTooLarge(f"Download exceeds limit ({limit} bytes)")
+                    final_url = str(response.url)
+            finally:
+                self._record_request()
+            return bytes(data), final_url
     
     def get_text(self, url: str) -> Tuple[str, str]:
         """Télécharge un contenu texte"""
-        logger.info(f"GET {url}")
-        response = self.client.get(url)
-        response.raise_for_status()
-        self._request_count += 1
-        time.sleep(self.delay)
-        return response.text, str(response.url)
+        with self._request_lock:
+            self._respect_rate_limit()
+            logger.info(f"GET {url}")
+            try:
+                response = self.client.get(url)
+                response.raise_for_status()
+                text = response.text
+                final_url = str(response.url)
+            finally:
+                self._record_request()
+            return text, final_url
+
+    def head(self, url: str) -> httpx.Response:
+        """Effectue une requête HEAD (pour métadonnées)"""
+        with self._request_lock:
+            self._respect_rate_limit()
+            logger.debug(f"HEAD {url}")
+            try:
+                response = self.client.head(url)
+                response.raise_for_status()
+            finally:
+                self._record_request()
+            return response
     
     def close(self):
         """Ferme proprement le client"""
@@ -245,7 +294,11 @@ def extract_zip_archive(zip_bytes: bytes, output_dir: Path) -> List[dict]:
             if name.endswith("/"):
                 continue
             
-            safe_name = slugify(os.path.basename(name)) or "file"
+            original_basename = os.path.basename(name)
+            stem, ext = os.path.splitext(original_basename)
+            slug = slugify(stem) or "file"
+            hash_suffix = hashlib.sha1(name.encode("utf-8")).hexdigest()[:8]
+            safe_name = f"{slug}_{hash_suffix}{ext.lower()}"
             dest_path = output_dir / safe_name
             
             try:
@@ -352,3 +405,162 @@ class PersistentCache:
         self.cache = {}
         if self.cache_file.exists():
             self.cache_file.unlink()
+
+# AJOUTER À LA FIN DE utils.py
+
+def quick_pdf_scan(pdf_bytes: bytes, commune: str, max_pages: int = 2) -> bool:
+    """
+    Scan rapide des premières pages pour vérifier pertinence
+    Évite extraction complète de PDFs de 100+ pages non pertinents
+    """
+    try:
+        import fitz
+        doc = fitz.open(stream=pdf_bytes, filetype="pdf")
+        
+        quick_text = ""
+        for page_num in range(min(max_pages, doc.page_count)):
+            quick_text += doc[page_num].get_text("text")
+        
+        doc.close()
+        
+        # Normaliser et chercher commune
+        from validation import normalize_commune, get_commune_variations
+        commune_variants = get_commune_variations(commune)
+        quick_text_lower = quick_text.lower()
+        
+        if any(var in quick_text_lower for var in commune_variants):
+            logger.debug(f"✓ Quick scan: commune trouvée dans {max_pages} premières pages")
+            return True
+        
+        logger.warning(f"⚠️  Quick scan: commune '{commune}' absente des {max_pages} premières pages")
+        return False
+        
+    except Exception as e:
+        logger.debug(f"Quick scan failed: {e}")
+        return True  # En cas d'erreur, continuer extraction complète
+
+
+class PDFMetadataCache:
+    """Cache des métadonnées PDFs (taille, Content-Type) pour éviter HEAD répétés"""
+    
+    def __init__(self, cache_dir: Path):
+        self.cache = SimpleCache(cache_dir)
+    
+    def get_pdf_size(self, url: str, http_client: 'HTTPClient') -> Optional[float]:
+        """Retourne taille en MB depuis cache ou HEAD request"""
+        cache_key = self.cache.get_key(url)
+        
+        # Chercher en cache
+        cached = self.cache.load(cache_key, category="pdf_metadata")
+        if cached:
+            try:
+                metadata = json.loads(cached.decode('utf-8'))
+                logger.debug(f"📦 Cache hit: {url[:80]}")
+                return metadata.get("size_mb")
+            except:
+                pass
+        
+        # HEAD request
+        try:
+            response = http_client.head(url)
+            content_length = response.headers.get("Content-Length")
+            if content_length:
+                size_mb = int(content_length) / (1024 * 1024)
+                
+                # Sauvegarder en cache
+                self.cache.save(
+                    cache_key,
+                    json.dumps({"size_mb": size_mb, "timestamp": time.time()}).encode('utf-8'),
+                    category="pdf_metadata"
+                )
+                return size_mb
+        except Exception as e:
+            logger.debug(f"HEAD failed: {e}")
+        
+        return None
+
+# ============ QUICK PDF SCAN (NOUVEAU) ============
+
+def quick_pdf_scan(pdf_bytes: bytes, commune: str, max_pages: int = 2) -> bool:
+    """
+    Scan rapide des premières pages pour vérifier pertinence
+    Évite extraction complète de PDFs de 100+ pages non pertinents
+    
+    Args:
+        pdf_bytes: Contenu du PDF en bytes
+        commune: Nom de la commune cible
+        max_pages: Nombre de pages à scanner (défaut 2)
+    
+    Returns:
+        True si commune trouvée, False sinon
+    """
+    try:
+        import fitz
+        doc = fitz.open(stream=pdf_bytes, filetype="pdf")
+        
+        quick_text = ""
+        for page_num in range(min(max_pages, doc.page_count)):
+            quick_text += doc[page_num].get_text("text")
+        
+        doc.close()
+        
+        # Normaliser et chercher commune
+        from validation import normalize_commune, get_commune_variations
+        commune_variants = get_commune_variations(commune)
+        quick_text_lower = quick_text.lower()
+        
+        if any(var in quick_text_lower for var in commune_variants):
+            logger.debug(f"    ✓ Quick scan: commune trouvée dans {max_pages} premières pages")
+            return True
+        
+        logger.debug(f"    ⏭️  Quick scan: commune '{commune}' absente des {max_pages} premières pages")
+        return False
+        
+    except Exception as e:
+        logger.debug(f"    Quick scan failed: {e}")
+        return True  # En cas d'erreur, continuer extraction complète
+
+
+# ============ PDF METADATA CACHE (NOUVEAU) ============
+
+class PDFMetadataCache:
+    """Cache des métadonnées PDFs (taille, Content-Type) pour éviter HEAD répétés"""
+    
+    def __init__(self, cache_dir: Path):
+        self.cache = SimpleCache(cache_dir)
+    
+    def get_pdf_size(self, url: str, http_client: 'HTTPClient') -> Optional[float]:
+        """Retourne taille en MB depuis cache ou HEAD request"""
+        cache_key = self.cache.get_key(url)
+        
+        # Chercher en cache
+        cached = self.cache.load(cache_key, category="pdf_metadata")
+        if cached:
+            try:
+                metadata = json.loads(cached.decode('utf-8'))
+                logger.debug(f"    📦 Cache hit pour {url[:60]}")
+                return metadata.get("size_mb")
+            except:
+                pass
+        
+        # HEAD request
+        try:
+            response = http_client.head(url)
+            content_length = response.headers.get("Content-Length")
+            if content_length:
+                try:
+                    size_mb = int(content_length) / (1024 * 1024)
+                    
+                    # Sauvegarder en cache
+                    self.cache.save(
+                        cache_key,
+                        json.dumps({"size_mb": size_mb, "timestamp": time.time()}).encode('utf-8'),
+                        category="pdf_metadata"
+                    )
+                    return size_mb
+                except ValueError:
+                    pass
+        except Exception as e:
+            logger.debug(f"    HEAD failed: {e}")
+        
+        return None

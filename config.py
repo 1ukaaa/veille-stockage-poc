@@ -59,6 +59,10 @@ class Settings:
         (self.OUTPUT_DIR / "analyzed").mkdir(exist_ok=True)
         (self.OUTPUT_DIR / "enriched").mkdir(exist_ok=True)
 
+    # NOUVEAUX PARAMÈTRES VALIDATION
+    URL_SCORE_THRESHOLD: float = 0.25
+    MIN_COMMUNE_MENTIONS: int = 1
+    QUICK_SCAN_ENABLED: bool = True
 
 # Instance globale
 settings = Settings()

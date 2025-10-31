@@ -28,12 +28,6 @@ from utils import (
     SimpleCache
 )
 
-# Configuration logging
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    datefmt="%H:%M:%S"
-)
 logger = logging.getLogger(__name__)
 
 # Configuration Gemini
@@ -46,6 +40,14 @@ MAX_WORKERS_EXTRACTION = 3  # Extractions PDF parallèles
 
 
 # ============ Document Discovery ============
+
+def configure_logging():
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s [%(levelname)s] %(message)s",
+        datefmt="%H:%M:%S",
+        force=True,
+    )
 
 def find_document_links(html: str, base_url: str) -> List[Dict]:
     """Trouve tous les liens PDF/ZIP dans le HTML"""
@@ -184,9 +186,10 @@ def analyze_with_gemini(text_chunks: List[str], metadata: Dict) -> Dict:
 
 # ============ Téléchargement Parallèle ============
 
-def download_document_worker(args: Tuple) -> Tuple[str, bytes, str]:
+def download_document_worker(args: Tuple) -> Tuple[int, str, bytes, str]:
     """Worker pour téléchargement parallèle de documents"""
-    http_client, doc_url, cache = args
+    order, http_client, link, cache = args
+    doc_url = link["url"]
     
     try:
         # Cache check
@@ -196,20 +199,20 @@ def download_document_worker(args: Tuple) -> Tuple[str, bytes, str]:
             cached_data = cache.load(cache_key, "pdfs")
             if cached_data:
                 logger.debug(f"Cache hit: {doc_url}")
-                return doc_url, cached_data, "cached"
+                return order, doc_url, cached_data, "cached"
         
         # Téléchargement
-        blob, final_url = http_client.get_bytes(doc_url)
+        blob, _ = http_client.get_bytes(doc_url)
         
         # Sauvegarde cache
         if cache and cache_key:
             cache.save(cache_key, blob, "pdfs")
         
-        return doc_url, blob, "downloaded"
+        return order, doc_url, blob, "downloaded"
     
     except Exception as e:
         logger.error(f"Download failed {doc_url}: {e}")
-        return doc_url, b"", "failed"
+        return order, doc_url, b"", "failed"
 
 
 # ============ Extraction Parallèle ============
@@ -274,20 +277,20 @@ def process_project_optimized(
         logger.info(f"[{project_id}] Téléchargement parallèle de {len(doc_links)} documents...")
         
         download_args = [
-            (http_client, link["url"], cache)
-            for link in doc_links
+            (idx, http_client, link, cache)
+            for idx, link in enumerate(doc_links)
         ]
         
         with ThreadPoolExecutor(max_workers=MAX_WORKERS_DOWNLOAD) as executor:
             futures = {
-                executor.submit(download_document_worker, args): args[1]
+                executor.submit(download_document_worker, args): args[0]
                 for args in download_args
             }
             
             for future in as_completed(futures):
-                doc_url, blob, status = future.result()
+                order, doc_url, blob, status = future.result()
                 if blob:
-                    downloaded_docs[doc_url] = blob
+                    downloaded_docs[order] = (doc_url, blob, status)
     
     # 4. Extraction parallèle PDFs
     text_chunks = [f"[PAGE_HTML]\n{page_text}"]
@@ -296,12 +299,18 @@ def process_project_optimized(
     if downloaded_docs:
         logger.info(f"[{project_id}] Extraction parallèle de {len(downloaded_docs)} documents téléchargés...")
         
-        # Préparation données extraction
         extraction_jobs: List[Tuple[str, bytes, str, str]] = []
-        url_to_link = {link["url"]: link for link in doc_links}
+        ordered_downloads: List[Tuple[Dict, bytes]] = []
         
-        for idx, (doc_url, blob) in enumerate(downloaded_docs.items(), 1):
-            link = url_to_link.get(doc_url, {})
+        for idx, link in enumerate(doc_links):
+            payload = downloaded_docs.get(idx)
+            if not payload:
+                continue
+            doc_url, blob, status = payload
+            ordered_downloads.append((link, blob))
+        
+        for idx, (link, blob) in enumerate(ordered_downloads, 1):
+            doc_url = link["url"]
             doc_type = link.get("type", "AUTRE")
             ext = (link.get("ext") or "").lower()
             base_slug = slugify(os.path.splitext(os.path.basename(doc_url))[0])
@@ -442,6 +451,8 @@ def main():
     )
     
     args = parser.parse_args()
+    
+    configure_logging()
     
     # Validation input
     input_path = Path(args.input)

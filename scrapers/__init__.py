@@ -6,8 +6,7 @@ from typing import Optional
 
 AVAILABLE_REGIONS = {
     "auvergne-rhone-alpes": "auvergne_rhone_alpes",
-    "normandie": "normandie",
-    "bourgogne-franche-comte":"bourgogne_franche_comte",
+    "bourgogne-franche-comte": "bourgogne_franche_comte",
 }
 
 

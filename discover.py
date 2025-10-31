@@ -17,14 +17,8 @@ import pandas as pd
 
 from config import settings
 from utils import HTTPClient
-from scrapers import get_scraper
+from scrapers import AVAILABLE_REGIONS, get_scraper
 
-# Configuration logging
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    datefmt="%H:%M:%S"
-)
 logger = logging.getLogger(__name__)
 
 
@@ -35,6 +29,16 @@ def format_duration(seconds: float) -> str:
     minutes = int(seconds // 60)
     secs = seconds % 60
     return f"{minutes}min {secs:.0f}s"
+
+
+def configure_logging(verbose: bool):
+    level = logging.DEBUG if verbose else logging.INFO
+    logging.basicConfig(
+        level=level,
+        format="%(asctime)s [%(levelname)s] %(message)s",
+        datefmt="%H:%M:%S",
+        force=True,
+    )
 
 
 def main():
@@ -53,14 +57,14 @@ Exemples:
   python discover.py --region auvergne-rhone-alpes --dept 01 --year 2024 --benchmark
   
   # Output personnalisé
-  python discover.py --region normandie --year 2023 --output mes_projets.csv
+  python discover.py --region bourgogne-franche-comte --year 2024 --output mes_projets.csv
         """
     )
     
     parser.add_argument(
         "--region",
         required=True,
-        help="Région à scraper (ex: auvergne-rhone-alpes, normandie)"
+        help="Région à scraper (ex: auvergne-rhone-alpes, bourgogne-franche-comte)"
     )
     parser.add_argument(
         "--year",
@@ -92,9 +96,7 @@ Exemples:
     
     args = parser.parse_args()
     
-    # Configuration logging verbose
-    if args.verbose:
-        logging.getLogger().setLevel(logging.DEBUG)
+    configure_logging(args.verbose)
     
     # Validation année
     if not args.year.isdigit() or len(args.year) != 4:
@@ -121,7 +123,8 @@ Exemples:
         scraper_module = get_scraper(args.region)
     except ImportError as e:
         logger.error(str(e))
-        logger.info("Régions disponibles: auvergne-rhone-alpes, normandie")
+        available = ", ".join(sorted(AVAILABLE_REGIONS.keys()))
+        logger.info(f"Régions disponibles: {available}")
         sys.exit(1)
     
     # Affichage configuration

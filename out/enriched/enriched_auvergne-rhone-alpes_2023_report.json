@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "input_file": "out/analyzed/analyzed_auvergne-rhone-alpes_2023.csv",
+    "output_file": "/Users/lukamauvignant/Library/Mobile Documents/com~apple~CloudDocs/veille-stockage-poc/out/enriched/enriched_auvergne-rhone-alpes_2023.csv",
+    "timestamp": "2025-10-31 15:37:31",
+    "duration_seconds": 397.1,
+    "projects_processed": 5
+  },
+  "statistics": {
+    "permits_found": 1,
+    "high_confidence": 1,
+    "avg_confidence": 0.18
+  }
+}

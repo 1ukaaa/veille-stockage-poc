@@ -57,7 +57,7 @@ Extraction avec cache
 python extract.py --input projects.csv --use-cache
 
 Enrichissement avec validation manuelle
-python enrich.py --input analyzed.csv --confidence-threshold 0.8
+python enrich.py --input analyzed.csv --debug
 
 ## 📁 Structure Projet
 
@@ -69,8 +69,9 @@ veille-stockage-poc/
 ├── extract.py # CLI extraction
 ├── enrich.py # CLI enrichissement
 ├── scrapers/ # Modules scrapers régionaux
-│ ├── init.py
-│ └── auvergne_rhone_alpes.py
+│ ├── __init__.py
+│ ├── auvergne_rhone_alpes.py
+│ └── bourgogne_franche_comte.py
 ├── out/ # Résultats (créé automatiquement)
 │ ├── projects/
 │ ├── analyzed/
@@ -90,7 +91,7 @@ Les résultats sont exportés en CSV avec les colonnes suivantes :
 ## 🔧 Régions Supportées
 
 - Auvergne-Rhône-Alpes
-- Normandie (à venir)
+- Bourgogne-Franche-Comté
 
 Pour ajouter une région : créer `scrapers/votre_region.py` avec méthode `discover_projects()`
 
