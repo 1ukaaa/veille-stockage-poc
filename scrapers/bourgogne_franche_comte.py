@@ -164,7 +164,7 @@ def _call_national_api(
             # Construire URL projet
             url = ""
             if document_id:
-                url = f"{NATIONAL_PORTAL_BASE}/#/public/portal-review/{document_id}"
+                url = f"{NATIONAL_PORTAL_BASE}/#/public/view-document/{document_id}"
             
             # Créer projet
             project = Project(

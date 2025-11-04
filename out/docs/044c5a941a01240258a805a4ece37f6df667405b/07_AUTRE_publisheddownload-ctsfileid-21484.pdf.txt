@@ -1,0 +1,917 @@
+Offre portée par LANGA INTERNTIONAL 
+
+Présentation du projet de  
+
+Centrale de stockage d’énergie par batteries 
+MONTIGNY LA RESLE (89) 
+
+Vos contacts 
+
+Camille BREDOUX 
+Responsable Développement 
+06.80.60.51.28 
+c.bredoux@langa-
+international.com  
+
+Etienne MARTIN 
+Directeur Technique 
+06.42.38.57.38 
+e.martin@langa-
+international.com 
+
+ 
+ 
+                                                                                        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page 2 / 27 
+
+ 
+ 
+ 
+ 
+ 
+Table des matières 
+
+1  Présentation de LANGA, producteur d’Energies 
+
+renouvelables ...................................................................... 4 
+Développement en France ..............................................................................................................4 
+
+2  Le stockage d’énergie par batteries .................................. 5 
+
+3  Le site de Montigny-la-Resle .............................................. 6 
+Le choix du site ...................................................................................................................... 6 
+
+3.1 
+
+3.2 
+
+3.3 
+
+3.4 
+
+3.5 
+
+3.6 
+
+Le Plan local d’urbanisme ................................................................................................... 7 
+
+Topographie ........................................................................................................................... 7 
+
+Archéologie et patrimoine .................................................................................................. 8 
+
+Aléa gonflement d’argiles ................................................................................................... 8 
+
+Protection de captage ......................................................................................................... 9 
+
+4  La Conception du projet de Centrale de Stockage ........ 10 
+Implantation.......................................................................................................................... 10 
+
+4.1 
+
+4.2 
+
+4.3 
+
+Les éléments constitutifs du projet de stockage : ....................................................... 11 
+
+Détail des composants de la centrale de stockage d’énergie ................................. 11 
+
+5  Le raccordement électrique du projet ............................. 13 
+
+6  Analyse des impacts potentiels du projet ...................... 14 
+Impact paysager .................................................................................................................. 14 
+
+6.1 
+
+6.2 
+
+6.3 
+
+6.4 
+
+Impact sonore ..................................................................................................................... 23 
+
+Risque d’intrusion ............................................................................................................... 24 
+
+Risque incendie ................................................................................................................... 24 
+
+6.5  Milieu naturel ....................................................................................................................... 25 
+
+6.6  Milieu physique ................................................................................................................... 26 
+
+6.7 
+
+Planning prévisionnel détaillé par phase ..................................................................... 27 
+
+. 
+
+.  
+
+ Page 3 / 27 
+
+ 
+ 
+  
+ 
+1  Présentation de LANGA, producteur d’Energies 
+
+renouvelables 
+
+LANGA  International  est  une  entreprise  indépendante  de  production  et  de  stockage  d’électricité  renouvelable, 
+présente depuis 2008 en France puis à l’international. 
+
+Figure 1_Historique de l'entreprise 
+
+C’est une entreprise intégrée et possédant une expertise sur l’ensemble de la chaîne de valeur de la réalisation d’un 
+projet photovoltaïque : développement / construction / production / exploitation. 
+
+Développement en France 
+
+En France, LANGA et son management ont mis en service plus de 150 MW d’actifs, ont développé plus de 100 MWc de 
+projets  prêts  à  construire  et  5  GWc  en  cours  de  développement.  Actuellement  le  portefeuille  de  projets  de  LANGA 
+International s’élève à 2,3 GW de projets, dont 140 MW de projets prêts à construire, répartis sur l’ensemble du territoire 
+français, permettant à LANGA de connaitre les spécificités de développement dans chaque département.  
+
+Figure 3_Projets en développement 
+
+Figure 2_Implantation des projets en France en 2023 
+
+Figure 4_Volume des projets au stade prêts à construire 
+
+ Page 4 / 27 
+
+ 
+ 
+  
+ 
+2  Le stockage d’énergie par batteries 
+
+Le stockage d’énergie par batterie permet de libérer le potentiel des énergies renouvelables. Un système de stockage 
+d’énergie par batteries stocke l’énergie renouvelable produite localement à son pic de production pour alimenter le 
+réseau électrique pendant les périodes de fortes demandes.  
+
+Ces systèmes permettent de décarboner notre production d’électricité en réduisant la production d’énergie d’origine 
+carboné. Ces dispositifs de stockage de l'énergie sont écologiquement durables, ont une densité de puissance élevée, 
+de l'énergie, de la durée de vie et de l'efficacité, et peuvent réduire les coûts de stockage. 
+
+Les flexibilités liées au stockage (stationnaire, diffus, etc.), peuvent rendre plusieurs services au système : elles peuvent 
+contribuer à l’équilibre offre-demande à différentes échéances (du long terme au temps réel), à la résorption des 
+congestions du réseau, à la réduction des pertes électriques, etc.  
+
+ Page 5 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3  Le site de Montigny-la-Resle  
+
+3.1 Le choix du site 
+
+Dans sa stratégie de transition énergétique la France souhaite développer les énergies renouvelables sur l’ensemble du 
+territoire Français mais également des centrales de stockage d’énergie par batterie. Une centrale de stockage d’énergie 
+par  batteries  est  une  installation  complémentaire  et  maintenant  indispensable  au  développement  des  énergies 
+renouvelables et contribue à la stabilisation du réseau électrique, en Réinjectant de l’énergie pendant les périodes de 
+forte demande, et en stockant de l’énergie électrique en période de forte production.  
+
+Les critères d’identification du site : 
+
+La sélection d’un site a consisté à identifier les sites qui répondent aux critères suivants : 
+-  Une  Capacité  technique  importante  du  réseau  électrique  de  transport  d’électricité  :  la  ou  les  lignes  électriques 
+sélectionnées doivent avoir de grosses capacités de transit d’énergie et une capacité permettant la décharge (injection) 
+ainsi que la charge (soutirage) de batteries (données RTE publiques).  
+- Un terrain d’une surface minimum d’un hectare ou plus à proximité ou en surplomb d’une ligne RTE de forte capacité. 
+-  Au  niveau  des  Enjeux  environnementaux  :  le  terrain  identifié  doit  se  situer  dans  une  zone  à  faibles  enjeux 
+environnementaux, par exemple en dehors des zones protégées (N2000, ZNIEFF, parc nationaux) et en dehors d’autres 
+zones avec enjeux répertoriés (zone humides, inondations) ; 
+- L’Absence d’habitation proche : l’habitation la plus proche est à 720 mètres.  
+Les parcelles identifiées pour le projet répondent à ces critères : Forte capacité de transport d’électricité, faible enjeu 
+environnemental et absence d’habitations à proximité. Le projet est ainsi situé sur la commune de Montigny-la-Resle 
+dans le département de l’Yonne. Les parcelles sont situées en limite communale avec la commune de Bleigny-le-
+Carreau. Les parcelles sont actuellement exploitées en culture céréalière par plusieurs propriétaires/exploitants.  
+
+Localisation du site à Montigny-la-Resle_89230 / source (IGN) 
+
+Le tableau ci-dessous liste les parcelles du projet de stockage d’énergie et des aménagements paysager. 
+
+SECTION 
+
+NUMERO 
+
+ZM 
+
+ZM 
+
+ZM 
+
+54 
+
+53 
+
+52 
+
+ADRESSE 
+
+LES LEVROTTES 
+
+SURFACE 
+
+1ha 09a 30ca 
+
+       LES LEVROTTES 
+
+                 0ha 53a 90ca 
+
+LES LEVROTTES 
+
+00ha 27a 76ca 
+
+Le périmètre du projet sur la commune de Montigny-la-Resle considéré pour le développement de la centrale de 
+stockage d’énergie est de : 1ha 81a 20ca.  
+
+ Page 6 / 27 
+
+ 
+ 
+3.2 Le Plan local d’urbanisme 
+
+La commune de Montigny-la-Resle possède un PLU. L’assiette du projet est considérée comme une zone agricole (A). 
+
+Dans le cas d’un zonage A le PLU indique : 
+
+« A1 : Occupation du sol interdites » : Les constructions et les aménagements qui ne sont liés ni à l’exploitation 
+
+• 
+agricole, ni aux services publics ou d’intérêt collectif. 
+
+Ainsi, le règlement de la zone A autorise les installations d’intérêts collectifs dont les projets de centrales de stockage 
+d’énergie raccordés au réseau public et de transport d’électricité font partie. 
+
+Extrait du plan PLU de la commune de Montigny-la-Resle – Projet en zonage A  
+
+3.3 Topographie 
+
+Le site est localisé au lieu-dit les LEVROTTES, la topographie proche est assez plane avec quelques collines et vallées 
+de part et d’autre du site. Le projet est localisé dans une plaine céréalière à environ 211 mètres d’altitude. L’élévation 
+minimum est de 134 mètres avec un maximum à environ 305 mètres. 
+
+          Sources (Plan topographique – Modèle Numérique de Terrain) 
+
+ Page 7 / 27 
+
+ 
+ 
+ 
+3.4 Archéologie et patrimoine 
+
+Il n’y a pas d’enjeux connus sur cette parcelle et pas d’impact sur le patrimoine :  
+
+Le patrimoine le plus proche est situé à 2.6 km avec la localisation d’un dolmen sur la commune de Bleigny-le-
+Carreau. Aucune zone de présomption archéologie à proximité du site. 
+
+3.5 Aléa gonflement d’argiles 
+
+La cartographie ci-contre montre 
+une exposition moyenne au retrait-
+gonflement des argiles. 
+Cet aléa n’est pas un 
+enjeu majeur pour le projet, 
+notamment compte tenu des 
+dispositions constructives de ce 
+type de projet. 
+
+Figure 3 : (Sources BD ortho, Géorisques) 
+
+ Page 8 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.6 Protection de captage 
+
+Aucune protection de captage n’est identifiée sur la commune de Montigny la Resle. 
+
+ Page 9 / 27 
+
+ 
+ 
+ 
+ 
+ 
+4  La Conception du projet de Centrale de Stockage 
+
+4.1 Implantation 
+
+Le terrain d’implantation est situé directement à l’aplomb de deux lignes de transport d’électricité RTE 225 000 Volts de 
+très  forte  capacité.  A  partir  des  éléments  cités  dans  la  partie  précédente,  nous  avons  réalisé  un  plan  d’implantation 
+préliminaire, qui tient compte des contraintes et prescriptions recensées pour le site (Plan d’implantation en annexe 3) : 
+
+5 
+
+7 
+
+3 
+
+4 
+
+1 
+
+2 
+
+5 
+
+6 
+
+Plan d’implantation du projet à l’échelle 1 : 5000 Sources (BD Ortho IGN, Parcellaire Express PCI) 
+
+Le plan ci-dessus (plan détaillé en annexe 3) présente l’implantation du projet, constituée des éléments suivants : 
+1. 32 unités de stockage contenant les batteries ; 
+2. 8 postes de transformation BT / HTA pour amener la tension à 33kV ; 
+3. Un poste électrique HTB avec un transformateur de tension 33kV/ 225 kV ; 
+4. Un local de maintenance ; 
+5. Deux citernes (120m3) 
+6. Des pistes d’accès, avec parking de stationnement, aire de retournement et plateforme DECI ; 
+7. Clôture tout autour de l’installation et haie paysagère sur le côté Sud, Ouest et Est 
+Cette implantation permet de fixer le potentiel de stockage à 200 MWH (Méga-Watt-Heure)    
+
+ Page 10 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2 Les éléments constitutifs du projet de stockage : 
+
+Schéma des éléments constitutifs d’un projet de stockage :  
+
+Les batteries sont des dispositifs de stockage électrochimique. Chaque cellule est constituée d’une électrode positive et 
+d’une  électrode  négative,  toutes  deux  immergées  dans  un  milieu  conducteur  appelé  électrolyte.  Les  cellules  sont 
+regroupées dans des racks et entreposés dans des armoires ou des containers/enceintes à environnement contrôlé et 
+conçus  pour  être  installés  en  extérieur.  La  température  y  est  régulée  grâce  à  un  système  de  ventilation  et  de 
+refroidissement liquide. 
+Les  batteries  sont  des  technologies  connectées  en  courant  continu,  elles  sont  donc  couplées  à  des  onduleurs  pour 
+réaliser la conversion en courant alternatif et à des transformateurs pour élever la tension en vue du raccordement au 
+réseau public d’électricité. 
+Un poste de livraison fait le lien entre la centrale de stockage et le réseau public d’électricité et un local technique permet 
+aux équipes d’exploitation de superviser la centrale et d’assurer sa maintenance. 
+Le  raccordement  au  réseau  sera  réalisé  en  Très  Haute  Tension  (HTB,  réseau  de  Transport  RTE),  un  poste  électrique 
+HTB/HTA fait également partie du projet et se situera dans l’emprise foncière du projet. 
+
+4.3 Détail des composants de la centrale de stockage d’énergie 
+
+Les containers Batteries : 
+
+Afin de garantir au projet une capacité de stockage conséquente et afin de garantir le meilleur service réseau pour RTE, 
+nous avons retenu des containers de batteries de 40 pieds, conçus pour répondre aux dernières normes en terme de 
+sécurité (sécurité électrique et incendie) : 
+
+Container 40 pieds 
+
+ Page 11 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Les Onduleurs 
+
+Les onduleurs sont des postes de conversion d’énergie électrique, ils assurent la conversion du courant continu stocké 
+dans les batteries (1 500 V courant continu) en courant alternatif (800 V), ils intègrent toutes les protections électriques 
+nécessaires pour un fonctionnement sécurisé. 
+
+Les Transformateurs 
+
+Onduleur SMA Sunny Centrale 
+
+Les  transformateurs  permettront  d’élever  la  tension  de  la  centrale  au  niveau  requis  par  la  connexion  au  réseau. 
+L’élévation de tension se fera à deux niveaux : Tout d’abord en sortie des onduleurs de conversion en courant alternatif, 
+afin d’élever la tension à 33 000 V, et ensuite en deuxième niveau l’élévation de la tension en 225 kV pour se raccorder 
+au  réseau  de  transport  d’électricité  (voir  chapitre  suivant).  Ci-dessous  un  exemple  de  transformateur  installé  dans  la 
+Centrale, pour la 1ère élévation de tension (en 33 000 V) : 
+
+Transformateur 33 kV 5 MVA  
+
+ Page 12 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+5  Le raccordement électrique du projet 
+
+Le raccordement au réseau de transport d’électricité est un élément déterminant du projet car le réseau RTE doit avoir 
+la capacité de raccorder la centrale et RTE doit valider la faisabilité technique d’un tel raccordement.  
+LANGA International a engagé un processus de raccordement avec le Gestionnaire de Réseau et a reçu une proposition 
+de raccordement de la part de RTE. Cette proposition comprend un chiffrage financier mais aussi une solution technique 
+de raccordement, précisée comme suit : 
+La réalisation du raccordement du projet de Montigny se fera en piquage sur une des deux lignes électriques RTE 225 
+kV  qui  surplombent  le  site,  avec  un  raccordement  direct  sur  le  poste  Très  Haute  tension  situé  dans  la  Centrale  de 
+stockage. 
+
+Photo des pylônes/lignes RTE 225 kV pour le raccordement :  
+
+Plan de situation de la ligne RTE entre le poste source « LES PRELES » et le poste source « SEREIN ».  
+
+ Page 13 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+6  Analyse des impacts potentiels du projet 
+
+6.1 Impact paysager 
+
+Le site est un site isolé, au centre d’une plaine agricole bordée par une route départementale à l’ouest « D524 » et d’une 
+route  départementale  à  l’est  « D124 ».  La  topographie  environnante  (reliefs  assez  peu  prononcés)  et  la  présence  de 
+forêts permettent de masquer la zone d’implantation du projet dans la majeure partie des cas. La centrale de stockage 
+d’énergie devrait être en vision lointaine depuis certains endroits du hameau de Merry ainsi qu’à l’entrée et à la sortie 
+du bourg de Bleigny-le-Carreau. 
+
+Potentielle Co-visibilité avec le projet depuis les deux départementales qui entourent le projet 
+
+Numérotation  des  prises  de  vues  en  corrélation  avec  la  topographie  et  les  éléments  structurants  du  paysage  (en  rouge 
+élévation haute, en bleu élévation basse en fond de vallée) 
+
+ Page 14 / 27 
+
+ 
+ 
+ 
+ 
+ 
+Le territoire étudié se distingue par une topographie douce et majoritairement plane avec de légers vallons dessinés par 
+un réseau hydrographique bien en place. En surface se sont développées de nombreuses prairies et parcelles cultivées 
+ainsi que quelques vignes amenant un caractère rural au site. Ces différentes parcelles sont délimitées par la topographie 
+et également par des éléments structurant du paysage comme notamment le bois de Merry, le bois de bel-Air qui ferme 
+globalement les vues et amène une impression d’intimité dans ce paysage. Ce maillage est ponctuellement plus lâche, 
+permettant ainsi au regard de porter plus loin. 
+
+Projet 
+
+Prise de vue n°1 : Localisation depuis une rue au sein du hameau de Merry, photographie en direction de l’est.  
+Date de la photo (mai 2021) google maps 
+
+Prise de vue n°2 : Aucune visibilité sur la zone d’implantation potentielle.  
+Localisation depuis la D524, photographie en direction du sud-ouest. Présence d’un masque végétal forestier épais sur la gauche de 
+la départementale. Date de la photo, mai 2021 (Google maps) 
+
+ Page 15 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prise de vue n°3 : Aucune visibilité sur la zone d’implantation potentielle. Localisation depuis la D524, photographie en direction du 
+sud-ouest au sein de la forêt ST-GERMAIN. Présence d’un masque végétal forestier important de part et d’autre de la départementale. 
+Date de la photo, mai 2021 (Google maps)  
+
+Projet 
+
+Prise de vue n°4 : Faible visibilité sur la zone d’implantation potentielle. Localisation depuis la D524, photographie en direction du 
+nord-est sous la ligne RTE. Faible co-visibilité depuis ce point de vue au loin.  Date de la photo, mai 2021 (Google Maps)  
+
+ Page 16 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Projet 
+
+Prise de vue n°5 : Aucune visibilité sur la zone d’implantation. Localisation depuis l’axe majeur au sein du bourg de Bleigny-le-Carreau. 
+Présence de masque bâti sur l’ensemble de la route. Date de la photo juillet 2013 (google maps)  
+
+Projet 
+
+Prise de vue n°6 : Faible visibilité sur la zone d’implantation. Localisation depuis la D124 en sortie du village de Bleigny-le-Carreau, 
+photographie en direction du nord. Potentiel co-visibilité depuis ce point de vue au loin.  Date de la photo mai 2021 (google maps) 
+
+ Page 17 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Projet 
+
+Prise de vue n°7 : Aucune visibilité sur la zone d’implantation. Localisation depuis la D124, photographie en direction du nord-ouest. 
+Présence d’un masque topographique (petite colline). Date de la photo mai 2021 (google maps) 
+
+Projet 
+
+Prise  de  vue  n°8 : Aucune  visibilité  sur  la  zone  d’implantation.  Localisation  depuis  la  D124,  photographie  en  direction  de  l’ouest. 
+Présence d’un masque topographique (petite colline). Date de la photo mai 2021 (google maps) 
+
+ Page 18 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prise  de  vue  n°9 : Aucune  visibilité  sur  la  zone  d’implantation.  Localisation  depuis  la  D124,  photographie  en  direction  de  l’ouest. 
+Présence d’un masque topographique (petite colline). Date de la photo mai 2021 (google maps) 
+
+Projet 
+
+Prise de vue n°10 : Localisation depuis un chemin communal, photographie proche du site en direction de nord-est. Site visible sur la 
+gauche avec le pylône RTE pour le raccordement électrique de la centrale de stockage.  
+Date de la photo, 18 novembre 2024 (Langa International)  
+
+ Page 19 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Projet 
+
+Prise  de  vue n°11 : Localisation depuis un chemin communal, photographie  en bordure  des parcelles concernées en direction de 
+nord-ouest. Site visible avec présence des pylônes électriques pour le raccordement de la centrale de stockage.  
+Date de la photo, 18 novembre 2024 (Langa International)  
+
+Projet 
+
+Prise de vue n°12 : Localisation depuis un chemin communal, photographie en bordure des parcelles concernées en direction du sud-
+ouest. Site visible avec présence des pylônes électriques pour le raccordement de la centrale de stockage.  
+Date de la photo, 18 novembre 2024 (Langa International)  
+
+ Page 20 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Désignation des éléments protégés du patrimoine : 
+
+Une topographie dans un périmètre lointain qui masque majoritairement la ZIP « zone d’implantation potentielle » des 
+éléments protégés du patrimoine : 
+
+Repère n°1 : Dolmen (commune de (Bleigny-le-Carreau) 
+
+Repère n°2 : La chapelle Saint Cloud (commune de Villeneuve-Saint-Salves) 
+
+Repère n°3 : Eglise Notre Dame (commune de Beine) 
+
+Repère n°4 : Eglise Saint Sébastien (commune de la Chapelle Vaupelteigne)   
+
+Repère n°5 : Château Vaulle (commune de Maligny) 
+
+ Page 21 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nos mesures d’intégration paysagère de notre projet dans son environnement : 
+
+Langa International fera réaliser une étude d’intégration paysagère détaillée, afin de mettre en œuvre toutes les mesures 
+nécessaires à l’intégration du projet dans son environnement.  
+L’accent sera mis principalement sur la mise en place de haies mixtes sur tout le pourtour du site, permettant de limiter 
+les visibilités sur le projet, mais aussi l’implantation de bosquets denses d’essences locales qui seront également utiles et 
+favorables à sa dimension écologique. 
+Des ouvertures pourront toutefois être prévues sur le grillage longeant le sentier afin de permettre une vue directe sur 
+la  centrale  à  des  fins  pédagogiques.  Des  panneaux  explicatifs  pourront  également  accompagner  cette  aire  afin  de 
+présenter le parc au public et le sensibiliser aux questions énergétiques. 
+
+Simulation de l’implantation 3D du projet en vue de proximité 
+
+ Simulation 3D depuis Bleigny le Carreau (en direction du nord-est) en vue éloignée 
+
+ Page 22 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              Simulation 3D en vue aérienne depuis Bleigny le Carreau (en direction du nord-est) en vue semi-éloignée. 
+
+6.2 Impact sonore 
+
+Le cadre règlementaire concernant l’impact sonore du projet est fixé par l’Arrêté du 23 janvier 1997 relatif à la limitation 
+des  bruits  générés  dans  l’environnement  par  les  Installations  Classées  pour  la  Protection  de  l’Environnement. 
+Le projet doit respecter les limites fixées par arrêté préfectoral, qui définissent pour chacune des périodes de la journée 
+(diurne et nocturne), les niveaux de bruit à ne pas dépasser en limite de propriété du site ainsi que les niveaux sonores 
+en 
+1997.  
+janvier 
+Ce dernier fixe aussi une limite de durée pour les bruits de tonalité marqué, pour les installations concernées. 
+
+Réglementée 
+
+Émergence 
+
+l’Arrête 
+
+(ZER), 
+
+Zone 
+
+fixés 
+
+par 
+
+du 
+
+23 
+
+à 
+
+Les équipements du projet qui sont sources de bruit sont essentiellement les unités de batteries et les transformateurs. 
+C’est le système de refroidissement par ventilation dont sont équipés les unités de batteries qui produit les émissions 
+sonores  les  plus  importantes.  Les  émissions  associées  sont  dépendantes  du  fournisseur  de  batteries  et  la  typologie 
+d’utilisation du système (plages horaires et durées de charge/décharge). Les fournisseurs proposent des équipements 
+équipés d’atténuation acoustiques qui permettent le respect des niveaux sonores réglementaires en limite de site, sans 
+besoin de mesures complémentaires. Les émissions associées aux autres équipements, y compris les transformateurs, 
+sont très nettement inférieures. 
+
+Une étude acoustique ne semble pas nécessaire au regard de l’éloignement des habitations, LANGA se tiendra à jour 
+de la règlementation en matière de nuisances sonores. 
+
+ Page 23 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.3 Risque d’intrusion 
+
+Afin de prévenir d’éventuels intrusions les équipements suivants seront installés sur la centrale de stockage d’énergie. 
+
+Clôtures  
+
+Le site sera équipé d’une clôture de 2 mètres de haut pour sécuriser l’accès du site aux instruisons pendant la phase du 
+chantier et d’exploitation du site. La clôture sera également équipée de panneaux « Danger Electrique » sur fond jaune 
+format A4 minimum et « Propriété privée – Défense d’entrer » sur fond rouge format A4 minimum tous les 100 mètres. 
+Les panneaux seront en aluminium. Un accès via la création de deux portails est prévu.  
+
+Les poteaux seront en acier avec un grillage type clôture fine maille, RAL7004 (gris). 
+
+Des passes faunes de 20x20 cm seront créés en bas de clôture afin de reconstituer une continuité écologique entre 
+l’enceinte clôturée et le milieu environnemental extérieur tous les 50m.  
+
+Vidéosurveillance et système anti-intrusion 
+
+Dans  un  objectif  de  prévention  d’alerte,  le  site  sera  équipé  d’une  centrale  anti-intrusion  pour  gérer  les  accès  et  la 
+présence  sur  site  (capteur  d’ouverture,  vidéos,  capteurs  d’intrusion,  etc).  L’exploitant  aura  un  accès  au  site  mais  les 
+intervenants devront prévenir de leurs passages au moins 48h avant. Les locaux techniques accueilleront également des 
+caméras 360° sur leurs toits pour effectuer une surveillance 24h/24 du site. 
+
+6.4 Risque incendie 
+
+La maitrise du risque incendie est un élément important du projet et LANGA International s’engage à réduire ce risque 
+au maximum.  Les principes sont les suivantes : 
+
+- Respect des prescriptions techniques et normatives de la règlementation applicable sur les centrales de stockage 
+29.25 
+- Respect des préconisations du SDIS concernant notamment l’espacement des éléments au sein de la centrale afin 
+d’éviter un potentiel emballement thermique. 
+- Installation de deux réservoirs d’eau de 120m3 à l’entrée du site, assurant la défense incendie du site 
+- Choix d’une technologie de batterie pour laquelle le risque d’emballement thermique est jugé extrêmement faible : le 
+choix de la Technologie Lithium-Fer-Phosphate sera retenu pour cette centrale. Cette technologie extrêmement stable 
+réduit considérablement les risques d’emballement thermique 
+
+ Page 24 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Un système de surveillance et de prévention des incendies robuste et fiable, équipant chaque composant de la 
+centrale et relié à une centrale de supervision 24h/24, 
+- Des mesures opérationnelles pour minimiser le risque de propagation d’un incendie : Un service de maintenance et 
+d’exploitation sous astreinte 24h/24, mobilisable à tout instant. 
+
+6.5 Milieu naturel 
+
+L’ensemble  des  parcelles  associées  au  projet  n’est  pas  concerné  par  la  présence  de  haies,  ni  végétation. 
+Au regard des éléments ci-dessus une étude faune/flore-habitats complète ne semble pas nécessaire pour ce projet.  
+
+LANGA International a confié un passage sommaire écologique au bureau d’études SITELECO. 
+
+Le site de Montigny se localise au cœur d’une vaste plaine agricole et s’intègre entre la ZNIEFF de type 1 « Thureau de 
+Saint-Denis » (représentée par un massif forestier), et le ruisseau du Grand Ru. Cette ZNIEFF se situe à une distance de 
+990 m à l’ouest du site et le ruisseau à 447 m au sud-est. 
+
+Le corridor écologique fonctionnel le plus proche est représenté par une haie, à environ 185 mètres au nord du site. Le 
+site apparait donc comme relativement éloigné des différents corridors écologiques et donc peu favorable au transit de 
+la faune qui dépend de la proximité de ces mêmes corridors (passereaux, micromammifères, chiroptères, etc.) . 
+
+En  outre,  le  site  accueil  deux  pylônes  de  lignes  à  haute  tension,  ce  qui  induit  un  risque  de  collision  avec  l’avifaune, 
+notamment pour les rapaces et les échassiers. Cet élément a un effet barrière vis-à-vis de la fonctionnalité du site pour 
+la faune et plus particulièrement les chiroptères et l’avifaune. 
+
+Par ailleurs, le site se situe en tête de sous bassin versant. Ces zones jouent un rôle hydrologique important puisqu’elles 
+déterminent  qualitativement  et  quantitativement  la  ressource  en  eau  pour  l’ensemble  du  bassin  versant.  Les  zones 
+humides associées ont donc une fonctionnalité hydrologique primordiale. 
+
+Enfin, lors des expertises, deux groupes de chevreuils (respectivement de 4 et de 3 individus) ont été observés à proximité 
+de la zone d’étude. Un faucon crécerelle en chasse a également été contacté sur la zone d’étude. 
+
+Au regard de ces éléments et en prenant en compte l’absence de strate herbacée et arbustive spontanée, la capacité 
+d’accueil pour la faune et la flore est évaluée à très faible. 
+
+Le choix du site participe à l’évitement d’un bon nombre de contraintes environnementales. 
+
+ Page 25 / 27 
+
+ 
+ 
+ 
+ 
+6.6 Milieu physique 
+
+1.4.1  Zones humides 
+
+La cartographie des Zones humides est établie comme suit : 
+
+ Page 26 / 27 
+
+ 
+ 
+ 
+ 
+La cartographie des zones humides n’indique pas de présomption de zone(s) humide(s) sur le périmètre du projet  
+
+6.7 Planning prévisionnel détaillé par phase 
+
+Le calendrier prévisionnel du déroulement du Projet est présenté ci-dessous en version simplifiée.  
+
+ Page 27 / 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

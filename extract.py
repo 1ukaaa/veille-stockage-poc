@@ -1,21 +1,31 @@
 #!/usr/bin/env python3
 """
 CLI d'extraction et d'analyse de documents BESS - VERSION OPTIMISÉE
-Usage: python extract.py --input out/projects/aura_2024.csv
+Support Playwright pour portail national (2025+)
+Usage: python extract.py --input out/projects/bourgogne_2025.csv
 """
 import sys
 import os
 import json
 import time
+import re
+import asyncio
 import argparse
 import logging
 from pathlib import Path
-from typing import List, Dict, Tuple
+from typing import List, Dict, Tuple, Optional
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from urllib.parse import urljoin
 
 import pandas as pd
 import google.generativeai as genai
 from selectolax.parser import HTMLParser
+
+try:
+    from playwright.async_api import async_playwright
+    PLAYWRIGHT_AVAILABLE = True
+except ImportError:
+    PLAYWRIGHT_AVAILABLE = False
 
 from config import settings
 from models import Analysis
@@ -35,11 +45,12 @@ if settings.GOOGLE_API_KEY:
     genai.configure(api_key=settings.GOOGLE_API_KEY)
 
 # Configuration parallélisation
-MAX_WORKERS_DOWNLOAD = 5  # Téléchargements parallèles
-MAX_WORKERS_EXTRACTION = 3  # Extractions PDF parallèles
+MAX_WORKERS_DOWNLOAD = 5
+MAX_WORKERS_EXTRACTION = 3
+MAX_PLAYWRIGHT_INSTANCES = 2
 
 
-# ============ Document Discovery ============
+# ============ Configuration ============
 
 def configure_logging():
     logging.basicConfig(
@@ -49,11 +60,112 @@ def configure_logging():
         force=True,
     )
 
+
+# ============ Playwright Attachments (NOUVEAU) ============
+
+async def fetch_attachments_with_playwright(
+    project_url: str, 
+    document_id: str
+) -> List[Dict]:
+    """
+    Récupère les pièces jointes d'un projet portail national via Playwright.
+    Clique sur les boutons de téléchargement et intercepte les URLs ctsFileId.
+    
+    Args:
+        project_url: URL du projet (sera normalisée en view-document)
+        document_id: ID du document
+    
+    Returns:
+        Liste de dicts {"url": "...", "label": "...", "ext": "pdf"}
+    """
+    
+    # Normalise l'URL si nécessaire
+    if "portal-review" in project_url:
+        project_url = project_url.replace("/portal-review/", "/view-document/")
+    
+    attachments = []
+    attachment_urls = set()  # Pour éviter les doublons
+    
+    logger.info(f"[Playwright] Extraction pièces jointes pour {document_id}")
+    
+    if not PLAYWRIGHT_AVAILABLE:
+        logger.warning("[Playwright] Module Playwright non disponible, skipped")
+        return []
+    
+    try:
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(headless=True)
+            page = await browser.new_page()
+            
+            # Intercepte les téléchargements
+            async def on_response(response):
+                if response.status == 200 and "ctsFileId" in response.url:
+                    attachment_urls.add(response.url)
+            
+            page.on("response", on_response)
+            
+            logger.info(f"[Playwright] Navigation vers {project_url}")
+            await page.goto(project_url, wait_until="networkidle", timeout=30000)
+            
+            logger.info("[Playwright] Attente du chargement (5s)...")
+            await asyncio.sleep(5)
+            
+            # Cherche les sections fichiers
+            logger.info("[Playwright] Recherche boutons téléchargement...")
+            file_sections = await page.query_selector_all("[class*='file']")
+            logger.info(f"[Playwright] {len(file_sections)} sections fichiers trouvées")
+            
+            # Collecte les boutons de chaque section
+            download_buttons = []
+            for section in file_sections[:20]:  # Max 20 sections
+                try:
+                    buttons = await section.query_selector_all("button, a")
+                    download_buttons.extend(buttons[:3])  # Max 3 par section
+                except:
+                    pass
+            
+            logger.info(f"[Playwright] {len(download_buttons)} boutons à cliquer")
+            
+            # Clique sur chaque bouton et attend la réponse réseau
+            clicked = 0
+            for btn in download_buttons:
+                try:
+                    await btn.click()
+                    await asyncio.sleep(1.5)  # Attends la requête réseau
+                    clicked += 1
+                except:
+                    pass  # Bouton peut se détacher du DOM
+            
+            logger.info(f"[Playwright] {clicked} boutons cliqués")
+            
+            await browser.close()
+            
+    except asyncio.TimeoutError:
+        logger.warning(f"[Playwright] Timeout lors du chargement de {project_url}")
+    except Exception as e:
+        logger.error(f"[Playwright] Erreur: {e}", exc_info=False)
+    
+    # Convertit les URLs en objets Document
+    for url in sorted(attachment_urls):
+        # Extrait le ctsFileId pour un label unique
+        match = re.search(r"ctsFileId=(\d+)", url)
+        file_id = match.group(1) if match else "unknown"
+        
+        attachments.append({
+            "url": url,
+            "label": f"Pièce_jointe_{file_id}",
+            "ext": "pdf"
+        })
+    
+    logger.info(f"[Playwright] {len(attachments)} pièces jointes trouvées")
+    
+    return attachments
+
+
+# ============ Document Discovery (HTML classique) ============
+
 def find_document_links(html: str, base_url: str) -> List[Dict]:
     """Trouve tous les liens PDF/ZIP dans le HTML"""
-    import re
-    from urllib.parse import urljoin
-    
     doc_pattern = r"\.(pdf|zip)($|\?)"
     tree = HTMLParser(html)
     documents = []
@@ -86,7 +198,6 @@ def find_document_links(html: str, base_url: str) -> List[Dict]:
 
 def classify_document(label: str, url: str) -> str:
     """Classifie un document selon son label/URL"""
-    import re
     text = f"{label} {url}".lower()
     
     if re.search(r"cerfa|cas\s*par\s*cas|formulaire", text):
@@ -177,7 +288,6 @@ def analyze_with_gemini(text_chunks: List[str], metadata: Dict) -> Dict:
         return result
     except json.JSONDecodeError as e:
         logger.error(f"Gemini JSON parse error: {e}")
-        logger.debug(f"Response: {response.text[:500]}")
         return {}
     except Exception as e:
         logger.error(f"Gemini analysis failed: {e}")
@@ -237,8 +347,8 @@ def extract_document_worker(args: Tuple) -> Tuple[str, str, str, str]:
 def process_project_optimized(
     project_data: Dict, 
     http_client: HTTPClient, 
-    cache: SimpleCache
-) -> Analysis:
+    cache: Optional[SimpleCache] = None
+) -> Optional[Analysis]:
     """Traite un projet avec téléchargements et extractions parallèles"""
     project_id = project_data["project_id"]
     url = project_data["project_url"]
@@ -249,28 +359,49 @@ def process_project_optimized(
     output_dir = settings.OUTPUT_DIR / "docs" / project_id
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    # 1. Page HTML
-    html = ""
+    # 1. Découverte documents
+    doc_links = []
+    page_text = ""
     final_url = url
-    try:
-        html, final_url = http_client.get_text(url)
-        (output_dir / "page.html").write_text(html, encoding="utf-8")
-        
-        page_text = html_to_text(html)
-        (output_dir / "page.txt").write_text(page_text, encoding="utf-8")
-    except Exception as e:
-        logger.error(f"Failed to fetch HTML: {e}")
-        page_text = ""
-        html = ""
     
-    # 2. Découverte documents
-    doc_links = find_document_links(html, final_url)
-    doc_links = prioritize_documents(doc_links)
+    # Routing : Portail National vs Site Régional
+    if "evaluation-environnementale.ecologie.gouv.fr" in url:
+        # === PORTAIL NATIONAL (2024+) ===
+        logger.info(f"[Portail National] Utilisation Playwright pour extraction")
+        
+        # Extrait documentId
+        document_id = url.split("/")[-1].split("?")[0]
+        
+        # Récupère attachments via Playwright
+        try:
+            attachments_data = asyncio.run(
+                fetch_attachments_with_playwright(url, document_id)
+            )
+            doc_links = prioritize_documents(attachments_data)
+        except Exception as e:
+            logger.error(f"[Playwright] Erreur: {e}")
+            doc_links = []
+    else:
+        # === SITE RÉGIONAL (classique) ===
+        logger.info(f"[Site Régional] Utilisation parsing HTML")
+        
+        try:
+            html, final_url = http_client.get_text(url)
+            (output_dir / "page.html").write_text(html, encoding="utf-8")
+            
+            page_text = html_to_text(html)
+            (output_dir / "page.txt").write_text(page_text, encoding="utf-8")
+            
+            doc_links = find_document_links(html, final_url)
+            doc_links = prioritize_documents(doc_links)
+        except Exception as e:
+            logger.error(f"Failed to fetch HTML: {e}")
+            doc_links = []
     
     # Limite documents
     doc_links = doc_links[:15]
     
-    # 3. Téléchargement parallèle
+    # 2. Téléchargement parallèle
     downloaded_docs = {}
     
     if doc_links:
@@ -292,12 +423,15 @@ def process_project_optimized(
                 if blob:
                     downloaded_docs[order] = (doc_url, blob, status)
     
-    # 4. Extraction parallèle PDFs
-    text_chunks = [f"[PAGE_HTML]\n{page_text}"]
+    # 3. Extraction parallèle PDFs
+    text_chunks = []
+    if page_text:
+        text_chunks.append(f"[PAGE_HTML]\n{page_text}")
+    
     has_decision = False
     
     if downloaded_docs:
-        logger.info(f"[{project_id}] Extraction parallèle de {len(downloaded_docs)} documents téléchargés...")
+        logger.info(f"[{project_id}] Extraction parallèle de {len(downloaded_docs)} documents...")
         
         extraction_jobs: List[Tuple[str, bytes, str, str]] = []
         ordered_downloads: List[Tuple[Dict, bytes]] = []
@@ -377,7 +511,7 @@ def process_project_optimized(
                 # Ajout au corpus
                 text_chunks.append(f"[DOC={filename}|TYPE={doc_type}|METHOD={method}]\n{text or '(vide)'}")
     
-    # 5. Analyse Gemini
+    # 4. Analyse Gemini
     metadata = {
         "project_id": project_id,
         "project_title": project_data["project_title"],
@@ -388,7 +522,7 @@ def process_project_optimized(
     
     analysis_result = analyze_with_gemini(text_chunks, metadata)
     
-    # 6. Construction Analysis
+    # 5. Construction Analysis
     return Analysis(
         project_id=project_id,
         project_url=final_url,
@@ -454,6 +588,10 @@ def main():
     
     configure_logging()
     
+    # Vérification Playwright
+    if not PLAYWRIGHT_AVAILABLE:
+        logger.warning("⚠️  Playwright non installé. Installation: pip install playwright && playwright install chromium")
+    
     # Validation input
     input_path = Path(args.input)
     if not input_path.exists():
@@ -495,7 +633,8 @@ def main():
         for idx, row in df.iterrows():
             try:
                 analysis = process_project_optimized(row.to_dict(), client, cache)
-                results.append(analysis.to_dict())
+                if analysis:
+                    results.append(analysis.to_dict())
             except KeyboardInterrupt:
                 logger.warning("\nInterruption utilisateur")
                 break
@@ -531,5 +670,4 @@ def main():
 
 
 if __name__ == "__main__":
-    import re
     main()

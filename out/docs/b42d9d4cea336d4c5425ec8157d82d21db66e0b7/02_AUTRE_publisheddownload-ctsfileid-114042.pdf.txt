@@ -1,0 +1,364 @@
+Direction régionale de l’environnement, 
+de l'aménagement et du logement 
+Bourgogne Franche-Comté 
+
+ARRÊTE 
+
+portant décision d’examen au cas par cas 
+en application de l’article R.122-3 du Code de l’environnement : 
+
+Projet de stockage d’électricité par batteries à proximité du poste source de « Serein » 
+sur le territoire de la commune de Ligny-le-Châtel (89) 
+
+Le préfet de la région Bourgogne-Franche-Comté, 
+Préfet de la Côte d’Or 
+
+Vu la directive 2011/92/UE du Parlement européen et du Conseil du 13 décembre 2011 modifiée par la directive 
+2014/52/UE  du  16 avril 2014,  concernant  l’évaluation  des  incidences  de  certains  projets  publics  et  privés  sur 
+l’environnement, notamment son annexe III ; 
+
+Vu le Code de l’environnement, notamment ses articles L.122-1, R.122-2, R.122-3, L.512-7-2 et R.181-14 ; 
+
+Vu l’arrêté du 16 janvier 2023 modifiant l'arrêté du 12 janvier 2017 fixant le modèle du formulaire de la « demande 
+d’examen au cas par cas » en application de l’article R.122-3-1 du Code de l’environnement ; 
+
+Vu la demande d’examen au cas par cas n° 005021/KK P relative à un projet de stockage d’électricité par batteries 
+à  proximité  du  poste  source  de  « Serein »  sur  le  territoire  de  la  commune  de  Ligny-le-Châtel  (89),  reçue  le 
+14 août 2025 et portée par la société « R&S », représentée par M. Romain MALVILLE ; 
+
+Vu  l’arrêté  de  M.  le  Préfet  de  la  région  Bourgogne-Franche-Comté  n° 25-09-BAG  du  14 janvier 2025  portant 
+délégation  de  signature  à  M.  Olivier  DAVID,  directeur  régional  de  l’environnement,  de  l’aménagement  et  du 
+logement (Dreal) de Bourgogne-Franche-Comté ; 
+
+Vu la décision de M. le directeur de la Dreal n° BFC-2025-01-15-00002 du 17 janvier 2025 portant subdélégation 
+de signature à Mme Muriel CHABERT, cheffe du service Transition Écologique, ainsi qu’à MM. Oscar VINESSE 
+et Olivier BOUJARD, chefs adjoints du service Transition Écologique ; 
+
+Vu l’avis de l’agence régionale de santé (ARS) du 1er septembre 2025 ; 
+
+Vu la contribution de la direction départementale des territoires (DDT) de l’Yonne du 27 août 2025 ; 
+
+Considérant : 
+
+1. la nature du projet, 
+
+qui  consiste,  sur  une  emprise  de  0,9 ha,  en  la  création  d’une  station  de  stockage  d’électricité  par  batterie 
+stationnaire, d’une puissance maximale de 50 MVA et d’une capacité de production de 150 MWh, ainsi que son 
+raccordement au poste source électrique de « Serein » géré par RTE à proximité immédiate au nord ; l’installation 
+étant  composée  principalement  de  quatre  ensembles  comprenant  chacun  quatre  containers  à  batteries  et  un 
+container  hébergeant  un  onduleur  et  un  transformateur  (containers  de  20 pieds,  disposés  sur  le  sol  naturel, 
+espacés d’au moins 3 m les uns des autres et de 11 m vis-à-vis de la clôture périphérique), d’un premier jeu de 
+transformateur BT/HTA auquel sont reliés les onduleurs, d’un transformateur HTA/HTB de tension maximale de 
+225 000 volts et ses équipements associés (dont un bâtiment non décrit dans le dossier) ; la superficie du poste 
+de transformation HT étant de 1 800 m² ; la hauteur maximale des équipements de stockage étant de 3,73 m ; le 
+raccordement  au  poste  RTE  de  « Serein »  étant  effectué  depuis  le  transformateur  HTA/HTB  par  une  liaison 
+enterrée d’environ 280 m de long d’une voirie existante ; le site faisant l’objet d’une visite mensuelle d’entretien en 
+
+Adresse postale : 5 Voie Gisèle Halimi - BP 31269,  25005 BESANCON CEDEX 
+Standard : 03 39 59 62 00 
+www.Bourgogne-franche-comte.developpement-durable.gouv.fr 
+
+1/5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+phase d’exploitation ; la durée de la phase d’exploitation et les modalités de démantèlement et de remise en état 
+à son issue n’étant pas précisées dans le dossier ; 
+
+qui comprend également : la création de pistes lourdes permettant la circulation en périphérie des installations 
+électriques (de 5 m de large, sur 600 m de long, en graves concassées naturelles), avec un accès depuis la RD124 
+bordant le site à l’ouest ; la mise en place d’une citerne souple d’eau d’extinction d’incendie de 120 m³ au centre-
+ouest du site ; l’installation d’une clôture en périphérie du site, sur environ 650 m de long (hauteur, type de maille 
+et équipement en passage à faune non précisés) ; et la plantation de haies paysagères en périphérie de l’emprise 
+clôturée (dimensions et modalités d’entretien non définies) ; l’ensemble des travaux étant prévus sur une durée 
+maximale de 20 mois ; 
+
+dont les objectifs poursuivis, indiqués dans le dossier, sont : de créer une station de stockage connectée au réseau 
+public  de  transport  d’électricité  afin  de  contribuer  à  l’équilibrage  en  temps  réel  entre  la  production  et  la 
+consommation électrique (avec injection ou soutirage de puissance vers ou depuis le réseau RTE) ; et d’assurer 
+l’intégration  des  moyens  de  production  intermittents  (solaire  et  éolien)  au  réseau  électrique,  en  participant  à 
+différents services « système » demandés par RTE ; 
+
+qui relève de la catégorie n° 32 du tableau annexé à l’article R.122-2 du Code de l’environnement, qui soumet à 
+examen au cas par cas les projets de postes de transformation dont la tension maximale de transformation est 
+égale ou supérieure à 63 kilovolts, à l’exclusion des opérations qui n’entraînent pas d’augmentation de la surface 
+foncière des postes ; 
+
+qui doit faire l’objet d’un permis de construire, d’une déclaration au titre des installations classées pour la protection 
+de l’environnement (ICPE – rubrique 2925-2) et, le cas échéant, d’un dossier au titre de la « loi sur l’eau » (rubrique 
+2.1.5.0) ; 
+
+2. la localisation du projet, 
+
+situé au lieu-dit « les Côtes », sur la parcelle cadastrale n° YI0044, sur le territoire de la commune de Ligny-le-
+Châtel  (89) ;  à  environ  1 km  des  habitations  les  plus  proches ;  sur  des  terrains  occupés  par  des  cultures 
+céréalières, desservis à l’ouest par la RD124, et bordés à l’ouest, au sud et à l’est par des cultures similaires et 
+au  nord  par  les  installations  du  poste  électrique  public  de  « Serein »  géré  par  RTE,  ainsi  que  par  des  lignes 
+électriques aériennes à haute tension ; 
+
+en zone An (« zone agricole inconstructible ») du plan local d’urbanisme (PLU) de Ligny-le-Châtel ; une procédure 
+de révision allégée du PLU ayant néanmoins été initiée en juin 2025 pour classer la parcelle d’implantation en 
+secteur UBe (« zone urbaine mixte qui accueille des équipements techniques ») permettant la réalisation du projet, 
+à l’instar de celle approuvée le 6 mai 2025 sur les parcelles limitrophes au sud-ouest et visant à rendre possibles 
+deux autres projets d’implantation de postes de transformation électrique (révision allégée n°1 du PLU, ayant fait 
+l’objet d’un avis tacite de la mission régionale de l’autorité environnementale (MRAe) le 22 janvier 2025, et projets 
+de  postes  de  transformation  portés  par  la  SEPE  d’Orchamps  et  EDF Renouvelables France  et  dispensés 
+d’évaluation environnementale par décisions du 9 novembre 2022 et du 22 mars 2023) ; 
+
+en dehors de zonage naturaliste, les plus proches étant les zones naturelles d’intérêt écologique, faunistique et 
+floristique  (Znieff)  de  type 2  « Forêt  de  Pontigny  et  vallée  du  Serein  aval »  et  de  type 1  « Prairies  du  Serein  à 
+Ligny-le-Châtel »  à  environ  500 m  à  l’est ;  à  plus  de  15 km  de  site  Natura 2000 ;  en  dehors  de  réservoir  de 
+biodiversité ou de corridor écologique identifié dans la trame verte et bleue (TVB) actualisée du schéma régional 
+d’aménagement, de développement durable et d’égalité des territoires (Sraddet) de Bourgogne-Franche-Comté ; 
+en dehors de zone humide inventoriée ; l’emprise du projet n’ayant pas fait l’objet d’observation récente précise 
+d’espèce patrimoniale et/ou protégée, selon les bases de données naturalistes disponibles ; 
+
+au droit de la masse d’eau souterraine « Calcaires kimméridgiens-oxfordiens karstiques entre Yonne et Seine » 
+(n° FRHG313), intrinsèquement très fortement vulnérable aux pollutions, identifiée en bon état quantitatif et en 
+état chimique médiocre dans l’état des lieux 2019 du schéma directeur d’aménagement et de gestion des eaux 
+(Sdage)  du  bassin  Seine  Normandie  (pressions  significatives  liées  aux  nitrates  diffus  et  aux  phytosanitaires 
+diffus) ; en zone vulnérable aux nitrates ; en dehors de ressource stratégique pour l’alimentation en eau potable 
+des populations actuelles et futures identifiée dans le Sdage ; en dehors de périmètre de protection de captage 
+d’alimentation en eau potable ; à environ 140 m du cours d’eau le plus proche (le Ru de l’Enfer, à l’ouest) et 900 m 
+du Serein (à l’est), identifiés comme des corridors écologiques de la sous-trame « cours d’eau » de la TVB ; 
+
+en zone verte V1 (aléa très faible à faible) du plan de prévention des risques d’inondation (PPRI) par ruissellement 
+et coulées de boues du Chablisien, appliqué par anticipation le 19 octobre 2011 et en cours de révision ; en dehors 
+du zonage du PPRI par débordement du Serein approuvé le 9 janvier 2019 ; partiellement en zone d’exposition 
+moyenne au retrait-gonflement des argiles (partie ouest de l’emprise) ; en dehors de site ou sol pollué recensé ; 
+
+en dehors de zonage de protection de site, paysage ou patrimoine ; 
+
+2/5 
+
+ 
+ 
+ 
+ 
+3. les impacts non notables sur l’environnement et la santé humaine, compte tenu : 
+
+du fait que  le S3REnR de  Bourgogne-Franche-Comté prévoit des travaux de RTE pour augmenter la capacité 
+réservée disponible sur le poste source du « Serein » ; 
+
+du fait que l’aboutissement de la procédure de révision allégée du PLU, visant à permettre la réalisation du projet, 
+est prévue pour fin 2025 – début 2026, avec un examen préalable au cas par cas par la MRAe ; 
+
+de la consommation relativement limitée d’espaces naturels, agricoles et forestiers, y compris en cumulé avec les 
+projets de postes de transformation voisins (le présent projet s’implantant sur 0,9 ha et les deux autres sur un total 
+de moins de 1 ha au sein d’un vaste ensemble agricole de plusieurs dizaines d’hectares) ; 
+
+du nécessaire respect du règlement du PPRI du Chablisien, notamment concernant l’interdiction de création de 
+remblai (en particulier pour la réalisation de la piste), la transparence hydraulique de la clôture (induisant une taille 
+suffisante des mailles), la gestion des eaux pluviales à la parcelle et le libre écoulement des eaux de ruissellement 
+sur l’aire de stockage de plein air ; les installations du projet, particulièrement les containers abritant les batteries 
+et les équipements techniques, devant impérativement être positionnées au-dessus de la cote de référence du 
+PPRI (minimum de 0,50 m par rapport à la plus haute cote du terrain naturel au droit de la future construction) ; le 
+pétitionnaire devant, le cas échéant, apprécier l’opportunité de déposer un dossier au titre de la « loi sur l’eau » 
+(rubrique  2.1.5.0),  en  considérant  la  totalité  du  bassin  versant  intercepté  et  en  évaluant  les  conditions 
+d’écoulement des eaux pluviales avant et après réalisation du projet ; 
+
+de  l’inscription  du  projet  dans  un  paysage  déjà  marqué  par  les  installations  de  transport  et  de  distribution 
+d’électricité  (poste  source,  lignes  électriques  aériennes  à  haute  et  très  haute  tension) ;  la  plantation  de  haies 
+périphériques prévue pour le projet permettant par ailleurs de limiter les visibilités depuis ses abords ; 
+
+de l’absence d’enjeux écologiques significatifs connus sur l’emprise du projet ; de l’absence a priori d’incidences 
+significatives sur les sites Natura 2000 ; la plantation prévue de haies en périphérie du site, avec des essences 
+locales et en plusieurs strates, étant de nature favorable à la biodiversité (dimensions visées à préciser) ; celles-
+ci  étant  toutefois  à  implanter  du  côté  extérieur  de  la  clôture  et  avec  des  essences  variées  et  adaptées  au 
+changement  climatique,  conformément  aux  dispositions  du  PLU,  de  façon  à  accentuer  leur  intérêt  pour  la 
+biodiversité ; des mesures complémentaires pouvant utilement être définies concernant l’adaptation du calendrier 
+et des horaires des travaux (hors périodes sensibles pour les espèces), la limitation de l’éclairage nocturne et la 
+mise  en  œuvre  de  modalités  d’entretien  de  la  végétation  du  site  favorables  à  la  biodiversité  (adaptation  du 
+calendrier et des techniques d’interventions, absence d’utilisation de produits phytosanitaires,…) ; 
+
+de l’engagement du porteur de projet à mettre en place les mesures nécessaires de prévention et de lutte contre 
+les incendies liés à l’activité (distances minimales entre les équipements, réserve d’eau, murs coupe-feu entre les 
+transformateurs) ; celles-ci pouvant utilement être validées en lien avec le service départemental d’incendie et de 
+secours (Sdis), notamment en termes d’accessibilité pour les engins d’intervention, de capacité de la réserve à 
+incendie et de modalités d’alerte et d’intervention en cas de départ de feu ; 
+
+du  fait  que  les  nuisances  sonores  potentiellement  générées  par  le  projet  (phase  chantier,  transformateurs)  ne 
+seront a priori pas significatives, y compris en cumulé avec les postes de transformation existants ou en projet, 
+compte  tenu  de  l’éloignement  des  habitations ;  les  niveaux  acoustiques  en  limite  de  propriété  respectant  par 
+ailleurs  les  niveaux  admissibles  réglementaires,  selon  le  dossier ;  la  conformité  devant  être  assurée  avec  les 
+dispositions de l’arrêté du 23 janvier 1997 relatif à la limitation des bruits émis dans l’environnement par les ICPE ; 
+
+des dispositions qui seront mises en œuvre en phase de travaux pour limiter les autres nuisances éventuelles sur 
+les riverains et les usagers (vibrations, déchets, poussières, trafic, etc.) ; 
+
+des dispositions qui seront mises en œuvre pour s’assurer de la sécurité routière au niveau de l’accès depuis la 
+RD124, notamment en phase de travaux, en lien avec le gestionnaire de la voirie (Conseil départemental) ; 
+
+du fait que des bacs de rétention seront mis en place pour récupérer les fluides potentiels ; les mesures à mettre 
+en œuvre pour limiter les risques de pollutions en phases de travaux et d’exploitation méritant néanmoins d’être 
+précisées (gestion des engins, kits anti-pollution, stockage des produits potentiellement polluants, information des 
+services  concernés  en  cas  de  pollution  accidentelle,  séparateur  d’hydrocarbures,  entretien  des  équipements, 
+absence d’utilisation de produits phytosanitaires,…) ; 
+
+des  dispositions  qui  devront  être  mises  en  œuvre  pour  lutter  contre  la  propagation  des  espèces  exotiques 
+envahissantes, notamment l’Ambroisie, à risque sanitaire, en application de l’arrêté préfectoral en vigueur dans le 
+département (élimination des plants éventuels, prévention du risque d’introduction sur site) ; 
+
+3/5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Arrête : 
+
+Article 1er 
+
+En application de la section première du chapitre II du titre II du livre premier du Code de l’environnement, le projet 
+de projet de stockage d’électricité par batteries à proximité du poste source de « Serein » sur le territoire de la 
+commune de Ligny-le-Châtel (89) n’est pas soumis à évaluation environnementale. 
+
+Article 2 
+
+La présente décision, délivrée en application de l’article R.122-3 du Code de l’environnement, ne dispense pas 
+des autorisations administratives auxquelles le projet peut être soumis. 
+
+Conformément aux dispositions de ce même article, l’autorité compétente vérifie au stade de l’autorisation que le 
+projet présenté correspond aux caractéristiques et mesures qui ont justifié la présente décision. 
+
+Cette décision est mise en ligne sur le portail de l’évaluation environnementale : https://evaluation-environnemen-
+tale.developpement-durable.gouv.fr/#/public/portalReviews. 
+
+Article 3 
+
+Fait à Besançon, le  
+
+Pour le Préfet et par délégation 
+Le directeur régional, et par subdélégation, 
+
+           la cheffe du service transition écologique 
+
+Muriel CHABERT 
+
+4/5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voies et délais de recours 
+
+•  Lorsque la décision dispense le projet d'évaluation environnementale : 
+
+Conformément  à  l’avis  du  Conseil  d’État  n° 395 916  du  6 avril 2016,  une  décision  de  dispense  d’évaluation 
+environnementale n’est pas un acte faisant grief susceptible de faire l’objet d’un recours contentieux. 
+
+Elle peut en revanche être contestée à l’occasion de l’exercice d’un recours contre la décision approuvant le projet. 
+
+Elle  peut  également  être  contestée  par  le  biais  d'un  recours  gracieux  adressé  dans  un  délai  de  deux  mois  à 
+compter de la date de notification ou de publication sur internet. 
+
+•  Lorsque la décision soumet le projet à évaluation environnementale : 
+
+Conformément aux dispositions de l'article R.421-1 et suivants du Code de justice administrative et du Livre IV du 
+Code des relations entre le public et l’administration, la présente décision peut faire l’objet, dans un délai de deux 
+mois à compter de la date de notification ou de publication sur internet, des recours suivants : 
+
+  un recours gracieux. En application de l’article R.122-3-1 VII du Code de l’environnement, tout recours 
+contentieux  contre  la  décision  imposant  la  réalisation  d’une  évaluation  environnementale  après  un 
+examen  au  cas  par  cas  doit,  à  peine  d’irrecevabilité,  être  précédé  d’un  recours  administratif  préalable 
+devant l’autorité chargée de l’examen au cas par cas qui a pris la décision. Le silence de l’Administration 
+au  terme  d’un  délai  de  deux  mois  vaut  rejet  implicite.  Après  un  recours  gracieux,  le  délai  du  recours 
+contentieux ne court qu’à compter du rejet explicite ou implicite de ce recours ; 
+
+  dans un délai de deux mois à compter du rejet du recours gracieux, un recours contentieux, en saisissant 
+le Tribunal administratif compétent. Le Tribunal administratif peut être saisi via l’application informatique 
+Télérecours accessible par le site internet www.telerecours.fr. 
+
+Où adresser votre recours ? 
+
+Recours gracieux : 
+Monsieur le Préfet de région Bourgogne-Franche-Comté 
+Dreal Bourgogne-Franche-Comté 
+5 Voie Gisèle Halimi 
+BP 31269 
+25005 Besançon cedex 
+
+Recours hiérarchique : 
+Madame la Ministre de la Transition écologique, de la Biodiversité, de la Forêt, de la Mer et de la Pêche 
+CGDD/SEVS 
+Tour Sequoia 
+92055 La Défense cedex 
+
+Recours contentieux : 
+Tribunal administratif de Besançon 
+30 rue Charles Nodier 
+25044 Besançon cedex 3 
+
+ou par l'application Télérecours citoyens accessible par le site www.telerecours.fr. 
+
+5/5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

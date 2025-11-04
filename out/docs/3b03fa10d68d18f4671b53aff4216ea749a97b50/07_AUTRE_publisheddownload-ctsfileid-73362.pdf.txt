@@ -1,0 +1,4370 @@
+NEOEN – Prédiagnoctic écologique  
+
+Vieilmoulin (21) 
+
+27 mai 2025 
+
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Fiche contrôle qualité 
+
+Intitulé de l'étude 
+
+Pré-diagnostic écologique 
+
+Client 
+
+Site 
+
+Adresse du site 
+
+Interlocuteur 
+
+Email 
+
+Téléphone 
+
+NEOEN 
+
+Vieilmoulin (21) 
+
+Vieilmoulin (21) 
+
+Romain Oros 
+
+romain.oros@neoen.com 
+
+06 66 55 52 93 
+
+Référence du document 
+
+R001-1624175MGA-V01 
+
+Date 
+
+20/05/2025 
+
+Superviseur 
+
+Mathilde GARRIONE 
+
+Responsable étude 
+
+Gérald L'Hostette 
+
+Rédacteur(s) 
+
+Mathilde GARRIONE 
+
+Coordonnées 
+
+Siège social - Agence de Dijon  
+
+Parc tertiaire de Mirande  
+
+14 D Rue Pierre de Coubertin 21000 Dijon  
+
+T +33 38 06 80 133 
+
+E info@tauw.fr 
+
+TAUW France est membre de TAUW Group bv - Représentante légale: Perrine Marchant 
+
+Gestion des révisions 
+
+Version 
+
+Date 
+
+01 
+
+02 
+
+27/05/2025 
+
+27/05/2025 
+
+www.tauw.fr 
+
+Statut 
+
+Rédaction  
+
+Reprise client 
+
+Référencement du modèle : DS 89 08-10-24 Rapport et Offre Standard 
+
+Pages 
+
+Annexes 
+
+43 
+
+43 
+
+01 
+
+01 
+
+2/44
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Table des matières 
+
+1 
+
+Introduction ................................................................................................................................ 6 
+
+2  Méthodologie ............................................................................................................................. 7 
+
+2.1  Définitation des aires d’étude ............................................................................................. 7 
+
+2.2  Synthèse des législations applicables au projet ................................................................. 9 
+
+2.2.1  Règlementations ......................................................................................................... 9 
+
+2.2.2 
+
+Listes rouges ............................................................................................................. 10 
+
+2.3  Dates et objets des prospections de terrain ..................................................................... 11 
+
+2.4  Méthodologie appliquée aux inventaires .......................................................................... 11 
+
+2.4.1  Données bibliographiques consultées ...................................................................... 11 
+
+2.4.1 
+
+Expertise de la flore et des habitats .......................................................................... 12 
+
+2.4.2 
+
+Expertise de la faune ................................................................................................ 12 
+
+2.4.3  Hiérarchisation des enjeux ........................................................................................ 12 
+
+3  Contexte écologique ................................................................................................................ 14 
+
+3.1 
+
+Zonages du patrimoine naturel ........................................................................................ 14 
+
+3.1.1 
+
+Zonages réglementaires ........................................................................................... 14 
+
+3.1.2 
+
+Zonages d’inventaires ............................................................................................... 14 
+
+3.1.3 
+
+Autres types de zonages........................................................................................... 15 
+
+3.2 
+
+Trames vertes et bleues ................................................................................................... 18 
+
+4  Résultats du pré-diagnostic ..................................................................................................... 20 
+
+4.1  Habitat .............................................................................................................................. 20 
+
+4.2 
+
+4.3 
+
+Flore ................................................................................................................................. 21 
+
+Faune ............................................................................................................................... 22 
+
+4.3.1 
+
+Avifaune .................................................................................................................... 22 
+
+4.3.2  Chiroptères................................................................................................................ 23 
+
+4.3.3  Mammifères terrestres .............................................................................................. 29 
+
+4.3.4 
+
+Amphibiens ............................................................................................................... 29 
+
+4.3.5  Reptiles ..................................................................................................................... 30 
+
+4.3.6 
+
+Entomofaune ............................................................................................................. 31 
+
+5 
+
+Impacts pressentis................................................................................................................... 33 
+
+5.1  Présentation du projet ...................................................................................................... 33 
+
+5.2 
+
+Impact du projet sur la faune et flore du site .................................................................... 34 
+
+3/44
+
+ 
+ 
+ 
+ 
+ 
+  
+Référence 
+
+R001-1624175MGA-V01 
+
+6  Préconisations écologiques ..................................................................................................... 35 
+
+6.1  Mesures de réduction ....................................................................................................... 35 
+
+6.1.1  MR1 : Adaptation des périodes d’intervention .......................................................... 35 
+
+6.1.2  MR2 : Maintien d’une zone tampon entre la lisière et l’implantation projet ............... 36 
+
+6.1.3  MR3 : Mise en défens du muret en pierres sèches................................................... 37 
+
+6.1.4  MR4 : Installation d’une clôture perméable à la petite faune .................................... 38 
+
+6.2  Mesures d’accompagnement ........................................................................................... 39 
+
+6.2.1  MA1 : Création de bandes enherbées fleuries .......................................................... 39 
+
+6.2.2  MA2 : Assistance à maîtrise d’œuvre du chantier par un écologue .......................... 40 
+
+7 
+
+Incidence Natura 2000 simplifiée ............................................................................................ 42 
+
+7.1.1 
+Présentation  de  la  ZSC  FR2601012 :  Gîtes  et  habitats  à  chauves-souris  en 
+Bourgogne - FR2601012 ......................................................................................................... 42 
+
+7.1.2 
+
+Analyse des incidences du projet sur les espèces du site Natura 2000 ................... 42 
+
+8  Conclusion ............................................................................................................................... 43 
+
+Liste des annexes 
+Annexe 1  Méthodologie d’inventaire ......................................................................................... 44 
+
+Liste des figures  
+Figure 1 : Monoculture intensive .................................................................................................... 20 
+Figure 2 : Foret d’épicéa (gauche) et hêtraie (droite) ..................................................................... 20 
+Figure  3  :  Habitudes  de  vol  et  distances  de  détectabilité  des  différents  groupes  de  chiroptères 
+(Barataud, 2015) ............................................................................................................................. 25 
+Figure 4 : Anfractuosités dans les troncs d’arbres.......................................................................... 26 
+Figure 5 : Arbre recouvert de lierre et chablis................................................................................. 26 
+Figure 6 : Arbre mort et trou de pic ................................................................................................. 27 
+Figure 7 : Muret en pierres très favorable au refuge des reptiles ................................................... 30 
+Figure 8 : Tas de pierres éparces favorables au refuge des reptiles ............................................. 30 
+Figure 9 : Plan masse du projet (source : NEOEN) ........................................................................ 33 
+
+Liste des tableaux 
+Tableau 1 : Définition des aires d'étude du projet ............................................................................ 7 
+Tableau 2 : Dates de réalisation des prospections de terrain en 2023 et 2024 ............................. 11 
+Tableau 3 : Structures et bases de données consultées et informations obtenues ....................... 11 
+Tableau 4 : Synthèse de la méthodologie de définition des enjeux ............................................... 13 
+Tableau 5  : Synthèse des zonages ............................................................................................... 17 
+Tableau 6 : Habitats recensées ...................................................................................................... 20 
+Tableau 7 : Listes des espèces végétales recensées .................................................................... 21 
+
+4/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Tableau 8 : Listes des espèces avifaunistiques recensées ............................................................ 22 
+Tableau 9 : Résultats (contacts bruts) par point d’enregistrement et par espèce .......................... 24 
+Tableau 10 : Listes des espèces avifaunistiques recensées .......................................................... 27 
+Tableau 11 : : Listes des espèces de mammifères terrestres recensées ...................................... 29 
+Tableau 12 : Incidence du projet sur les espèces Natura 2000 recensées .................................... 42 
+
+5/44
+
+ 
+ 
+ 
+ 
+ 
+  
+Référence 
+
+R001-1624175MGA-V01 
+
+1  Introduction 
+
+NEOEN  développe  un  projet  de  stockage  d’électricité  sur  la  commune  de  Vieilmoulin.  Le  projet 
+
+consiste en l’installation d’environ 100MW d’unités de stockage soit une quarantaine de conteneurs, 
+des transformateurs, onduleurs, 2 ou 3 citernes souples, ainsi qu’un poste de transformation HTB. 
+
+Certaines zones seront stabilisées et d’autres laissées en prairie de fauche.  
+
+Une demande d’examen au cas par cas à déjà été réalisé pour ce projet et a été déposé auprès de 
+la DREAL. Or, celle-ci a renvoyé un courrier demandant  des compléments d’inventaire, notamment 
+vis-à-vis des chiroptères et des interactions possibles avec le site Natura 2000.  
+
+NEOEN a donc sollicité TAUW France pour un prédiagnostic écologique comprenant l’étude de 
+la potentialité de gîte des chiroptères dans le boisement à proximité.  
+
+Figure 1 : Localisation du projet (source : NEOEN) 
+
+6/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+2  Méthodologie  
+
+2.1 
+
+Définitation des aires d’étude  
+
+La définition des aires d’étude a pour objectif d’appréhender l’ensemble des espèces susceptibles 
+
+d’être affectées par le projet. Dans le cadre de ce projet, trois aires d’étude sont définies dans le 
+tableau suivant.  
+
+Tableau 1 : Définition des aires d'étude du projet 
+
+AIRES D’ETUDE 
+
+SURFACE 
+
+DISTANCE 
+TAMPON 
+
+ZONE 
+
+D’IMPLANTATION 
+
+2,03 ha 
+
+0 m 
+
+POTENTIELLE (ZIP) 
+
+AIRE D’ÉTUDE 
+
+RAPPROCHEE (AER) 
+
+12,34 ha 
+
+100 m 
+
+chantier et / ou d’exploitation (poussières, bruits, 
+
+AIRE D’ÉTUDE 
+
+CONTEXTE 
+
+ECOLOGIQUE (AECE) 
+
+/ 
+
+5 km 
+
+DESCRIPTION 
+
+Emprise du projet et des futures zones de 
+
+travaux : 
+
+Inventaires naturalistes complets, cartographie des 
+
+habitats et caractérisation des enjeux écologiques. 
+
+Zone potentiellement affectée, notamment par 
+
+diverses perturbations pendant toute la durée de 
+
+circulations d’engins…)  
+
+Prospection succincte lors des passages de terrain ; 
+
+Zone des effets éloignés et induits possibles, 
+
+prenant en compte l’ensemble des unités 
+
+écologiques potentiellement perturbées par le projet : 
+
+Étude bibliographique des espèces faunistiques et 
+
+floristiques 
+
+Étude du contexte écologique : zonages d’inventaires 
+
+et réglementaires, trame verte et bleue  
+
+7/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Carte 1 : aires d’étude du projet 
+
+8/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+2.2 
+
+Synthèse des législations applicables au projet 
+
+La bio-évaluation des espèces et des habitats mentionnés dans ce document se base sur les 
+réglementations et listes rouges suivantes : 
+
+2.2.1  Règlementations 
+
+Réglementation européenne : 
+
+  Règlement d'exécution (UE) 2016/1141 de la Commission du 13 juillet 2016 adoptant une 
+liste des espèces exotiques envahissantes préoccupantes pour l'Union conformément au 
+règlement (UE) n° 1143/2014 du Parlement européen et du Conseil ; 
+
+  Règlement d'exécution (UE) N° 828/2011 de la Commission du 17 août 2011 suspendant 
+l'introduction  dans  l'Union  de  spécimens  de  certaines  espèces  de  faune  et  de  flore 
+sauvages ; 
+
+  Directive  2011/92/UE  du  13  décembre  2011  concernant  l’évaluation  des  incidences  de 
+
+certains projets publics et privés sur l’environnement ; 
+
+  Directive  2009/147/CE  du  30  novembre  2009  concernant  la  conservation  des  oiseaux 
+sauvages. Elle remplace la première Directive Oiseaux 79/409/CEE du 2 avril 1979 ; 
+
+  Règlement  (CE)  N°  338/97  du  Conseil  du  9  décembre  1996  relatif  à  la  protection  des 
+
+espèces de faune et de flore sauvages par le contrôle de leur commerce ; 
+
+  Directive 92/43/CEE du Conseil, du 21 mai 1992, concernant la conservation des habitats 
+
+naturels ainsi que de la faune et de la flore sauvages ; 
+
+  Convention de Berne relative à la conservation de la vie sauvage et du milieu naturel en 
+
+Europe du 19 septembre 1979. 
+
+Réglementation nationale : 
+
+  Arrêté  du  8  janvier  2021  fixant  les  listes  des  amphibiens  et  des  reptiles  protégés  sur 
+
+l'ensemble du territoire et les modalités de leur protection ; 
+
+  Arrêté du 15 septembre 2012 fixant les listes des mammifères protégés sur l’ensemble du 
+
+territoire et les modalités de leur protection ; 
+
+  Arrêté du 29 octobre 2009 fixant la liste des oiseaux protégés sur l’ensemble du territoire 
+
+et les modalités de leur protection ; 
+
+  Arrêté interministériel du 29 octobre 2009 relatif à la protection et à la commercialisation 
+
+de certaines espèces d'oiseaux sur le territoire national ; 
+
+  Arrêté du 23 avril 2007 fixant la liste des insectes protégés sur l’ensemble du territoire et 
+
+les modalités de leur protection ; 
+
+  Arrêté du 23 avril 2007 fixant les listes des mollusques protégés sur l’ensemble du territoire 
+
+et les modalités de leur protection ; 
+
+  Arrêté  du  09  juillet  1999  fixant  la  liste  des  espèces  de  vertébrés  protégées  menacées 
+d'extinction en France et dont l'aire de répartition excède le territoire d'un département ; 
+
+  Arrêté  ministériel  du  13  octobre  1989  relatif  à  la  liste  des  espèces  végétales  sauvages 
+
+pouvant faire l'objet d'une réglementation préfectorale permanente ou temporaire ; 
+
+9/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+  Arrêté  du  8  décembre  1988  fixant  la  liste  des  espèces  de  poissons  protégées  sur 
+
+l’ensemble du territoire national ; 
+
+  Arrêté ministériel du 26 juin 1987 fixant la liste des espèces de gibier dont la chasse est 
+
+autorisée ; 
+
+  Arrêté du 21 juillet 1983, modifié par l'arrêté du 18 janvier 2000, relatif à la protection des 
+
+écrevisses autochtones ; 
+
+  Arrêté  modifié  du  20  janvier  1982  relatif  à  la  liste  des  espèces  végétales  protégées  sur 
+
+l'ensemble du territoire. 
+
+Réglementation régionale Bourgogne-Franche-Comté 
+
+  Arrêté du 27 mars 1992 fixant la liste des espèces végétales protégées en région de 
+
+Bourgogne ; 
+
+  Arrêté  du  22  juin  1992  relatif  à  la  liste  des  espèces  végétales  protégées  en  région 
+
+Franche-Comté.  
+
+2.2.2 
+
+Listes rouges 
+
+Listes rouges nationales : 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Liste rouge de la Flore vasculaire de France métropolitaine (UICN, 2019) ; 
+
+Liste rouge des araignées de France métropolitaine (UICN, 2023) ; 
+
+Liste rouge des mollusques continentaux de France métropolitaine (UICN, 2021) ; 
+
+Liste rouge des Poissons d’eau douce de France métropolitaine (UICN, 2019) ; 
+
+Liste rouge des Mammifères de France métropolitaine (UICN, 2017) ; 
+
+Liste rouge des Oiseaux nicheurs en France métropolitaine (UICN, 2016) ; 
+
+Liste rouge des Odonates de France métropolitaine (UICN, 2016) ; 
+
+Liste rouge des Reptiles et Amphibiens de France métropolitaine (UICN, 2015) ; 
+
+Liste rouge des Rhopalocères de France métropolitaine (UICN, 2012) ; 
+
+Liste rouge des crustacées d’eau douce de France métropolitaine (UICN, 2012) ; 
+
+Liste rouge des oiseaux non nicheurs de France métropolitaine (hivernants et de passage) 
+(UICN, 2011). 
+
+Listes rouges régionales de bourgogne-Franche-Comté  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Liste rouge de la flore menacée de l’ex-région Bourgogne (2015) ; 
+
+Liste rouge de la flore menacée de l’ex région Franche-Comté (2014) ; 
+
+Liste rouge des Oiseaux de l’ex-région Bourgogne (2015) ; 
+
+Liste rouge des Oiseaux de l’ex-région Franche-Comté (2017) ; 
+
+Liste rouge des Amphibiens de l’ex-région Bourgogne (2014) ; 
+
+Liste rouge des Reptiles de l’ex-région Bourgogne (2014) ; 
+
+Liste rouge des Amphibiens et reptiles de l’ex région Franche-Comté (2020) ; 
+
+Liste rouge des Mammifères de l’ex-région Bourgogne (2014) ; 
+
+Liste rouge des Chiroptères de l’ex-région Bourgogne (2014) ; 
+
+10/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+
+
+
+
+
+
+
+
+
+
+ Liste rouge des Papillons de l’ex-région Bourgogne (2015) ;
+
+ Liste rouge des Odonates de l’ex-région Bourgogne (2014) ;
+
+ Liste rouge des insectes (Papillons, Odonates, Criquets, Sauterelles, Grillons et Mantes)
+
+de l’ex région Franche-Comté (2013) ;
+
+ Liste rouge des Ecrevisses de l’ex-région Bourgogne (2014) ;
+
+ Liste rouge des Poissons de l’ex-région Franche-Comté (2014) ;
+
+2.3 
+
+ Dates et objets des prospections de terrain
+
+Un écologue généraliste a été mobilisé pour l’expertise écologique. Les investigations réalisées le
+12 et 13 mai 2025 par TAUW France, dans des conditions météorologiques adaptées tant que 
+possible et en période optimale de recensement de chaque groupe faunistique ou floristique, sont
+détaillés dans le tableau suivant.
+
+Tableau 2 : Dates de réalisation des prospections de terrain en 2023 et 2024
+
+DATES DE 
+PASSAGE 
+
+OBSERVATEURS 
+
+CONDITIONS 
+METEOROLOGIQUES 
+
+HABITATS 
+
+FLORE 
+
+AVIFAUNE 
+
+AMPHIBIENS  REPTILES 
+
+MAMMIFERES 
+TERRESTRES 
+
+CHIROPTERES  ENTOMOFAUNE 
+
+12/05/2024 
+
+Mathilde 
+GARRIONE 
+
+12°C, ciel dégagé, 
+vent nul 
+
+13/05/2024 
+
+Mathilde 
+GARRIONE 
+
+22°C, ciel couvert 
+vent faible 
+
+Ecoute 
+rapaces 
+nocturnes 
+
+x 
+
+x 
+
+Nicheurs 
+
+x 
+
+x 
+
+x 
+
+Ecoute passive 
+
+Potentialités 
+de gîte 
+
+Potentialités 
+
+2.4  Méthodologie appliquée aux inventaires  
+
+2.4.1  Données bibliographiques consultées 
+
+Les  potentialités  écologiques  du  site  étudié  ont  été  évaluées  à  partir  des  bases  de  données 
+
+naturalistes et structures suivantes consultées.  
+
+Tableau 3 : Structures et bases de données consultées et informations obtenues 
+
+Structure consultée 
+
+Informations synthétisées 
+
+Faune France 
+
+INPN 
+
+Données  faunistiques  et  floristiques  (répartition,  nombre  d’espèces 
+recensées, etc.) relatives aux communes à proximité.  
+
+Données  faunistiques,  floristiques  et  contexte  écologique  sur  les 
+communes à proximité. 
+
+Toutes les données d’espèces végétales patrimoniales (protégées et / ou menacées) et d’espèces 
+végétales exotiques envahissantes recensées entre 2015 et 2025 sont considérées. 
+
+Cette  étape  documentaire  permet  de  faire  le  bilan  des  connaissances  du  site  et  d’orienter  les 
+
+prospections de terrain vers la recherche des espèces patrimoniales à enjeu. 
+
+11/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+2.4.1  Expertise de la flore et des habitats  
+
+La première phase de terrain est dédiée à la mise au point de la typologie des habitats du site. La 
+caractérisation des habitats est réalisée sur la base de relevés floristiques non exhaustifs.  
+Ces relevés sont réalisés sur l’ensemble du site et ont pour objectif de caractériser chaque habitat 
+
+présent.  Les  habitats  provisoires  sont  ensuite  identifiés  selon  la  classification  Corine  Biotope, 
+EUNIS et Natura 2000.  
+
+L’expertise de la flore se base sur des relevés d’espèces réalisés sur le site, sur chaque habitat.  
+Les  espèces  végétales  (communes,  patrimoniales  ou  invasives)  identifiées  sont  relevées  via  un 
+PDA avec GPS intégré ou un GPS avec fond cartographique (type Juno trimble 3B) qui permettent 
+
+ensuite de les localiser précisément sur le site. 
+
+2.4.2  Expertise de la faune 
+
+Pour la faune, la méthodologie appliquée se base principalement sur l’identification des potentialités 
+
+d’accueil du site pour les espèces, ainsi que l’observation aléatoire sur site :  
+
+ 
+
+avifaune : observations aléatoires aux jumelles, identification des espèces au chant et au 
+visuel, caractérisation des habitats potentiels de nidification et des potentialités d’accueil 
+du site pour les espèces patrimoniales ; 
+
+  mammifères terrestres : recherche de traces et d’indices de présence, caractérisation des 
+
+potentialités d’accueil du site pour les espèces patrimoniales ; 
+
+ 
+
+chiroptères : recherche de gites potentiels (arbres creux, vieux bâtiments avec cave ou 
+combles, grotte, pont, …) et recherche d’indices de présence (guano, …) ; 
+
+  Ecoute passive des chiroptères : pose de 3 audiomoths au niveau de la lisière forestière 
+
+ouest sur une nuit ; 
+
+ 
+
+ 
+
+ 
+
+reptiles : caractérisation des potentialités d’accueil du site pour les reptiles ; observations 
+aléatoires en période favorable ; 
+
+amphibiens :  caractérisation  des  potentialités  d’accueil  du  site  pour  les  amphibiens 
+(recherche  de  points  d’eau  ou  d’habitats  terrestres) ;  observations  aléatoires  en  période 
+favorable ; 
+
+insectes :  caractérisation  des  potentialités  d’accueil  du  site  pour 
+les  espèces 
+patrimoniales ;  observations  aléatoires  en  période  favorable  avec  capture  au  filet  et 
+identification des espèces. 
+
+2.4.3  Hiérarchisation des enjeux  
+
+Les enjeux sont hiérarchisés pour chaque habitat et espèce rencontrés et en fonction de différents 
+critères  détaillés  dans  le  tableau  ci-dessous.  Le  tout  aboutit  à  une  appréciation  de  la  sensibilité 
+écologique allant de nulle à forte.  
+
+12/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Tableau 4 : Synthèse de la méthodologie de définition des enjeux 
+
+NIVEAU D’ENJEU 
+
+CRITÈRES 
+
+Espèces de faune ou de flore indigène 
+
+Espèce très rare / très menacée (= liste rouge UICN régionale ou nationale : EN, CR, RE, 
+
+R à RRR, ou outil équivalent) au sein des cortège(s) associé(s). 
+
+Présence d’au moins un milieu favorable au groupe biologique considéré (secteur dominé 
+
+FORT 
+
+par les milieux naturels spontanés). 
+
+Habitats 
+
+Habitat (semi-)naturel très rare et menacé en France et dans la région. Habitat d’intérêt 
+
+communautaire au titre de la Directive « Habitat-Faune-Flore »   
+
+Selon l’état de conservation de l’habitat. 
+
+Espèces de faune ou de flore indigène 
+
+Espèce rare/ menacée (= liste rouge UICN régionale ou nationale NT, VU, ou statut de 
+
+rareté R à AR ou outil équivalent) au sein des cortège(s) associé(s). 
+
+MODERE 
+
+Présence d’au moins un milieu favorable au groupe biologique considéré (secteur dominé 
+
+par les milieux naturels spontanés). 
+
+Habitats 
+
+Habitat (semi-)naturel rare et menacé dans la région administrative du site d’étude. Selon 
+
+l’état de conservation de l’habitat.  
+
+Espèces de faune ou de flore indigène 
+
+Espèces communes (= liste rouge UICN régionale ou nationale : LC, ou outil équivalent) / 
+
+déterminante ZNIEFF / ou statut de rareté PC ou AC. 
+
+Présence d’au-moins un milieu favorable au groupe biologique considéré (secteur occupé 
+
+FAIBLE 
+
+par une mosaïque de milieux naturels et de milieux artificiels). 
+
+Habitats 
+
+Habitat (semi-)naturel rudéralisé dont la flore est rendue banale et commune ou habitat 
+
+fréquent  et  non  menacé  en  France  et  dans  la  région.  Selon  l’état  de  conservation  de 
+
+l’habitat.  
+
+Espèces de faune ou de flore indigène 
+
+Absence de milieu favorable au groupe biologique considéré, qui est donc présumé absent 
+
+NUL  
+
+du secteur d’étude. 
+
+Habitats 
+
+Milieu très artificialisé (route, parking goudronné…) non favorable à la biodiversité. 
+
+EN : en danger _ CR : en danger critique _ RE : éteinte au niveau régional _ R : rare _ RR : très rare _ RRR : 
+extrêmement rare NT : quasi-menacé _ VU : vulnérable _ R : rare _ AR : assez rare 
+LC : préoccupation mineure _ PC : peu commun _ AC : assez commun 
+
+13/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+3  Contexte écologique  
+
+3.1 
+
+Zonages du patrimoine naturel  
+
+Les données administratives concernant les milieux naturels, le patrimoine écologique, la faune et 
+la flore sont principalement de deux types : 
+
+ 
+
+ 
+
+les zonages réglementaires, qui correspondent à des sites au titre de la législation ou de 
+la réglementation en vigueur dans lesquels les interventions dans le milieu naturel peuvent 
+être encadrées voire interdites (comme les sites Natura 2000, les arrêtés préfectoraux de 
+protection de biotope, ) ; 
+
+les zonages d’inventaire du patrimoine naturel, élaborés à titre d’avertissement pour les 
+aménageurs  et  qui  n’ont  pas  de  valeur  d’opposabilité.  Ce  sont  notamment  les  Zones 
+naturelles  d’intérêt  écologique,  faunistique  et  floristique  (ZNIEFF  de  type  II  -  grands 
+ensembles  écologiquement  cohérents  -  et  ZNIEFF  de  type  I  -  secteurs  de  plus  faible 
+surface au patrimoine naturel remarquable).etc. 
+
+D’autres types de zonages existent, correspondant par exemple à des territoires de développement 
+et d’expérimentation du développement durable (ex. : Parcs naturels régionaux – PNR) ou à des 
+secteurs gérés en faveur de la biodiversité (ex. : Espaces naturels sensibles). 
+
+3.1.1 
+
+Zonages réglementaires  
+
+Dans un périmètre de 5 kilomètres autour de l’aire d’étude immédiate, les zonages réglementaires 
+suivants ont été recherchés : 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+les  Arrêtés  préfectoraux  de protection  de  biotope  (APPB) ;  (consulter  l’arrêté  préfectoral 
+qui donne des informations complètes sur les espèces visées, les habitats protégés et les 
+activités autorisées et non autorisées) 
+
+les Réserves naturelles nationales et les Réserves naturelles régionales (RNN et RNR) ;  
+
+les forêts de protection ;  
+
+les Parcs naturels nationaux (PNN) ; 
+
+les sites Natura 2000 ; (le DOCOB quand il existe est à consulter) 
+
+les Réserves de biosphère (RB) ; 
+
+les cours d’eau ; (cartographie départementale des cours d’eau – lien avec la Loi sur l’eau 
+et déterminer s’il s’agit de cours d’eau classés) 
+
+ 
+
+les sites soumis à la Convention RAMSAR sur les zones humides. 
+
+La ZIP, l’aire d’étude rapprochée (AER) et l’aire d’étude du contexte écologique (AECE) se situent 
+au sein du site Natura 2000 des « Gîtes et habitats à chauves-souris en Bourgogne ». Le projet 
+
+doit donc veiller à ne pas impacter les chiroptères inscrit en ce site.  
+
+3.1.2 
+
+Zonages d’inventaires  
+
+14/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Dans  un  périmètre  de  5 kilomètres  autour  de  l’aire  d’étude  immédiate,  les  zonages  d’inventaire 
+
+suivants ont été recherchés : 
+
+ 
+
+ 
+
+les ZNIEFF de type I et II ;  
+
+les zones humides (inventaires régional et départemental). 
+
+La ZIP, l’aire d’étude rapprochée (AER) et l’aire d’étude du contexte écologique (AECE) se situent 
+au sein du de la ZNIEFF II « Auxois » qui correspond au territoire du site Natura 2000.  
+
+Six ZNIEFF de type I recoupent l’AECE, dont celle de « Vallée de la Brenne et coteaux et réservoir 
+de Grosbois-en-Montagne » à environ 900 mètres au sud de la ZIP.  
+Les  espèces  ayant  justifiées  la  désignation  de  ces  ZNIEFF  seront  recherchées  lors  de 
+
+l’inventaire de terrain.  
+
+3.1.3  Autres types de zonages  
+
+Dans un périmètre de 5 kilomètres autour de l’aire d’étude immédiate, les zonages suivants ont été 
+recherchés : 
+
+ 
+
+ 
+
+ 
+
+les Espaces naturels sensibles (ENS) ;  
+
+les Parcs naturels régionaux (PNR) ; 
+
+les Plans nationaux d’action (PNA).  
+
+Aucun de zonages citées ci-dessus sont présent au sein de l’AECE.  
+
+15/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Carte 2 : Zonages réglementaires et d’inventaire 
+
+16/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Tableau 5  : Synthèse des zonages   
+
+NOM DU SITE 
+
+CODE 
+
+DESCRIPTION ET LIEN FONCTIONNEL AVEC LE PROJET  
+
+DISTANCE AU 
+PROJET 
+
+LIEN FONCTIONNEL AVEC LE 
+PROJET 
+
+ENJEUX 
+REGLEMENTAIRE 
+
+Natura 2000 : ZSC «  Gîtes et 
+habitats à chauves-souris en 
+Bourgogne » 
+
+FR2601012 
+
+ZNIEFF de type I « Auxois» 
+
+260015012 
+
+ZNIEFF de type I « Vallée de la 
+Brenne et coteaux et réservoir de 
+Grosbois-en-Montagne » 
+
+260012303 
+
+ZNIEFF de type I « Combe de 
+Savrange à Blaisy-bas » 
+
+260012279 
+
+ZNIEFF de type I « Val de la 
+Drenne et Coteaux de entre 
+Charencey et Dree » 
+ZNIEFF de type I « Prairie 
+bocagères de Marcellois 
+Avosnes » 
+
+ZNIEFF de type I « Plateau entre 
+Civry-en-Montagne et Pouilly-en-
+Auxois » 
+
+260030331 
+
+260030324 
+
+260030316 
+
+ZONAGES REGLEMENTAIRES8 
+
+Présence de 20 espèces de chauves-souris dont huit 8 espèces 
+d'intérêt européen : le Petit rhinolophe, le Grand rhinolophe, le 
+Rhinolophe euryale, le Murin à oreilles échancrées, le Grand 
+murin, la Barbastelle d'Europe, le Murin de Bechstein, le 
+Minioptère de Schreibers. 
+Autres espèces à enjeux : Sonneurs à ventre 
+jaune, d'Agrion de Mercure et d'Écrevisses à pattes blanches.  
+
+ZONAGES D’INVENTAIRE 
+
+Ce site est reconnu d'intérêt régional pour la grande diversité des 
+milieux représentés : Les prairies bocagères (Pie grièche 
+écorcheur et à tête rousse, Chevêche d’Athéna, Triton crêté..), 
+des milieux aquatiques (rivières et étangs), les foret et des 
+rebords de plateaux et les versants à fortes pentes 
+Le réservoir de Grosbois subit de fortes fluctuations du niveau 
+d'eau. Les limons ainsi découverts favorisent la germination 
+d'espèces rares et l'expression d'habitats pionniers de vases 
+exondées. Le réservoir et ses annexes offrent aux oiseaux de 
+milieux humides une zone d'hivernage et de halte migratoire 
+Creusée par les résurgences dans les calcaires et marnes de l’est 
+de l’Auxois, cette combe est d'intérêt régional pour ses habitats 
+forestiers et de sources, avec la flore associée : sources et 
+ruisseaux tufeux, plantes aquatiques  
+Milieux bocager variées renfermant des pelouses sèches et 
+humides avec des espèces déterminantes : papillons, fleurs, 
+colonie de gîte de Petit rhinolophe etc..  
+Prairies bocagères, associées à quelques boisements : Pie-
+grièche écorcheur, Huppe fasciée, Torcol fourmilier, terrain de 
+chasse pour le Petit rhinolophe etc.. 
+Cultures, de prairies et de quelques friches. Les plantes des 
+moissons, dites messicoles, constituent l'intérêt principal du site. 
+Espèces floristiques d’intérêt : le Brome faux-seigle et la Gagée 
+des champs 
+
+Recouvre la 
+ZIP, l’AER et 
+l’AECE 
+
+Alimentation des chauves-souris 
+au sein de la ZIP et gîte 
+potentielle au sein de l’AER   
+
+Oui : réaliser une 
+étude d’incidence 
+Natura 2000 
+simplifiée 
+
+Recouvre la 
+ZIP, l’AER et 
+l’AECE 
+
+Présence d’espèces forestières 
+citées dans la ZNIEFF 
+potentiellement présentes au 
+sein de l’AER 
+
+900 m au sud 
+de la ZIP 
+
+Pas de lien fonctionnel avec la 
+ZIP au vu de la différence de 
+milieux   
+
+4 km au nord-
+est de la ZIP 
+
+2.5 km au nord-
+est de la ZIP 
+
+4 km au nord-
+ouest de la ZIP 
+
+4 km au sud-
+ouest de la ZIP 
+
+Présence potentielle d’espèces 
+forestières citées dans la 
+ZNIEFF au sein de l’AER 
+Présence potentielle d’espèces 
+forestières citées dans la 
+ZNIEFF au sein de l’AER 
+
+Présence potentielle d’espèces 
+de cultures citées dans la 
+ZNIEFF au sein de de la ZIP 
+
+Pas de lien fonctionnel avec la 
+ZIP au vu de la différence de 
+milieux   
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+ZNIEFF de type I « Réservoir de 
+Panthier et bocage environnant » 
+
+260030325 
+
+Vallées humides, occupées par des prairies bocagères associées 
+à quelques bois, ruisseaux, lacs et roselières 
+
+4.2 km au sud 
+de la ZIP 
+
+17/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+3.2 
+
+Trames vertes et bleues   
+
+Du fait de la loi portant une nouvelle organisation territoriale de la République (dite loi « NOTRe ») 
+adoptée  en  2015,  les  SRCE  seront  remplacés  par  un  nouveau  schéma  intégrateur  au  niveau 
+régional, le SRADDET. Il se base sur l’identification des éléments de la Trame Verte et Bleue (ETB) 
+
+suivants :  
+
+  Réservoir de biodiversité : Ils correspondent aux espaces dans lesquels la biodiversité 
+est la plus riche ou la mieux représentée, où les espèces peuvent effectuer tout ou partie 
+
+de leur cycle de vie et où les habitats naturels peuvent assurer leur fonctionnement.  
+
+  Corridors écologiques : Ils assurent des connexions entre les réservoirs de biodiversité 
+ou  entre  des  territoires  peu  fragmentés  ayant  une  bonne  fonctionnalité  écologique,  et 
+
+apportent soutien à la fonctionnalité des réservoirs de biodiversité. Ils offrent aux espèces 
+des conditions favorables à leur déplacement et à l’accomplissement de leur cycle. 
+
+  Trame bleue : La trame bleue est constituée d’éléments aquatiques (cours d’eau, zones 
+humides) et d’espaces d’interface entre les milieux terrestres et aquatiques. Cette définition 
+intègre la dimension latérale des cours d’eau.  
+
+L’AECE regroupe plusieurs petits réservoirs de biodiversité et corridors écologiques terrestres ainsi 
+
+que 5 cours d’eau principaux. Or, le boisement présent au sein  de l’AER à l’ouest n’est pas 
+identifié comme un élément de la trame verte locale. 
+
+18/44
+
+ 
+ 
+ 
+ 
+ 
+  
+Référence 
+
+R001-1624175MGA-V01 
+
+Carte 3 : Trame vertes et bleues locales
+
+19/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+4  Résultats du pré-diagnostic  
+
+4.1 
+
+Habitat  
+
+La  ZIP  d’environ  2,03  ha  est  constitué  intégralement  d’une  culture.  L’AER  est  divisée  en  deux 
+typologies d’habitats : une hêtraie et un boisement d’épicéa.   
+
+Tableau 6 : Habitats recensées 
+
+Intitulé 
+
+Code 
+EUNIS 
+
+Code 
+CORINE 
+
+ZH 
+
+Habitat d'intérêt 
+communautaire N2000 
+
+Etat de 
+conservation 
+
+Enjeu de 
+conservation 
+
+Monoculture intensive 
+
+I1.1 
+
+82.11 
+
+Hêtraie  
+
+Foret d’Epicéa 
+
+G1.6 
+
+G3.1 
+
+41.1 
+
+42.1 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Négligeable 
+
+Moyen 
+
+Moyen 
+
+Faible 
+
+Faible 
+
+Figure 1 : Monoculture intensive 
+
+Figure 2 : Foret d’épicéa (gauche) et hêtraie (droite) 
+
+La  ZIP  est  constitué  d’une  culture  et  l’AER  d’une  forêt  d’Epicéa  au  sud  et  une  hêtraie  à  l’ouest. 
+
+L’enjeu écologique associé est faible. 
+
+20/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+4.2 
+
+Flore  
+
+Analyse bibliographique  
+L’analyse bibliographique de la flore se base sur la consultation des sources suivantes à l’échelle 
+de la commune de Vieilmoulin : Inventaire National du Patrimoine Naturel (INPN). 
+
+Au total, 266 espèces végétales sont connues sur la commune mais aucune n’est protégée. 
+
+Résultat de l’inventaire : 
+Au total, 35 espèces végétales ont été identifiées sur le site d’étude. Il s’agit d’espèces commune, 
+sans enjeux de conservation particulier. Aucune n’est protégée ou d’intérêt communautaire. Elles 
+
+sont présentées dans le tableau suivant.  
+Au regard de la période d’inventaire, ces résultats ne sont probablement pas exhaustifs. 
+
+Tableau 7 : Listes des espèces végétales recensées  
+Nom français 
+
+Nom scientifique 
+
+Fraxinus excelsior L., 1753 
+
+Frêne élevé 
+
+Anisantha sterilis (L.) Nevski, 1934 
+
+Brome stérile 
+
+Acer campestre L., 1753 
+
+Hedera helix L., 1753 
+
+Picea abies (L.) H.Karst., 1881 
+
+Corylus avellana L., 1753 
+
+Prunus spinosa L., 1753 
+
+Erable champêtre 
+
+Lierre grimpant 
+
+Epicea commun 
+
+Noisetier commun 
+
+Prunier épineux 
+
+Crataegus laevigata (Poir.) DC., 1825 
+
+Aubépine à deux styles 
+
+Lonicera periclymenum L., 1753 
+
+Chèvrefeuille des bois 
+
+Fagus sylvatica L., 1753 
+
+Aquilegia vulgaris L., 1753 
+
+Chelidonium majus L., 1753 
+
+Hêtre des forêts 
+
+Ancolie commune 
+
+Grande chélidoine 
+
+Polygonatum multiflorum (L.) All., 1785 
+
+Sceau-de-Salomon multiflore 
+
+Fragaria vesca L., 1753 
+
+Rubia peregrina L., 1753 
+
+Carpinus betulus L., 1753 
+
+Acer pseudoplatanus L., 1753 
+
+Rubus caesius L., 1753 
+
+Fraisier des bois 
+
+Grance voyageuse 
+
+Charme commun 
+
+Erable sycomore 
+
+Ronce bleue 
+
+Spirae chamaedryfolia L., 1753 
+
+Spirée à feuilles de petit chêne 
+
+Fraxinus angustifolia Vahl, 1804  
+
+Frêne à feuilles étroites 
+
+Betula pendula Roth, 1788 
+
+Bouleau verruqueux 
+
+Laburnum anagyroides Medik., 1787 
+
+Cytise faux ébénier 
+
+Dactylis glomerata L., 1753 
+
+Dactyle agloméré 
+
+Poa pratensis L., 1753 [nom. et typ. cons.] 
+
+Pâturin des prés 
+
+Poa trivialis L., 1754 
+
+Pâturin commun 
+
+Alopecurus myosuroides Huds., 1762 
+
+Vulpin des champs 
+
+Galium album Mill., 1768 
+
+Gaillet blanc 
+
+Vicia sp. 
+
+Achillea millefolium L., 1753 
+
+Achillée millefeuille 
+
+Primula veris L., 1753 
+
+Primevère vraie 
+
+Euphorbia flavicoma DC., 1813 
+
+Euphorbe à tête jaune-d'or 
+
+Allium sp. 
+
+Cirsium acaule (L.) All., 1780 
+
+Pinus sp. 
+
+Cirse acaule 
+
+Fromental élevé 
+
+PN 
+
+PR 
+
+LR N 
+
+LR R 
+
+DFF 
+
+ZH 
+
+EEE 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+NA 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+NA  
+
+ NA 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+Oui 
+
+Oui 
+
+Oui 
+
+21/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Référence 
+
+R001-1624175MGA-V01 
+
+Nom scientifique 
+
+Nom français 
+
+PN 
+
+PR 
+
+LR N 
+
+LR R 
+
+DFF 
+
+ZH 
+
+EEE 
+
+Arrhenatherum elatius (L.) P.Beauv. ex 
+J.Presl & C.Presl, 1819 
+PN : Protection nationale  
+PR : Protection régionale de Bourgogne (arrêté du 27 mars 1992) 
+LR N : Liste rouge nationale RE : Éteinte au niveau régional _ CR : En danger critique d’extinction _ EN : En danger _ VU : Vulnérable _ NT : Quasi-menacée 
+_ LC : Préoccupation mineure _ DD : Données insuffisantes _ NA : Non applicable _ NE : Non évaluée 
+LR R : Liste rouge régionale de Bourgogne (2015) 
+
+LC 
+
+LC 
+
+/ 
+
+/ 
+
+L’inventaire a permis d’identifier 35 espèces floristiques communes (aucune espèce protégées 
+ou patrimoniale). L’inventaire n’est cependant pas exhaustif.   
+
+4.3 
+
+Faune  
+
+4.3.1  Avifaune  
+
+Analyse bibliographique  
+Au  total,  60  espèces  d’oiseaux  sont  connues  sur  la  commune  de  Vieilmoulin  depuis  2015.  On 
+retrouve  le  Grand-duc  d’Europe  et  la  Chouette  Hulotte  comme  rapace  nocturne  et  7  rapaces 
+
+diurnes. On trouve également le Pic épeiche, la Huppe fasciée, des Bruants, l’Alouette lulu, le Tarier 
+des prés, le Tarie pâtre. La majorité sont protégés avec une patrimonialité faible à modéré.  
+
+Résultat de l’inventaire  
+Au total, 13 espèces d’oiseaux ont été observées en période printanière  sur le site, dont 11 espèces 
+protégées  à  l’échelle  nationale.  Seul  le  Faucon  crécerelle  et  la    Linotte  mélodieuse  sont 
+
+respectivement  considérés  comme  « quasi-menacé »  et  « vulnérable »  à  l’échelle  nationale.  La 
+Chouette hulotte (rapace nocturne) a été entendu lors des inventaires nocturnes.  
+
+La totalité des espèces sont en animation au sein de la culture intensive de la ZIP. Elles sont 
+par  contre  potentiellement  nicheuses  au  seins  des  boisements  (sud  et  ouest)  et  des  arbres 
+isolés au nord.   
+
+Deux cortèges d’oiseaux fréquentent le site :  
+
+ 
+
+ 
+
+Le  cortège  des  oiseaux  forestiers   :  espèces  liées  aux  arbres  et  arbustes  et  plus  ou  moins 
+adaptées au milieu urbain, telles que la Fauvette à tête noire, le Roitelet à triple bandeau, le 
+Rougegorge etc..  
+Le cortège des espèces anthropophiles : ce cortège comprend les espèces qui peuvent utiliser 
+les bâtiments pour nicher, comme le Moineau domestique et le Faucon crécerelle   
+
+Tableau 8 : Listes des espèces avifaunistiques recensées  
+
+Nom scientifique 
+
+Nom vernaculaire 
+Base faune France 
+
+PN 
+
+DO 
+
+Strix aluco (Linnaeus, 1758) 
+Falco tinnunculus 
+(Linnaeus, 1758) 
+Sylvia atricapilla (Linnaeus, 
+1758) 
+Linaria cannabina 
+(Linnaeus, 1758) 
+
+Chouette hulotte 
+
+Faucon crécerelle 
+
+Fauvette à tête 
+noire 
+
+Linotte mélodieuse 
+
+III 
+
+III 
+
+III 
+
+III 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+LR 
+FR 
+
+LC 
+
+NT 
+
+LC 
+
+VU 
+
+LR 
+Bourgogne 
+
+ZNIEFF 
+Bourgogne 
+
+Statut au 
+sein de la 
+ZIP 
+
+Statut au 
+sein de l'AER 
+
+Enjeu sur la 
+ZIP 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+Alimentation 
+
+Nicheur 
+
+Très faible 
+
+Alimentation  Alimentation 
+
+Faible 
+
+Alimentation 
+
+Nicheur 
+
+Très faible 
+
+Alimentation 
+
+Nicheur 
+
+Faible 
+
+22/44
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Nom scientifique 
+
+Nom vernaculaire 
+Base faune France 
+
+PN 
+
+DO 
+
+Turdus merula (Linnaeus, 
+1758) 
+Parus major (Linnaeus, 
+1758) 
+Passer domesticus 
+(Linnaeus, 1758) 
+Columba palumbus 
+(Linnaeus, 1758) 
+Fringilla coelebs (Linnaeus, 
+1758) 
+Phylloscopus collybita 
+(Vieillot, 1887) 
+Regulus ignicapilla 
+(Temminck, 1820) 
+Luscinia megarhynchos C. 
+L. Brehm, 1831) 
+Erithacus rubecula 
+(Linnaeus, 1758) 
+
+Merle noir 
+
+Mésange 
+charbonnière 
+Moineau 
+domestique 
+
+Pigeon ramier 
+
+Pinson des arbres 
+
+Pouillot véloce 
+
+Roitelet à triple 
+bandeau 
+Rossignol 
+philomèle 
+Rougegorge 
+familier 
+
+/ 
+
+III 
+
+III 
+
+/ 
+
+III 
+
+III 
+
+III 
+
+III 
+
+III 
+
+II 
+
+/ 
+
+/ 
+
+II + 
+III 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+LR 
+FR 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LR 
+Bourgogne 
+
+ZNIEFF 
+Bourgogne 
+
+Statut au 
+sein de la 
+ZIP 
+
+Statut au 
+sein de l'AER 
+
+Enjeu sur la 
+ZIP 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+DD 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+Alimentation 
+
+Nicheur 
+
+Très faible 
+
+Alimentation 
+
+Nicheur 
+
+Très faible 
+
+Alimentation 
+
+Nicheur 
+
+Très faible 
+
+Alimentation 
+
+Nicheur 
+
+Très faible 
+
+Alimentation 
+
+Nicheur 
+
+Très faible 
+
+Alimentation 
+
+Nicheur 
+
+Très faible 
+
+Alimentation 
+
+Nicheur 
+
+Très faible 
+
+Alimentation 
+
+Nicheur 
+
+Très faible 
+
+Alimentation 
+
+Nicheur 
+
+Très faible 
+
+PN : Protection nationale : Arrêté du 29 octobre 2009. III : Article 3 : Espèces protégées _ VI : Article 6 : Autorisations 
+exceptionnelles de désairage 
+DO : Directive Oiseaux 1979. I : Annexe 1 : Espèce nécessitant la mise en place de Zone de Protection Spéciale _ II : Annexe 2 : 
+Espèces chassables _ III : Annexe 3 : Conditions de commercialisation et de transport 
+LR : Listes rouges (FR : Française _ 2016, Bourgogne : _ 2015) 
+RE : Éteinte au niveau régional _ CR : En danger critique d’extinction _ EN : En danger _ VU : Vulnérable _ NT : Quasi-menacée _ 
+LC : Préoccupation mineure _ DD : Données insuffisantes _ NA : Non applicable _ NE : Non évaluée 
+ZNIEFF bourgogne : Espèces déterminantes ZNIEFF en Auvergne Rhône-Alpes, secteur « Plaine rhodanienne ». D : Espèce 
+déterminante _ C : Espèce complémentaire 
+
+L’inventaire a permis d’identifier 13 espèces avifaunistiques communes, en alimentation au sein de 
+la  ZIP  et  potentiellement  en  nidification  au  sein  de  l’AER  (boisements  et  habitation).  L’enjeux 
+écologique est globalement très faible au niveau de la ZIP et faible au niveau de l’AER.   
+
+4.3.2  Chiroptères  
+
+Analyse bibliographique  
+
+Le  site  Natura  2  000  dans  lequel  s’inscrit  le  projet  mentionne  la  présence  de  20  espèces  de 
+chauves-souris  dont  8  espèces  d'intérêt  européen  :  le  Petit  rhinolophe,  le  Grand  rhinolophe,  le 
+Rhinolophe  euryale,  le  Murin  à  oreilles  échancrées,  le  Grand  murin,  la  Barbastelle  d'Europe,  le 
+
+Murin de Bechstein, le Minioptère de Schreibers. 
+
+Activités acoustiques enregistrée  
+
+Trois  points  d’écoute  ont  été  réalisé  au  niveau  de  la  lisière  à  l’aide  d’audiomoths  (écoutes 
+passives). La localisation des points d’écoute est visible en annexe 1.  
+
+Au total, 2 824 contacts bruts ont été enregistrés. Ils se répartissent en 9 espèces et 4 groupes 
+
+d’espèces, ce qui représente une diversité faible à moyenne pour la Bourgogne-Franche-Comté 
+qui abrite 24 des 36 espèces représentées en France.  
+
+Les  groupes  des  Murins  indéterminés,  Oreillards  indéterminés  et  Sérotules  (Noctules  sp.  et 
+
+Sérotines sp.) englobent plusieurs espèces dont les enregistrements n’ont pu être identifiés jusqu’à 
+l’espèce. Dans ces groupes plusieurs espèces connues dans la bibliographie sont potentiellement 
+
+23/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+présentes  sur  l’AEI  mais  n’ont  pu  être  identifiées,  notamment  en  raison  de  la  qualité  (signaux 
+
+éloignés, parasites) ou de la trop courte durée des contacts enregistrés. 
+
+Les espèces de chiroptères contactées sont plutôt bien reparties sur les habitats du site, on note par 
+exemple la présence des Rhinolophes sur la quasi-totalité des points, un groupe d’espèces difficile à 
+
+enregistrer en raison de leurs signaux à faible émission. 
+
+Un  nombre  important  de  Barbastelle  d’Europe  ont  été  enregistrés  sur  le  points  A1  (lisière  de 
+boisement) avec 255 contacts bruts. La Pipistrelle commune, espèce la plus représenté sur le site 
+
+d’étude, à été contacté en plus grande proportion sur le point A3 avec 863 contacts bruts. On retrouve 
+également une proportion importante d’Oreillard gris sur le site d’étude avec 205 contacts bruts sur 
+le point A1. La lisière du boisement pourrait être un axe de transit et de chasse important pour ces 
+
+espèces.  
+
+Tableau 9 : Résultats (contacts bruts) par point d’enregistrement et par espèce 
+
+Nom vernaculaire 
+
+Barbastelle d'Europe 
+
+Murin indéterminé 
+
+Noctule de Leisler 
+
+Oreillard gris 
+
+Oreillard indéterminé 
+
+Oreillard roux 
+
+Petit rhinolophe 
+
+Pipistrelle commune 
+
+Pipistrelle de Kuhl 
+
+Pipistrelle de Kuhl / 
+Pipistrelle de Nathusius 
+
+Pipistrelle de Nathusius 
+
+Sérotine commune 
+
+Sérotule 
+
+Total général 
+
+Diversité spécifique 
+
+A1 
+
+255 
+
+26 
+
+12 
+
+205 
+
+15 
+
+- 
+
+8 
+
+413 
+
+12 
+
+4 
+
+2 
+
+- 
+
+- 
+
+952 
+
+7 
+
+A2 
+
+40 
+
+61 
+
+11 
+
+133 
+
+21 
+
+2 
+
+5 
+
+471 
+
+4 
+
+- 
+
+- 
+
+26 
+
+1 
+
+775 
+
+8 
+
+Proportion de contacts 
+
+33,71% 
+
+27,44% 
+
+Total contacts 
+bruts 
+
+Proportion des 
+contacts bruts 
+
+349 
+
+130 
+
+44 
+
+400 
+
+37 
+
+2 
+
+19 
+
+12,36% 
+
+4,60% 
+
+1,56% 
+
+14,16% 
+
+1,31% 
+
+0,07% 
+
+0,67% 
+
+1747 
+
+61,86% 
+
+18 
+
+4 
+
+2 
+
+71 
+
+1 
+
+2824 
+
+9 
+
+0,64% 
+
+0,14% 
+
+0,07% 
+
+2,51% 
+
+0,04% 
+
+100,00% 
+
+A3 
+
+54 
+
+43 
+
+21 
+
+62 
+
+1 
+
+- 
+
+6 
+
+863 
+
+2 
+
+- 
+
+- 
+
+45 
+
+- 
+
+1097 
+
+6 
+
+38,85% 
+
+Utilisation du site par les chiroptères 
+Les différentes espèces ou les différents groupes de chiroptères ont chacun un mode et un habitat 
+
+de chasse différent, de manière général : 
+
+ 
+
+ 
+
+Les Pipistrelles et les Sérotines sont des espèces ubiquistes, elles suivent principalement 
+les lisières et se concentrent au-dessus des milieux humides riches en proie pour chasser, 
+
+mais  sont  aussi  capable  d’évoluer  en  milieu  ouvert  et  en  haute  altitude  comme  les 
+Noctules ; 
+les Noctules font partie du groupe des espèces de haut vol, elles utilisent principalement 
+
+une  technique  dite  « de  poursuite » pour  chasser  au-dessus  des  canopées,  des  milieux 
+humides, etc. Elles sont également capables de chasser en plein ciel au-delà de 100 m 
+d’altitude. 
+
+24/44
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+ 
+
+Les  Murins  sont  des  espèces  essentiellement  forestières,  se  cantonnant  aux  basses 
+
+altitudes  (sauf  exception  comme  le  Murin  de  Daubenton  chassant  principalement  au-
+dessus des masses d’eau) ; 
+Les Oreillards sont quant à eux, des espèces glaneuses, on les retrouvera plutôt en milieux 
+
+forestiers ou encombrés. La Barbastelle d’Europe privilégiera également les milieux boisés 
+comme les allées forestières pour se déplacer et chasser ; 
+Les Rhinolophes sont dépendants des éléments paysagers comme les haies, les murets, 
+
+ 
+
+ 
+
+les  lisières,  etc ;  qui  leur  servent  à  se  déplacer.  Ils  sont  donc  particulièrement  présents 
+dans les milieux bocagers qui sont également des milieux riches en proies. 
+
+Figure 3 : Habitudes de vol et distances de détectabilité des différents groupes de chiroptères (Barataud, 2015) 
+
+Potentialités de gîtes au sein de la ZIP et de l’AER  
+
+La  ZIP  ne  présente  aucun  gîte  potentiel  pour  les  chiroptères.  Les  boisements  de  l’AER 
+présentent quant à eux des potentialité de gîte arboricoles :  
+
+  Potentialité moyenne de gîte au sein du boisement à l’ouest :  la présence de chablis 
+au sol, d’écorces d’arbres décollés, loges de pic, d’anfractuosité plus ou moins grande au 
+niveau  des  troncs  et  des  branches  ainsi  que  les  arbres  morts  sur  pied  et  les  arbres 
+recouverts  de  lierre  offrent  de  nombreuses  potentialité  de  gîtes  secondaire  pour  les 
+chiroptères (gîte d’une journée ou plus). Les espèces identifiées qui pourraient utiliser ces 
+gîtes sont : la Barbastelle d’Europe, les noctules, les pipistrelles et les murins. 
+
+  Faible  potentialité  de  gîte  au  sein  du  boisement  d’épicéa  situé  au  sud  :    ce  jeune 
+
+boisement de conifère offre moins de gîtes potentiels.  
+
+Aucune grande cavité pouvant accueillir une colonie entière n’a été observé dans aucun des 
+boisements.  
+
+25/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Figure 4 : Anfractuosités dans les troncs d’arbres  
+
+Figure 5 : Arbre recouvert de lierre et chablis  
+
+26/44
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+  
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Figure 6 : Arbre mort et trou de pic  
+
+Potentialités de gîtes au sein de l’AECE :  
+
+Dans l’aire d’étude rapprochée, et plus largement dans un rayon de 10 km autour de la ZIP, il est 
+
+possible que plusieurs types de gîtes soient présents : 
+
+  des gîtes arboricoles dans des arbres creux ou sénescents (écorces décollées, fissures, 
+
+etc.) des boisements et massifs forestiers ; 
+
+  des  gîtes  bâtis  dans  les  habitations,  bâtiments  industriels  et  agricoles,  ponts,  etc.  Des 
+bâtiments  propices  sont  notamment  présent  sur  la  commune  de  Vieilmoulin  (21)  avec 
+notamment des vieux bâtiments en pierres et bardages bois. 
+
+  gîtes souterrains (grottes, carrières, ouvrages civils et militaires, etc.). Des cavités de ce 
+type  sont connues  dans  un rayon  de  10  km  autour  de  l’AEI  notamment  de  nombreuses 
+cavités naturelles. 
+
+Evaluation des enjeux  
+
+Les enjeux locaux de conservation des espèces sont évalués dans le tableau suivant, par espèce 
+
+sur la base des résultats de l’expertise. 
+
+Tableau 10 : Listes des espèces avifaunistiques recensées 
+
+Nom 
+vernaculaire 
+Barbastelle 
+d'Europe 
+
+Nom 
+scientifique 
+Barbastella 
+barbastellus 
+
+Directive 
+Habitats 
+Annexe II 
+et IV 
+
+Protection 
+nationale 
+
+LRN 
+
+LRR 
+
+Statut au sein de la ZIP 
+
+Article 2 
+
+LC 
+
+NT 
+
+Activité  très  forte  de  l’espèce  sur  le 
+point  A1.  Activité  de  chasse  et  de 
+
+Enjeu sur 
+la ZIP 
+
+Faible 
+
+27/44
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Nom 
+vernaculaire 
+
+Nom 
+scientifique 
+
+Directive 
+Habitats 
+
+Protection 
+nationale 
+
+LRN 
+
+LRR 
+
+Statut au sein de la ZIP 
+
+Enjeu sur 
+la ZIP 
+
+Murin 
+indéterminé 
+
+Myotis sp. 
+
+Certaines 
+en 
+Annexe II 
+
+- 
+
+- 
+
+- 
+
+Noctule de 
+Leisler 
+
+Nyctalus 
+leisleri 
+
+Annexe 
+IV 
+
+Article 2 
+
+NT 
+
+NT 
+
+Oreillard gris 
+
+Plecotus 
+austriacus 
+
+Annexe 
+IV 
+
+Article 2 
+
+LC 
+
+DD 
+
+Oreillard roux 
+
+Plecotus 
+auritus 
+
+Annexe 
+IV 
+
+Article 2 
+
+LC 
+
+DD 
+
+Petit 
+rhinolophe 
+
+Rhinolophus 
+hipposideros 
+
+Annexe II 
+et IV 
+
+Article 2 
+
+LC 
+
+NT 
+
+Pipistrelle 
+commune 
+
+Pipistrellus 
+pipistrellus 
+
+Annexe 
+IV 
+
+Article 2 
+
+NT 
+
+LC 
+
+Pipistrelle de 
+Kuhl 
+
+Pipistrellus 
+kuhlii 
+
+Annexe 
+IV 
+
+Article 2 
+
+LC 
+
+LC 
+
+Pipistrelle de 
+Nathusius 
+
+Pipistrellus 
+nathusii 
+
+Annexe 
+IV 
+
+Article 2 
+
+NT 
+
+DD 
+
+Sérotine 
+commune 
+
+Eptesicus 
+serotinus 
+
+Annexe 
+IV 
+
+Article 2 
+
+NT 
+
+LC 
+
+transit.  Gîtes  arboricoles  potentiels 
+dans le boisements est   
+Activité très  forte  du  groupe  d’espèce 
+sur les trois points. Activité de chasse et 
+de transit. Gîtes arboricoles potentiels 
+dans les boisement à l’ouest 
+Activité  globale  modérée.  Activité  de 
+chasse  et  de  transit.  Gîtes  arboricoles 
+potentiels dans le boisement à l’ouest 
+Activité très forte de l’espèce. Activité 
+de chasse et de transit. Gîtes potentiels 
+dans  les  bâtiments  autour  de  l’aire 
+d’étude. 
+Activité  globale  faible.  Activité  de 
+chasse  et  de  transit.  Gîtes  potentiels 
+dans 
+le  boisement  et  bâtiments  à 
+l’ouest 
+Activité  globale  modérée.  Activité  de 
+chasse  et  de  transit.  Gîtes  potentiels 
+dans le boisement à l’ouest 
+Activité  globale 
+forte.  Activité  de 
+chasse  et  de  transit.  Gîtes  potentiels 
+les 
+dans 
+bâtiments de l’AEI. 
+Activité  globale  faible.  Activité  de 
+chasse  et  de  transit.  Gîtes  potentiels 
+dans le boisement à l’est 
+2  contacts  sur  le  point  A1. Activité  de 
+chasse  et  de  transit.  Gîtes  potentiels 
+dans  les  boisements  autour  de  l’aire 
+d’étude. 
+Activité  forte  sur  les  points  A2  et  A3. 
+Activité  de  chasse  et  de  transit.  Gîtes 
+potentiels dans le boisements à l’est 
+
+le  boisement  à 
+
+l’est  et 
+
+Sérotule sp.  
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+- 
+
+Directive  habitats  :  espèces  de  mammifères  de  l'Annexe  II  et IV  de  la  Directive  1992/43/CEE  (Directive  "Habitats  Faune Flore")  du  réseau  de 
+protection NATURA 2000. 
+Protection nationale : espèces de mammifères protégés en France en application de l’article L. 411-1 du code de l’environnement et de la directive 
+92/43 du 21 mai 1992 concernant la conservation des habitats naturels ainsi que la faune et la flore sauvages, modifié par l'arrêté du 17 mars 
+2019 modifiant l’arrêté du 23 avril 2007 fixant la liste des mammifères terrestres protégés sur l'ensemble du territoire et les modalités de leur 
+protection  
+LRN et LRR : Liste rouge des espèces menacées en France (LRN) – Mammifères de métropole (UICN, 2017) et Liste rouge des espèces menacées 
+en Bourgogne ((SHNA), 2015) : 
+
+RE 
+CR 
+EN 
+
+ Disparue de métropole / en région 
+ En danger critique 
+ En danger 
+
+VU 
+NT 
+LC 
+
+ Vulnérable 
+ Quasi-menacée 
+ Préoccupation mineure 
+
+DD 
+NA 
+NE 
+
+ Données insuffisantes 
+ Non applicable 
+ Non évaluée 
+
+Les  chiroptères  utilisent  la  ZIP  uniquement  pour  le  transit  et  la  chasse  (pas  de  gîte).  Les 
+
+espèces principalement concernées par la chasse en milieu ouvert de culture sont la Noctule de 
+Leisler, les pipistrelles et la Sérotine commune. L’enjeu associé est faible.  
+
+La lisière forestière est principalement utilisé pour le transit. Les résultats d’activité montrent 
+
+une  fréquentation  majoritaire  par  la  Barbastelle  d’Europe,  les  Murins,  les  Rhinolophes  et  les 
+Oreillards. L’enjeu associé est modéré.   
+
+Enfin, le boisement ouest offre de nombreux gîtes arboricoles ponctuels (arbre mort, chablis 
+
+etc..) tandis que le boisement d’épicéa au sud est moins propice. L’enjeu associé est fort à modéré.  
+
+28/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+4.3.3  Mammifères terrestres 
+
+Analyse bibliographique  
+Au total, 11 espèces de mammifères terrestres sont connues sur la commune de Vieilmoulin depuis 
+
+2015. On retrouve entre autre les espèces patrimoniales suivantes : le Chat forestier et le Hérisson 
+d’Europe (protégé).  
+
+Résultat de l’inventaire  
+Au  total,  seule  une  Martre  des  pins  a  été  observée  morte  sur  site.  Il  s’agit  probablement  d’un 
+individus tapé par une voiture. L’espèce est ni protégée ni patrimoniale.  
+
+L’ensemble de la ZIP est favorable à l’alimentation des ongulés (Chevreuil, sanglier etc..). La lisière 
+forestière serait également favorable au Hérisson d’Europe cité en bibliographie.  
+
+Tableau 11 : : Listes des espèces de mammifères terrestres recensées 
+
+Nom scientifique 
+
+Martes martes 
+(Linnaeus, 1758) 
+
+Nom 
+vernaculaire 
+Martre des 
+pins 
+
+PN 
+
+DHFF 
+
+LR FR 
+
+LR 
+Bourgogne 
+
+ZNIEFF 
+Bourgogne 
+
+Statut au sein de 
+la ZIP 
+
+/ 
+
+V 
+
+LC 
+
+LC 
+
+/ 
+
+Alimentation 
+
+Statut au 
+sein de l'AER 
+Cycle 
+complet 
+
+Enjeu sur la 
+ZIP 
+
+Faible 
+
+PN : Protection nationale : Arrêté du 15 septembre 2012. II : Article 2 : Espèces et habitats d’espèces protégés _ III : Article 3 : Espèces protégées 
+_ V : Article 4 : Prélèvements réglementés 
+DHFF : Directive Habitats-Faune-Flore, 1992. II : Annexe II : Espèces nécessitant la désignation de ZSC_ IV : Annexe 4 : Espèces strictement 
+protégées _ V : Annexe 5 : Espèces dont le prélèvement et l’exploitation font l’objet de mesures de gestion. 
+LR : Listes rouges (FR : Française _ 2017, Bourgogne _ 2014) 
+RE : Éteinte au niveau régional _ CR : En danger critique d’extinction _ EN : En danger _ VU : Vulnérable _ NT : Quasi-menacée _ LC : 
+Préoccupation mineure _ DD : Données insuffisantes _ NA : Non applicable _ NE : Non évaluée 
+ZNIEFF Bourgogne : Espèces déterminantes ZNIEFF en Auvergne Rhône-Alpes, PR : Plaine rhodanienne, MC : Massif central, A : Alpien, Med : 
+Méditerranéen, D : Espèce déterminante _ C : Espèce complémentaire 
+
+Seule  la  Marte  des  pin  a  été  observé. La  ZIP  reste  favorable  à  l’alimentation  des  ongulés,  et  la
+lisière  forestier    au    Hérisson    d’Europe    cité    en    bibliographie.   L’enjeu    écologique    lié    aux
+mammifères terrestres est faible.
+
+4.3.4 
+
+ Amphibiens
+
+Analyse bibliographique
+La   bibliographie   mentionne   la   présence   du   Crapaud   commun   et   de   la   Grenouille   rousse   sur   la
+commune de Vieilmoulin. Il s’agit d’espèces protégées mais non patrimoniales.
+
+Résultat de l’inventaire
+Aucune espèces n’a été observée de jour ni entendu de nuit. De plus, la ZIP et l’AER ne renferment
+
+pas d’habitat aquatique favorables à la reproduction des amphibiens.
+
+Aucune espèce n’a été recensée. L’enjeux écologique lié aux amphibiens est négligeable.
+
+29/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+4.3.5  Reptiles  
+
+Analyse bibliographique  
+La bibliographie mentionne la présence du Lézard des murailles sur la commune de Vieilmoulin. Il 
+
+s’agit d’une espèce protégée mais commune.   
+
+Résultat de l’inventaire  
+
+Aucune espèces de reptiles n’espèce n’a été observée. Ceci peut s’expliquer par une météo avec 
+des températures faibles, ne favorisant pas la sortie des reptiles.  
+
+Néanmoins,  un  muret  en  pierre  sèches  longe  la  totalité  de  la  limite  ouest  de  la  ZIP :  il  sert  de 
+délimitation entre la culture et le boisement. Ce type de muret est très favorable aux reptiles : il offre 
+de nombreuses cachettes et abris. De petits tas de pierres sont également présents à la limite sud 
+
+de la ZIP.  
+
+Figure 7 : Muret en pierres très favorable au refuge des reptiles  
+
+Figure 8 : Tas de pierres éparces favorables au refuge des reptiles  
+
+Aucun reptile n’a été recensé mais le muret en pierre sèches à l’ouest et les tas de pierre au sud 
+de la ZIP offrent de nombreux refuges aux reptiles. L’enjeux écologique lié aux reptiles est faible.  
+
+30/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+4.3.6 
+
+ Entomofaune
+
+Analyse bibliographique
+La bibliographie mentionne 4 espèces de papillons communs sur la commune de Vieilmoulin : le
+
+Paon du jour, la Petite violette, le Flambé et le Sylvain azuré.  Il s’agit d’une espèce non protégées.
+
+Résultat de l’inventaire
+
+Aucune espèces d’odonates ou de papillons n’a été observée. Ceci peut s’expliquer par une météo
+avec des températures faibles, ne favorisant pas la sortie des insectes.
+
+La ZIP (monoculture) est très peu favorable à l’entomofaune. Seule la lisière forestière peut offrir 
+une zone de transit à l’abris du vent.
+
+Aucune espèce n’a été recensée. L’enjeu écologique lié aux insectes est faible.
+
+31/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Carte 4 : synthèse des enjeux écologiques 
+
+32/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+5  Impacts pressentis  
+
+5.1 
+
+Présentation du projet  
+
+Le projet consiste au stockage d’électricité par batterie, à proximité immédiate du poste RTE situé 
+
+au nord de la route départementale D9.  
+
+L’installation est dimensionné pour environ 100MW d’unités de stockage avec : 
+
+ 
+ 
+ 
+ 
+ 
+
+40 unités de stockage ; 
+10 transformateurs accompagnés chacun de 2 convertisseurs ; 
+2 citernes incendies souples ; 
+
+2 postes de transformation ; 
+un poste de transformation HTB.  
+
+Certaines zones en vert clair sur le plan seront laissées en prairie de fauche. Les pistes lourdes (en 
+orange) seront en stabilisées.  
+
+L’ensemble sera fermé par une clôture avec un ou deux portails d’accès au nord-ouest.  
+
+Figure 9 : Plan masse du projet (source : NEOEN) 
+
+33/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+5.2 
+
+Impact du projet sur la faune et flore du site 
+
+Thématique 
+
+Description 
+
+Enjeu 
+écologique 
+local 
+
+Impact pressentis  
+
+Niveau de 
+l’impact 
+
+Mesures écologiques à mettre en place   
+
+La ZIP et l’AER ne s’inscrivent pas dans la trame verte et bleue 
+locale   
+
+NEGLIGEABLE 
+
+/ 
+
+NEGLIGEABLE 
+
+/ 
+
+FONCTIONNALITES 
+
+HABITATS 
+
+FLORE 
+
+Monoculture intensive au sein de la ZIP 
+Hêtraie et foret d’Epicéa au sein de l’AER 
+
+FAIBLE 
+
+Artificialisation d’une partie de la culture 
+
+35  espèces  végétales  observées :  aucune  de  protégée  ou  de 
+patrimoniale  
+
+FAIBLE 
+
+Avifaune  : 13 espèces recensées communes recensées dont 11 
+protégées. Espèces uniquement en alimentation sur la ZIP et 
+potentiellement nicheuse dans l’AER
+
+FAIBLE 
+
+Chiroptères  : 9 espèces et 4 groupes d’espèces enregistrées. Les
+chiroptères utilisent la ZIP uniquement pour leur alimentation et la 
+lisière forestier pour leur déplacement. Le boisement à l’ouest peut
+offrir des gîtes arboricoles secondaires (chablis, torus de pic, bois 
+mort etc..). Le boisement d’épicéa au sud est beaucoup moins 
+favorable.
+Mammifères terrestres  : Martre des pins recensée. La 
+bibliographie mentionne la présence d’ongulés potentiellement en 
+alimentation sur la ZIP et du Hérisson d’Europe (protégé)
+potentiellement présent de la long de la lisière forestière
+
+FAIBLE (ZIP)  
+à MODERE 
+(AER) 
+
+Dégradation ponctuelles des abords de la ZIP 
+(passage des engins) 
+
+Destruction d’une partie d’habitat d’alimentation 
+
+Dérangement de la nidification durant les 
+travaux 
+
+Destruction d’une partie d’habitat d’alimentation 
+pour certaines espèces  
+
+Dérangement faibles de la zone de transit 
+durant les travaux (pas de travaux nocturnes) 
+
+FAIBLE 
+
+MR1 : Adaptation du calendrier d’intervention  
+MA1 : Création de bande enherbées fleuries 
+
+MODERE 
+
+MR1 : Adaptation du calendrier d’intervention  
+MR2 : Maintien d’une zone tampon entre la 
+lisière et le projet 
+
+MODERE 
+
+MR2 : Maintien d’une zone tampon entre la 
+lisière et le projet  
+
+FAIBLE 
+
+Dérangement durant les travaux 
+
+FAIBLE 
+
+MR2 : Maintien d’une zone tampon entre la 
+lisière et le projet  
+MR4 : Installation d’une clôture perméable à la 
+petite faune 
+
+FAUNE 
+
+Amphibiens :  aucune espèce recensée et site non favorable.
+
+NEGLIGEABLE 
+
+/ 
+
+NEGLIGEABLE 
+
+/ 
+
+Reptiles :  aucune espèce recensée mais présence d’un muret en 
+pierres sèches et des tas de pierre très favorables pour leur refuge
+
+FAIBLE 
+
+Dégradation du muret en pierre (zone refuge 
+des reptiles) 
+Destruction ponctuelle d’individus 
+Dérangement durant les travaux 
+
+MODERE 
+
+Insectes  : aucune espèce recensée mais lisière favorable aux 
+insectes
+
+FAIBLE 
+
+/ 
+
+FAIBLE 
+
+MR2 : Maintien d’une zone tampon entre la 
+lisière et le projet  
+MR3 : Mise en défend du muret en pierres 
+sèches 
+MR4 : Installation d’une clôture perméable à la 
+petite faune 
+MR2 : Maintien d’une zone tampon entre la 
+lisière et le projet  
+MA1 : Création de bande enherbées fleuries 
+
+34/44 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+6  Préconisations écologiques  
+
+6.1  Mesures de réduction  
+
+6.1.1  MR1 : Adaptation des périodes d’intervention  
+
+MR1 
+
+Chantier 
+
+Objectif 
+
+Adaptation des périodes d’intervention 
+
+Espèces et/ou habitats naturels visés 
+
+Réduire la destruction et le dérangement d’individus, notamment 
+en période de reproduction 
+
+Tous les groupes faunistiques présent sur le site 
+
+La   période   sensible   la   plus   significative   pour   les   espèces   faunistiques   correspond   à   la   période   de   reproduction   et
+
+s’échelonne globalement, en fonction des espèces, de mars à début septembre. Les interventions doivent être évitées
+
+au cours de cette période en phase travaux, et limitées au maximum en phase d’exploitation.
+
+Description 
+
+En phase chantier, les travaux les plus lourds  (par exemple de VRD, l’installation des réseaux, la mise en place des
+
+pistes,   des   postes   électriques   et   des   plateformes)  devront   impérativement   être   réalisés   en   continu   entre   mi-
+
+septembre et fin-février.
+
+En   cas   de   retard   dans   la   réalisation   de   ces   travaux   (mauvaises   conditions  météorologiques,   mauvaise   gestion   des
+
+opérations, etc.), un écologue devra être sur place toute la durée des travaux pour vérifier l’absence d’enjeu faunistique.
+
+Les travaux légers  (par exemple balisage chantier, piquetage etc..) pourront raisonnablement être réalisés  en fin de
+
+période estivale (début aout à mi-septembre)  à condition qu’il soient effectués dans la continuité et sans avoir eu une
+
+interruption de chantier .
+
+Planning des travaux :
+
+Période de démarrage des travaux légers : entre aout et mi-septembre
+
+Période de démarrage des travaux lourds : entre mi-septembre et février
+
+Continuation des travaux SANS INTERRUPTION jusqu’à la mise en exploitation
+
+Travaux / mois 
+
+janv 
+
+févr  mars 
+
+avr  mai 
+
+juin 
+
+juil 
+
+août 
+
+sept 
+
+oct 
+
+nov 
+
+déc 
+
+Travaux lourds  
+
+NB : un écologue pourra être mandaté pour valider la date de début d’intervention des travaux et se rendre sur 
+
+site afin de valider l’absence d’enjeux écologiques.  
+
+Le   commencement   des   travaux   doit   se   faire   entre   mi-septembre   et   fin   février   puis   se   poursuivre   sans 
+
+interruption.  Les travaux légers pourront débuter avant.
+
+Calendrier opérationnel 
+
+35/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+6.1.2  MR2 : Maintien d’une zone tampon entre la lisière et l’implantation projet  
+
+MR2 
+
+Conception 
+
+Maintien d’une zone tampon entre la lisière et le projet 
+
+Objectif 
+
+Espèces et/ou habitats naturels visés 
+
+Réduire l’impact du projet sur la fonctionnalité écologique de 
+la lisière forestière : axe de transit des chiroptères, de la 
+petite faune volante et de la petite faune terrestre  
+
+Chiroptères, papillons, reptiles, mammifères terrestres 
+
+Description 
+
+Les lisières boisées présentes notamment à l’ouest de la ZIP représentent des fonctionnalités écologiques importantes à 
+l’échelle de l’AEI : corridor de déplacement et refuges.  
+
+Il est donc demandé de reculer l’implantation des pistes lourdes pour laisser au minimum 10 m entre le boisement et 
+l’implantation du projet.  
+
+L’implantation du projet retenu prévoit l’installation des modules distants d’au moins 15 mètres de la lisière ouest.  
+
+Phase de conception du projet 
+
+Calendrier opérationnel 
+
+36/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+6.1.3  MR3 : Mise en défens du muret en pierres sèches  
+
+MR3 
+
+Chantier 
+
+Mise en défens du muret en pierres sèches 
+
+Objectif 
+
+Espèces et/ou habitats naturels visés 
+
+Empêcher   tout   impact   des   travaux   sur   le   muret   en
+pierres   sèches   qui   offre   des   refuges   pour   la   faune.
+L’objectif est de baliser ce muret.
+
+Majoritairement
+mammifères.  
+
+les
+
+reptiles
+
+et
+
+tous
+
+autres
+
+petits
+
+Description 
+
+Avant toute intervention sur le site, les zones de travail seront délimitées et l’accès au site sera aménagé.  
+
+Pour cela, il est demandé que le muret soit  délimitées durant toute la durée du chantier par des dispositifs visuels 
+interdisant l’accès au personnel du chantier : clôture légère, chaînettes, grillage de chantier, filet organe etc… 
+
+Le dispositif retenu doit être adapté au terrain, laisser libre cours au passage de la petite faune et être pérenne durant 
+toute la phase de chantier (excluant la rubalise). Cette matérialisation sera définie en amont du chantier. La préservation 
+des entités matérialisées passe par une interdiction d’accès, de modification et/ou d’exploitation.  
+
+Avant le démarrage des travaux et durant toute la durée du chantier. 
+
+Calendrier opérationnel 
+
+37/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+6.1.4  MR4 : Installation d’une clôture perméable à la petite faune 
+
+MR4 
+
+Exploitation 
+
+Installation d’une clôture perméable à la petite faune  
+
+Objectif 
+
+Espèces et/ou habitats naturels visés 
+
+Permettre la perméabilité de la clôture à la petite 
+faune.  
+
+Petite faune terrestre dont petits mammifères, reptiles, 
+amphibiens. 
+
+Pour maintenir une perméabilité écologique pour l’espèce et pour toute la petite faune, les clôtures seront adaptées. La 
+
+mesure  prévoit  des  aménagements  dans  la  clôture  du  site  afin  de  permettre  la  circulation  de  la  petite  faune  et  une 
+
+Description 
+
+certaine « transparence écologique » du projet. 
+
+Exemple de passages à faune  
+
+L’installation d’une clôture imperméable à la faune (petites mailles) nécessite d’aménager à minima des passages à 
+
+faune de 20 cm X 20 cm tous les 50 mètres dans la clôture.  Au total, 13 passages à faune devront être aménagés 
+
+dans les clôtures. 
+
+Exemples grillages avec grandes mailles  
+
+Une autre solution est d’opter pour la pause de grillages à grandes mailles. Le schéma ci-dessous présente les 
+
+différentes possibilités d’installation. Dans tous les cas, un espace d’au moins 15 cm devra être préservé entre le sol 
+
+et la clôture.  
+
+Pendant toute la durée d’exploitation. 
+
+Calendrier opérationnel 
+
+38/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+6.2  Mesures d’accompagnement  
+
+6.2.1  MA1 : Création de bandes enherbées fleuries  
+
+MA2 
+
+Exploitation 
+
+Bandes enherbées fleuries 
+
+Objectif 
+
+Espèces et/ou habitats naturels visés 
+
+Mettre  en  place  des  bandes  enherbées  fleuries  sur 
+l’ensemble  du  périmètre  du  projet  pour  favoriser  la 
+présence de pollinisateurs sauvages 
+
+Principalement les pollinisateurs sauvages 
+
+Description 
+
+Créer des bandes enherbées pérennes de 2 à 5 m de largeur sur l’ensemble du périmètre du projet (le long de 
+la clôture)  avec des espèces vivaces, autochtones et mellifères qui permettront l’améliorer la quantité de ressources 
+florales pour les insectes pollinisateurs, et ainsi favoriser l’alimentation sur site pour l’avifaune et les chiroptères.  
+
+Cette mesure permettra également d’éviter la colonisation par des espèces végétales exotiques envahissantes suite à 
+la phase de travaux.  
+
+Espèces à semer : 
+
+  Semer un mélange d’environ 50 % de graminées, 30-40 % de Trifolium pratense, Trifolium repens, Lotus 
+
+corniculatus, Galium verum, Centaurea jacea, Medicago lupulina, et 10-20% d’autres espèces fleuries de la 
+liste ci-dessous (en gras les espèces indispensables) : 
+
+  Vicia cracca, Leucanthemum ircutianum/vulgare, Origanum vulgare, Knautia arvensis, Trifolium 
+
+pratense, Trifolium repens, Festuca arundinacea, Agrostis stolonifera, Arrhenatherum elatius, Holcus 
+lanatus, Lotus corniculatus, Poterinum sanguisorba, Tragopogon pratensis, Galium album, Galium 
+verum, Centaurea jacea, Achillea millefolium, Lathyrus pratensis, Medicago lupulina. 
+
+Entretien :  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pour contrôler les espèces adventices très compétitives et favoriser les pérennes à développement plus 
+lent, une fauche printanière la première année est recommandée ; 
+
+les années suivantes, une fauche automnale à réaliser le plus tard possible (septembre, octobre) suffit ; 
+
+la pulvérisation et la fertilisation sont proscrits sur les bandes enherbées ; 
+
+éviter le broyage ; 
+
+l’export du produit de fauche est essentiel. 
+
+Réalisation des plantations entre novembre et février, en même temps que le reste des travaux du projet. Calendrier 
+d’entretien décrit ci-dessus. 
+
+Calendrier opérationnel 
+
+39/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+6.2.2  MA2 : Assistance à maîtrise d’œuvre du chantier par un écologue 
+
+MA2 
+
+Exploitation 
+
+Assistance à maîtrise d’œuvre du chantier par un écologue 
+
+Objectif 
+
+Espèces et/ou habitats naturels visés 
+
+Accompagner  et  contrôler  la  bonne  exécution  des 
+mesures écologiques durant la phase travaux  
+
+Ensemble des éléments de biodiversité et des mesures 
+
+Cette mesure vise à accompagner la mise en œuvre des mesures écologiques vis-à-vis des enjeux écologiques et 
+vérifier la bonne fonctionnalité de ces mesures.  
+
+Description 
+
+Un suivi général du chantier sera réalisé par un écologue à distance afin de : 
+
+ 
+
+ 
+
+ 
+
+ 
+
+accompagner le porteur de projet dans la conception des mesures écologiques ;  
+
+vérifier la bonne mise en place des mesures écologique en phase travaux ; 
+
+contrôler la bonne exécution des travaux en général ; 
+
+pallier aux évènements inattendus et aux problèmes rencontrés le cas échéant.  
+
+En  cas  de  question  ou  de  problématique  écologique,  le  maitre  d’ouvrage  pourra  appeler  l’écologue  pour  des 
+recommandations. 
+
+Durant la totalité du projet 
+
+Calendrier opérationnel 
+
+40/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Carte 5 : Synthèse des mesures écologiques 
+
+41/44 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+7  Incidence Natura 2000 simplifiée  
+
+7.1.1  Présentation de la ZSC FR2601012 : Gîtes et habitats à chauves-souris en Bourgogne - 
+
+FR2601012  
+
+Ce  site  Natura  2000  de  49,7  ha  est  localisé  au  sud  du  département  de  Côte-d’Or  (21).  Il  est 
+principalement  composée  de  forêts  caducifoliées  associées  à  divers  autres  habitats  tels  que  des 
+
+prairies et des pelouses. 
+
+En tout, 24 espèces d’intérêt communautaire relevant de l’annexe II de la Directive Habitat Faune 
+
+Flore sont identifiées au sein de la ZSC. 
+La  forêt  abrite  plusieurs  populations  de  chauves-souris, principalement  en  mise  bas et  prend    en 
+compte leurs gîtes et territoires de chasse. Il est composé de 6 entités. Au sein des entités, il a été 
+
+noté la présence de 20 espèces de chauves-souris dont 8 espèces d'intérêt européen : le Petit 
+rhinolophe,  le  Grand  rhinolophe,  le  Rhinolophe  euryale,  le  Murin  à  oreilles  échancrées,  le  Grand 
+murin, la Barbastelle d'Europe, le Murin de Bechstein, le Minioptère de Schreibers.  
+
+Le  site Natura  2 000  intègre  également    de  petites  populations  localisées  de  Sonneurs  à  ventre 
+jaune, de Cordulie à corps fin, d'Agrion de Mercure, de Cuivré des Marais, Damier de la succise, de 
+Lucane cerf-volant, de Triton crêté, d'Écrevisses à pattes blanches, de Castor d’Europe, le Loup gris, 
+
+la Loutre d’Europe, le Lynx boréal et 3 espèces de poissons.  
+
+Parmi les espèces inscrite au site Natura 2 000 « Gîtes et habitats à chauves-souris en Bourgogne », 
+
+deux ont été observées dans la ZIP et l’AER : le Petit Rhinolophe et la Barbastelle d’Europe qui 
+utilisent la lisière forestière comme axe de chasse et de transit.  
+
+7.1.2  Analyse des incidences du projet sur les espèces du site Natura 2000  
+
+Le  tableau  ci-dessous  présente  les  espèces  du site  Natura  2000  concernées  par  le  projet  et  leur 
+
+impact.  
+
+Tableau 12 : Incidence du projet sur les espèces Natura 2000 recensées  
+Utilisation du site 
+d’étude 
+
+Nom 
+vernaculaire 
+
+Nom 
+scientifique  
+
+Enjeux 
+écologique  
+
+Nature de l’impact  
+
+Rhinolophus 
+hipposideros 
+(Bechstein, 
+1800) 
+
+Barbastella 
+barbastellus 
+(Schreber, 
+1774) 
+
+Petit 
+Rhinolophe 
+
+Transit et chasse au 
+niveau de la lisière 
+forestière ouest. 
+
+Barbastelle 
+d’Europe 
+
+Très faible 
+potentialité de 
+chasse sur la ZIP : 
+l’espèce reste le long 
+des structures 
+linéaires du paysage   
+
+FAIBLE 
+(ZIP)  à 
+MODERE 
+(AER) 
+
+Chiroptères 
+
+Dérangement très 
+faible de la zone de 
+transit durant les 
+travaux (pas de 
+travaux nocturnes) 
+Pas de destruction 
+d’une partie 
+d’habitat 
+d’alimentation 
+
+Impact 
+brut  
+
+Mesures 
+écologiques  
+
+Impact 
+résiduels 
+
+FAIBLE 
+
+MR2 : Maintien 
+d’une zone 
+tampon entre la 
+lisière et le projet 
+
+NEGLIGEABLE 
+
+Sous condition de la bonne mise en place de la mesure écologique MR2, le projet n’aura un impact 
+négligeable sur les populations de Petit Rhinolophe et de Barbastelle d’Europe inscrites à l’annexe 
+II de la Directive Habitat Faune 
+
+42/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+8  Conclusion  
+
+Le pré-diagnostic écologique a permis d’appréhender les principaux enjeux liés à la faune, la flore ainsi 
+qu’aux habitats naturels sur le site. Les principaux enjeux se situent au niveau de la lisère forestière à 
+l’ouest notamment pour son rôles de corridor écologique pour les chiroptères et la présence d’un muret 
+
+en pierres sèches servant de refuge  pour les reptiles et les petits mammifères.  
+
+En phase de conception du projet, le maître d’ouvrage a donc procédé au maintien d’une zone tampon  
+
+de 10 mètres entre la lisère et l’implantation du projet afin de limiter au maximum les impacts sur les 
+espèces  et  habitats  d’espèces.  De  plus  il  est  proposé  l’adaptation  du  calendrier  d’intervention  des 
+travaux (évitement de la zone sensible de reproduction de la faune au printemps), la mise en défens du 
+
+muret en pierres sèches lors des travaux, l’installation d’une clôture perméable à la faune et la création 
+de bandes enherbées fleuries sur le pourtour de l’implantation du projet.  
+
+A cela s’ajoute une assistance à maîtrise d’œuvre du chantier par un écologue afin de veiller à bonne 
+mise en place des mesures écologiques.  
+
+Après  mise  en  œuvre  des  mesures  écologiques,  les  impacts  résiduels  du  projet  de  stockage 
+
+d’électricité sur les habitats et espèces recensées sont non-significatifs.  
+Le projet ne portera pas atteintes aux espèces inscrites au site Natura 2 000 « Gîtes et habitats à 
+chauves-souris en Bourgogne ». 
+
+43/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Référence 
+
+R001-1624175MGA-V01 
+
+Annexe 1 
+
+Méthodologie d’inventaire  
+
+Carte 6 : Méthodologie 
+
+44/44
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+

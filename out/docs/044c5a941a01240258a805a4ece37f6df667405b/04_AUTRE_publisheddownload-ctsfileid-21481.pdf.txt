@@ -1,0 +1,306 @@
+Grande
+
+la
+
+de
+
+Ch.in
+
+Tra
+v
+ers
+
+Pièce
+
+Lignes HTB 225 000 V
+
+Containers batteries
+
+ESS Container
+batterie
+
+Légende
+
+Clôture
+Parcelle
+cadastrale
+Transformateurs
+
+Onduleurs
+
+Accès n°2
+
+Réserve incendie
+
+F
+
+ossé
+
+Ligne RTE 225kV
+N° 1 PRELES (LES)-SEREIN
+
+52
+
+Ligne RTE 225kV
+N° 2 PRELES (LES)-SEREIN
+
+53
+
+Piste interne
+
+Citerne
+
+Haie & Arbres
+
+48
+
+n
+i
+m
+e
+h
+C
+
+47
+
+46
+
+Poste électrique
+
+E
+S
+
+batterie
+S Container
+
+E
+S
+
+batterie
+S Container
+
+E
+S
+
+batterie
+S Container
+
+E
+S
+
+batterie
+S Container
+
+2.4
+3
+
+8
+
+6.058
+
+ESS Container
+batterie
+
+ESS Container
+batterie
+
+2.5
+5
+
+0
+
+7.0
+0
+
+0
+
+ESS Container
+batterie
+
+1.5
+7
+
+8
+
+2.842
+
+1.570
+
+ESS Container
+batterie
+
+ESS Container
+batterie
+
+ESS Container
+batterie
+
+E
+S
+
+batterie
+S Container
+
+E
+S
+
+batterie
+S Container
+
+ESS Container
+batterie
+
+E
+S
+
+batterie
+S Container
+
+54
+
+7.0
+0
+
+0
+
+ESS Container
+batterie
+
+ESS Container
+batterie
+
+7.0
+0
+
+0
+
+ESS Container
+batterie
+
+ESS Container
+batterie
+
+ESS Container
+batterie
+
+ESS Container
+batterie
+
+POSTE xx
+MVA
+
+E
+S
+
+batterie
+S Container
+
+E
+S
+
+batterie
+S Container
+
+ESS Container
+batterie
+
+E
+S
+
+batterie
+S Container
+
+5.000
+
+E
+S
+
+batterie
+S Container
+
+E
+S
+
+batterie
+S Container
+
+E
+S
+
+batterie
+S Container
+
+E
+S
+
+batterie
+S Container
+
+ESS Container
+batterie
+
+ESS Container
+batterie
+
+ESS Container
+batterie
+
+ESS Container
+batterie
+
+Container 40 pieds
+
+Onduleurs
+
+Transformateurs
+
+LES LEVROTTES
+
+0
+0
+0
+.
+8
+1
+
+3.000
+
+45
+
+Réserve incendie
+
+Accès n°1
+
+44
+
+Maître d'ouvrage :
+LANGA INTERNTATIONAL
+
+Adresse :
+595 CHE DU BOIS COMTAL
+69390 MILLERY
+
+Projet : STOCKAGE BATTERIES - ON-GRID
+
+Commune de Montigny-la-Resle
+
+ Feuille : C-Plan de masse A3
+
+55
+
+Format :
+ISO EXPAND A3 (420.00 X 297.00 MM)
+
+Auteur : BP
+
+b.peslier@langa-international.com
+
+Date :
+21/11/2024
+
+Phase : APS
+
+Echelle :
+1/757
+
+

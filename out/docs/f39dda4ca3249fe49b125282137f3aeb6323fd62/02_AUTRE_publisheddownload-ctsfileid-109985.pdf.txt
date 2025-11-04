@@ -1,0 +1,386 @@
+Direction régionale de l’environnement, 
+de l'aménagement et du logement 
+Bourgogne Franche-Comté 
+
+ARRÊTE 
+
+portant décision d’examen au cas par cas 
+en application de l’article R.122-3 du Code de l’environnement : 
+
+Projet de stockage d’électricité par batteries à proximité du poste source de Vieilmoulin 
+sur le territoire de la commune de Drée (21) 
+
+Le préfet de la région Bourgogne-Franche-Comté, 
+Préfet de la Côte d’Or 
+
+Vu la directive 2011/92/UE du Parlement européen et du Conseil du 13 décembre 2011 modifiée par la directive 
+2014/52/UE  du  16 avril 2014,  concernant  l’évaluation  des  incidences  de  certains  projets  publics  et  privés  sur 
+l’environnement, notamment son annexe III ; 
+
+Vu le Code de l’environnement, notamment ses articles L.122-1, R.122-2, R.122-3, R.122-5, L.512-7-2 et R.181-
+14 ; 
+
+Vu l’arrêté du 16 janvier 2023 modifiant l'arrêté du 12 janvier 2017 fixant le modèle du formulaire de la « demande 
+d’examen au cas par cas » en application de l’article R.122-3-1 du Code de l’environnement ; 
+
+Vu la demande d’examen au cas par cas n° 004266/KK P relative à un projet de stockage d’électricité par batteries 
+à  proximité  du  poste  source  de  Vieilmoulin  sur  le  territoire  de  la  commune  de  Drée  (21),  reçue  complète  le 
+5 août 2025 et portée par la société AMBOS4, représentée par M. Olivier CARRE ; 
+
+Vu  l’arrêté  de  M.  le  Préfet  de  la  région  Bourgogne-Franche-Comté  n° 25-09-BAG  du  14 janvier 2025  portant 
+délégation  de  signature  à  M.  Olivier  DAVID,  directeur  régional  de  l’environnement,  de  l’aménagement  et  du 
+logement (Dreal) de Bourgogne-Franche-Comté ; 
+
+Vu la décision de M. le directeur de la Dreal n° BFC-2025-01-15-00002 du 17 janvier 2025 portant subdélégation 
+de signature à Mme Muriel CHABERT, cheffe du service Transition Écologique, ainsi qu’à MM. Oscar VINESSE 
+et Olivier BOUJARD, chefs adjoints du service Transition Écologique ; 
+
+Vu l’avis de l’agence régionale de santé (ARS) du 21 août 2025 ; 
+
+Vu la contribution de la direction départementale des territoires (DDT) de la Côte-d’Or du 21 août 2025 ; 
+
+Considérant : 
+
+1. la nature du projet, 
+
+qui consiste, sur une emprise de 1,478 ha, en la mise en place d’un système de stockage d’énergie stationnaire 
+par batterie Lithium-ion de dernière génération, d’une puissance de 30 MW et d’une capacité d’au moins 4 h (soit 
+120 MWh), ainsi que son raccordement au poste source électrique de « Vieilmoulin » géré par RTE à proximité ; 
+l’installation  étant  composée  principalement  de  conteneurs  à  batteries  et  onduleurs,  de  transformateurs 
+secondaires et d’équipements de refroidissement, disposés sur une plateforme imperméable de 4 840 m² dans la 
+partie centrale du site, et d’un transformateur de puissance (63 000 / 33 000 volts) et ses équipements associés 
+(dont un bâtiment de commande de 62 m², de hauteur non précisée, et son aire de stationnement), dans la partie 
+sud du site ; le raccordement au poste RTE de « Vieilmoulin » étant effectué depuis ce dernier transformateur, par 
+
+Adresse postale : 5 Voie Gisèle Halimi - BP 31269,  25005 BESANCON CEDEX 
+Standard : 03 39 59 62 00 
+www.Bourgogne-franche-comte.developpement-durable.gouv.fr 
+
+1/5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+une liaison 225 kV enterrée d’environ 300 m de long, qui fera l’objet d’une servitude de 5 m à son aplomb au profit 
+de RTE ; la durée de vie des batteries étant de 15 ans, selon le dossier, un plan de recyclage étant prévu à son 
+issue ; 
+
+qui comprend également : la création de pistes lourdes permettant la circulation en périphérie des installations 
+électriques (d’au moins 3,5 m de large, couvrant 1 698 m²), avec deux accès depuis le chemin existant bordant le 
+site au sud ; la mise en place de deux réserves souples d’eau d’extinction d’incendie de 120 m³ au sud et au nord 
+du site (remplies avec de l’eau du réseau public) et d’une noue étanche de rétention incendie de 160 m3 à l’ouest 
+(avec séparateur d’hydrocarbures) ; la mise en place d’ouvrages de gestion des eaux pluviales (noues enherbées, 
+bassin  d’infiltration,…) ;  l’installation  de  clôtures  en  périphérie  des  installations,  sur  environ  600 m  de  long,  la 
+surface totale clôturée s’élevant à 11 370 m² (hauteur maximale de 2,6 m, type maille hexagonale, sans passage 
+à faune) ; la plantation de haies paysagères arborées à l’extérieur des emprises clôturées, sur les bordures nord, 
+est et sud du site (dimensions, composition, modalités d’entretien non définies) ; l’ensemble des travaux étant 
+prévus sur environ huit mois ; 
+
+dont les objectifs poursuivis, indiqués dans le dossier, sont : de répondre au motif d’intérêt général de sécurisation 
+de  l’approvisionnement  du  réseau  électrique  français  et  aux  services  associés  lors  de  pics  de  consommation 
+d’électricité, qui vont devenir de plus en plus fréquents dans un contexte d’augmentation de la part des énergies 
+renouvelables  (intermittentes)  et  d’augmentation  des  besoins  en  électricité  notamment  en  lien  avec  le 
+développement de la mobilité électrique ; et de permettre une meilleure intégration des énergies renouvelables 
+sur  le  réseau  en  stockant  leur  énergie  en  période  de  forte  production  et  en  la  restituant  en  période  de  forte 
+consommation ; 
+
+qui relève de la catégorie n° 32 du tableau annexé à l’article R.122-2 du Code de l’environnement, qui soumet à 
+examen au cas par cas les projets de postes de transformation dont la tension maximale de transformation est 
+égale ou supérieure à 63 kilovolts, à l’exclusion des opérations qui n’entraînent pas d’augmentation de la surface 
+foncière des postes ; 
+
+qui doit faire l’objet d’un permis de construire, d’une déclaration au titre des installations classées pour la protection 
+de l’environnement (ICPE – rubrique 2925-2), d’une déclaration au titre de la « loi sur l’eau » (rubrique 2.1.5.0) et 
+d’une évaluation des incidences Natura 2000 (non incluse dans le dossier) ; 
+
+2. la localisation du projet, 
+
+situé au lieu-dit « les Epousés », sur les parcelles cadastrales n° 0B0063 (pour partie), 0B0064 et 0B0065 pour 
+partie), sur le territoire de la commune de Drée (21), relevant du règlement national d’urbanisme (RNU) ; à environ 
+950 m des habitations les plus proches ; à environ 270 m au nord du poste électrique public de « Vieilmoulin » ; à 
+environ 50 m de lignes électriques aériennes à haute tension ; à environ 50 m d’une route communale au sud-
+ouest et 550 m de la RD114 au nord-est ; 
+
+sur des terrains enclavés au sein d’un massif boisé, occupés par des cultures céréalières et bordés au nord par 
+des cultures similaires, à l’est par des jachères, au sud et à l’ouest par des boisements de feuillus ; 
+
+au sein de la zone naturelle d’intérêt écologique, faunistique et floristique (Znieff) de type 2 « Auxois » ; au sein 
+du  site  Natura 2000  « Gîtes  et  habitats  à  chauves-souris  en  Bourgogne »  (ZSC  n° FR2601012) ;  au  sein  de 
+corridors écologiques des sous-trames « milieux boisés » (en lisières) et « milieux souterrains » de la trame verte 
+et  bleue  (TVB)  actualisée  du  schéma  régional  d’aménagement,  de  développement  durable  et  d’égalité  des 
+territoires (Sraddet) de Bourgogne-Franche-Comté ; en dehors de zone humide inventoriée, notamment dans le 
+cadre de l’expertise écologique réalisée en 2025 et jointe au dossier (avec sondages pédologiques) ; 
+
+dans  un  secteur  où  la  note  d’expertise  écologique,  qui  porte  sur  une  emprise  élargie  autour  du  site  du  projet, 
+relève la présence avérée ou potentielle de plusieurs espèces patrimoniales et/ou protégées, avec des enjeux 
+qualifiés de forts à très forts au niveau des boisements, des lisières forestières, des haies arborées et des jachères, 
+et concernant des insectes (Mélitée des Digitales, Chiffre, Grand collier argenté), des mammifères terrestres (Chat 
+forestier, Muscardin) et des chiroptères ; des enjeux modérés étant également identifiés dans les cultures pour 
+d’autres espèces, notamment d’oiseaux (reproduction) et de chiroptères (chasse, transit) ; un approfondissement 
+des enjeux chiroptérologiques pouvant utilement être mené, compte-tenu de la situation du projet en ZSC, dans 
+le cadre d’une évaluation des incidences Natura 2000 ; 
+
+au sein du périmètre du schéma d’aménagement et de gestion des eaux (Sage) de l’Armançon ; au droit de la 
+masse  d’eau  souterraine  « Marnes  et  calcaires  de  la  bordure  Lias-Trias  de  l’est  du  Morvan »  (n° FRHG401), 
+intrinsèquement  très  fortement  vulnérable  aux  pollutions,  identifiée  en  bon  état  quantitatif  et  en  état  chimique 
+médiocre  dans  l’état  des  lieux  2019  du  schéma  directeur  d’aménagement  et  de  gestion  des  eaux  (Sdage)  du 
+bassin  Seine  Normandie  (pression  significative  liée  aux  nitrates  diffus) ;  en  zone  vulnérable  aux  nitrates ;  en 
+dehors de ressource stratégique identifiée pour l’alimentation en eau potable des populations actuelles et futures 
+
+2/5 
+
+ 
+ 
+ 
+ 
+ 
+dans le Sdage ; en dehors de périmètre de protection de captage d’alimentation en eau potable ; à environ 550 m 
+au sud de sources (« Fontaine de l’Hermite ») et 650 m du cours d’eau le plus proche (« ruisseau de Ladrée », 
+identifié comme un corridor écologique de la sous-trame « cours d’eau » de la TVB) ; 
+
+partiellement  en  zone  d’exposition  moyenne  au  retrait-gonflement  des  argiles  (partie  ouest  de  l’emprise) ;  en 
+dehors d’autre zone à risque naturel significatif connu ; en dehors de site ou sol pollué recensé ; 
+
+en dehors de zonage de protection de site, du paysage ou du patrimoine ; à environ 1,8 km notamment du site 
+inscrit des « Roches de la Fontaine Sainte-Barbe à Vieilmoulin », sans co-visibilités du fait de la topographie et de 
+la végétation ; 
+
+3. les impacts non notables sur l’environnement et la santé humaine, compte tenu : 
+
+du fait que le schéma régional de raccordement au réseau des énergies renouvelables (S3REnR) de Bourgogne-
+Franche-Comté en vigueur prévoit des travaux de création et de renforcement au niveau du poste source public 
+de « Vieilmoulin » existant à proximité ; 
+
+de  la  consommation  relativement  limitée  d’espaces  naturels,  agricoles  et  forestiers  (le  projet  s’implantant  sur 
+moins de 1,5 ha au sein d’un ensemble agricole de près de 18,3 ha, et conduisant à l’imperméabilisation d’une 
+surface de moins 0,7 ha) ; 
+
+de  l’inscription  du  projet  dans  un  paysage  déjà  marqué  par  les  installations  de  production,  de  transport  et  de 
+distribution  d’électricité  (poste  source  existant  de  « Vieilmoulin »,  parcs  éoliens  en  fonctionnement,  lignes 
+électriques  aériennes à haute et très haute tension) ; le  projet s’implantant en outre au sein d’un massif  boisé 
+formant un masque visuel, et la plantation de haies arborées étant prévue pour limiter les visibilités depuis ses 
+abords (cf. photomontages joints au dossier) ; 
+
+des  conclusions  de  la  note  d’expertise  écologique  jointe  au  dossier  concernant  l’absence  d’impacts  résiduels 
+significatifs du projet après mise en œuvre de mesures d’évitement, de réduction et d’accompagnement ; celles-
+ci comprenant l’évitement des habitats à enjeux avérés (boisements, lisières forestières, haies, jachères, arbres 
+isolés, pierriers, stations de plantes hôtes d’insectes patrimoniaux), leur mise en défens et leur balisage dès le 
+démarrage  du  chantier,  le  maintien  autant  que  possible  d’un  retrait  de  5 m  minimum  vis-à-vis  des  lisières 
+forestières, des haies arborées et des jachères (cette distance étant de préférence à prendre en compte vis-à-vis 
+de l’extérieur des clôtures afin de conserver des corridors écologiques fonctionnels), une adaptation du calendrier 
+des travaux (hors période de reproduction des oiseaux, avec un démarrage des terrassements entre septembre 
+et octobre), la limitation de l’éclairage nocturne et la végétalisation des abords de la plateforme de stockage (avec 
+des essences localement présentes) ; des mesures complémentaires pouvant utilement être définies concernant 
+la perméabilité écologique de certaines clôtures pour la petite faune (notamment autour du bassin d’infiltration) et 
+la mise en œuvre de modalités d’implantation et d’entretien des haies et des espaces végétalisés favorables à la 
+biodiversité  (calendrier  d’entretien  adapté,  stratification  et  choix  d’essences  locales  et  mellifères  pour  les 
+haies,…) ;  l’expertise  écologique  prévoyant  à  juste  titre  une  supervision  de  l’ensemble  des  mesures  par  des 
+écologues ou des spécialistes du génie écologique, la plus grande vigilance devant être portée à leur mise en 
+œuvre  et  à  leur  suivi  compte  tenu  de  l’importante  sensibilité  écologique  du  secteur,  notamment  pour  les 
+chiroptères ; 
+
+du fait que les enjeux et mesures supplémentaires liés à Natura 2000 devront, si nécessaire, être pris en compte 
+dans une évaluation des incidences Natura 2000 ; 
+
+de l’engagement du porteur du projet d’imposer, lors de la sélection du fournisseur d’équipements, le respect de 
+mesures de sécurité, ainsi que l’emploi de technologie de batteries de dernière génération assurant la sécurité et 
+l’efficacité ; le site faisant l’objet d’une surveillance et d’un contrôle automatisés en continu, couplés à une astreinte 
+24 h/24 et 7 j/7, de contrôles réguliers environ une fois par mois, d’une maintenance préventive et de contrôles 
+réglementaires tous les ans ; 
+
+des dispositions prévues pour maîtriser les risques d’incendie liés à l’activité ; celles-ci méritant néanmoins d’être 
+validées par le service départemental d’incendie et de secours (Sdis), notamment en termes d’implantation des 
+équipements vis-à-vis des boisements, d’accessibilité pour les engins d’intervention, de capacité des réserves à 
+incendie et de modalités d’alerte et d’intervention en cas de départ de feu ; 
+
+du  fait  que  l’expertise  hydraulique  jointe  au  dossier  détaille  le  système  de  gestion  des  eaux  pluviales  du  site 
+(notamment  le  dimensionnement  des  fossés  de  collecte  et  du  bassin  d’infiltration,  ainsi  que  leurs  modalités 
+d’entretien) et les mesures à mettre en œuvre pour limiter les risques de pollution en phase d’exploitation (mise 
+en  place  d’un  séparateur  d’hydrocarbures,  entretien  des  équipements,  absence  d’utilisation  de  produits 
+phytosanitaires,…) ; leur suffisance et leur conformité avec les dispositions du Sage de l’Armançon pouvant être 
+vérifiées dans le cadre de la procédure au titre de la « loi sur l’eau » ; les mesures à mettre en œuvre en phase 
+
+3/5 
+
+ 
+ 
+ 
+ 
+ 
+de  travaux  méritant  également  d’être  précisées  (gestion  des  engins,  stockage  des  produits  potentiellement 
+polluants, kits anti-pollution, information des services concernés en cas d’incident,…) ; 
+
+de l’engagement du porteur du projet à respecter les seuils autorisés de bruit au titre de la réglementation ICPE 
+(les  principales  émissions  sonores  provenant  des  transformateurs  et  des  systèmes  de  refroidissement  des 
+conteneurs  de  batteries) ;  la  conformité  devant  notamment  être  assurée  avec  les  dispositions  de  l’arrêté  du 
+23 janvier 1997 relatif à la limitation des bruits émis dans l’environnement par les ICPE ; 
+
+des dispositions qui seront mises en œuvre en phase de travaux pour limiter les nuisances éventuelles sur les 
+riverains et les usagers (bruit, vibrations, déchets, poussières, trafic, etc.) ; 
+
+des  dispositions  qui  devront  être  mises  en  œuvre  pour  lutter  contre  la  propagation  des  espèces  exotiques 
+envahissantes,  notamment  l’Ambroisie,  à  risque  sanitaire,  en  application  de  l’arrêté  préfectoral  n° 2018-17  du 
+18 juillet 2018 relatif à la lutte contre cette espèce (élimination des plants et prévention de toute dissémination) ; 
+
+Arrête : 
+
+Article 1er 
+
+En application de la section première du chapitre II du titre II du livre premier du Code de l’environnement, le projet 
+de stockage d’électricité par batteries à proximité du poste source de Vieilmoulin sur le territoire de la commune 
+de Drée (21) n’est pas soumis à évaluation environnementale. 
+
+Article 2 
+
+La présente décision, délivrée en application de l’article R.122-3 du Code de l’environnement, ne dispense pas 
+des autorisations administratives auxquelles le projet peut être soumis. 
+
+Conformément aux dispositions de ce même article, l’autorité compétente vérifie au stade de l’autorisation que le 
+projet présenté correspond aux caractéristiques et mesures qui ont justifié la présente décision. 
+
+Conformément au V de l’article R.122-5 du Code de l’environnement, le formulaire d’examen au cas par cas ne 
+permettant  pas  d’établir  l’absence  d’incidence  sur  tout  site  Natura 2000,  la  présente  décision  ne  tient  pas  lieu 
+d’évaluation des incidences Natura 2000. 
+
+Cette décision est mise en ligne sur le portail de l’évaluation environnementale : https://evaluation-environnemen-
+tale.developpement-durable.gouv.fr/#/public/portalReviews. 
+
+Article 3 
+
+Fait à Besançon, le  
+
+Pour le Préfet et par délégation 
+Le directeur régional, et par subdélégation, 
+
+           la cheffe du service transition écologique 
+
+Muriel CHABERT 
+
+4/5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voies et délais de recours 
+
+•  Lorsque la décision dispense le projet d'évaluation environnementale : 
+
+Conformément  à  l’avis  du  Conseil  d’État  n° 395 916  du  6 avril 2016,  une  décision  de  dispense  d’évaluation 
+environnementale n’est pas un acte faisant grief susceptible de faire l’objet d’un recours contentieux. 
+
+Elle peut en revanche être contestée à l’occasion de l’exercice d’un recours contre la décision approuvant le projet. 
+
+Elle  peut  également  être  contestée  par  le  biais  d'un  recours  gracieux  adressé  dans  un  délai  de  deux  mois  à 
+compter de la date de notification ou de publication sur internet. 
+
+•  Lorsque la décision soumet le projet à évaluation environnementale : 
+
+Conformément aux dispositions de l'article R.421-1 et suivants du Code de justice administrative et du Livre IV du 
+Code des relations entre le public et l’administration, la présente décision peut faire l’objet, dans un délai de deux 
+mois à compter de la date de notification ou de publication sur internet, des recours suivants : 
+
+  un recours gracieux. En application de l’article R.122-3-1 VII du Code de l’environnement, tout recours 
+contentieux  contre  la  décision  imposant  la  réalisation  d’une  évaluation  environnementale  après  un 
+examen  au  cas  par  cas  doit,  à  peine  d’irrecevabilité,  être  précédé  d’un  recours  administratif  préalable 
+devant l’autorité chargée de l’examen au cas par cas qui a pris la décision. Le silence de l’Administration 
+au  terme  d’un  délai  de  deux  mois  vaut  rejet  implicite.  Après  un  recours  gracieux,  le  délai  du  recours 
+contentieux ne court qu’à compter du rejet explicite ou implicite de ce recours ; 
+
+  dans un délai de deux mois à compter du rejet du recours gracieux, un recours contentieux, en saisissant 
+le Tribunal administratif compétent. Le Tribunal administratif peut être saisi via l’application informatique 
+Télérecours accessible par le site internet www.telerecours.fr. 
+
+Où adresser votre recours ? 
+
+Recours gracieux : 
+Monsieur le Préfet de région Bourgogne-Franche-Comté 
+Dreal Bourgogne-Franche-Comté 
+5 Voie Gisèle Halimi 
+BP 31269 
+25005 Besançon cedex 
+
+Recours hiérarchique : 
+Madame la Ministre de la Transition écologique, de la Biodiversité, de la Forêt, de la Mer et de la Pêche 
+CGDD/SEVS 
+Tour Sequoia 
+92055 La Défense cedex 
+
+Recours contentieux : 
+Tribunal administratif de Besançon 
+30 rue Charles Nodier 
+25044 Besançon cedex 3 
+
+ou par l'application Télérecours citoyens accessible par le site www.telerecours.fr. 
+
+5/5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

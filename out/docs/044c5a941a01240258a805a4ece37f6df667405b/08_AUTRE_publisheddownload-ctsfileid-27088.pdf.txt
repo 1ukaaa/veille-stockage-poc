@@ -1,0 +1,260 @@
+Direction régionale de l'environnement,
+de l'aménagement et du logement
+Bourgogne Franche-Comté
+
+ARRÊTÉ
+
+portant décision d’examen au cas par cas
+en application de l’article R. 122-3 du Code de l’environnement :
+
+Projet de création d'un poste électrique associé à un système de stockage d'énergie par batteries
+sur le territoire de la commune de Montigny-la-Resle (89)
+
+Le préfet de la région Bourgogne-Franche-Comté,
+Préfet de la Côte d’Or
+
+Vu la directive 2011/92/UE du Parlement européen et du Conseil du 13 décembre 2011 modifiée par la directive
+2014/52/UE du 16 avril 2014, concernant l’évaluation des incidences de certains projets publics et privés sur
+l’environnement, notamment son annexe III ;
+
+Vu le Code de l’environnement, notamment ses articles L. 122-1, R.122-2, R.122-2-1, et R. 122-3 ;
+
+Vu   l’arrêté   du   16   janvier   2023   modifiant   l'arrêté   du   12   janvier   2017   fixant   le   modèle   du   formulaire   de   la
+« demande d'examen au cas par cas » en application de l'article R. 122-3-1 du Code de l'environnement ;
+
+Vu la demande d’examen au cas par cas n° 000144/KK P relative au projet de création d'un poste électrique
+associé à un système de stockage d'énergie par batteries sur le territoire de la commune de Montigny-la-Resle
+(89), reçue le 03 décembre 2024, complétée le 05 décembre 2024 et portée par la société Langa International,
+représentée par Monsieur Gilles LEBREUX ;
+
+Vu l’arrêté de M. le Préfet de la région Bourgogne-Franche-Comté n° 24-294-BAG du 28 octobre 2024 portant
+délégation de signature à M. Olivier DAVID, directeur régional de l’environnement, de l’aménagement et du
+logement (DREAL) de Bourgogne-Franche-Comté ; 
+Vu   la   décision   de   M.   le   directeur   de   la   Dreal   n° BFC-2024-10-29-00013   du   29 octobre 2024   portant
+subdélégation   de   signature   à   Mme   Muriel   CHABERT,   cheffe   du   service   Transition   Écologique,   ainsi   qu’à
+Messieurs Oscar VINESSE et Olivier BOUJARD, chefs adjoints du service Transition Écologique ;
+
+Vu l’avis de l’agence régionale de santé du 20/12/2024 ;
+
+Considérant :
+
+1. la nature du projet,
+
+- qui consiste à créer un poste électrique associé à un système de stockage d'énergie par batteries à Montigny-
+la-Resle, sur trois parcelles agricoles vierges de toute construction, pour une emprise totale d’environ 1,8  ha ; le
+projet comprend également la mise en place d'un bâtiment annexe de 150 m² ;
+
+- dont l’objectif annoncé par le dossier est de permettre une meilleure intégration des énergies renouvelables en
+stockant   l'énergie   produite   pendant   les   phases   de   production   des   différentes   sources   d'énergies   et   en   la
+redistribuant   pendant   les   périodes   de   forte   demande   en   électricité ;   cela   permettra   en   outre   de   réduire   les
+émissions de gaz à effet de serre en diminuant la demande d'énergie carbonée durant ces mêmes périodes ;
+
+Adresse postale : 5 Voie Gisèle Halimi - BP 31269,  25005 BESANCON CEDEX
+Standard : 03 39 59 62 00
+www.Bourgogne-franche-comte.developpement-durable.gouv.fr
+
+1/4
+
+- dont les travaux, prévus pour une durée de 9 mois environ, comprennent les étapes suivantes :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+le décapage du sol sur environ 1,19 ha, par un travail de pelles mécanique et camions bennes puis mise
+en œuvre des fondations avec une toupie béton et dallage béton nécessaire à l’installation ;
+
+le gravillonnage de type tout-venant pour constituer le sol de la centrale, compacté sur les zones de
+chemin   d’accès   et   les   aires   de   grutage ;   la   surface   totale   considérée   comme   artificialisée   sera   de
+1 600 m², soit environ 13 % de l'emprise du projet, ceci incluant les pistes d’accès ainsi qu’un parking de
+stationnement comprenant une aire de retournement et une plateforme ;
+
+la dépose d’un conteneur et du préfabriqué de stockage de matériel, tous deux sur sol compacté ;
+
+la  mise  en  place   des  éléments constitutifs de  la   centrale :  les  32   unités de  stockage   contenant   les
+batteries, les 8 postes de transformation BT/HTA, le bâtiment de la centrale (local HTA, local RTE, local
+SCADA EMS, local technique), le transformateur HTB ainsi que sa cuve de récupération d'huile ; la pose
+des câbles se fera dans des tranchées, le travail étant conduit à la mini pelle ou à la trancheuse ;
+
+la mise en place d’une clôture (hauteur de 2 m) et d’un portail, représentant un linéaire d’environ 510 m ;
+
+l’installation de deux réserves d'eau de 120 m³ ;
+
+le raccordement électrique du projet, en piquage sur une des deux lignes HTB 225 kV qui surplombent
+le site ;
+
+- qui relève de la catégorie n°32 du tableau annexé à l’article R. 122-2 du Code de l’environnement, qui soumet
+à examen au cas par cas les projets de postes de transformation dont la tension maximale de transformation est
+égale   ou   supérieure   à   63   kilovolts,   à   l’exclusion   des   opérations   qui   n’entraînent   pas   d’augmentation   de   la
+surface foncière des postes ;
+
+- qui fera l’objet d’une demande de permis de construire ;
+
+2. la localisation du projet,
+
+- situé en zone A (agricole) du plan local d’urbanisme (PLU) de Montigny-la-Resle, sur les parcelles cadastrales
+ZM 52, 53 et 54, situées en limite de la commune de Bleigny-le-Carreau, le règlement du PLU stipulant que les
+installations d’intérêt collectif sont autorisées ; à environ 720 m des habitations les plus proches ;
+
+- sur un terrain situé à l’aplomb de deux lignes de transport d’électricité de très forte capacité, les deux accès au
+site se faisant via des chemins communaux ;
+
+-  à  1 km  environ   à  l’est  des zones  naturelles  d’intérêt   écologique,   floristique  et  faunistique   (Znieff)  les  plus
+proches : Znieff de type I « Thureau de Saint-Denis » (identifiant n°260008546) et Znieff de type II « Vallées de
+l’Yonne et de la Baulche et forêts autour d’Auxerre » (identifiant n°260030469) ;
+
+- en dehors de sites Natura 2000, le plus proche étant situé à 12 km environ à l’ouest du site envisagé ;
+
+- à des distances comprises entre 2,3 km et 5,9 km environ des sites inscrits ou classés les plus proches, le
+dossier assurant l’absence de covisibilité avec ces éléments ;
+
+- en dehors de zones humides répertoriées ;
+
+- en zone d’aléa moyen au titre du phénomène de retrait-gonflement des argiles ;
+
+- en dehors de périmètre de protection de captages d’alimentation en eau potable ;
+
+3. les impacts non notables sur l’environnement et la santé humaine, compte tenu :
+
+- de l’absence d’enjeu environnemental ou sanitaire notable, d’après les éléments du dossier  ; il conviendra
+néanmoins   de   prendre   toutes   les   dispositions   nécessaires   pour   s’assurer   de   l’absence   de   dissémination
+d’espèces invasives durant la phase chantier, notamment l’ambroisie ; le chantier devra à ce titre se conformer
+aux dispositions de l’arrêté n° PREF-SAPPIE-BE-2018-0235 du 10 juillet 2018 relatif à la lutte contre l’ambroisie
+dans le département de l’Yonne ;
+
+2/4
+
+- des engagements pris par le porteur de projet pour ce qui concerne :
+
+
+
+
+
+
+
+
+
+les   dispositifs   de   récupération   des   éventuels   écoulements   d’huile   et   de   traitement   des   liquides
+conformément à la réglementation, permettant de réduire les risques de pollution des sols ;
+
+le respect de la réglementation concernant les émissions acoustiques en phase de chantier ;
+
+l’intégration paysagère du site, principalement par le biais de la plantation de haies mixtes sur tout le
+pourtour du site, ainsi que de bosquets denses d’essences locales ;
+
+la mise en place d’une clôture perméable à la petite faune terrestre ;
+
+- des mesures qui devraient utilement être prises par le pétitionnaire en vue de réduire les impacts de son
+projet :
+
+
+
+
+
+l’entretien des éléments paysagers du site, en particulier les haies et bosquets, ainsi que la clôture du
+site, afin d’assurer leur pérennité ;
+
+la réalisation des travaux en dehors des périodes de sensibilité de la faune ;
+
+ARRÊTE :
+
+Article 1er
+
+En application de la section première du chapitre II du titre II du livre premier du Code de l’environnement, le
+projet de création d'un poste électrique associé à un système de stockage d'énergie par batteries sur le territoire
+de la commune de Montigny-la-Resle (89) n’est pas soumis à évaluation environnementale.
+
+Article 2
+
+La présente décision, délivrée en application de l’article R. 122-3 du Code de l'environnement, ne dispense pas
+des autorisations administratives auxquelles le projet peut être soumis.
+
+Conformément aux dispositions de ce même article, l’autorité compétente vérifie au stade de l’autorisation que
+le projet présenté correspond aux caractéristiques et mesures qui ont justifié la présente décision.
+
+Cette décision sera mise en ligne sur le site internet de la direction régionale de l'environnement, de l'aménage -
+ment   et   du   logement :  https://evaluation-environnementale.developpement-durable.gouv.fr/#/public/portalRe-
+views.
+
+Article 3
+
+Fait à Besançon, le
+
+Pour le Préfet et par délégation
+Le directeur régional, et par subdélégation,
+
+         La cheffe du service transition écologique
+
+Muriel CHABERT
+
+3/4
+
+Voies et délais de recours
+
+
+
+Lorsque la décision dispense le projet d'évaluation environnementale :
+
+Conformément   à   l’avis   du   Conseil   d’État   n°395 916   du   6 avril 2016,   une   décision   de   dispense   d’évaluation
+environnementale n’est pas un acte faisant grief susceptible de faire l'objet d'un recours contentieux.
+
+Elle peut en revanche être contestée à l’occasion de l’exercice d’un recours contre la décision approuvant le
+projet.
+Elle peut également être contestée par le biais d'un recours gracieux adressé dans un délai de deux mois à
+compter de la date de notification ou de publication sur internet.
+
+
+
+Lorsque la décision soumet le projet à évaluation environnementale :
+
+Conformément aux dispositions de l'article R.421-1 et suivants du Code de justice administrative et du Livre IV
+du Code des relations entre le public et l’administration, la présente décision peut faire l'objet, dans un délai de
+deux mois à compter de la date de notification ou de publication sur internet, des recours suivants :
+
+ un recours gracieux. En application de l’article R.122-3-1-VII du Code de l’environnement, tout recours
+contentieux   contre   la   décision   imposant   la   réalisation   d'une   évaluation   environnementale   après   un
+examen au cas par cas doit, à peine d'irrecevabilité, être précédé d'un recours administratif préalable
+devant l'autorité administrative de l’État compétente en matière d'environnement qui a pris la décision. 
+Le silence de l’Administration au terme d’un délai de deux mois vaut rejet implicite. Après un recours
+gracieux, le délai du recours contentieux ne court qu’à compter du rejet explicite ou implicite de ce
+recours ;
+
+ dans   un   délai   de   deux   mois   à   compter   du   rejet   du   recours   gracieux,   un   recours   contentieux,   en
+saisissant le Tribunal administratif compétent. Le Tribunal administratif peut être saisi via l’application
+informatique Télérecours accessible par le site internet www.telerecours.fr.
+
+Où adresser votre recours ?
+
+Recours gracieux :
+Monsieur le Préfet de région Bourgogne-Franche-Comté
+DREAL Bourgogne-Franche-Comté
+5 Voie Gisèle Halimi
+BP 31269
+25005 Besançon cedex
+
+Recours hiérarchique :
+Madame la Ministre de la Transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche
+CGDD/SEVS
+Tour Sequoia
+92055 La Défense cedex
+
+Recours contentieux :
+Tribunal administratif de Besançon
+30 rue Charles Nodier
+25044 Besançon cedex 3
+
+ou par l'application Télérecours citoyens accessible par le site www.telerecours.fr
+
+4/4
+
+

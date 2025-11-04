@@ -18,6 +18,7 @@ class Settings:
     BASE_DIR: Path = Path(__file__).parent
     OUTPUT_DIR: Path = BASE_DIR / "out"
     CACHE_DIR: Path = BASE_DIR / "cache"
+    SERVICEACCOUNTKEY = Path(BASE_DIR) / "veilleapi-990e97b2d10e.json"
     
     # API Keys
     GOOGLE_API_KEY: str = os.getenv("GOOGLE_API_KEY", "")

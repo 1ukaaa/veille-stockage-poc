@@ -16,6 +16,11 @@ from typing import Tuple, Optional, List
 from pathlib import Path
 from urllib.parse import urljoin
 
+from google.oauth2 import service_account
+from google.auth.transport.requests import Request
+from datetime import datetime
+
+
 import httpx
 from selectolax.parser import HTMLParser
 from pdfminer.high_level import extract_text as pdfminer_extract_text
@@ -200,41 +205,43 @@ def extract_pdf_robust(pdf_bytes: bytes) -> Tuple[str, str]:
 
 # ============ Document AI ============
 
-class OAuth2TokenManager:
-    """Gestion tokens OAuth2 avec cache"""
+class ServiceAccountTokenManager:
+    """Gestion tokens Service Account - ZÉRO expiration"""
     
     def __init__(self):
-        self._access_token: Optional[str] = None
-        self._expiry_timestamp: float = 0
+        """Charge les credentials depuis le fichier JSON"""
+        if not settings.SERVICEACCOUNTKEY.exists():
+            raise FileNotFoundError(
+                f"Fichier clé manquant: {settings.SERVICEACCOUNTKEY}\n"
+                "Télécharge service-account-key.json depuis Google Cloud Console"
+            )
+        
+        self.credentials = service_account.Credentials.from_service_account_file(
+            str(settings.SERVICEACCOUNTKEY),
+            scopes=['https://www.googleapis.com/auth/cloud-platform']
+        )
+        self._access_token = None
+        self._expiry_timestamp = 0
     
     def get_access_token(self) -> str:
-        """Obtient un token valide"""
+        """Obtient un token valide (auto-rafraîchi si expiré)"""
         now = time.time()
         
-        if self._access_token and (self._expiry_timestamp - now > 60):
+        # Vérifier si token valide pour au moins 60s de plus
+        if self._access_token and self._expiry_timestamp - now > 60:
             return self._access_token
         
-        data = {
-            "client_id": settings.OAUTH_CLIENT_ID,
-            "client_secret": settings.OAUTH_CLIENT_SECRET,
-            "refresh_token": settings.OAUTH_REFRESH_TOKEN,
-            "grant_type": "refresh_token",
-        }
+        # Générer nouveau token (Google le fait automatiquement)
+        self.credentials.refresh(Request())
+        self._access_token = self.credentials.token
+        self._expiry_timestamp = now + (self.credentials.expiry - datetime.now()).total_seconds()
         
-        with httpx.Client(timeout=settings.TIMEOUT) as client:
-            response = client.post(settings.OAUTH_TOKEN_URL, data=data)
-            response.raise_for_status()
-            token_data = response.json()
-        
-        self._access_token = token_data.get("access_token", "")
-        expires_in = token_data.get("expires_in", 3000)
-        self._expiry_timestamp = now + int(expires_in)
-        
-        logger.info("OAuth2 token refreshed")
+        logger.info(f"Service Account token généré")
         return self._access_token
 
 
-token_manager = OAuth2TokenManager()
+# Instance globale
+token_manager = ServiceAccountTokenManager()
 
 
 def docai_extract_text(file_bytes: bytes, mime_type: str = "application/pdf") -> str:

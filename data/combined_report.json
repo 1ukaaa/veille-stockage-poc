@@ -1,21 +1,25 @@
 {
   "metadata": {
-    "timestamp": "2025-10-31T16:19:52.552183",
-    "input_dir": "out/enriched",
+    "timestamp": "2025-11-03T15:08:03.913108",
+    "input_dir": "out\\enriched",
     "output_file": "data/combined.csv",
-    "num_files": 4,
+    "num_files": 8,
     "deduplication_strategy": "keep_best"
   },
   "statistics": {
-    "rows_input": 13,
-    "rows_output": 12,
+    "rows_input": 29,
+    "rows_output": 28,
     "rows_removed_duplicates": 1,
-    "deduplication_rate": 7.7
+    "deduplication_rate": 3.4
   },
   "files_processed": [
     "enriched_auvergne-rhone-alpes_2023.csv",
     "enriched_auvergne-rhone-alpes_2024.csv",
     "enriched_bourgogne-franche-comte_2023.csv",
-    "enriched_bourgogne-franche-comte_2024.csv"
+    "enriched_bourgogne-franche-comte_2024.csv",
+    "enriched_bourgogne-franche-comte_2025.csv",
+    "enriched_normandie_2023.csv",
+    "enriched_normandie_2024.csv",
+    "enriched_normandie_2025.csv"
   ]
 }
