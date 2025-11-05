@@ -1,0 +1,273 @@
+Direction Régionale de l’Environnement,
+de l’Aménagement et du Logement
+
+Décision relative à un projet relevant d’un examen au cas par cas
+en application de l’article R122-3 du code de l’environnement
+
+Station de stockage d'électricité, à Longueville-sur-Aube (10)
+
+LE PRÉFET DE LA RÉGION GRAND EST 
+PRÉFET DE LA ZONE DE DÉFENSE ET DE SÉCURITÉ EST
+PRÉFET DU BAS-RHIN
+
+OFFICIER DE LA LÉGION D’HONNEUR
+COMMANDEUR DE L’ORDRE NATIONAL DU MÉRITE
+
+VU
+
+la   directive   2011/92/UE   du   Parlement   européen   et   du   Conseil   du   13   décembre   2011
+concernant   l’évaluation   des   incidences   de   certains   projets   publics   et   privés   sur
+l’environnement, notamment son annexe III ;
+
+VU
+
+le code de l’environnement, notamment ses articles L122-1, R122-2, R122-3 et R122- 3-1 ;
+
+VU
+
+VU
+
+VU
+
+VU
+
+VU
+
+VU
+
+l’arrêté du 12 janvier 2017 fixant le modèle du formulaire de la demande d'examen au cas
+par cas, en application de l'article R122-3-1 du code de l'environnement ;
+
+le  dossier  de  demande  d’examen  au cas  par  cas  présenté  par  le maître  d’ouvrage  « CS  117  -
+VILLAGE 20251 PANCHERACCIA », reçu complet le 16 décembre 2024, complété le 15 février
+2025, relatif au projet de station de stockage d'électricité, à Longueville-sur-Aube (10) ;
+
+le   décret   n°   2004-374   du   29   avril   2004   modifié   relatif   aux   pouvoirs   des   préfets,   à
+l’organisation et à l'action des services de l’État dans les régions et départements ;
+
+le décret du 10 octobre 2024 portant nomination de M. Jacques WITKOWSKI, préfet de la
+région Grand Est, préfet de la zone de défense et de sécurité Est, préfet du Bas-Rhin ;
+
+l’arrêté préfectoral N° 2024/357 du 30 septembre 2024 portant délégation de signature à
+M.   Marc   HOELTZEL,   directeur   régional   de   l’environnement,   de   l’aménagement   et   du
+logement de la région Grand Est ;
+
+l'arrêté DREAL-SG-2024-33 du 1er octobre 2024 portant subdélégation de signature de M.
+Marc   HOELTZEL,   directeur   régional   de   l'environnement,   de   l'aménagement   et   du
+logement de la région Grand Est en faveur de M. Philippe LAMBALIEU, chef du service
+Évaluation Environnementale, de son adjoint M. Hugues TINGUY  et de Mme Christelle
+MEIRISONNE, adjointe au chef de pôle Projets ;
+
+VU
+
+l’avis de l’Agence Régionale de Santé en date du 9 janvier 2025 ;
+
+DREAL Grand Est
+14, rue du Bataillon de Marche n°24 – BP 81005/F
+67070 STRASBOURG Cedex
+Tél. : 03 88 13 05 00
+
+1
+
+CONSIDÉRANT la nature du projet :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qui relève de la rubrique n°32 de la nomenclature annexée à l’article R122-2 du code de
+l’environnement « Poste de transformation dont la tension maximale de transformation
+est égale ou supérieure à 63 kilovolts, à l'exclusion des opérations qui n'entraînent pas
+d'augmentation de la surface foncière des postes » ;
+qui consiste en la construction d’une station de stockage d'électricité (puissance de 250
+MW et capacité de 500 MW.h) ;
+qui comporte la création d'un poste de transformation de 400/33 kV, raccordé par RTE au
+poste électrique RTE de Méry-sur-Seine, par une liaison électrique souterraine ; 
+qui   comporte une   plateforme   gravillonnée   d’environ   0,4   ha   où   seront   disposées   les
+installations haute tension telles que : transformateurs, disjoncteurs, sectionneurs, ainsi
+qu’un bâtiment de contrôle ; l’emprise du transformateur 400kV et du bâtiment seront
+positionnés sur des dalles béton ;
+qui, selon le dossier, permet notamment de participer aux mécanismes d'ajustement et
+de   gestion   des   congestions,   ainsi   que   de   stocker   en   période   de   forte   production   et
+déstocker   en   période   de   forte   consommation,   la   production   d'énergies   renouvelables
+(éolien et solaire) afin de favoriser leur intégration sur le réseau ;
+qui concerne une emprise totale clôturée du projet d’environ 2 ha ;
+qui   relève   de   la   nomenclature   des   ICPE   (   installations   classées   pour   la   protection   de
+l'environnement) :
+◦ rubrique 2925-2 « accumulateurs électriques » ;
+◦ régime de la déclaration ;
+◦ obligation de mise en œuvre de  l'arrêté ministériel de prescriptions générales  lié  à
+
+cette activité ;
+
+CONSIDÉRANT la localisation du projet :
+
+
+
+
+
+
+
+
+
+
+
+
+parcelle cadastrale ZV1, à Longueville-sur-Aube (10) ;
+sur des terrains à usage actuel de culture intensive qui ne présentent pas un enjeu notable
+au titre de la biodiversité ;
+à proximité  d’un  poste électrique  RTE  et à  grande  distance  des  premières  habitations
+(environ 1,5 km de Méry-sur-Seine), situation qui génère une absence d’enjeux forts liés aux
+nuisances   de   voisinage   envers   les   tiers   (période   de   chantier,   bruits,   champs
+électromagnétiques) ;
+au   sein   de  la  zone   non  urbanisée   de   la   commune   où   s'applique   actuellement   le   RNU
+(Règlement   National   de   l'Urbanisme),   zone   où   les   constructions  et   installations
+nécessaires à des équipements collectifs peuvent être autorisées dès lors qu'elles ne sont
+pas incompatibles  avec l'exercice d'une  activité agricole, pastorale ou  forestière sur  le
+terrain sur lequel elles sont implantées ;
+au sein du zonage d’alerte  « Zones  humides probables  » (Modélisation cartographique
+consultable sur le site internet de la DREAL Grand Est), cependant, une étude de zones
+humides jointe au dossier conclut à l’absence de zones humides dans l’emprise du projet ;
+en   dehors   de   tout   autre   zonage   administratif   caractéristique   d’une   sensibilité
+environnementale notable, notamment hors de zonages au titre des zones humides ; 
+
+2
+
+CONSIDÉRANT les caractéristiques des impacts du projet sur le milieu et la santé publique ainsi
+que les mesures et caractéristiques du projet destinées à éviter ou réduire leurs effets :
+
+
+
+
+
+
+
+
+
+les impacts liés aux risques de pollutions accidentelles pour lesquels le projet prévoit :
+◦ la   gestion   d’éventuelles   fuites   d’huiles   de   transformateurs   via   des   bacs   de
+récupération étanches sous chaque transformateur, raccordés à une fosse déportée ;
+◦ la mise en œuvre de mesures de précaution lors des travaux afin de s’affranchir de
+
+tout risque de pollution accidentelle  ;
+
+les impacts liés au risque d’incendie pour lequel le dossier précise les mesures mises en
+œuvre, notamment :
+◦ le respect des normes de non propagation (Norme UL9540A) ;
+◦ la   mise   en   œuvre   d’un   système   de   gestion   des   batteries et   d’un   système   de
+
+management thermique et de ventilation ;
+
+◦ la mise en œuvre d’une maintenance rigoureuse ;
+◦ la pose de deux citernes souples de réserve d’eau incendie d’un volume unitaire de
+120m3 accompagnées d’aires d’aspiration conformément aux exigences du SDIS 10 ;
+
+les impacts sur le paysage, pour lesquels le dossier précise qu’un aménagement paysager
+sera mis en place sous la forme d’une haie végétale ;
+
+l’impact sur la production de gaz à effet de serre pour lequel le stockage de l’électricité
+est   un   élément   favorable,   en   particulier   lorsque   l’électricité   stockée   est   elle-même
+décarbonée ;
+
+CONSIDÉRANT qu’au regard des éléments fournis par le pétitionnaire et sous réserve du respect de ses
+engagements   et   obligations,   le   projet   n’est   pas   susceptible   de   présenter   des   impacts   notables   sur
+l’environnement et la santé qui nécessiteraient la réalisation d’une étude d’impact ;
+
+D É C I D E
+
+    :  
+
+    :  
+
+Article 1er
+En  application  de   la   section  première  du   chapitre  II   du   titre  II   du   livre   premier   du  code  de
+l’environnement, le  projet de station de stockage d'électricité, à Longueville-sur-Aube (10), présenté
+par le maître d’ouvrage « CS 117 », n’est pas soumis à évaluation environnementale.
+
+    :  
+
+Article 2
+La présente décision, délivrée en application de l’article R122-3 du code de l’environnement, ne
+dispense pas des autorisations administratives auxquelles le projet peut être soumis.
+
+    :  
+
+Article 3
+L’autorité décisionnaire est chargée de vérifier au stade de l’autorisation que le projet présenté
+correspond aux caractéristiques et mesures qui ont justifié la présente décision.
+
+DREAL Grand Est
+14, rue du Bataillon de Marche n°24 – BP 81005/F
+67070 STRASBOURG Cedex
+Tél. : 03 88 13 05 00
+
+3
+
+ 
+ 
+ 
+ 
+    :  
+
+Article 4
+La présente décision sera publiée sur le site internet de la direction régionale de l’environnement,
+de l’aménagement et du logement. 
+
+Strasbourg, le 10 mars 2025
+
+Pour le Directeur Régional de l'Environnement,
+de l'Aménagement et du Logement
+de la région Grand Est,
+et par délégation,
+l’adjoint au chef du service Évaluation
+Environnementale,
+
+Hugues TINGUY
+
+Voies et délais de recours
+
+1) Un recours administratif préalable est obligatoire avant le recours 
+contentieux. Il doit être formé dans le délai de deux mois suivant la réception 
+de la décision. En cas de décision implicite, le recours doit être formé dans le 
+délai de deux mois suivant la publication sur le site internet de l’autorité 
+environnementale du formulaire de demande accompagné de la mention du 
+caractère tacite de la décision.
+L’absence de réponse au recours administratif à l’issue d’un délai de deux mois 
+vaut décision implicite de rejet du recours.
+Le recours administratif doit être adressé à Monsieur le préfet de région - 
+Préfecture de la région Grand Est - 5 place de la République - BP 87031 - 67073 
+STRASBOURG cedex
+Il peut aussi être adressé un recours hiérarchique au supérieur hiérarchique de 
+l’auteur de la décision : Madame la Ministre de la Transition écologique, de 
+l'Énergie, du Climat et de la Prévention des Risques - 246, bd Saint Germain - 
+75700 PARIS
+
+2)   Le   recours   contentieux   doit   être
+formé   dans   le   délai   de   deux  mois   à
+compter   de   la   réception   de   la
+décision   de   rejet   du   recours
+administratif ou dans le délai de deux
+mois   à   compter   de   la   décision
+implicite   de   rejet   du   recours
+administratif.
+Le   recours   contentieux   doit   être
+déposé  
+le   tribunal
+administratif de Strasbourg sur le site
+www.telerecours.fr . 
+
+  devant  
+
+4
+
+ 
+

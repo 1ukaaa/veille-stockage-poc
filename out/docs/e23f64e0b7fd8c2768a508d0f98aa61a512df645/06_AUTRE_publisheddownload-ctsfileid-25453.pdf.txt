@@ -1,0 +1,3400 @@
+M E G APA C K   2   X L   D ATA S H E E T
+
+TESLA.COM/MEGAPACK
+
+Grid transformation for the world's largest energy projects
+•  Best-in-class energy density and round-trip efficiency 
+•  Industry-leading power electronics and thermal system 
+
+performance
+
+•  Rapid and cost-effective deployment with factory-assembled and 
+
+pre-tested solution
+
+Scaled and rigorously tested product safety and reliability
+•  Comprehensive in-house reliability testing by the leading experts in 
+
+the industry
+
+•  Engineered for safety and performance at every level
+•  Continuous improvement based on large-scale operational 
+
+experience
+
+Designed with flexibility and configurability in mind
+•  Modular architecture that allows for a range of configurations 
+
+across multiple applications
+
+•  Industry experts available to identify site-specific needs
+•  Integrated solution that allows for battery augmentation over time
+
+POWER AND ENERGY
+
+MECHANICAL AND MOUNTING
+
+Megapack duration is configurable. Standard configurations 
+are 2-Hour and 4-Hour durations. Nominal energy is specified at 
+25°C (77°F).
+
+Ingress Ratings
+
+IP66/NEMA 3R (Main Enclosure)
+IP20 (Thermal System)
+
+AC Power 
+per Megapack
+
+Energy 
+per Megapack
+
+Enclosure  
+Dimensions
++/- 13 mm (½ in)
+
+Width:  8800 mm 
+Depth: 
+1650 mm 
+Height:  2785 mm 
+
+(346 ½ in)
+(65 in)
+(110 in)
+
+2-Hour
+
+4-Hour
+
+1927 kW
+
+ 3854 kWh
+
+Maximum Weight
+
+38,100 kg (84,000 lb)
+
+979 kW 
+
+3916 kWh
+
+Operating Ambient  
+Temperature
+
+–30°C to 50°C (–22°F to 122°F)
+
+ELECTRICAL
+
+REGULATORY
+
+Nominal AC Voltage
+
+480 V AC 3-phase
+
+Nominal Frequency
+
+50 or 60 Hz
+
+System is compliant to grid codes and safety standards of all 
+major markets.
+
+Inverter Power per Megapack1 
+
+2-Hour Max: 
+4-Hour Max: 
+
+2400 kVA
+1320 kVA
+
+System
+
+NRTL listed to UL 1973, UL 9540, UL 9540A, 
+UL 1741 SB, IEC 62619, IEEE 1547
+
+Round-Trip Efficiency2
+
+2-Hour:  
+4-Hour:  
+
+92.0%
+93.7%
+
+Cells
+
+NRTL listed to UL 1642
+
+1 Scalable from 400 kVA minimum in increments of 50 kVA
+2 Full-depth cycle including all power conversion and thermal system 
+losses, at 25°C (77°F)
+
+WARRANTY
+
+CONTROLS AND COMMUNICATIONS
+
+Protocols
+
+Modbus TCP / DNP3 / REST API
+
+Coverage
+
+All-inclusive, equipment and energy retention
+
+Term
+
+15 years standard, extendable to 20 years
+
+Core Control 
+Modes
+
+Direct Real Power
+Direct Reactive Power 
+Frequency Support 
+Virtual Inertia 
+
+Ramp Rate Control
+Site Control 
+Power Factor Control
+Voltage Control 
+
+PART NUMBER
+
+MONITORING
+
+1848844-XX-Y Where X is a number between 0-9 and Y is a letter
+
+Powerhub
+
+Free-to-use cloud monitoring portal 
+
+MEGAPACK 2 XL DATASHEET - REV. 1.5.1 - February 10, 2023
+
+MEGAPACK 2 XL SAFETY OVERVIEW
+
+ENHANCED SAFETY ARCHITECTURE
+
+Tesla’s commitment to safety informs every Megapack design decision and has guided 15+ years of 
+experience in battery module design and manufacturing for both vehicle and energy storage applications. 
+Megapack 2 XL (Megapack) is designed with features that make the product safe throughout the entire 
+product lifecycle — during transit, installation, commissioning, operation, maintenance, and 
+decommissioning.
+
+Tesla’s approach to safety involves comprehensive design and testing at every level of Megapack. Vertical 
+integration across design, manufacturing, and testing ensures that safety features of the cell, battery 
+module, inverter, thermal system, and overall system-level components are closely linked and not decoupled.
+
+In addition, Tesla is continually improving Megapack safety features and capabilities based on data from 
+operational experience.
+
+1.  Battery modules with active and passive fuses – externally serviceable
+
+2.  Touch-safe Customer Interface Bay
+
+3.  Non-walk-in IP66 enclosure and deflagration mitigation
+
+4.  Thermal roof with overpressure vents
+
+INDUSTRY-LEADING COMPLIANCE AND THIRD-PARTY VALIDATION
+
+Tesla is constantly pushing the boundaries and raising the bar on product safety. This commitment to safety 
+not only ensures that Tesla’s products are compliant to the industry’s most stringent global standards, but 
+also sets a benchmark for the industry to follow regarding energy storage safety. Megapack has met and 
+exceeded many industry safety standards and has demonstrated through extensive third-party testing that it 
+is one of the safest energy storage systems on the market.
+
+1
+
+MEGAPACK 2 XL SAFETY OVERVIEW
+
+Megapack 2 XL is listed to the following standards by OSHA-recognized Nationally Recognized Testing 
+Laboratories:
+
+•  UL 1642 (cell-level certification)
+
+•  UL 1973 and IEC 62619 (battery module-level certification)
+
+•  UL 9540, IEC 62933-5-2, IEC 62109-1 (system-level certification)
+
+•  UL 1741, CSA C22.2 #107.1 (power electronics)
+
+•  UL 1998 and IEC 60730 Annex H (functional safety of software)
+
+•  IEC 61000-6-2, and EN 55011 (EMC)
+
+•  UN 38.3 (transportation, self-certified)
+
+•  IEEE 693 (seismic safety)
+
+•  UL 9540A (large-scale fire testing): Tested at the cell, module, and unit level
+
+•  And many more, including compliance to major market grid codes
+
+Megapack 2 XL, like Megapack, is designed to comply with major installation codes for energy storage 
+systems, including NFPA 855, IFC 2018 and 2021, and NEC 2020.
+
+Megapack 2 XL has been reviewed and validated by an Independent Engineer, both at the product level and 
+for the results of large-scale fire testing.
+
+ENHANCED APPROACH TO FIRE SAFETY
+
+To date, Tesla has deployed more than 10 GWh of stationary energy storage products globally with a strong 
+safety track record.
+
+Through vertical integration, Tesla has designed Megapack with fire safety built directly into the product at 
+every level. This makes the product safer and reduces overall project costs by eliminating the need for fire 
+suppression systems.
+
+At the cell level, Tesla's latest generation of Megapacks leverages the lithium iron phosphate (LFP) chemistry 
+and a new industry-leading cell design. Testing has demonstrated a strong ability to resist thermal runaway, 
+and has shown controlled venting in worst-case events, without explosive bursts or fire.
+
+All Tesla products also undergo rigorous testing at the module level. While standards such as UL 1973 and 
+IEC 62619 ensure propagation resistance to single-cell thermal runaway, testing has shown that Megapack 
+battery modules are resistant to multiple co-located cells sent into runaway at the same time. This greatly 
+mitigates the risk of a thermal event.
+
+At the system level, Megapack is designed with a combination of dedicated runaway gas igniters and 
+overpressure vents built into the roof that passively mitigate the risk of deflagration hazards in case of 
+unlikely accumulation of flammable gases due to arc flash events or thermal runaways.
+
+In the unlikely event of a fire, rigorous full-scale fire testing has shown that Megapack performs in a safe and 
+controlled manner, consuming itself slowly and without explosive bursts, projectiles, or unexpected hazards. 
+The vents are designed to direct all gases, smoke, and flame out of the top of the Megapack, minimizing risk 
+to nearby response personnel and exposures.
+
+In the event of a fire at a Megapack site, the fire service will be able to manage the event with standard fire 
+service response equipment. Tesla’s Lithium-Ion Battery Emergency Response Guide provides more details 
+on that subject. The cells used in Tesla products do not contain solid metallic lithium and thus do not react 
+with water. When required by local code, Tesla recommends fire detection at the site level with the use of 
+third-party thermal imaging cameras that can detect fires on site.
+
+2
+
+MEGAPACK 2 XL SAFETY OVERVIEW
+
+24/7 GLOBAL SUPPORT
+
+Megapack is supported by Tesla’s Network Operations Center, designed to support the global fleet of energy 
+storage products. The 24/7 operations center offers remote monitoring, diagnostics, and troubleshooting 
+capabilities, without the need of having a Tesla technician on site. Customers and first responders also 
+benefit from immediate hotline support from trained technicians in case of emergencies.
+
+© Copyright 2022 Tesla, Inc. All Rights Reserved.
+
+Rev 1.0 — September 13, 2022
+
+3
+
+Energy Products Application Note 
+Product: Megapack 1 
+Last Revised: September 29, 2021 
+Version: 1.1 
+
+MEGAPACK SAFETY APPLICATION NOTE 
+
+This application note is intended to complement the Megapack Safety Datasheet. This document 
+provides additional technical detail regarding Megapack’s core safety features and thermal runaway 
+hazards and should be used for technical discussions with customers and AHJs. 
+
+An Integrated Approach to Safety 
+
+When it comes to safety and product hazards, Tesla’s philosophy has always been to design products 
+that are safe to customers, maintenance personnel, first responders and neighboring exposures, 
+regardless of the operating status of the product. Megapack is safe by design and includes numerous 
+levels of safety and hazard mitigation features that make it one of the safest utility-scale energy storage 
+systems (ESS) in the world. Extensive testing and iterative design improvements have demonstrated 
+this approach, validated by a growing fleet of more than 6 GWh of energy storage products deployed 
+globally. In addition, Tesla is continually improving Megapack safety features and capabilities based on 
+data from operational experience. 
+
+Safety at Every Level 
+
+Cell Safety 
+
+•  Tesla uses the highest quality lithium-ion cells, which are designed specifically for the application of the 
+products they go into. Each cell in Tesla products is individually inspected and tested prior to module 
+assembly. Flawed cells are discarded and used to drive further cell manufacturing improvements. All 
+cells in Tesla products are listed to UL 1642. 
+
+•  Each Megapack can contain upwards of 200,000 cells. Each cell is individually fused through wire bond 
+
+and is equipped with its own internal circuit interrupt device (CID). The CID ensures that any 
+overcurrent or unsafe pressure buildup within a cell is isolated to that cell. Both features ensure the cell 
+is physically and irreversibly disconnected from the rest of the module and does not impact the 
+surrounding cells or modules for the remainder of the product’s life. 
+
+Battery Module Safety 
+
+•  Each Megapack battery module includes multiple active and passive safety features designed to isolate 
+electrical issues from the rest of Megapack, and conversely to protect the battery module from external 
+issues. Unlike racked battery systems, the battery modules are pre-installed in a factory setting, 
+removing the need to connect live high voltage DC elements on site. 
+
+•  Battery modules are listed to UL 1973 and IEC 62619 and are tested to ensure a single cell in thermal 
+runaway does not propagate to neighboring cells. In fact, Tesla Megapack battery modules have 
+demonstrated effectiveness at preventing thermal runaway propagation from multiple co-located cells 
+set off into runaway at the same time.  
+
+CONFIDENTIAL INFORMATION – SHARED UNDER NDA ONLY 
+
+Page 1 of 2 
+
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEGAPACK SAFETY APPLICATION NOTE 
+
+•  The battery modules each include a dedicated DC-DC converter that electrically and galvanically 
+isolates the module from Megapack’s common DC bus. Each Megapack can hold up to 17 battery 
+modules, which are connected in parallel via a common DC bus. This parallel battery module 
+architecture provides optimized performance and redundant safety control, reducing the risk of 
+cascading failures. Combined with the DC-DC converter architecture in each battery module, this 
+parallel design greatly reduces the risk of events such as electrical fault propagation, arc flash, or 
+cascading thermal runaway. Battery modules are sealed to prevent touch access to the battery cells, 
+power electronics, and HV terminals. 
+
+•  A Tesla-proprietary smart pyrotechnic disconnect installed at the midpoint of each battery module 
+
+adds an additional layer of safety to each module. The disconnect is actively controlled by the battery 
+management system (BMS) housed within each battery module, which continuously searches for and 
+autonomously detects conditions that fall outside of nominal current and voltage operating limits. If an 
+issue is detected, within milliseconds the BMS automatically triggers a pyrotechnic discharge inside the 
+disconnect that immediately opens the connection and removes the source of the issue. This is identical 
+technology to that used in Tesla vehicles. The disconnect is mounted at the front of the battery module 
+so it can easily be replaced in the field without having to remove the entire battery module. 
+
+System-Level Safety 
+
+Numerous dedicated safety measures ensure that Megapack provides the highest level of safety: 
+
+•  The Customer Interface Bay is a touch-safe bay located at the center of the enclosure. It is designed to 
+be the only interface required for installation, operation, and maintenance. Megapack is pre-assembled 
+and pre-tested at the factory to ensure that minimal installation and commissioning scope is required 
+on site, thereby minimizing risk of hazards to personnel interfacing with the equipment. 
+
+•  An internal safety feature called an enable circuit connects to all Megapack doors except the Customer 
+
+Interface Bay door. If a door is opened while the product is operating or in standby mode with the DC 
+bus powered, the enable circuit will immediately open to stop all operation and power down the DC 
+bus. The Customer Interface Bay contains a panel between the user and the bus bars that is also part of 
+the enable circuit. 
+
+•  Megapack’s weatherproof steel enclosure is rated to IP66 (NEMA 3R) and provides robust protection 
+against extreme environmental, chemical, and physical exposures. It cannot be entered by personnel, 
+further limiting the possible interaction between maintenance personnel and internal components. 
+
+•  Megapack is listed to UL 9540 and UL 1998 / IEC 60730, which are system-level safety certifications 
+that ensure all subsystems are designed to operate safely together under normal and abnormal 
+conditions. Megapack’s design is fully vertically integrated and all components (all hardware ranging 
+from cell to enclosure, and all software and firmware) are designed by in-house Tesla teams, which 
+further ensures full control over all aspects of the product. 
+
+Autonomous Safeguards and Notification 
+
+Megapack is engineered to react to fault conditions in an autonomous manner, with safeguards built 
+into the firmware. These fault conditions include over-temperature, loss of communication, over-
+voltage, and isolation. All Tesla products are monitored for correct operation by Tesla’s Network 
+Operations Center (NOC), which provides 24h/7d monitoring and phone/email technical engineering 
+support across the global fleet of deployed projects.  
+
+CONFIDENTIAL INFORMATION – SHARED UNDER NDA ONLY 
+
+Page 2 of 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEGAPACK SAFETY APPLICATION NOTE 
+
+•  For inverter faults, isolation faults, and internal loss of communication that prevent the safe operation of 
+the system, Tesla’s monitoring system will automatically alert the Tesla NOC to initiate a corrective 
+action, which can either be performed remotely or in person during a field service visit. 
+
+• 
+
+If a propagating thermal runaway occurs, over-temperature faults isolate the concerned Megapack by 
+first disconnecting the affected battery module, and then opening the AC contactors. All faults are 
+immediately seen by the Tesla NOC for immediate action.  
+
+Thermal Event Safety 
+
+Tesla operates its own rigorous fire and abuse testing facility to test and validate every product it 
+brings to market. Tesla performs extensive fire testing at all component levels during the product 
+design cycle to ensure that hazards are mitigated and managed safely. For Megapack, although 
+catastrophic damage due to fire is unlikely, it is essential—both for Tesla and its customers—to 
+understand how the product behaves in a worst-case condition that falls outside the product’s control. 
+
+Through testing Megapacks and with data from operational experience, Tesla has demonstrated that a 
+propagating thermal runaway event from internal causes is unlikely due to physical internal separation 
+elements and the battery module’s design, which requires multiple co-located cells to go into runaway 
+at the same time. Events caused by rare and unlikely internal factors or unforeseen external factors (for 
+example, a large impact) that damage many cells at once could create a propagating thermal runaway 
+event that may spread throughout the entire enclosure. In such a case, it is likely that all battery 
+modules will safely consume themselves, as Megapack is not designed to prevent propagation across 
+battery module bays.  
+
+Deflagration Control 
+
+While deflagration/explosion protection is not required for outdoor cabinet-based designs in the model 
+Codes and Standards, Tesla firmly believes mitigation of the chance of a deflagration within the 
+enclosure is critical to overall safety. The design of Megapack includes two proprietary engineered core 
+features that mitigate the risk of uncontrolled deflagration: over-pressure vents and a sparker system.  
+The proprietary engineered deflagration prevention system developed by Tesla relies upon early 
+ignition of the gases produced by thermal runaway to prevent a dangerous building of gases within the 
+enclosure. 
+
+Pressure-sensitive vents in the roof of the sealed enclosure allow gases and products of combustion to 
+safely exhaust through the roof in the event of extreme hazards (see location in Figure 1, below). The 
+vents are designed to mitigate the impact of over-pressure by directing all gases, smoke, and flame out 
+of the top of Megapack and ensure the front doors remain shut for the safety of nearby exposures and 
+personnel. The vents are passive and are not actuated or controlled in any way. Their rubber seals are 
+designed to release over-pressure events (including arc flash events), or melt out during thermal 
+runaway events. The number and total area of vents is sized off of NFPA 68-13 requirements, and 
+designed to be a factor of safety >3 on the enclosure strength, including the front doors. Co-located 
+with the vents are one-way “umbrella” valves that help exhaust and disperse runaway gases in order to 
+help minimize gas concentrations inside the enclosure. 
+
+The vents are not actuated active deflagration vents and are thus not designed or listed to 
+corresponding standards (such as NFPA 68/69). Tesla developed the proprietary vents and sparker 
+system because the application of NFPA 68 or NFPA 69 is not appropriate for cabinets without large 
+volumes of open space. 
+
+CONFIDENTIAL INFORMATION – SHARED UNDER NDA ONLY 
+
+Page 3 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+MEGAPACK SAFETY APPLICATION NOTE 
+
+In combination with the roof vents, Tesla has designed a proprietary sparker system that combusts 
+flammable off-gases during a runaway event before those gases reach the enclosure’s lower 
+flammability limit (LFL). Hot gases and smoke are the first sign of thermal runaway, and the sparkers 
+can ignite these gases well before they are able to build up in dangerous quantities and become an 
+explosion hazard. There are eight sparkers in total, installed at the top of each battery module bay 
+directly under the over-pressure vents in the roof (see location in Figure 1, below). Testing has shown 
+that the highest measured concentration of hot rising gases will always occur in these locations. By co-
+locating the sparkers with the roof vents, localized combustion events ensure the roof vents nearest the 
+sparker open. The effectiveness of the sparkers and roof vents has been successfully demonstrated 
+through extensive testing, as well as during the UL 9540A Unit level test. This system also effectively 
+mitigates the risk of any large deflagration, explosions, projectiles, or flying debris. 
+
+Figure 1: Roof vents and sparker locations inside Megapack 
+
+While the design of a sparker system is new and unique in the energy storage market, Tesla’s goal was 
+to use first-principles engineering design to solve the inherent risk of accumulated gases inside a sealed 
+enclosure in an effective and consistent manner, knowing that a detection-only solution would not solve 
+the problem.  
+
+Below are additional details on the sparker system’s features and capabilities: 
+
+•  The sparker system uses double platinum automotive spark plugs. The sparker assembly is designed to 
+
+operate continuously (every 10 seconds) for 20+ years with minimal maintenance. 
+
+•  The sparker system is always on and is powered by internal battery power, and thus will remain 
+
+operational even during loss of grid power or if an external shutdown is triggered. It is connected to 
+Megapack’s low voltage distribution board in the Customer Interface Bay so it cannot be impacted 
+from the first runaway event. 
+
+•  The number and location of sparkers is designed in a redundant manner: should one sparker fail, 
+
+another one is sufficiently close to effectively combust a localized gas concentration. 
+
+•  The sparkers cannot combust the gases of a single cell failure. It requires the off-gassing of many co-
+located cells to reach sufficient localized LFL levels, thus the system is intended only to work during 
+catastrophic irreversible thermal runaways. 
+
+•  The sparkers do not interact with the outside environment, as they are located inside the sealed IP66 
+(NEMA 3R) enclosure. Should smoke or gases from an external or nearby event surround Megapack, 
+the sparkers will be unable to combust those. 
+
+CONFIDENTIAL INFORMATION – SHARED UNDER NDA ONLY 
+
+Page 4 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEGAPACK SAFETY APPLICATION NOTE 
+
+Thermal Insulation 
+
+To prevent propagation to neighboring Megapacks at 6 in (15 cm) spacing, Megapack includes several 
+features that minimize the radiation of heat flux onto neighboring surfaces, as well as heat flux from 
+external sources: 
+
+• 
+
+1 in (2.5 cm)-thick thermal insulation layer built into the sides and rear surfaces of the enclosure, 
+covered in steel. 
+
+•  Roof panels covered in high reflectivity paint and insulated internally with a layer of thermal insulation. 
+•  Battery bay doors and ceiling internally layered with thermal insulation. 
+
+This thermal insulation protection has been validated through large-scale fire testing, including the UL 
+9540A Unit level test. During testing, cell temperatures in the neighboring Megapack’s battery modules 
+never exceeded the product’s nominal operating temperature range, even with the thermal 
+management system disabled.  Also, during testing, the thermal runaway did not propagate to the 
+neighboring units. 
+
+Fire Detection and Suppression 
+
+A product that is able to effectively control thermal event hazards greatly mitigates concerns over 
+harm to people or property. For this reason, Tesla always designs products that burn in a safe, 
+predictable manner and do not rely on complex and unproven systems to mitigate the hazards. The ‘let 
+it burn’ approach also ensures that the system is not dependent on detection systems to mitigate major 
+hazards and does not require any form of suppression. 
+
+Megapack does not have internal hardware dedicated to detecting thermal runaway (such as a smoke 
+or off-gas detectors). Tesla does have the ability through software to detect a thermal runaway event 
+and notify the Network Operations Center. External detection systems, while not required by model 
+Codes and Standards for outdoor installations, are also a suitable option for customers who desire 
+additional detection capability at the site level. Tesla has validated a pole-mounted third-party thermal 
+imaging camera that can successfully detect early signs of thermal runaway well before flames are 
+visible. Please contact Tesla for more details on this solution. 
+
+Megapack does not include any form of suppression system (water-based or non-water-based). While 
+water is considered the most effective form of suppression for lithium-ion-based energy storage 
+systems, Tesla’s goal is to offer products that do not depend on water to manage the hazards of 
+thermal events.. As such, Megapacks can be installed in remote locations without access to water (or 
+where the fire service is not in proximity to the site) without worrying about the risk of expansive 
+damage to the site should a catastrophic event occur to one unit. 
+
+Frequently Asked Questions 
+
+What happens if one cell fails and goes into thermal runaway? 
+
+Cell failures are rare, but at massive deployment scale they can occur. For this reason, the battery 
+modules are tested to resist single cell thermal runaway propagation (UL 1973 and IEC 62619 
+requirement). If one cell goes into runaway inside Megapack, it will consume itself without propagating 
+to neighboring cells. It will not impact the operation of the battery module, as the loss of one cell within 
+the module brick is too small to cause imbalance in the system. The module can keep operating and the 
+consumed cell will remain in its place without the need to be replaced. Additionally, a single cell 
+runaway is insufficient to create enough gas concentration to be combusted by the sparker system. The 
+
+CONFIDENTIAL INFORMATION – SHARED UNDER NDA ONLY 
+
+Page 5 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEGAPACK SAFETY APPLICATION NOTE 
+
+gas will dissipate through the umbrella valves without impacting the rest of Megapack. Given the low 
+impact of a lost cell, no alarms or alerts will be triggered by the loss of a single cell. 
+
+Can the thermal management system be utilized to mitigate thermal runaway? 
+
+The thermal management system in Megapack provides enormous cooling capacity to the cells and 
+electronics. For the purposes of evaluating the worst case scenario, the thermal management system is 
+always disabled during fire testing (for both the unit under test as well as neighboring units). This 
+allows Tesla to understand how the system behaves in the event of thermal management system 
+failures. However, should a thermal runaway occur in a real-world setting, Megapack will automatically 
+react to the rise in cell temperature and enable the thermal management system to cool the cells as if it 
+were operating normally. The thermal system will keep operating until loss of communications or the 
+fire melts away controls and hardware components. Thermal management systems in neighboring 
+Megapacks will continue to operate nominally and further cool the cells to keep them within safe 
+temperature to avoid long-term damage. 
+
+What are the hazards of fires started from non-battery sources? 
+
+Fires from non-battery sources are much smaller in magnitude and release less embedded energy than 
+battery fires, which are deep-seated chemical fires that generate a great quantity of heat. All power 
+electronics in Megapack are separated from the battery modules by steel surfaces (either on top of the 
+battery module, or in the Customer Interface Bay or inverter bay). If an electrical fire were to occur, it 
+would remain contained in its dedicated enclosure and not generate sufficient heat to propagate to the 
+cells. As demonstrated in Tesla’s 2016 NFPA Research Foundation fire testing of Powerpack, setting 
+cells into thermal runaway via external flame required over 40 minutes of direct contact from a 400kW 
+flame against the steel enclosure (equivalent to about 50 backyard gas BBQs). 
+
+Would a coolant leak create the possibility for a deflagration within the enclosure? 
+
+If all 540L of coolant leaked within the enclosure, there would still be not enough H2 buildup to reach 
+LFL at the enclosure level. In the event of a leak, coolant will evacuate the enclosure through the two 
+bottom drains in the enclosure floor.  
+
+What improvements has Tesla made to Megapack in response to the incident at the Victoria Big 
+Battery site in July 2021? 
+
+Tesla engaged in a rigorous investigation and root-cause analysis and implemented improvements into 
+the product as a direct result of this event. Mitigating actions included a combination of firmware 
+enhancements to safety protection features, improved monitoring alerting, and construction and 
+commissioning process improvements. Through these actions, Tesla has reduced the likelihood of this 
+rare event recurring in the future. 
+
+CONFIDENTIAL INFORMATION – SHARED UNDER NDA ONLY 
+
+Page 6 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Produkte 
+Products 
+
+ANSI/CAN/UL 9540A:2019 
+Test Method for Evaluating Thermal Runaway Fire Propagation in Battery Energy Storage Systems 
+
+TEST REPORT 
+
+Report Number............................... :  NN22GLCI.001 
+
+Date of issue .................................. :  04/26/2022 
+
+Total number of pages .................. :  28 
+
+Name of Testing Laboratory 
+preparing the Report ..................... : 
+
+TÜV Rheinland of North America, Inc. 
+1279 Quarry Lane, Suite A, Pleasanton, CA 94566 
+
+Applicant’s name ........................... :  Tesla, Inc. 
+
+Address .......................................... :  3500 Deer Creek Road, Palo Alto, CA 94304 
+
+Test specification: 
+
+Standard ......................................... :  ANSI/CAN/UL 9540A:2019 
+
+Test procedure ............................... :  Report 
+
+Non-standard test method ............ :  N/A 
+
+Test Report Form No. .................... :  N/A 
+
+Test Report Form(s) Originator .... :  N/A 
+
+Master TRF ..................................... :  Dated 2019-01-17 
+
+General disclaimer: 
+
+The test results presented in this report relate only to the object tested. 
+This report shall not be reproduced, except in full, without the written approval of the Issuing Testing 
+Laboratory. The authenticity of this Test Report and its contents can be verified by contacting the CB, 
+responsible for this Test Report.  
+
+Other / Scope: 
+1. Evaluation and Compliance report to UL 9540A: 2019 – Unit level Round 2. 
+
+R1101741.002 
+
+Page 1 of 28 
+
+Revision 0.1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Test item description ....................... :  Battery Energy Storage System 
+
+Trade Mark ........................................ :  Tesla 
+
+Manufacturer ..................................... :  Tesla, Inc, (new # 1210368) 
+
+Model/Type reference ...................... :  1748844-XX-Y 
+
+3500 Deer Creek Rd, Palo Alto, CA 94304 
+
+XX – can be any number from 00 to 99. XX – represents style codes used for different 
+variants of the same part, having no impact on the safety and functionality of the 
+entire product. 
+
+Y – Can be any upper case letter from A to Z. Y – represents pedigree and is used for 
+tracking changes to parts that have already been released to suppliers or production, 
+having no impact on the safety and functionality of the entire product. 
+
+Ratings .............................................. :  480Vac, 997.5 kVA (4hr), 1890 kVA (2 hr), 50/60 Hz 
+
+(3 phase 3 wire) 
+Nominal Battery capacity 4hr: 3100.8 kWh, 2 hr: 2890.8 kWh 
+Nominal Battery power 4hr: 775.2 kW, 2 hr: 1445.4 kW 
+
+Responsible Testing Laboratory (as applicable), testing procedure and testing location(s): 
+
+  Testing Laboratory: 
+
+TÜV Rheinland of North America, Inc. 
+1279 Quarry Lane, Suite A, Pleasanton, CA 94566 
+
+Testing location/ address ............................ : 
+
+Tested by (name, function, signature) ....... : 
+
+Approved by (name, function, signature) .. : 
+
+  Testing procedure: CTF Stage 1/TMP: 
+
+Testing location/ address ............................ : 
+
+Tested by (name, function, signature) ....... : 
+
+Approved by (name, function, signature) .. : 
+
+  Tesla, Inc. 
+
+Tesla, Inc. 
+
+Testing location/ address ............................ :  Tesla Battery Test Facility Fernley, Nevada 
+
+Tested by (name + signature) ..................... :  Kiran Krishnan Kutty 
+
+Witnessed by (name, function, signature) . :  Himanshu Vaidya 
+
+Approved by (name, function, signature) .. :  Howard Liu 
+
+  Testing procedure: CTF Stage 3/SMT: 
+
+  Testing procedure: CTF Stage 4: 
+
+Testing location/ address ............................ : 
+
+Tested by (name, function, signature) ....... : 
+
+Witnessed by (name, function, signature) . : 
+
+Approved by (name, function, signature) .. : 
+
+Supervised by (name, function, signature) : 
+
+R1101741.002 
+
+Page 2 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+List of Attachments (including a total number of pages in each attachment):  
+
+1.  Test package with testing equipment list 
+2.  Photo documentation 
+
+Summary of testing: 
+
+Tests performed (name of test and test 
+clause): 
+
+Testing location: 
+
+UL 9540A clause 9 – Unit Level 
+
+Tesla, Inc. 
+Tesla Battery Test Facility 
+Fernley, Nevada 
+
+Summary of compliance with National Differences (List of countries addressed): N/A 
+
+ The product fulfils the requirements of _________ (insert standard number and edition and 
+
+delete the text in parenthesis, leave it blank or delete the whole sentence, if not applicable) 
+
+R1101741.002 
+
+Page 3 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Possible test case verdicts: 
+
+- test case does not apply to the test object .... :  N/A 
+
+- test object does meet the requirement ........... :  P (Pass) 
+
+- test object does not meet the requirement .... :  F (Fail) 
+
+Testing: 
+
+Date of receipt of test item ................................. :  February 22, 2022 
+
+Date (s) of performance of tests ........................ :  March 09, 2022 
+
+General remarks: 
+
+"(See Enclosure #)" refers to additional information appended to the report. 
+"(See appended table)" refers to a table appended to the report. 
+
+Throughout this report a 
+
+ comma / 
+
+ point is used as the decimal separator. 
+
+Name and address of factory (ies) ................. : 
+
+Copy of marking plate: Use –  “Only for use with Tesla Products” 
+“The artwork below may be only a draft. The use of certification marks on a product must be authorized by 
+the respective NCB’ s that own these marks” 
+
+General product information and other remarks: 
+
+Megapack is bi-directional, supporting charge and discharge. It converts power for storage in rechargeable lithium-
+ion battery packs (battery modules) and is designed in a modular fashion in order to support a range of AC power. 
+Each  Megapack  contains  up  to  19  battery  modules  with  inverters,  a  thermal  bay  and  associated  thermal  roof 
+components, an AC circuit breaker, and a set of customer interface terminals and internal controls circuit boards. An 
+external auxiliary power supply is not required for Megapack; Megapack pulls auxiliary power for the control power 
+and thermal management from the local AC.  
+
+Depending  on  the  system  configuration  (2-hour  or  4-hour),  each  Megapack  can  be  configured  with  different 
+quantities of battery modules which, together with the site's grid voltage, determine Megapack's nominal power 
+rating.  
+
+R1101741.002 
+
+Page 4 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Clause  Requirement – Test  
+
+Result – Remark  
+
+Verdict 
+
+ANSI/CAN/UL 9540A:2019 
+
+CONSTRUCTION 
+
+5 
+
+5.1 
+
+5.1.1 
+
+5.1.2 
+
+5.1.3 
+
+5.2 
+
+5.2.1 
+
+5.2.2 
+
+5.2.3 
+
+5.3 
+
+5.3.1 
+
+5.3.2 
+
+5.3.3 
+
+5.3.4 
+
+5.4 
+
+5.4.1 
+
+5.4.2 
+
+5.4.3 
+
+General 
+
+Cell 
+
+The cells associated with the BESS that were tested 
+shall be documented in the test report 
+
+CATL Lithium Iron Phosphate 
+Rated Capacity (Ah): 157.2Ah 
+Nominal Voltage: 3.22V 
+Nominal mass: 2991 ± 60 g 
+Dimension: 
+50.75±0.5mm*166±0.5mm*169.
+3±0.5mm 
+
+The cell documentation included in the test report 
+shall indicate if the cells associated with the BESS 
+comply with UL 1973 
+Refer to 7.6.1 for further details 
+
+Battery module and cell is 
+certified to UL 1973  
+
+See 7.6.1  
+
+Module  
+
+The modules associated with the BESS that were 
+tested shall be documented in the test report 
+
+The module documentation included in the test report 
+shall indicate if the modules associated with the BESS 
+comply with UL 1973 
+Refer to 8.3 for further details 
+
+Battery energy storage system unit 
+
+The BESS unit documentation included in the test 
+report shall indicate the units that comply with UL 
+9540 
+For BESS units for which UL 9540 compliance cannot 
+be determined,  
+If applicable, the details of any fire detection and 
+suppression systems that are an integral part of the 
+BESS shall be noted in the test report 
+
+Battery module (3 modules in 
+series, 336S1P) 
+
+Battery module is compliant with 
+UL 1973 
+
+See 8.3 
+
+UL 9540 compliant and certified  
+
+See above 
+
+No fire detection and 
+suppression systems used  
+
+Refer to 9.7, 10.4 and 10.7 for further details 
+
+See 9.7  
+
+Flow Batteries 
+
+For flow batteries, the report will cover the chemistry, 
+as well as the electrical rating in capacity and nominal 
+voltage of the cell stack 
+
+Not flow Batteries 
+
+The flow battery documentation included in the test 
+report shall indicate if the flow battery system 
+complies with UL 1973 
+See 7.6.2 for further details 
+
+PERFORMANCE 
+
+6 
+
+General 
+
+-- 
+
+-- 
+
+P 
+
+N/A 
+
+P 
+
+P 
+
+N/A 
+
+P 
+
+P 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+-- 
+
+N/A 
+
+R1109540.001 
+
+Page 5 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+ANSI/CAN/UL 9540A:2019 
+
+Clause  Requirement – Test  
+
+Result – Remark  
+
+Verdict 
+
+6.1 
+
+6.2 
+
+9 
+
+9.1 
+
+9.1.1 
+
+9.1.2 
+
+9.1.3 
+
+9.1.4 
+
+The tests in this standard are extreme abuse 
+conditions conducted on electrochemical energy 
+storage devices that can result in fires 
+At the conclusion of testing, samples shall be 
+discharged in accordance with the manufacturer's 
+specifications 
+
+Unit Level 
+
+Sample and test configuration 
+
+The unit level test shall be conducted with BESS units 
+installed as described in the manufacturer's 
+instructions and this section. Test configurations 
+include the following: 
+a) Indoor floor mounted non-residential use BESS; 
+b) Indoor floor mounted residential use BESS; 
+c) Outdoor ground mounted non-residential use 
+BESS; 
+d) Outdoor ground mounted residential use BESS; 
+e) Indoor wall mounted non-residential use BESS; 
+f) Indoor wall mounted residential use BESS; 
+g) Outdoor wall mounted non-residential use BESS; 
+h) Outdoor wall mounted residential use BESS; and 
+i) Rooftop and open garage non-residential use BESS 
+installations. 
+The unit level test requires one initiating BESS unit in 
+which an internal fire condition in accordance with the 
+module level test is initiated and target adjacent BESS 
+units representative of an installation 
+Exception: Testing can be conducted outdoors for 
+outdoor only installations if there are the following 
+controls and environmental conditions in place: 
+
+a) Wind screens are utilized with a maximum wind 
+speed maintained at ≤ 12 mph; 
+b) The temperature range is within 10°C to 40°C 
+(50°F to 104°F); 
+c) The humidity is < 90% RH; 
+d) There is sufficient light to observe the testing; 
+e) There is no precipitation during the testing; 
+f) There is control of vegetation and combustibles in 
+the test area to prevent any impact on the testing and 
+to prevent inadvertent fire spread from the test area; 
+and 
+g) There are protection mechanisms in place to 
+prevent inadvertent access by unauthorized persons 
+in the test area and to prevent exposure of persons to 
+any hazards as a result of testing. 
+Depending upon the configuration and design of the 
+BESS (e.g. the BESS is composed of multiple 
+separate parts within separate enclosures), this 
+testing to determine fire characterization can be done 
+at the battery system level 
+The initiating BESS unit shall contain components 
+representative of a BESS unit in a complete 
+installation. 
+
+N/A 
+
+N/A 
+
+P 
+
+P 
+
+P 
+
+P  
+
+P  
+
+P  
+
+Outdoor ground mounted non-
+residential use BESS  
+
+One initiating BESS and three 
+target adjacent BESS  
+
+Testing can be conducted 
+outdoors for outdoor only 
+installations  
+See Figure 1  
+
+This was an outdoor installation 
+test. The ambient temperature 
+was varied between 10°C and 
+15°C and humidity less than 
+90% RH, and wind was under 
+10 mph.  
+
+Testing performed at BESS 
+level  
+
+N/A  
+
+Complete unit in the testing  
+
+P  
+
+R1109540.001 
+
+Page 6 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+ANSI/CAN/UL 9540A:2019 
+
+Clause  Requirement – Test  
+
+Result – Remark  
+
+Verdict 
+
+9.1.5 
+
+9.1.6 
+
+9.1.7 
+
+9.1.8 
+
+9.2 
+
+9.2.1 
+
+9.2.2 
+
+9.2.3 
+
+9.2.4 
+
+9.2.5 
+
+9.2.6 
+
+9.2.7 
+
+9.2.8 
+
+9.2.9 
+
+100% SOC 
+
+Target BESS units shall include the outer cabinet (if 
+part of the design), racking, module enclosures, and 
+components 
+The initiating BESS unit shall be at the maximum 
+operating state of charge (MOSOC), 
+If a BESS unit includes an integral fire suppression 
+system, there is an option of providing this with the 
+DUT 
+Electronics and software controls such as the battery 
+management system (BMS) in the BESS are not 
+relied upon for this testing. 
+Test method – Indoor floor mounted BESS units  Outdoor ground mounted units. 
+Used the test method described 
+in the Section 9.2 except 
+conflicted with Section 9.3.  
+Testing conducted outdoor 
+
+No integral fire suppression 
+system  
+
+Samples and test configurations are in accordance 
+with 9.1. 
+Any access door(s) or panels on the initiating BESS 
+unit and adjacent target BESS units shall be closed, 
+The initiating BESS unit shall be positioned adjacent 
+to two instrumented wall sections 
+Instrumented wall sections shall extend not less than 
+0.49 m (1.6 ft) horizontally beyond the exterior of the 
+target BESS units. 
+Instrumented wall sections shall be at least 0.61-m (2-
+ft) taller than the BESS unit height 
+The surface of the instrumented wall sections shall be 
+covered with 16-mm (5/8-in) gypsum wall board and 
+painted flat black 
+The initiating BESS unit shall be centered underneath 
+an appropriately sized smoke collection hood of an 
+oxygen consumption calorimeter 
+The light transmission in the calorimeter's exhaust 
+duct shall be measured using a white light source and 
+photo detector for the duration of the test 
+The chemical and convective heat release rates shall 
+be measured for the duration of the test, using the 
+methodologies specified in 8.2.11 and 9.2.12, 
+respectively 
+
+Doors closed 
+
+Wall construction per 9.3.3 
+
+Wall construction per 9.3.3 
+
+Wall construction per 9.3.3 
+
+Wall construction per 9.3.3 
+
+Testing conducted outdoor  
+
+N/A  
+
+Testing conducted outdoor  
+
+N/A  
+
+Testing conducted outdoor  
+
+N/A  
+
+P 
+
+P 
+
+N/A  
+
+P 
+
+- 
+
+N/A 
+
+P 
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+9.2.10  With reference to 9.2.9, the heat release rate 
+
+measurement system shall be calibrated 
+9.2.11  With reference to 9.2.9, the convective heat release 
+rate shall be measured using thermopile 
+9.2.12  With reference to 9.2.9, the convective heat release 
+rate shall be calculated using the following equation: 
+
+Testing conducted outdoor  
+
+Testing conducted outdoor  
+
+Testing conducted outdoor  
+
+N/A  
+
+N/A  
+
+N/A  
+
+9.2.13 
+
+9.2.14 
+
+The physical spacing between BESS units (both 
+initiating and target) and adjacent walls shall be 
+representative of the intended installation 
+Separation distances shall be specified by the 
+manufacturer for distance between: 
+
+Wall construction per 9.3.3 
+
+N/A  
+
+P 
+
+R1109540.001 
+
+Page 7 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+ANSI/CAN/UL 9540A:2019 
+
+Clause  Requirement – Test  
+
+Result – Remark  
+
+Verdict 
+
+a) The BESS units and the instrumented wall 
+sections; and 
+b) Adjacent BESS units. 
+
+9.2.15  Wall surface temperature measurements shall be 
+
+collected for BESS intended for installation in 
+locations with combustible construction. 
+9.2.16  Wall surface temperatures shall be measured in 
+
+vertical array(s) at 152-mm (6-in) intervals for the full 
+height of the instrumented wall sections using No. 24-
+gauge or smaller, 
+Thermocouples shall be secured to gypsum surfaces 
+by the use of staples placed over the insulated portion 
+of the wires 
+Heat flux shall be measured with the sensing element 
+of at least two water-cooled Schmidt-Boelter gauges 
+at the surface of each instrumented wall: 
+a) Both are collinear with the vertical thermocouple 
+array; 
+b) One is positioned at the elevation estimated to 
+receive the greatest heat flux due to the thermal 
+runaway of the initiating module; and 
+c) One is positioned at the elevation estimated to 
+receive the greatest heat flux during potential 
+propagation of thermal runaway within the initiating 
+BESS unit. 
+Heat flux shall be measured with the sensing element 
+of at least two water-cooled Schmidt-Boelter gauges 
+at the surface of each adjacent target BESS unit that 
+faces the initiating BESS unit: 
+a) One is positioned at the elevation estimated to 
+receive the greatest heat flux due to the thermal 
+runaway of the initiating module within the initiating 
+BESS; and 
+b) One is positioned at the elevation estimated to 
+receive the greatest surface heat flux due to the 
+thermal runaway of the initiating BESS. 
+For non-residential use BESS, heat flux shall be 
+measured with the sensing element of at least one 
+water-cooled Schmidt-Boelter gauge 
+No. 24-gauge or smaller, Type-K exposed junction 
+thermocouples shall be installed to measure the 
+temperature of the surface 
+For residential use BESS, the DUT shall be covered 
+with a single layer of cheese cloth 
+
+9.2.17 
+
+9.2.18 
+
+9.2.19 
+
+9.2.20 
+
+9.2.21 
+
+9.2.22 
+
+a) 5 ft from Initiator to the left 
+b) 6 inches from ISO knuckle of 
+Initiating unit to Target unit. 4 
+inches from surface of initiating 
+unit to target unit surface.  
+
+P  
+
+Wall construction per 9.3.3 
+
+N/A  
+
+Wall construction per 9.3.3 
+
+N/A  
+
+Wall construction per 9.3.3 
+
+N/A  
+
+Wall construction per 9.3.3 
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+P 
+
+P  
+
+P  
+
+Testing conducted outdoor  
+
+N/A  
+
+No. 24-gauge, Type-K used  
+
+P  
+
+Non-residential  
+
+N/A  
+
+R1109540.001 
+
+Page 8 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+ANSI/CAN/UL 9540A:2019 
+
+Clause  Requirement – Test  
+
+Result – Remark  
+
+Verdict 
+
+9.2.23 
+
+9.2.24 
+
+9.2.25 
+
+9.2.26 
+
+9.2.27 
+
+9.3 
+
+9.3.1 
+
+9.3.2 
+
+9.3.3 
+
+9.3.4 
+
+9.4 
+
+An internal fire condition in accordance with the 
+module level test shall be created within a single 
+module in the initiating BESS unit: 
+
+a) The position of the module shall be selected to 
+present the greatest thermal exposure 
+b) The setup (i.e. type, quantity and positioning) of 
+equipment for initiating thermal runaway in the module 
+shall be the same as that used to initiate and 
+propagate thermal runaway within the module level 
+test 
+The composition, velocity and temperature of the 
+initiating BESS unit vent gases shall be measured 
+within the calorimeter's exhaust duct 
+The hydrocarbon content of the vent gas shall be 
+measured using flame ionization detection 
+The test shall be terminated if: 
+
+a) Temperatures measured inside each module within 
+the initiating BESS unit return to ambient temperature; 
+b) The fire propagates to adjacent units or to adjacent 
+walls; or 
+c) A condition hazardous to test staff or the test facility 
+requires mitigation 
+For residential use systems, the gas collection data 
+gathered in 9.2 shall be compared to the smallest 
+room installation 
+Test method – Outdoor ground mounted units 
+
+Outdoor ground mounted non-residential use BESS 
+being evaluated for installation in close proximity to 
+buildings shall use the test method described in 
+Section 9.2 
+except as noted in 9.3.3 and 9.3.4. 
+Heat flux measurements for the accessible means of 
+egress shall be measured in accordance with 9.2.20. 
+Test samples shall be installed as shown in Figure 9.2 
+in proximity to an instrumented wall section that is 
+3.66-m (12-ft) tall with a 0.3-m (1-ft) wide horizontal 
+soffit 
+Exception: If the manufacturer requires installation 
+against non-flammable material, the test setup may 
+include manufacturer recommended backing material 
+between the unit and plywood wall 
+Target BESS shall be installed on each side of the 
+initiating BESS in accordance with the manufacturer's 
+installation specifications 
+Test Method – Indoor wall mounted units 
+
+See Figure 2  
+Megapack can consist up to 19 
+Battery Module assemblies. 
+Each module assembly contains 
+3 battery Modules each which is 
+a total of 112 cell modules. Two 
+sections of heaters for 2 cells 
+was setup to force thermal 
+runaway.  
+
+P 
+
+P 
+
+P 
+
+Testing conducted outdoor  
+
+N/A  
+
+Testing conducted outdoor  
+
+N/A  
+
+Applicable 
+
+Non-residential  
+
+See 9.2  
+
+See 9.2  
+
+Target unit on the front, side 
+and back of the initiating BESS 
+
+Outdoor 
+
+P 
+
+P 
+
+N/A  
+
+N/A  
+
+N/A  
+
+P  
+
+P  
+
+P  
+
+N/A 
+
+P 
+
+N/A 
+
+R1109540.001 
+
+Page 9 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+ANSI/CAN/UL 9540A:2019 
+
+Clause  Requirement – Test  
+
+Result – Remark  
+
+Verdict 
+
+9.4.1 
+
+9.4.2 
+
+9.4.3 
+
+9.4.4 
+
+9.4.5 
+
+9.4.6 
+
+9.4.7 
+
+9.5 
+
+9.5.1 
+
+9.5.2 
+
+9.5.3 
+
+9.5.4 
+
+9.5.5 
+
+9.5.6 
+
+9.6 
+
+9.6.1 
+
+9.6.2 
+
+9.7 
+
+9.7.1 
+
+Testing of indoor wall mounted BESS shall be in 
+accordance with Section 9.2, except as modified in 
+this section. See Figure 9.3. 
+The test shall be conducted in a standard NFPA 286 
+fire test room, 3.66 × 2.44 × 2.44-m (12 × 8 × 8-ft) 
+high, with a 0.76 × 2.13-m (2-1/2 × 7-ft) high opening. 
+The initiating BESS unit shall be positioned on the 
+wall opposite of the door opening 
+Target BESS shall be installed on the wall on each 
+side of the initiating BESS 
+The wall on which the initiating and target BESS units 
+are mounted shall be instrumented in accordance with 
+Section 9.2. 
+The gas collection methods shall be in accordance 
+with 9.2 
+For residential use BESS, the DUT shall be covered 
+with a single layer of cheese cloth ignition indicator. 
+Test Method – Outdoor wall mounted units 
+
+Testing of outdoor wall mounted BESS shall be in 
+accordance with Section 9.2, except as modified in 
+this section. See Figure 9.4. 
+Test samples shall be mounted on an instrumented 
+wall section that is 3.66-m (12-ft) tall with a 0.3-m (1-
+ft) wide horizontal soffit (undersurface of the eave 
+shown in Figure 9.4). 
+The initiating BESS unit shall be positioned on the 
+instrumented wall, with its center located 1.22-m 
+(4-ft) above the floor, 
+Target BESS shall be installed on the wall on each 
+side of the initiating BESS, at the same height 
+The wall on which the initiating and target BESS units 
+are mounted shall be instrumented in accordance with 
+Section 9.2. 
+For residential use BESS, the DUT shall be covered 
+with a single layer of cheese cloth 
+Rooftop and open garage installations 
+
+Testing of BESS intended for non-residential use 
+rooftop or open garage installations shall be in 
+accordance with 9.2. 
+If intended for rooftop and open garage use only 
+installations, the smoke release rate, the convective 
+and chemical heat release rate and content, velocity 
+and temperature of the released vent gases need not 
+be measured 
+Unit level test report 
+
+The report on the unit level testing shall identify the 
+type of installation being tested, as follows: 
+
+Outdoor and ground mounted 
+
+Outdoor and ground mounted 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+P 
+
+R1109540.001 
+
+Page 10 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+ANSI/CAN/UL 9540A:2019 
+
+Clause  Requirement – Test  
+
+Result – Remark  
+
+Verdict 
+
+a) Indoor floor mounted non-residential use BESS; 
+b) Indoor floor mounted residential use BESS; 
+c) Outdoor ground mounted non-residential use 
+BESS; 
+d) Outdoor ground mounted residential use BESS; 
+e) Indoor wall mounted non-residential use BESS 
+f) Indoor wall mounted residential use BESS; 
+g) Outdoor wall mounted non-residential use BESS; 
+h) Outdoor wall mounted residential use BESS; 
+i) Rooftop installed non-residential use BESS; or 
+j) Open garage installed non-residential use BESS. 
+With reference to 9.7.1, if testing is intended to 
+represent more than one installation type, this shall be 
+noted in the report 
+The report shall include the following, as applicable: 
+
+9.7.2 
+
+9.7.3 
+
+Outdoor ground mounted non-
+residential use BESS;  
+
+P  
+
+One installation type only 
+
+See table 1 
+
+P 
+
+P 
+
+R1109540.001 
+
+Page 11 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+ANSI/CAN/UL 9540A:2019 
+
+Clause  Requirement – Test  
+
+Result – Remark  
+
+Verdict 
+
+a) Unit manufacturer name and model number (and 
+whether UL 9540 compliant); 
+b) Number of modules in the initiating BESS unit; 
+c) The construction of the initiating BESS unit per 5.3; 
+d) Fire protection features/detection/suppression 
+systems within unit; 
+e) Module voltage(s) corresponding to the tested 
+SOC; 
+f) The thermal runaway initiation method used; 
+g) Location of the initiating module within the BESS 
+unit; 
+h) Diagram and dimensions of the test setup including 
+mounting location of the initiating and target 
+BESS units, and the locations of walls, ceilings, and 
+soffits; 
+i) Observation of any flaming outside the initiating 
+BESS enclosure and the maximum flame 
+extension; 
+j) Chemical and convective heat release rate versus 
+time data; 
+k) Separation distances from the initiating BESS unit 
+to target walls (e. g. distances A and C in 
+Figure 9.1); 
+l) Separation distances from the initiating BESS unit to 
+target BESS units (e.g. distances D and H in 
+Figure 9.1); 
+m) The maximum wall surface and target BESS 
+temperatures achieved during the test and the 
+location of the measuring thermocouple; 
+n) The maximum ceiling or soffit surface temperatures 
+achieved during the indoor or outdoor wall 
+mounted test and the location of the measuring 
+thermocouple; 
+o) The maximum incident heat flux on target wall 
+surfaces and target BESS units; 
+p) The maximum incident heat flux on target ceiling or 
+soffit surfaces achieved during the indoor or 
+outdoor wall mounted test; 
+q) Gas generation and composition data; 
+r) Peak smoke release rate and total smoke release 
+data; 
+at which activation occurred; 
+t) Observation of flying debris or explosive discharge 
+of gases; 
+u) Observation of re-ignition(s) from thermal runaway 
+events; 
+v) Observation(s) of sparks, electrical arcs, or other 
+electrical events; 
+w) Observations of the damage to: 
+     1) The initiating BESS unit; 
+     2) Target BESS units; 
+     3) Adjacent walls, ceilings, or soffits; and 
+x) Photos and video of the test. 
+Performance at unit level testing 
+
+9.8 
+
+R1109540.001 
+
+Page 12 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+ANSI/CAN/UL 9540A:2019 
+
+Clause  Requirement – Test  
+
+Result – Remark  
+
+Verdict 
+
+9.8.1 
+
+10 
+
+10.1 
+
+Installation level testing in Section 10 is not required if 
+the following performance conditions outlined in Table 
+9.1 are met during the unit level test. 
+Installation Level 
+
+General  
+
+10.2 
+
+10.1.2 
+
+10.1.1 
+
+10.2.1 
+
+The installation level test method assesses the 
+effectiveness of the fire and explosion mitigation 
+methods for the BESS in its intended installation 
+a) Test Method 1 – "Effectiveness of sprinklers" is 
+used 
+b) Test Method 2 – "Effectiveness of fire protection 
+plan" is used 
+Installation level testing is not appropriate for units 
+only intended for outdoor use or residential use. 
+Sample  
+The samples (initiating BESS and target BESS) and 
+their preparation for testing 
+A flame indicator consisting of a cable tray with fire 
+rated cables that complies with UL 1685 and 
+representative of the installation per the  anufacturer's 
+specifications 
+Test method 1 – Effectiveness of sprinklers 
+For BESS units with a height of 2.44 m (8 ft) or less, 
+the test shall be conducted in a 6.10 × 6.10 × 
+3.05-m (20 × 20 × 10-ft) high test room 
+The test room shall be fitted with four sprinklers at 
+3.05-m (10-ft) spacing in the center 
+10.3.3  Walls shall be constructed with 16-mm (5/8-in) 
+
+10.2.2 
+
+10.3.2 
+
+10.3.1 
+
+10.3 
+
+10.3.4 
+
+10.3.5 
+
+10.3.6 
+
+10.3.7 
+
+10.3.8 
+
+gypsum wall board 
+The initiating BESS unit shall be positioned at 
+manufacturer specified distances 
+Temperature measurements at the ceiling locations 
+directly above the initiating and target BESS unit shall 
+be collected by an array of thermocouples  
+Instrumented wall surface temperature measurements 
+shall be collected in a vertical array at 152-mm (6-in) 
+intervals 
+Thermocouples for wall surface temperature 
+measurements shall be secured to gypsum surfaces 
+by the use of staples 
+Heat flux shall be measured with the sensing element 
+of at least two water-cooled Schmidt-Boelter gauges 
+at the surface of each instrumented wall: 
+a) Both are collinear with the vertical thermocouple 
+array; 
+b) One is positioned at the elevation estimated to 
+receive the greatest heat flux due to the thermal 
+runaway of the initiating module; and 
+c) One is positioned at the elevation estimated to 
+receive the greatest heat flux during potential 
+propagation of thermal runaway within the initiating 
+BESS unit. 
+
+Conditions in table 9.1 met 
+
+P 
+
+Unit level testing only  
+
+Outdoor only 
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+P 
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+R1109540.001 
+
+Page 13 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+ANSI/CAN/UL 9540A:2019 
+
+Clause  Requirement – Test  
+
+Result – Remark  
+
+Verdict 
+
+10.3.9 
+
+Heat flux shall be measured with at least two sensing 
+water-cooled Schmidt-Boelter gauges at the surface 
+of each adjacent target BESS unit that faces the 
+initiating BESS unit: 
+a) One is positioned at the elevation estimated to 
+receive the greatest heat flux due to the thermal 
+runaway of the initiating module within the initiating 
+BESS; and 
+b) One is positioned at the elevation estimated to 
+receive the greatest surface heat flux due to the 
+thermal runaway of the initiating BESS. 
+10.3.10  The heat flux shall be measured with the sensing 
+
+element of at least one water-cooled Schmidt-Boelter 
+gauge 
+
+10.3.11  No. 24-gauge or smaller Type-K exposed junction 
+
+thermocouples shall be installed 
+
+10.3.12  An internal fire condition in accordance with the 
+
+module level test shall be created 
+a) The position of the module shall be selected to 
+present the greatest thermal exposure 
+b) The setup (i.e. type, quantity and positioning) of 
+equipment for initiating thermal runaway in the module 
+shall be the same 
+
+10.3.13  The composition of BESS unit vent gases shall be 
+
+measured 
+
+10.3.14  The test shall be terminated if: 
+
+a) Temperatures measured inside each module of the 
+initiating BESS return to below the cell vent 
+temperature; 
+b) The fire propagates to adjacent units or to adjacent 
+walls; or 
+c) A condition hazardous to test staff or the test facility 
+requires mitigation. 
+
+10.3.15  The initiating unit shall be under observation for 24 h 
+
+10.4 
+
+10.4.1 
+
+after conclusion of the installation test 
+Installation level test report – Test method 1 – 
+Effectiveness of sprinklers 
+The report on installation level testing shall include the 
+following: 
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+No sprinkler system 
+
+R1109540.001 
+
+Page 14 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+ANSI/CAN/UL 9540A:2019 
+
+Clause  Requirement – Test  
+
+Result – Remark  
+
+Verdict 
+
+a) Unit manufacturer name and model number (and 
+whether compliant with UL 9540); 
+b) Number of modules in the initiating BESS unit; 
+c) The construction of the initiating BESS unit per 5.3; 
+d) Module voltage(s) of initiating BESS corresponding 
+to the tested SOC; 
+e) The thermal runaway initiation method used; 
+f) Diagram and dimensions of the test setup including 
+location of the initiating and target BESS units, and 
+the locations of walls and ceilings; 
+g) Location of initiating module within the BESS unit; 
+h) Separation distances from the initiating BESS unit 
+to (e.g. distances A and C in Figure 10.1); 
+i) Separation distances from the initiating BESS unit to 
+target BESS units (e.g. distances D and E in Figure 
+10.1); 
+j) Distances of the flame indicator (if used) with 
+respect to the BESS (e. g. distances A and B in Figure 
+10.2); 
+k) Maximum temperature at the ceiling; 
+l) Distance of fire spread within the flame indicator; 
+m) The maximum wall surface and target BESS unit 
+temperatures achieved during the test and the 
+location of the measuring thermocouple; 
+n) The maximum incident heat flux on target wall 
+surfaces and target BESS units; 
+o) Voltages of initiating BESS; 
+p) Total number of sprinklers that operated and length 
+of time the sprinklers operated during the test; 
+q) Gas generation and composition data, if measured; 
+r) Observation of flaming outside of the test room 
+s) Observation of flying debris or explosive discharge 
+of gases; 
+t) Observation of re-ignition(s) from thermal runaway 
+events; 
+u) Observations of the damage to: 
+    1) The initiating BESS unit; 
+    2) Target BESS units; and 
+    3) Adjacent walls; 
+v) Photos and video of the test; 
+w) Fire protection features/detection/suppression 
+systems within unit; and 
+x) Sprinkler K-factor, RTI, manufacturer and model, 
+number of sprinklers and layout 
+Performance – Test method 1 – Effectiveness of 
+sprinklers 
+For BESS units intended for installation in locations 
+with combustible construction, surface temperature 
+measurements along instrumented wall surfaces shall 
+not exceed a temperature rise of 97°C 
+The surface temperature of modules within the BESS 
+units adjacent to the initiating BESS unit shall not 
+exceed the temperature at which thermally initiated 
+cell venting occurs 
+
+10.5 
+
+10.5.1 
+
+10.5.2 
+
+N/A 
+
+N/A  
+
+N/A  
+
+N/A  
+
+R1109540.001 
+
+Page 15 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+ANSI/CAN/UL 9540A:2019 
+
+Clause  Requirement – Test  
+
+Result – Remark  
+
+Verdict 
+
+10.5.3 
+
+10.5.4 
+
+10.5.5 
+
+10.5.6 
+
+10.5.7 
+
+10.5.8 
+
+10.6 
+
+10.6.1 
+
+10.7 
+
+10.7.1 
+
+10.8 
+
+10.8.1 
+
+ANNEX 
+A 
+
+A2.1 
+
+A2.2 
+
+A2.3 
+
+The fire spread on the cables in the flame indicator 
+shall not extend horizontally beyond the initiating 
+BESS enclosure dimensions 
+There shall be no flaming outside the test room. 
+
+There is no observation of detonation. 
+
+Heat flux in the center of the accessible means of 
+egress shall not exceed 1.3 kW/m2. 
+There shall be no observation of re-ignition within the 
+initiating unit after the installation test 
+An installation level test that does not meet the 
+applicable performance criteria noted above is 
+considered noncompliant and would need to be  
+revised and retested 
+Test method 2 – Effectiveness of fire protection 
+plan 
+The test method 2 test set-up and test procedures are 
+identical to that in 10.3, except instead of the sprinkler 
+system set up of 10.3.2, the room shall be fitted with 
+the specified fire protection 
+Installation level test report – Test method 2 – 
+Effectiveness of fire protection plan 
+The report on installation level testing shall include the 
+following: 
+a) The report information in 10.4.1 items (a) – (u), and 
+(v) if applicable; 
+b) Fire protection features/detection/suppression 
+systems within installation; and 
+c) Length of time of operation of the clean agent, or 
+other suppression system in addition to any sprinklers 
+used. 
+Performance – Test method 2 – Effectiveness of 
+fire protection plan 
+See 10.5 for performance criteria 
+
+Refer 10.3 
+
+Refer 10.4 
+
+Refer 10.5 
+
+Test Concepts And Application Of Test Results To 
+Installations 
+
+INFORMATIVE 
+
+General 
+
+Cell level testing 
+
+Module level testing 
+
+CATL UL9540a certified by UL 
+project no. 4789956341 
+
+CATL UL9540a certified by TUV 
+Sud project no. 
+64.290.21.30597.01 
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A  
+
+N/A 
+
+P 
+
+P 
+
+A2.4 
+
+Unit level testing 
+
+Refer Table 1 below for results 
+
+P 
+
+R1109540.001 
+
+Page 16 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+ANNEX 
+B 
+
+Safety Recommendations for Testing 
+
+INFORMATIVE 
+
+Fig 1. Site Layout 
+
+R1109540.001 
+
+Page 17 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Fig 2. Test area Layout 
+
+Fig 3. Initiator module location 
+
+R1109540.001 
+
+Page 18 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Fig 4. Initiator AC Battery module location 
+
+Fig 5. Heat Flux locations 
+
+R1109540.001 
+
+Page 19 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Fig 6. Camera Layout 
+
+Fig 7. Pre test photos 
+
+R1109540.001 
+
+Page 20 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Fig 8. Post-test photo of Initiator location 
+
+R1109540.001 
+
+Page 21 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Fig 9. Internal view, post test photo 
+
+Fig 10. Initiator Qbert module, Rear view – Post test 
+
+R1109540.001 
+
+Page 22 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Fig 11. Front view – Post test 
+
+R1109540.001 
+
+Page 23 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Fig 12. Side view 
+
+Fig 13.– Initiator Battery module – Post test  
+
+R1109540.001 
+
+Page 24 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Fig 14.- Heat Flux graph 
+
+Fig 15.- Temperature graph – Target BESS and Initiator BESS non-initiating AC Battery modules 
+
+R1109540.001 
+
+Page 25 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Fig 16.- Temperature graph – Initator module tray 
+
+R1109540.001 
+
+Page 26 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+Table 1. Test results per Clause 9.7 
+
+# 
+
+a) 
+
+Items  
+
+Unit manufacturer name and model number (and whether UL 
+9540 compliant); 
+
+b) 
+
+  Number of modules in the initiating BESS unit; 
+
+Description  
+Tesla, Megapack 2, 
+174884-XX-Y, UL9540 
+compliant 
+3 module forming AC 
+Battery and 19 AC 
+Batteries in Megapack 
+
+  The critical construction of the initiating BESS unit per 5.3; 
+
+UL 9540 compliant.  
+
+Fire protection features/detection/suppression systems within 
+unit; 
+
+Optional Detection 
+Signal 
+
+  Module voltage(s) corresponding to the tested SOC; 
+
+  The thermal runaway initiation method used; 
+
+  Location of the initiating module within the BESS unit; 
+
+Diagram and dimensions of the test setup including mounting 
+location of the initiating and 
+target BESS units, and the locations of walls, ceilings, and 
+soffits; 
+
+Observation of any flaming outside the initiating BESS 
+enclosure; 
+
+  Chemical and convective heat release rate versus time data; 
+
+Separation distances from the initiating BESS unit to target 
+walls (e.g. distances A and C in Figure 9.1); 
+Separation distances from the initiating BESS unit to target 
+BESS units (e.g. distances D and H in Figure 9.1); 
+
+m)   
+
+The maximum wall surface and target BESS temperatures 
+achieved during the test and the location of the measuring 
+thermocouple; 
+
+100%SOC measured. 
+373.5V Module voltage 
+4 film heaters heating 6 
+cells simultaneously 
+Initiator Megapack AC 
+Battery 7-3 
+6 inches from ISO 
+knuckle of Initiating unit 
+to side and back Target 
+unit. 8 ft from front 
+Target.; wall – 5 ft from 
+Initiator  
+
+No 
+
+N/A 
+
+5 ft 
+
+6 inches from ISO 
+knuckle 
+Wall – 30.75 deg C 
+Front Target surface-
+16.8C 
+
+The maximum ceiling or soffit surface temperatures achieved 
+during the indoor or outdoor wall mounted test and the 
+location of the measuring thermocouple; 
+
+N/A 
+
+The maximum incident heat flux on target wall surfaces and 
+target BESS units; 
+
+The maximum incident heat flux on target ceiling or soffit 
+surfaces achieved during the indoor or outdoor wall mounted 
+test; 
+
+  Gas generation and composition data; 
+
+  Peak smoke release rate and total smoke release data; 
+
+Indication of the activation of integral fire protection systems 
+and if activated the time into the test at which activation 
+occurred; 
+
+Wall-2.71 X 10^-6 W/m2 
+Front Target – 1.54 X 
+10^-6 W/m2 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+  Observation of flying debris or explosive discharge of gases; 
+
+None observed 
+
+  Observation of re-ignition(s) from thermal runaway events; 
+
+None observed 
+
+Observation(s) of sparks, electrical arcs, or other electrical 
+events; 
+Observations of the damage to: 
+1) The initiating BESS unit; 
+
+None observed 
+
+1. No external damage. 
+Initiating AC battery 
+
+w)   
+
+c) 
+
+d) 
+
+e) 
+
+f) 
+
+g) 
+
+h) 
+
+i) 
+
+j) 
+
+k) 
+
+l) 
+
+n) 
+
+o) 
+
+p) 
+
+q) 
+
+r) 
+
+s) 
+
+t) 
+
+u) 
+
+v) 
+
+Comment 
+
+Pass 
+
+Pass 
+
+Pass 
+
+Pass 
+
+Pass 
+
+Pass 
+
+Pass 
+
+Pass 
+
+Pass 
+
+N/A 
+
+Pass 
+
+Pass 
+
+Pass 
+
+N/A 
+
+Pass 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+Pass 
+
+Pass 
+
+Pass 
+
+Pass 
+
+R1109540.001 
+
+Page 27 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report No. NN22GLCI.001 
+
+2) Target BESS units; and 
+3) Adjacent walls 
+
+module had burn marks. 
+Other 2 modules of AC 
+Battery intact. Balance 
+18 AC AC Battery intact. 
+2. None observed 
+3. None observed 
+
+x) 
+
+  Photos and video of the test 
+
+Attached 
+
+Pass 
+
+Note:  
+
+- End of Report - 
+
+R1109540.001 
+
+Page 28 of 28 
+
+  Revision 0.1 
+
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

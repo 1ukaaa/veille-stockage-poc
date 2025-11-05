@@ -1,0 +1,140 @@
+1.  Le stockage d’énergie
+
+Sans  nouvelles  capacités  nucléaires  avant  2035,  et  avec  l’électriﬁcation  des  usages  ainsi  que  le 
+déploiement massif de centrales solaires et éoliennes, les besoins en stockage d’énergie par batteries vont 
+s’intensiﬁer pour répondre aux trois enjeux du système électrique :
+
+▪  Assurer la sécurité d’approvisionnement : La hausse annoncée de la consommation électrique 
+
+couplée  à  une baisse de la disponibilité des centrales nucléaires a conduit RTE, dans son bilan 
+prévisionnel 2035 publié en septembre 2023, à déﬁnir le stockage par batteries comme un « axe 
+prioritaire » pour permettre à la France de répondre à tout instant à la demande en électricité.
+
+▪  Décarboner notre électricité : Le remplacement de centrales pilotables carbonées par énergies 
+
+renouvelables  variables  va  nécessiter  des  capacités  de  stockage  pour décaler la production et 
+éviter des épisodes de surproduction conduisant à l’écrêtage des fermes solaires et éoliennes. Le 
+stockage par batteries permettra également une meilleure intégration des centrales renouvelables 
+sur  le  réseau,  en  optimisant  les  puissances  de  raccordement  pour  limiter  les  investissements 
+dans les infrastructures électriques.
+
+▪  Fournir  une  électricité  à  un  coût  compétitif :  La  crise  énergétique  observée en France et en 
+
+Europe  au  cours  des  années  2021  et  2023  a  permis  de  mettre  en  lumière  l’importance  d’une 
+souveraineté  énergétique et de disposer d’alternatives aux centrales fossiles (notamment gaz et 
+ﬁoul) pour limiter la volatilité des prix, en particulier lors des pics de consommation du midi ou du 
+soir.  Lors  d’épisodes  de  fortes  tensions  sur  le marché de l’électricité, le stockage par batteries 
+permet en eﬀet de lisser la courbe de charge journalière et ainsi de réduire drastiquement les prix 
+à la pointe.
+
+Cette  nécessité  du stockage par batteries en France est conﬁrmée par divers textes de loi et publications 
+dont notamment :
+
+●  La  loi  n°2023-175  du  10  mars  2023,  relative  à  l'accélération  de  la  production  d'énergies 
+renouvelables,  qui  inclut  le  stockage  d’énergie  dans  les  projets  présentant  une  raison impérative 
+d’intérêt public majeur.
+
+●  Le  document  cadre  présentant  la  stratégie  nationale  énergie-climat,  dans  lequel  le  ministère  de 
+l’énergie  reconnaît  le  besoin  de  développer  les  ﬂexibilités  et  envisage  de  ﬁxer  dans  la  PPE3  un 
+objectif de 25 GW en 2030, et 35 GW en 2035, conﬁrmant l’importance du rôle que le stockage a à 
+jouer.
+
+●  Le  rapport  «  Futurs  énergétiques  2050  »  du  gestionnaire  de  réseau  RTE souligne la nécessité de 
+déployer  des  capacités  importantes  de  batteries  (de  5  GW  à  30  GW  à  horizon  2050,  contre 
+seulement 0,7 GW installés en France au 1er février 2024).
+
+Les  diﬀérents  services  oﬀerts  par  les  systèmes  de  stockage  par  batteries  bénéﬁcient  à  l’ensemble de la 
+population française puisque chaque individu a un intérêt à avoir accès à une électricité décarbonée, ﬁable 
+et compétitive. Indépendamment des textes de lois en vigueur, il semble ainsi évident que cette technologie 
+remplit une fonction d’intérêt général pour la société. 
+
+SAS CORSICA SOLE, RCS Bastia 509 986 030, 20251 PANCHERACCIA, FRANCE
+www.corsicasole.com
+info@corsicasole.com
+
+Notre société, Corsica Sole, créée en 2009, est spécialisée dans la production d'électricité à partir d’énergie 
+solaire et le stockage d’énergie. Exploitant de centrales de stockage depuis 10 ans à l’échelle industrielle, la 
+société  a  été  pionnière  en  développant  dès  2012  des  premières  centrales  de  stockage  raccordées  aux 
+réseaux  électriques  insulaires  pour  répondre  aux  enjeux  de  croissance  de  la  production  d’énergie 
+renouvelable. Depuis 2021, nous exploitons de grandes centrales de stockage d’électricité en Europe, avec 
+une  des  premières  installations  de  cette  ampleur  située  en  Belgique,  d’autres  sont  actuellement  en 
+construction en Estonie. Nous accompagnons également la trajectoire de déploiement prévue par RTE pour 
+la France avec des premiers projets en cours de développement.
+
+2.  Justiﬁcation du choix du site
+
+Notre démarche consiste à privilégier en priorité des sites d’implantation sur des terrains industriels et déjà 
+artiﬁcialisés.  Néanmoins,  pour  permettre  d’envisager  l’installation  d’un  projet  de  stockage  par  batteries 
+multi-MW, un terrain doit satisfaire deux critères essentiels:
+
+●  Un  éloignement  minimal  des  zones  à  émergence  réglementée  (ZER)  :  En  eﬀet,  le  système  de 
+ventilation  des  enceintes  de  batteries  émet  un  bruit  qui  peut  être  source  de  nuisance  pour  les 
+riverains. La mitigation du risque de nuisance sonore est réglementée par l’arrêté ICPE propre aux 
+installations  de  stockage,  et  actuellement  pour  des projets multi-MW, il est communément admis 
+que les projets doivent être éloignés à minima de 100m de la ZER la plus proche.
+
+●  Une  proximité  immédiate  avec  une  capacité  de  raccordement  importante  :  Les  installations  de 
+stockage  doivent  pouvoir  à  tout  moment  soutirer  et  injecter  des  puissances  importantes  pour 
+contribuer  signiﬁcativement  à  la  stabilisation  du  réseau  électrique.  Il  est  dès  lors  nécessaire  de 
+s’implanter  à  proximité  des  grandes  artères  du  réseau  électrique.  Dans  la  plupart  des  cas,  les 
+projets  se  développent  ainsi  à  côté  des  principales  sous-stations  opérées  par  RTE  et  Enedis, et 
+dans une moindre mesure à proximité de lignes électriques.
+
+Il convient également de noter que contrairement aux projets solaires ou éoliens, il n’est pas envisageable 
+de  considérer de raccorder les projets à une distance importante du réseau électrique (supérieure à 1km). 
+En  eﬀet,  pour  des 
+(pertes  d’énergie)  et 
+environnementale (impact de l’installation du câble), il est nécessaire de s’implanter à proximité immédiate 
+du  point  de raccordement, dans des zones où le paysage est généralement déjà impacté par la présence 
+d’un poste électrique et/ou de lignes électriques aériennes.
+
+(coût  du  câblage),  techniques 
+
+raisons  économiques 
+
+Le  site  de  Longueville-sur-Aube  a  été  sélectionné  pour  le  développement  de  ce  projet  de  stockage 
+d’énergie  après  des  études  approfondies,  qui  ont  également  pris  en  compte  d’autres  sites  potentiels  à 
+travers la France. Corsica Sole a mené des recherches sur plusieurs sites dans tout le pays avant de réaliser 
+une  analyse  détaillée  au  niveau  régional  et  départemental  pour  identiﬁer  les  lieux  les  plus  adaptés  à 
+l’implantation d’un projet de stockage d’énergie par batteries.
+
+La méthodologie de sélection des sites repose sur les critères suivants :
+
+●  Le  terrain  doit  disposer  d’une  superﬁcie  d’au moins un hectare, être relativement plane et situé à 
+
+proximité du poste électrique.
+
+●  Le  poste  électrique doit oﬀrir une capacité suﬃsante pour permettre la charge et la décharge des 
+
+batteries.
+
+SAS CORSICA SOLE, RCS Bastia 509 986 030, 20251 PANCHERACCIA, FRANCE
+www.corsicasole.com
+info@corsicasole.com
+
+●  Le  site  doit  être  exempt  de  zones  à  forts  enjeux  environnementaux, comme les zones protégées 
+
+(N2000, parcs nationaux, …) ou présentant d'autres contraintes (risques d’inondations).
+
+●  Le site doit être compatible avec les servitudes existantes, le cas échéant.
+●  Le  site  doit  se  situer  à  plus  de  100  mètres  des  habitations  les  plus  proches,  aﬁn  de  minimiser 
+l'impact  visuel  et  sonore,  bien  que  la  réglementation  ICPE  impose  des distances minimums bien 
+inférieures.
+
+Les  études  réalisées  par  RTE  sur  le  poste  de  MERY-SUR-SEINE  ont  conﬁrmé  que  le  poste  de 
+transformation  et  le  réseau  avoisinant  sont  en  capacité  d’accueillir  des  projets  de  stockage  d’électricité. 
+Ces installations répondant aux exigences des services de régulation du réseau électrique sont nécessaires 
+pour  garantir  le  bon  fonctionnement  du réseau. Ces services historiquement assurés par des installations 
+de production fonctionnant avec des énergies fossiles, sont progressivement remplacés par des moyens de 
+régulation décarbonés (STEP, Batteries stationnaires, Hydrogène,...).
+
+Nous  avons  ainsi  pu  étudier  la  faisabilité  du  déploiement  d’un  projet  situé  sur  la  commune  de 
+Longueville-sur-Aube.  Les  résultats  de  cette  étude  ont  conﬁrmé  la  capacité  d’accueil  du  poste  de 
+transformation et la compatibilité des terrains voisins du poste avec l’implantation du projet au regard des 
+enjeux environnementaux et de la réglementation. 
+
+SAS CORSICA SOLE, RCS Bastia 509 986 030, 20251 PANCHERACCIA, FRANCE
+www.corsicasole.com
+info@corsicasole.com
+
+

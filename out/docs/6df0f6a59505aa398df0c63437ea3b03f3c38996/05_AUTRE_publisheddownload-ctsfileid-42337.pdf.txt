@@ -1,0 +1,6111 @@
+NOTE D’ANALYSE DE RISQUES 
+
+Projet de stockage d’électricité par batteries 
+
+Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+AFR 58 
+Château de Touny Les Roses, 
+Chemin de Touny, 
+81150 Lagrave 
+
+Décembre 2024 
+
+MAITRE D’OUVRAGE 
+
+RÉALISATION DE L’ÉTUDE 
+
+AFR 58 
+Château de Touny Les Roses, 
+Chemin de Touny, 
+81150 Lagrave  
+Tél. : 05 63 34 20 42 
+benjamin.foulard@amarencogroup.com 
+RCS 537 509 333 
+
+https://amarencogroup.com/ 
+
+SAS CLIMAX INGENIERIE 
+4 rue Jean le Rond d'Alembert 
+81000 Albi 
+
+Tél. : 05 63 48 10 33 
+contact@artifex-conseil.fr 
+RCS 502 363 948 
+
+www.artifex-conseil.fr 
+
+AUTEURS DU DOCUMENT 
+
+Personne 
+Yoann MORIN 
+
+Fonction 
+Chef de projet 
+
+Léa WARGNY 
+
+Cheffe de projet 
+
+Contribution 
+
+Organisme 
+
+Rédaction 
+
+ARTIFEX 
+
+HISTORIQUE DE PUBLICATION 
+
+Version 
+
+Date 
+
+Commentaire 
+
+Relecteur 
+
+Validateur 
+
+V0 
+
+V1 
+
+Mai 2024 
+
+/ 
+
+Yoann MORIN 
+
+Isabelle GROS 
+
+Novembre 2024 
+
+Mise à jour plan 
+
+/ 
+
+/ 
+
+P.2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 1 PREAMBULE ................................................................................................ 5 
+CONTEXTE DU PROJET ......................................................................................... 5 
+I. 
+II.  CADRE REGLEMENTAIRE ...................................................................................... 6 
+1.  Cadre réglementaire du projet ............................................................................. 6 
+2.  Cadre réglementaire de l’étude de dangers ......................................................... 6 
+III.  PRINCIPE GENERAL D’UNE ETUDE DE DANGERS ................................................... 7 
+IV.  GLOSSAIRE .......................................................................................................... 9 
+
+PARTIE 2 CARACTERISATION DES DANGERS ET DES ENJEUX ...................................... 13 
+LOCALISATION DU SITE ...................................................................................... 13 
+I. 
+II.  DESCRIPTION DE L’ACTIVITE ............................................................................... 15 
+1.  Les projets de stockage électrique ...................................................................... 15 
+2.  Les composants du site ....................................................................................... 16 
+2.1.  Les conteneurs batteries ......................................................................................... 17 
+2.2.  Groupe de conversion et d’élévation de tension ..................................................... 18 
+2.3.  Les postes électriques secondaires et de raccordement ......................................... 19 
+2.4.  Le poste électrique de transformation et raccordement ........................................ 19 
+2.5.  Voies de circulation et aménagements connexes ................................................... 19 
+III.  DESCRIPTION DES ACTIVITES ET DES DANGERS .................................................. 21 
+1.  Potentiel de dangers liés aux équipements et aux opérations ........................... 21 
+2.  Potentiel de dangers et caractéristiques des produits ....................................... 21 
+
+IV.  DETERMINATION DES ELEMENTS VULNERABLES DU SITE ET DE SON 
+
+ENVIRONNEMENT ............................................................................................. 22 
+1.  Environnement naturel ....................................................................................... 22 
+1.1.  Sol ............................................................................................................................ 22 
+1.2.  Eau ........................................................................................................................... 22 
+1.3.  Climat....................................................................................................................... 23 
+1.4.  Risques naturels....................................................................................................... 23 
+2.  Environnement humain ...................................................................................... 24 
+2.1.  Habitat ..................................................................................................................... 24 
+2.2.  Contexte économique ............................................................................................. 25 
+2.3.  Biens matériels ........................................................................................................ 25 
+2.4.  Occupation des sols ................................................................................................. 26 
+2.5.  Risques technologiques ........................................................................................... 26 
+INVENTAIRE DES CAUSES D’EXPOSITION AU DANGER ........................................ 27 
+1.  Causes internes ................................................................................................... 27 
+2.  Potentiels de dangers liés à l’environnement externe ....................................... 27 
+2.1.  Les risques technologiques ...................................................................................... 27 
+2.2.  Malveillance ............................................................................................................. 28 
+2.3.  Risques naturels....................................................................................................... 28 
+VI.  ACCIDENTOLOGIE ET RETOUR D’EXPERIENCES ................................................... 29 
+1.  Inventaire des accidents de la base de données ARIA ........................................ 29 
+stationnaire  de l'énergie 
+
+1.1.  Rapport  « Stockage 
+
+risques  et 
+
+solutions 
+
+V. 
+
+: 
+
+envisageables » - 2022 ............................................................................................. 29 
+1.2.  Analyse retour d’expérience depuis 2020 ............................................................... 30 
+1.3.  Rapport sur « L’implication des batteries Lithium-ion dans l’accidentologie hors 
+
+secteur d’activité des déchets » - 2022 ................................................................... 31 
+2.  Conclusions ......................................................................................................... 32 
+VII.  REDUCTION DES POTENTIELS DE DANGERS A LA SOURCE ................................... 34 
+1.  Choix de la technologie ....................................................................................... 34 
+2.  Choix des équipements et de conception ........................................................... 35 
+
+I. 
+
+PARTIE 3 ANALYSE PRELIMINAIRE DES RISQUES ....................................................... 38 
+ANALYSE PRELIMINAIRE DES RISQUE DE L’ACTIVITE PROJETEE ........................... 38 
+1.  Risque incendie ................................................................................................... 38 
+1.1.  Principe d’un incendie ............................................................................................. 38 
+1.2.  Risque en lien avec les batteries .............................................................................. 39 
+1.3.  Autres éléments déclencheurs ................................................................................ 39 
+2.  Risque explosion ................................................................................................. 40 
+3.  Risque toxique .................................................................................................... 40 
+3.1.  Emissions atmosphériques ...................................................................................... 40 
+
+P.3 
+
+ 
+ 
+ 
+3.2.  Emissions sols et eaux ............................................................................................. 41 
+4.  Risque d’éléctrocution ........................................................................................ 42 
+SYNTHESE DES SCENARIOS D’ACCIDENT ............................................................. 42 
+
+II. 
+
+I. 
+
+PARTIE 4 MAITRISE DES RISQUES .............................................................................. 45 
+CONDITIONS D’AMENAGEMENT ET D’EXPLOITATION DU SITE ............................ 45 
+1.  Choix de conception............................................................................................ 45 
+2.  Prévention contre la malveillance ...................................................................... 45 
+3.  Gestion du site .................................................................................................... 45 
+3.1.  Gestion et surveillance ............................................................................................ 45 
+3.2.  Entretien et maintenance préventive ...................................................................... 45 
+4.  système de détection et signalisation ................................................................. 46 
+5.  Mesures d’intervention ...................................................................................... 46 
+5.1.  Accès et informations secours ................................................................................. 46 
+5.2.  Moyen d’extinction .................................................................................................. 46 
+SYNTHESE DE LA SURETE DES INSTALLATIONS .................................................... 48 
+
+II. 
+
+PARTIE 5 SYNTHESE ET CONCLUSION DE L’ANALYSE DE RISQUE ................................ 50 
+
+PARTIE 6 ANNEXES – ACCIDENTOLOGIE .................................................................... 51 
+
+PARTIE 7 BIBLIOGRAPHIE ......................................................................................... 64 
+
+INDEX DES ILLUSTRATIONS 
+
+Illustration 1 : Principe de fonctionnement d’une installation de stockage d’électricité par 
+batteries / Battery Energy Storage Systems BESS) ............................................................................ 5 
+
+Illustration 2 : Logigramme du processus suivi pour réaliser l’étude de dangers ............................. 8 
+
+Illustration 3 : Localisation géographique du site d’étude à l’échelle du territoire ........................ 13 
+
+Illustration 4 : Etat actuel au droit et aux abords du site d’étude .................................................. 14 
+
+Illustration 5 : Schéma de principe -composants du site de stockage d’électricité par batteries ... 16 
+
+Illustration 6 : Composants d’une batteries Lithium-ions ............................................................... 17 
+
+Illustration 7 : Composants et fonctionnement d’un batterie lithium-Ion ..................................... 18 
+
+Illustration 8 : Plan de masse projeté .............................................................................................. 20 
+
+Illustration 9 : Contexte hydrologique aux abords du site d’étude ................................................. 22 
+
+Illustration 10 : Rose des vents sur le secteur de Marlenheim ....................................................... 23 
+
+Illustration 11 : Organisation de l’habitat aux abords du projet ..................................................... 24 
+
+Illustration 12 : Infrastructures de transport et réseaux aux abords du site .................................. 26 
+
+Illustration 13 : Accidentologie 1999 – 2020 ................................................................................... 29 
+
+Illustration 14 : Accidentologie par origine (cas étudiés issus du BARPI) ....................................... 30 
+
+Illustration 15 : Répartition par code d’activité de l’accidentologie impliquant des batteries Li-
+ion) .................................................................................................................................................. 31 
+
+Illustration 16 : Répartition des événements par phénomène ....................................................... 32 
+
+Illustration 17 : Nombre d’événements par perturbations avérées ou supposées ........................ 32 
+
+Illustration 18 : Comparaison des différentes technologies de batteries Li-ion ............................. 34 
+
+Illustration 19 : Etapes de la défaillance et mesures de maitrises .................................................. 35 
+
+Illustration 20 : Emballement thermique d’une batterie ................................................................ 39 
+
+Illustration 21 : Plan de masse projeté ............................................................................................ 47 
+
+P.4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 1  PREAMBULE  
+
+PARTIE 1   PREAMBULE 
+
+I.  CONTEXTE DU PROJET 
+
+Dans un contexte de développement des énergies renouvelables et de leur intégration dans le réseau électrique français, la société 
+AFR 58, filiale d’AMARENCO France, porte des projets de stockage d’énergie électrique par batterie lithium-ion sur le territoire 
+français.  
+
+Actuellement, la société est en phase d’élaboration d’un projet sur la commune de  Marlenheim, dans le département du Bas-
+Rhin (67). Ce dernier aura les caractéristiques suivantes : une puissance d’injection de 110 MW avec une capacité de stockage de 
+220 MWh, soit 2 heures d’injection à pleine puissance. L’installation de ce site de stockage d’énergie électrique ne peut se faire 
+qu’à proximité d’un poste électrique appartenant au réseau électrique RTE ayant une tension supérieure ou égale à 225 kV. Dans 
+ce  cadre,  il  a  été  retenu  d’installer  l’unité  de  stockage  à  proximité  immédiate  du  poste  électrique  de  Marlenheim,  à  l’Est  du 
+territoire communal. 
+
+Ce projet répond au motif d’intérêt général de sécurisation de l’approvisionnement du réseau électrique Français et aux services 
+associés (mécanisme de capacité, maintien fréquence, tension, flexibilité…) lors de pics de consommation d’électricité qui vont 
+devenir de plus en plus fréquents avec l’augmentation de la part des énergies renouvelables (énergies intermittentes) dans le mix 
+énergétique français, et l’augmentation des besoins en électricité avec notamment le développement de la mobilité électrique. 
+Cette capacité de stockage sera également utilisée afin de permettre une meilleure intégration des énergies renouvelables sur le 
+réseau en stockant l’énergie en période de forte production et en la restituant en période de forte consommation.  
+
+Le schéma ci-après, présente de manière simplifiée l’objectif du projet. 
+
+Illustration 1 : Principe de fonctionnement d’une installation de stockage d’électricité par batteries / Battery Energy Storage Systems BESS) 
+Source : ARTIFEX 
+
+Le terrain retenu pour étudier l’implantation du projet présente une surface d’environ 4,2 ha. L’implantation des équipements sur 
+ce site se fera sur une surface d’environ 1,66 ha (entourée d’une haie paysagère).  
+
+La présente note analyse les potentiels risques inféodés à ce type d’activité et permet de valider les mesures à mettre en place, 
+dès la phase de conception, afin d‘en maitriser les effets. La présente note suit une méthodologie d’Etude de Dangers.  
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.5 
+P.5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 1  PREAMBULE  
+
+II. CADRE REGLEMENTAIRE  
+
+Ce projet fait et fera l’objet de plusieurs démarches réglementaires : 
+
+○  Demande  d’examen  au  cas  par  cas  projet  qui  permet  de  présenter  aux  services  de  l’état  le  projet  et  ses  incidences 
+
+potentielles afin de déterminer s’il est nécessaire de réaliser ou pas une Evaluation Environnementale ; 
+
+○  Permis de construire ; 
+
+○  Déclaration au titre des Installations Classées pour le Protection de l’Environnement ; 
+
+○  Déclaration au titre de la Loi sur l’Eau (potentiellement). 
+
+1.  CADRE REGLEMENTAIRE DU PROJET 
+
+Le  stockage  d’électricité  par  batteries  est  soumis  à  la  réglementation  des  Installations  Classées  pour  la  Protection  de 
+l’Environnement (ICPE) pour la rubrique suivante : 
+
+Rubrique 
+
+2925-2 
+
+Désignation de l’activité 
+
+Ateliers de charge d'accumulateurs électriques. 
+Lorsque la charge ne produit pas d'hydrogène, la puissance maximale de courant utilisable pour cette 
+opération. 
+
+Il existe actuellement deux arrêtés-types qui concernent la rubrique 2925 : l’arrêté du 29 mai 2000 (rubrique 2925-1) et l’arrêté 
+du 3 août 2018 (rubrique 2925-2). La charge des batteries ne produisant pas d’hydrogène, le projet est classé dans la rubrique 
+2925-2, encadrée par l’arrêté du 3 août 2018.  
+
+Cet arrêté concerne plus précisément les ateliers de charge contenant au moins 10 véhicules de transport en commun de catégorie 
+M2 ou M3 fonctionnant grâce à l’énergie électrique et soumis à déclaration sous la rubrique n° 2925. En effet, d’après l’article 1 
+de cet arrêté : « Les installations de charge d'au moins 10 véhicules de transport en commun de catégorie M2 ou M3, tels que 
+définis à l'article R. 311-1 du code de la route, fonctionnant grâce à l'énergie électrique et soumises à déclaration sous la rubrique 
+n° 2925 sont soumises aux dispositions du présent arrêté. » 
+
+Ainsi, l’arrêté du 03/08/2018 n’est pas adapté aux installations de stockage de batterie, les caractéristiques d’un projet de stockage 
+d’électricité par batteries étant très différentes des installations de charge pour les véhicules.  
+
+Depuis  2/3  ans,  une  réflexion  a  lieu  sur  l’adaptation  de  l’Arrêté  Ministériel  de  Prescriptions  Générales  pour  les  stockages 
+stationnaires ICPE soumis à la rubrique 2925-2 par le Ministère de la Transition Ecologique, la Direction Générale de la Prévention 
+des Risques et le Bureau des Risques de l’Industrie de l’Energie et de la Chimie. A ce jour, aucun élément n’a été acté mais une 
+nouvelle réglementation devrait voir le jour sur le premier trimestre 2025.  
+
+A noter que ce type d’activité n’est pas une ICPE soumise à autorisation environnementale et n’est donc pas concernée par la 
+réalisation d’une étude de dangers.  
+
+2.  CADRE REGLEMENTAIRE DE L’ETUDE DE DANGERS 
+
+En  application  de  l’arrêté  du  29  septembre  2005,  les  règles  minimales  relatives  à  l’évaluation  et  à  la  prise  en  compte  de  la 
+probabilité d’occurrence,  de la cinétique, de  l’intensité des effets des phénomènes dangereux  et de  la gravité potentielle  des 
+accidents  susceptibles  de  découler  de  leur  exploitation  et  d’affecter  les  intérêts  visés  par  l’article  L.  511-1  du  code  de 
+l’environnement, doivent être présentées dans le cadre d’une étude de dangers.  
+
+Ce  type  d’étude  doit  toutefois  respecter  le  principe  de  proportionnalité  en  fonction  des  caractéristiques  de  l’installation 
+concernée. Dans le cas présent, la note d’analyse de risque visera une étude globale des risques sans pousser l’analyse au niveau 
+d‘une étude de danger. Cette note est donc adaptée au contexte de l’ouvrage étudié. 
+
+La présente note analyse les potentiels risques inféodés à ce type d’activité et permet de valider les mesures à mettre en place, 
+dès la phase de conception, afin d‘en maitriser les effets. La présente note suit une méthodologie d’Etude de Dangers.  
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 1  PREAMBULE  
+
+III. PRINCIPE GENERAL D’UNE ETUDE DE DANGERS 
+
+L’objectif d’une étude de dangers est de démontrer la bonne maîtrise des risques à la source par l’exploitant. Ainsi, elle a pour 
+objet de rendre compte de l’examen effectué par l’exploitant pour caractériser, analyser, évaluer, prévenir et réduire les risques 
+d’une installation ou d’un groupe d’installations, autant que technologiquement réalisable et économiquement acceptable, que 
+leurs causes soient intrinsèques aux substances ou matières utilisées, liées aux procédés mis en œuvre ou dues à la proximité 
+d’autres risques d’origine interne ou externe à l’installation. 
+
+L’étude de dangers est fondée sur les principes de gestion des risques. Elle suit un processus itératif dont le cœur est l’analyse des 
+risques. Il s’agit de réduire les risques à un niveau jugé acceptable (niveau ALARP : As Low As Reasonably Praticable), le risque est 
+alors dit maîtrisé.  
+
+La présente étude de dangers a suivi la démarche présentée dans le logigramme en page suivante dont les principales étapes sont 
+détaillées ci-dessous. 
+
+•  ETAPE 1 : Caractérisation des dangers et des enjeux  
+
+La première étape consiste à décrire l’installation (les activités concernées, les procédés et les substances présentes) ainsi que son 
+environnement (humain, industriel, naturel), afin de mettre en évidence les situations potentiellement dangereuses. L’analyse du 
+retour d’expérience et des accidents et incidents répertoriés complète utilement ce travail en mettant en lumière les accidents 
+survenus de façon récurrente ou en apportant parfois des données pertinentes sur la défaillance ou le bon fonctionnement sur 
+sollicitation des barrières de sécurité. 
+
+•  ETAPE 2 : L’analyse des risques 
+
+Au centre de l’étude de dangers, l’analyse des risques se décompose en deux grandes étapes : l’analyse préliminaire des risques 
+et l’étude détaillée des risques.  
+
+L’analyse préliminaire des risques permet d’identifier des phénomènes dangereux susceptibles de se produire suite à l’occurrence 
+d’événements non désirés, eux-mêmes résultant de la combinaison de dysfonctionnements, dérives ou agressions extérieures sur 
+le système. Issus de ces phénomènes dangereux, des scénarios d’accidents sont définis.  
+
+A partir des scénarii d’accidents majeurs, une démarche itérative de réduction des risques sera menée. Cette démarche vise à 
+supprimer les causes des évènements redoutés ou en réduire la probabilité d’occurrence ou en réduire les conséquences par le 
+choix de moyens prenant en considération les pratiques et techniques disponibles.  
+
+• 
+
+ETAPE 3 : Maîtrise des risques  
+
+L’ensemble des mesures de prévention, protection et les moyens de secours et d’intervention existants sont détaillés. Si besoin, 
+les nouvelles mesures prescrites qui seront mises en place sont également détaillées. Ces barrières de sécurité sont ensuite prises 
+en compte à travers la révision de la cotation en probabilité et gravité des scénarios d’accidents. Le niveau de maîtrise des risques 
+est alors apprécié. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 1  PREAMBULE  
+
+Illustration 2 : Logigramme du processus suivi pour réaliser l’étude de dangers 
+Source : ARTIFEX 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 1  PREAMBULE  
+
+IV. GLOSSAIRE 
+
+La  circulaire  du  10/05/10,  récapitulant  les  règles  méthodologiques  applicables  aux  études  de  dangers,  à  l'appréciation  de  la 
+démarche de réduction du risque à la source et aux plans de prévention des risques technologiques (PPRT) dans les installations 
+classées en application de la loi du 30 juillet 2003, donne dans sa partie 3 un glossaire des risques technologiques d’où est tirée une 
+partie des définitions ci-dessous. 
+
+Aléa 
+
+Accident 
+
+Barrière de sécurité/ 
+mesure de sécurité / 
+mesure de maîtrise des 
+risques 
+
+Cinétique 
+
+Danger 
+
+C’est la probabilité qu’un phénomène accidentel produise en un point donné des effets d’une gravité 
+potentielle donnée, au cours d’une période déterminée. L’aléa est donc l’expression, pour un type 
+d’accident donné, du couple probabilité d’occurrence/gravité potentielle des effets. L’exposition au 
+risque d’une zone donnée résulte de la combinaison de l’aléa dans cette zone avec la vulnérabilité de 
+la zone. 
+
+Evénement  non  désiré,  tel  qu'une  émission  de  substance  toxique,  un  incendie  ou  une  explosion 
+résultant de développements incontrôlés survenus au cours de l'exploitation d'un établissement qui 
+entraîne des conséquences/dommages vis à vis des personnes, des biens ou de l'environnement et 
+de l’entreprise en général. C’est la réalisation d’un phénomène dangereux, combinée à la présence 
+d’enjeux vulnérables exposés aux effets de ce phénomène. 
+
+Il s’agit de l’ensemble des éléments techniques et/ou organisationnels nécessaires et suffisants pour 
+assurer une fonction de sécurité. 
+
+Vitesse  d’enchaînement  des  événements  constituant  une  séquence  accidentelle,  de  l’événement 
+initiateur aux conséquences sur les éléments vulnérables (Cf. art. 5 à 8 de l’arrêté du 29 septembre 
+2005). Dans le tableau APR proposé, la cinétique peut être lente ou rapide. Dans le cas d’une cinétique 
+lente, les enjeux ont le temps d’être mis à l’abri. La cinétique est rapide dans le cas contraire. 
+
+Cette  notion  définit  une  propriété  intrinsèque  à  une  substance  (butane,  chlore...),  à  un  système 
+technique  (mise  sous  pression  d’un  gaz...),  à  une  disposition  (élévation  d’une  charge...),  à  un 
+organisme (microbes), etc., de nature à entraîner un dommage sur un « élément vulnérable » (sont 
+ainsi rattachées à la notion de « danger » les notions d’inflammabilité ou d’explosivité, de toxicité, de 
+caractère  infectieux…  inhérentes  à  un  produit  et  celle  d’énergie  disponible  [pneumatique  ou 
+potentielle] qui caractérisent le danger). 
+
+Effets dominos 
+
+Action d'un phénomène dangereux affectant une ou plusieurs installations d'un établissement qui 
+pourrait déclencher un autre phénomène sur une installation ou un établissement voisin, conduisant 
+à une aggravation générale des effets du premier phénomène. 
+
+Efficacité (pour une 
+mesure de maîtrise des 
+risques) ou capacité de 
+réalisation 
+
+Capacité à remplir la mission/fonction de sécurité qui lui est confiée pendant une durée donnée et 
+dans  son  contexte  d’utilisation.  En  général,  cette  efficacité  s'exprime  en  pourcentage 
+d'accomplissement  de  la  fonction  définie.  Ce  pourcentage  peut  varier  pendant  la  durée  de 
+sollicitation  de  la  mesure  de  maîtrise  des  risques.  Cette  efficacité  est  évaluée  par  rapport  aux 
+principes de dimensionnement adapté et de résistance aux contraintes spécifiques. 
+
+Evènement initiateur 
+
+Événement,  courant  ou  anormal,  interne  ou  externe  au  système,  situé  en  amont  de  l’événement 
+redouté central dans l’enchaînement causal et qui constitue une cause directe dans les cas simples 
+ou une combinaison d’événements à l’origine de cette cause directe. 
+
+Fonction de sécurité 
+
+Fonction ayant pour but la réduction de la probabilité d’occurrence et/ou des effets et conséquences 
+d’un événement non souhaité dans un système. Les principales actions assurées par les fonctions de 
+sécurité  en  matière  d’accidents  majeurs  dans  les  installations  classées  sont  :  empêcher,  éviter, 
+détecter,  contrôler,  limiter.  Les  fonctions  de  sécurité  identifiées  peuvent  être  assurées  à  partir 
+d’éléments techniques de sécurité, de procédures organisationnelles (activités humaines), ou plus 
+généralement par la combinaison des deux. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 1  PREAMBULE  
+
+Gravité des 
+conséquences 
+
+La gravité des conséquences potentielles prévisibles sur les personnes, prises parmi les intérêts visés 
+à l’article L. 511-1 du code de l’environnement, résulte de la combinaison en un point de l’espace de 
+l’intensité des effets d’un phénomène dangereux et de la vulnérabilité des enjeux potentiellement 
+exposés. 
+
+Indépendance d’une 
+mesure de maîtrise des 
+risques 
+
+Faculté  d’une  mesure,  de  par  sa  conception,  son  exploitation  et  son  environnement,  à  ne  pas 
+dépendre  du  fonctionnement  d’autres  éléments  et  notamment  d’une  part  d’autres  mesures  de 
+maîtrise des risques, et d’autre part, du système de conduite de l’installation, afin d’éviter les modes 
+communs de défaillance ou de limiter leur fréquence d’occurrence. 
+
+Intensité des effets d’un 
+phénomène dangereux 
+
+Mesure de maîtrise des 
+risques (ou barrière de 
+sécurité) 
+
+Mesure physique de l’intensité du phénomène (thermique, toxique, surpression, projections). Parfois 
+appelée gravité potentielle du phénomène dangereux (mais cette expression est source d’erreur). Les 
+échelles d’évaluation de l’intensité se réfèrent à des seuils d’effets moyens conventionnels sur des 
+types d’éléments vulnérables [ou enjeux] tels que « homme », « structures ». Elles sont définies, pour 
+les installations classées, dans l’arrêté du 29/09/2005. L’intensité ne tient pas compte de l’existence 
+ou non d’enjeux exposés. Elle est cartographiée sous la forme de zones d’effets pour les différents 
+seuils. 
+
+Ensemble d’éléments techniques et/ou organisationnels nécessaires et suffisants pour assurer une 
+fonction de sécurité. On distingue parfois : 
+
+○  Les mesures (ou barrières) de prévention : mesures visant à éviter ou limiter la probabilité 
+
+d’un événement indésirable, en amont du phénomène dangereux ; 
+
+○  Les mesures (ou barrières) de limitation : mesures visant à limiter l’intensité des effets d’un 
+
+phénomène dangereux ; 
+
+○  Les mesures (ou barrières) de protection : mesures visant à limiter les conséquences sur les 
+
+enjeux potentiels par diminution de la vulnérabilité. 
+
+Phénomène dangereux 
+
+Libération d'énergie ou de substance produisant des effets susceptibles d'infliger un dommage à des 
+cibles (ou éléments vulnérables) vivantes ou matérielles, sans préjuger l'existence de ces dernières. 
+C'est une « Source potentielle de dommages ». 
+
+Potentiel de danger ou 
+source de danger ou 
+éléments dangereux 
+
+Système  (naturel  ou  créé  par  l'homme)  ou  disposition  adoptée  et  comportant  un  (ou  plusieurs) 
+« danger(s) ». Dans le domaine des risques technologiques, un « potentiel de danger » correspond à 
+un ensemble technique nécessaire au fonctionnement du processus envisagé. 
+
+Prévention 
+
+Protection 
+
+Probabilité d’occurrence 
+
+Mesures  visant  à  prévenir  un  risque  en  réduisant  la  probabilité  d’occurrence  d’un  phénomène 
+dangereux. 
+
+Mesures visant à limiter l’étendue ou/et la gravité des conséquences d’un accident sur les éléments 
+vulnérables, sans modifier la probabilité d'occurrence du phénomène dangereux correspondant. 
+
+Au sens de l’article L. 512-1 du code de l’environnement, la probabilité d’occurrence d’un accident 
+est  assimilée  à  sa  fréquence  d’occurrence  future  estimée  sur  l’installation  considérée.  Elle  est  en 
+général différente de la fréquence historique et peut s’écarter, pour une installation donnée, de la 
+probabilité d’occurrence moyenne évaluée sur un ensemble d’installations similaires.  
+
+Attention aux confusions possibles :  
+
+1. Assimilation entre probabilité d’un accident et celle du phénomène dangereux correspondant, la 
+première  intégrant  déjà  la  probabilité  conditionnelle  d’exposition  des  enjeux.  L’assimilation  sous-
+entend que les enjeux sont effectivement exposés, ce qui n’est pas toujours le cas, notamment si la 
+cinétique permet une mise à l’abri ;  
+
+2. Probabilité d’occurrence d’un accident x sur un site donné et probabilité d’occurrence de l’accident 
+x, en moyenne, dans l’une des N installations du même type (approche statistique). 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 1  PREAMBULE  
+
+Réduction du risque 
+
+Actions entreprises en vue de diminuer la probabilité, les conséquences négatives (ou dommages), 
+associées à un risque, ou les deux. [FD ISO/CEI Guide 73]. Cela peut être fait par le biais de chacune 
+des trois composantes du risque, la probabilité, l’intensité et la vulnérabilité : 
+
+○  Réduction  de  la  probabilité  :  par  amélioration  de  la  prévention,  par  exemple  par  ajout  ou 
+
+fiabilisation des mesures de sécurité ; 
+
+○  Réduction de l’intensité : 
+
+- 
+
+- 
+
+Par  action  sur  l’élément  porteur  de  danger  (ou  potentiel  de  danger),  par  exemple 
+substitution par une substance moins dangereuse, réduction des vitesses de rotation… 
+
+Réduction des dangers : la réduction de l’intensité peut également être accomplie par 
+des mesures de limitation. 
+
+La  réduction  de  la  probabilité  et/ou  de  l’intensité  correspond  à  une  réduction  du  risque  «  à  la 
+source » : 
+
+○  Réduction de la vulnérabilité : par éloignement ou protection des éléments vulnérables (par 
+
+exemple par la maîtrise de l’urbanisation, ou par des plans d’urgence). 
+
+Risque 
+
+«  Combinaison  de  la  probabilité  d’un  événement  et  de  ses  conséquences  »  (ISO/CEI  73),  « 
+Combinaison de la probabilité d’un dommage et de sa gravité » (ISO/CEI 51). 
+
+Scénario d’accident 
+(majeur) 
+
+Enchaînement d’événements conduisant d’un événement initiateur à un accident (majeur), dont la 
+séquence  et  les  liens  logiques  découlent  de  l’analyse  de  risque.  En  général,  plusieurs  scénarios 
+peuvent  mener  à  un  même phénomène  dangereux  pouvant  conduire  à  un  accident (majeur) :  on 
+dénombre autant de scénarios qu’il existe de combinaisons possibles d’événements y aboutissant. 
+Les scénarios d’accident obtenus dépendent du choix des méthodes d’analyse de risque utilisées et 
+des éléments disponibles. 
+
+Temps de réponse (pour 
+une mesure de maîtrise 
+des risques) 
+
+Intervalle de temps requis entre la sollicitation et l’exécution de la mission/fonction de sécurité. Ce 
+temps de réponse est inclus dans la cinétique de mise en œuvre d’une fonction de sécurité, cette 
+dernière devant être en adéquation [significativement plus courte] avec la cinétique du phénomène 
+qu’elle doit maîtriser. 
+
+Vulnérabilité 
+
+Elle  est  soit  liée  à  l’environnement  naturel  (vulnérabilité  naturelle  ou  VN),  soit  aux  installations 
+(vulnérabilité  matérielle  ou  VM)  soit  à  la population  avoisinante  (vulnérabilité  humaine  ou  VH).  Il 
+s’agit de l’appréciation de la sensibilité des cibles présentes dans la zone à un type d’effet donné. Par 
+exemple,  des  zones  d’habitat  sont  plus  sensibles  à  un  aléa  d’explosion  que  des  zones  de  terres 
+agricoles, en raison de la présence de constructions et de personnes. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 1  PREAMBULE  
+
+Glossaire spécifique à l’activité objet de la présente note 
+
+Energy Storage Systems / Battery Energy Storage Systems 
+
+ESS / BESS 
+
+Un système de stockage de l’énergie (ESS) est un type de système d’alimentation qui connecte un 
+réseau  électrique  à  un  convertisseur/chargeur.  Les  systèmes  de  stockage  d'énergie  par  batterie 
+(BESS) sont utilisés pour stocker de l'énergie au sein de site de stockage par batteries stationnaires. 
+
+Batterie LFP 
+
+Un accumulateur lithium-fer-phosphate, habituellement appelé batterie LFP (ou accumulateur LiFe) 
+est un accumulateur lithium dont la cathode est faite de phosphate de fer lithié : 
+
+Batterie NMC 
+
+Un  accumulateur  lithium  nickel-manganèse-cobalt,  habituellement  appelé  batterie  NMC  est  un 
+accumulateur lithium qui utilise un mélange de nickel, de manganèse et de cobalt dans sa cathode. Il 
+s’agit aujourd’hui de la batterie la plus utilisée en France du fait de sa grande capacité de stockage 
+d’énergie pour un poids et un volume réduit. On observe cependant une progressive diminution de 
+son utilisation du fait de sa stabilité chimique inférieure aux autres technologies ainsi qu’au difficultés 
+et contraintes d’approvisionnement en nickel et cobalt (éléments coûteux, difficiles à obtenir et, pour 
+le cobalt, associé à d’importants problèmes éthiques d’extraction).  
+
+Batteries LCO, LMO, 
+NCA, LTO 
+
+D’autres technologies de batteries Lithium existent, en constante évolution, avec des compositions 
+et des taux variables : lithium, cobalt, oxyde, manganèse, nickel, aluminium, titane… 
+
+BMS 
+
+Battery Management System : correspond à un composant électronique qui assure une surveillance 
+et un contrôle permanent sur l’ensemble de la batterie et en particulier sur les cellules. Il les équilibre 
+lorsque que nécessaire et autorise les charges et décharges en fonction des limites de tension afin 
+d’optimiser la durée de vie de la batterie.   
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+PARTIE 2  CARACTERISATION DES DANGERS ET DES 
+ENJEUX 
+
+I.  LOCALISATION DU SITE 
+
+Le site du projet s’implante dans le quart Nord-Est de la France métropolitaine, dans la région Grand-Est, au sein du département 
+du Bas-Rhin (67). Il prend place à l’Est du territoire de Marlenheim. 
+
+Région 
+
+Département 
+
+Arrondissement 
+
+Intercommunalité 
+
+Commune 
+
+Grand-Est 
+
+Bas-Rhin 
+
+Molsheim 
+
+Communauté de communes de la 
+Mossig et du Vignoble 
+
+Marlenheim 
+
+Illustration 3 : Localisation géographique du site d’étude à l’échelle du territoire 
+Réalisation : ARTIFEX 2024 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+Illustration 4 : Etat actuel au droit et aux abords du site d’étude 
+Réalisation : ARTIFEX 2024 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.14 
+P.14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+II. DESCRIPTION DE L’ACTIVITE 
+
+La société AMARENCO est à l’initiative d’un projet de stockage d’électricité par batteries sur la commune de Marlenheim, d’une 
+capacité de stockage d’injection certifiée de 110 MW. Le projet se positionne en limite Est du poste électrique de Marlenheim. 
+
+Le site de stockage d’énergie électrique se composera des infrastructures présentées ci-dessous. Les chapitres suivants détaillent 
+les équipements du projet. 
+
+○  Une plateforme, partiellement imperméabilisée, permettant de circuler sur le site et d’accueillir les différents équipements 
+
+électriques ; 
+
+○  Une clôture en périphérie de la plateforme et 2 accès équipés d’un portail ; 
+
+○  Deux réserves d’eau de protection contre les incendies ; 
+
+○  Un poste électrique de transformation HTB 225 kV/33 kV d’une puissance adaptée au projet ; 
+
+○  Quatre postes électriques secondaires permettant de répartir l’électricité entre les différents ensembles de stockage ; 
+
+○  D’un ensemble de stockage subdivisé en 14 ilots composés de : 
+
+- 
+
+- 
+
+- 
+
+1 poste de transformation HTA 33 kV/690 V de puissance unitaire ~8 MW ; 
+
+2 convertisseurs d’énergies afin de passer du courant alternatif au courant continu (et inversement), de puissance 
+unitaire ~4 MW ; 
+
+4 conteneurs batteries 20 pieds, de puissance unitaire ~2 MW avec ~4 MWh de capacité de stockage. 
+
+Soit au total 56 conteneurs batteries, 28 onduleurs, 14 transformateurs HTA, 4 sous stations HTA et un transformateur HTB. 
+
+En complément, seront présents sur le site, un bâtiment de pilotage d’environ 60 m², un bureau/salle de réunion et un conteneur 
+de stocks de pièces de rechange.   
+
+Le site sera relié au poste source RTE par une ligne enterrée. 
+
+NB : ces caractéristiques de projet sont ici présentées au stade Avant-Projet. Il se peut que quelques caractéristiques soient amenées 
+à changer suivant l’évolution du projet. En cas de modification substantielle des risques, une mise à jour de ce document pourrait 
+être nécessaire.   
+
+1.  LES PROJETS DE STOCKAGE ELECTRIQUE 
+
+Les projets de stockage électrique utilisant la batterie Li-ion se multiplient en France et dans le monde depuis plus d’une quinzaine 
+d’années  grâce  à  une  diminution  constante  des  prix  et  une  connaissance  de  plus  en  plus  précise  des  technologies  (sécurité 
+incendie, intelligence artificielle, seconde vie…). Utilisées au départ principalement dans des appareils électroniques (téléphone 
+portable, ordinateurs…), les batteries Li-ion se sont ensuite développées pour la mobilité électrique. Ce sont ensuite de plus grands 
+projets de stockage stationnaires qui ont vu le jour, d’abord pour des applications de secours pour fournir de l’énergie lors de 
+pertes  d’alimentation  et  maintenant  de  plus  en  plus  pour  fournir  des  services  au  réseau  et  permettre  l’intégration  d’énergie 
+renouvelable intermittente. 
+
+Les batteries Li-ion représentent actuellement plus des deux tiers des batteries connectées au réseau dans le monde. Des projets 
+d’envergure comme celui de NEOEN à Hornsdale en Australie ou le projet « Claudia » qu’AMARENCO met en place sur la commune 
+de Saucats (Gironde) rentrent dans cette tendance. 
+
+AMARENCO continue d’étudier de façon approfondie les différentes offres sur le marché de la batterie et des services associés 
+afin de choisir le(s) meilleur(s) partenaire(s) pour ce projet. L’ensemble des prestations à charge du partenaire et les critères de 
+sélection sont en constante évolution au gré des avancées technologiques et réglementaires mais également suivant les échanges 
+avec les différents EPCistes disponibles.  
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.15 
+P.15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+2.  LES COMPOSANTS DU SITE 
+
+Le schéma ci-dessous présente les composants du site. Ceux-ci sont décrits en suivant.  
+
+Illustration 5 : Schéma de principe -composants du site de stockage d’électricité par batteries 
+Réalisation : ARTIFEX 2024 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.16 
+P.16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+2.1.  Les conteneurs batteries 
+
+L’installation de stockage se compose de containers batteries reliés à un groupe de conversion et d’élévation de tension.  
+
+Caractéristiques techniques des conteneurs batteries 
+
+Nombre 
+
+Dimension 
+
+Nombre de batteries par conteneur 
+
+Capacité maximale de stockage d’énergie par 
+conteneur / par batterie 
+
+56 
+
+20 pieds 
+Environ 6,1 m x 2,5 m 
+Hauteur de 3 m environ 
+
+10 racks de 8 modules 
+
+Module : ~50 kWh (composé de plusieurs cellules) 
+Rack : ~400 kWh 
+Conteneur : ~4 MWh / ~2 MW 
+
+Composition chimique des batteries 
+
+Lithium-fer-phosphate (LFP) 
+
+Chaque  conteneur  batterie  intègre  des  équipements  de  pilotage,  de  sécurité,  de  surveillance  ainsi  qu’un  système  de 
+refroidissement/chauffage afin de maintenir le conteneur dans des conditions optimales. 
+
+•  Zoom sur la technologie lithium-ion 
+
+Il est important de rappeler qu’il n’existe pas « une batterie » de lithium. A la place, il y a une variété de systèmes de stockage 
+d’énergies différents dans lesquels le lithium est utilisé à l’état pur ou sous forme liée. Plus précisément une distinction est faite 
+entre les cellules lithium-ion primaire (non rechargeables) et secondaires (rechargeables).  
+
+Un bloc de batterie est composé de plusieurs cellules en fonction de leur puissance. Chaque cellule Lithium-Ion comprend une 
+électrode positive, la cathode et une électrode négative, l’anode. Entre elles se trouve un électrolyte conducteur d’ions. Il garantit 
+le transport des ions lithium entre les électrodes pendant le processus de charge ou de décharge. Les accumulateurs Lithium-Ion 
+dans lesquels un électrolyte liquide est utilisé, constituent la forme la plus connue de dispositifs de stockage d’énergie au lithium. 
+Le séparateur est également un élément important. Il empêche le contact direct entre l’anode et la cathode, et évite un court-
+circuit. Lors du déchargement, des ions lithium et des électrons sont libérés du côté de l’anode. Les électrons traversent le circuit 
+externe et effectuent le travail électrique. Pendant ce temps, les ions lithium migrent à travers le liquide électrolytique et à travers 
+le séparateur vers la cathode. Lors du chargement, le processus est inversé. 
+
+Illustration 6 : Composants d’une batteries Lithium-ions 
+Réalisation : Parlons sciences 2019 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.17 
+P.17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+Illustration 7 : Composants et fonctionnement d’un batterie lithium-Ion 
+Réalisation : Parlons sciences 2019 
+
+Avec  les  normes  de  fabrication  actuelles,  les  batteries  au  lithium  sont  considérées  comme  sûres.  Les  fabricants  effectuent 
+différents tests et contrôles avant de les livrer (surcharge électrique, décharge forcée, court-circuit externe, test thermique …) et 
+suivent un processus de fabrication et de traçabilité très exigeant dans leurs usines.  
+
+2.2.  Groupe de conversion et d’élévation de tension 
+
+Ce groupe se compose de 2 convertisseurs et d’un transformateur.  
+
+Les convertisseurs permettent de passer d’un courant continu à un courant alternatif lors des phases de restitution de l’électricité 
+dans le réseau et d’un courant alternatif à un courant continu lors des phases de stockage de l’électricité.  
+
+Caractéristiques techniques des convertisseurs 
+
+Nombre 
+
+Dimension 
+
+Caractéristiques 
+
+28 
+
+Environ 3 m x 2 m 
+Hauteur de 2,2 m environ 
+
+Puissance : 4,4 MVA 
+
+Le transformateur permet d’élever ou d’abaisser la tension suivant si les batteries sont en phase de charge ou de décharge.  
+
+Caractéristiques techniques des transformateurs 
+
+Nombre 
+
+Dimension 
+
+Caractéristiques 
+
+14 
+Environ 3,1 m x 1,7 m 
+Hauteur de 3 m environ 
+
+Puissance : 8,0 MVA 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+2.3.  Les postes électriques secondaires et de raccordement 
+
+Afin d’assurer une répartition de l’énergie entre les différents ilots (transformateur, convertisseurs et conteneurs batteries), lors 
+des  phases  de  stockage  de  l’énergie,  et  la  centralisation  de  l’électricité  lors  des  phases  de  restitution,  des  postes  électriques 
+secondaires seront mis en place sur le site.  
+
+Caractéristiques techniques des postes électriques secondaires 
+
+Nombre 
+
+Dimension 
+
+4 
+
+Environ 8,6 m x 2,85 m 
+Hauteur de 3 m environ 
+
+2.4.  Le poste électrique de transformation et raccordement 
+
+Le poste électrique de transformation sera implanté au Nord-Ouest du site et se composera essentiellement du transformateur 
+de puissance avec sa fosse déportée, des équipements de protections électriques ainsi que d’un local technique. Le transformateur 
+est composé d’une cuve d’huile dans laquelle est baigné le noyau ferromagnétique. La fosse déportée a pour fonction de récupérer 
+l’huile du transformateur en cas de fuite.  
+
+Ce  transformateur  225 kV/33  kV  permet  de  rehausser  la  tension  pour  rejoindre  le  poste  électrique  RTE  de  Marlenheim  ou 
+l’abaisser pour alimenter les batteries. 
+
+Un bâtiment de pilotage de 60 m2 se trouve à proximité du poste transformateur. Il abrite les équipements de contrôle commande 
+et les systèmes de protection de l’ensemble des équipements du site. 
+
+Le raccordement du projet se fera sur le poste électrique RTE de Marlenheim au moyen d’une liaison souterraine de 225 kV. Le 
+câble  électrique  triphasé  utilisé  sera  du  1600  mm2  alu.  Le  poste  électrique  RTE  étant  limitrophe  aux  terrains  du  projet,  le 
+raccordement sera direct et passera uniquement par des terrains dont AMARENCO disposera de la maitrise foncière. 
+
+2.5.  Voies de circulation et aménagements connexes 
+
+2.5.1. Voies de circulation 
+
+L’accès aux terrains du projet se fera par une piste accessible depuis la route départementale D1004, identifiée à 270 m au Nord 
+du site d’étude.  
+
+A l’intérieur du site de stockage d’énergie, des pistes et une plateforme seront créées pour permettre l’installation de l’ensemble 
+des équipements et la circulation des engins (chantier et contrôle).  
+
+2.5.2. Clôture et portails 
+
+L’emprise totale du projet (surface clôturée) sera d’environ 1,67 ha. Une clôture grillagée de 2 m de hauteur sera établie autour 
+des zones du projet. Un portail sera mis en place sur chaque entrée. A noter que des caméras de sécurité seront positionnées sur 
+le site. 
+
+A noter également que la zone accueillant le poste de transformation principal sera également clôturée car elle nécessite des 
+dispositions distinctes de sécurité.  
+
+2.5.3. Réserve incendie 
+
+Sur le site, 2 réserves incendie de 120 m3 unitaire seront mis en place. Elles seront associées à des aires d’aspiration.  
+
+2.5.1. Gestion des eaux d’extinction 
+
+Une noue étanche de 240 m3 (correspondant au volume cumulé des eaux d’extinction disponibles sur le site) sera mise en place. 
+En cas d’incendie, elle permettra de récupérer les eaux d’extinction pouvant être chargées en polluant. Le dimensionnement de 
+la noue pourra être revu suivant les échanges avec le SDIS. 
+
+2.5.2. Autres équipements 
+
+Une zone de stationnement sera positionnée à l’entrée du site. Un conteneur de pièce de rechange ainsi qu’un local (salle de 
+réunion et sanitaires) seront également présents à l’entrée du site.  
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+Illustration 8 : Plan de masse projeté 
+Réalisation : AMARENCO 2024 
+
+Poste 
+électrique 
+
+Poste électrique principal 
+
+Postes de répartition 
+
+Site de stockage 
+d’électricité par batteries 
+
+Îlot de conteneurs 
+
+Conteneur 
+
+Convertisseur 
+
+Transformateur 33 kV/690V 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.20 
+P.20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+III. DESCRIPTION DES ACTIVITES ET DES DANGERS 
+
+1.  POTENTIEL DE DANGERS LIES AUX EQUIPEMENTS ET AUX OPERATIONS 
+
+Plusieurs risques ont été identifiés pour ce projet. Ils sont liés à l’activité : 
+
+○  Risque d’électrocution : Les personnes amenées à intervenir sur le site présentent des risques d’électrocution sur plusieurs 
+niveaux de tension et différents types de courants (225 kV courant alternatif (AC), 33 kV AC, 400 V AC, 220 V AC, 690 V AC, 
+1500 V Courants Continus (CC) et des tensions plus basses également en courants continus). 
+
+○  Risque d’incendie : Ils peuvent être d’origine électrique notamment en cas de courant court-circuit sur les équipements 
+électriques  quelques  soit  leur  niveau  de  tension  (transformateurs,  disjoncteurs,  …)  ou  liés  aux  batteries  de  stockage 
+(emballement thermique).  
+
+○  Risque toxique : à la suite d’un incendie de batteries de stockage, les fumées d’incendie qui se dispersent peuvent être 
+
+toxiques. 
+
+○  Risque d’explosion : à la suite d’un incendie ou d’un emballement thermique de la batterie de stockage qui engendre une 
+
+augmentation de la température et de la pression. 
+
+2.  POTENTIEL DE DANGERS ET CARACTERISTIQUES DES PRODUITS 
+
+Le tableau ci-dessous liste les substances, potentiellement dangereuses, qui seront présente sur le site. 
+
+Substances 
+
+Huile 
+
+Huile 
+
+Etat 
+physique 
+
+Liquide 
+
+Liquide 
+
+Utilisation 
+
+Lieu de stockage 
+
+Quantité 
+max stockée 
+
+Mentions de 
+danger 
+
+Huile pour les 
+transformateurs du site  
+Huile pour le 
+transformateur principal 
+
+Transformateurs du site 
+
+Transformateur principal 
+
+42 t 
+
+37 t 
+
+Incendie 
+
+Pollution 
+
+Mélange eau-glycole 
+
+Liquide 
+
+Refroidissement 
+
+Conteneurs 
+
+15 m3 
+
+/ 
+
+Les volumes de produit pourront varier suivant les propositions des fournisseurs.  
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.21 
+P.21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+IV. DETERMINATION DES ELEMENTS VULNERABLES DU SITE ET DE SON 
+
+ENVIRONNEMENT 
+
+1.  ENVIRONNEMENT NATUREL 
+
+1.1.  Sol 
+
+Le site d’étude prend place au sein des paysages du Kocherberg, composés d’étendues agricoles ouvertes et de collines aux larges 
+ondulations. Le site du projet présente une topographie plane, avec une pente moyenne de 1 % et une altitude moyenne de 189 m 
+NGF. 
+
+D’un point de vue géologique, le site d’étude s’implante au droit de formations limono argileuse. Ces limons sont les restes d’un 
+ancien complexe lœssique, comprenant des limons d’âge probable mindel à Würm très altérés et souvent soliflués en raison de 
+conditions hydromorphiques locales, liés à la nature peu perméable du substrat. En surface, les sols dominants sont de types 
+calcisols. 
+
+1.2.  Eau  
+
+Le site d’étude prend place au droit d’une unique masse d’eau souterraine : « FRCG101 : Nappe d’Alsace, Pliocène de Haguenau 
+et Oligocène ». Il s’agit d’une masse d’eau alluviale, présentant un bon état quantitatif, atteint en 2015, mais un mauvais état 
+chimique, lié à la présence de pesticides (Atrazine, Chloridazone) et de nitrates. L’objectif de bon état chimique est fixé à 2027. 
+
+Concernant les eaux superficielles, le projet prend place au sein du bassin versant de la Bruche et du sous bassin versant de la 
+Mossig. Le cours d’eau le plus proche du site d’étude est identifié en bordure Ouest de ce dernier. Il s’agit d’un cours d’eau 
+intermittent, affluent du cours d’eau de la Fosse Brugel, qui se jette ensuite dans la rivière de la Mossig, à 2,8 km au Sud-Ouest du 
+site d’étude. 
+
+Illustration 9 : Contexte hydrologique aux abords du site d’étude 
+Réalisation : ARTIFEX 2024 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+Aucun captage dans les eaux souterraines ou superficielles, ni périmètre de protection de captage n’est localisé à proximité du 
+projet. Le périmètre de protection de captage le plus proche est situé à environ 4 km au Nord-Ouest du site d’étude.  
+
+1.3.  Climat 
+
+Le site d’étude est marqué par un climat de type semi-continental. Les hivers sont froids et secs, tandis que les étés sont chauds 
+et orageux, du fait de la protection occidentale qu'offrent les Vosges. L’illustration ci-dessous présente la rose des vents du secteur 
+du projet. 
+
+Illustration 10 : Rose des vents sur le secteur de Marlenheim 
+Source : Meteoblue 
+
+1.4.  Risques naturels 
+
+D’après  le  Dossier  Départemental  des  Risques  Majeurs  (DDRM)  du  Bas-Rhin,  approuvé  le  28  août  2023,  la  commune  de 
+Marlenheim est concernée par le risque inondation. Le plan de prévention des risques inondation (PPRi) de la Mossig, approuvé 
+le 29 janvier 2007 et modifié le 6 octobre 2015 est en vigueur sur le territoire communal. D’après le règlement graphique du PPRi, 
+le site d’étude prend place en dehors des zones inondables. Il n’est pas concerné par le risque d’inondation. Par ailleurs, le site 
+d’étude n’est pas concerné par le risque d’inondation par remontée de nappe.  
+
+Le site d’étude est localisé dans une zone d’aléa moyen pour le phénomène de retrait-gonflement des argiles.  
+
+Aucune cavité souterraine ni aucun mouvement de terrain n’est identifié à proximité immédiate du site d’étude. A noter tout de 
+même que la commune de Marlenheim comporte des mouvements de terrains non localisées. 
+
+La  commune  de  Marlenheim  est  classée  en  zone  de  sismicité  modérée.  Aucun  PPRN  séisme  n’a  été  prescrit  sur  le  territoire 
+communal.   
+
+Enfin, la commune est soumise à un risque moyen concernant le départ de feux de forêts. Sur le territoire communal, les massifs 
+boisés sont principalement localisés au Nord-Ouest, à plus de 4,3 km du site d’étude. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+2.  ENVIRONNEMENT HUMAIN 
+
+2.1.  Habitat 
+
+2.1.1. Zones urbanisées 
+
+Sur la commune de Marlenheim, la population se concentre principalement au niveau du centre-bourg, localisé à environ 2,3 km 
+au Nord-Ouest du site d’étude. 
+
+Ce  dernier  prend  place  à  l’écart  des  centres-bourgs.  De  fait,  l’habitat  autour  de  ce  dernier,  est  plus  diffus,  dispersé  en  petits 
+hameaux ou habitations. L’habitation la plus proche est identifiée à 1,2 km à l’Ouest du site d’étude. 
+
+Illustration 11 : Organisation de l’habitat aux abords du projet 
+Réalisation : ARTIFEX 2024 
+
+2.1.2. Les établissements sensibles et les établissements recevant du public 
+
+•  Etablissements sensibles (ES) 
+
+Le Plan National Santé-Environnement (PNSE) établi une liste des établissements dits « sensibles », il s’agit : 
+
+○  Des crèches ; 
+
+○  Des écoles maternelles et élémentaires ; 
+
+○  Des établissements hébergeant des enfants handicapés ; 
+
+○  Des collèges et lycées ; 
+
+○  Des établissements de formation professionnelle des jeunes du secteur public ou privé ; 
+
+○  Des aires de jeux et des espaces verts. 
+
+Aucun établissement sensible n’est identifié aux abords du site d’étude, ni dans un rayon d’1km autour de ce dernier. Le plus 
+proche est le collège Grégoire de Tours, localisé à 2,5 km au Nord-Ouest du site d’étude.  
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+•  Etablissements Recevant du Public (ERP)  
+
+Selon l’article R 123-2 du Code de la construction et de l’habitation, « constituent des Etablissements Recevant du Public, tous 
+bâtiments,  locaux  et  enceintes  dans  lesquels  des  personnes  sont  admises  soit  librement,  soit  moyennant  une  participation 
+quelconque,  ou  dans  lesquels  sont  tenues  des  réunions  ouvertes  à  tout  venant  ou  sur  invitations,  payantes  ou  non  ».  Ces 
+établissements sont classifiés selon leur type. Il peut s’agir d’établissements installés dans un bâtiment (structures d’accueil pour 
+personnes âgées ou handicapées, salles d’audition, de conférences, de réunions, de spectacles, salles de danse et salles de jeux, 
+bibliothèques, établissement de soins, de culture, administrations…), d’établissements spéciaux (parcs de stationnement couverts, 
+gares accessibles au public…) ou d’immeuble de grande hauteur (bureaux, enseignement, dépôt d’archives…). 
+
+Sur la commune de Marlenheim, des ERP sont présents au niveau du centre-bourg. Aucun n’est identifié aux abords du site 
+d’étude. Les plus proches sont localisés à environ 2,4 km au Nord-Ouest.   
+
+2.2.  Contexte économique  
+
+Sur la commune de Marlenheim, l’économie est principalement portée par le secteur tertiaire1 qui représente plus de 25 % des 
+établissements  actifs  sur  la  commune  au  30  décembre  2020.  Marlenheim  possède  un  tissu  économique  dynamique.  Les 
+commerces et services proposés sont regroupés au niveau du centre-ville et le long du principal axe de communication : la route 
+départementale D1004, axe routier structurant. 
+
+2.3.  Biens matériels 
+
+2.3.1. Infrastructures de transport 
+
+La route départementale D1004 est un axe de circulation majeur sur le territoire communal de Marlenheim. Elle est localisée à 
+270 m au Nord du site d’étude. Par ailleurs, la route communale « Fronrieth » est identifiée à 223 m au Nord-Ouest du site d’étude. 
+Cette dernière dessert le poste RTE, limitrophe au site d’étude. 
+
+Les infrastructures de transport sont présentées sur l’illustration en page suivante.  
+
+2.3.1. Réseaux 
+
+Un poste électrique RTE est implanté en limite Ouest du site d’étude. Les postes sources transforment l’électricité des lignes très 
+haute tension vers la haute tension. Ils sont ainsi essentiels pour le transport et la distribution d’électricité.  
+
+A noter également la présence de nombreuses lignes électriques aériennes qui partent de ce dernier. Les plus proches de l’emprise 
+du site d’étude sont localisées à environ 125 m à l’Ouest.  
+
+Enfin, une canalisation souterraine de gaz naturel est présente à environ 600 m au Sud-Est du site d’étude. Ce réseau fait l’objet 
+d’une servitude et est classé en TMD (cf. partie 2.5). A noter qu’il existe également un réseau de gaz secondaire, non classé en 
+risque TMD. Celui-ci longe la D1004 à environ 270 m au Nord du site. Ce réseau n’est pas soumis à des servitudes.  
+
+1 Nombre d’établissements par secteur d’activité au 30 décembre 2020, INSEE 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+Illustration 12 : Infrastructures de transport et réseaux aux abords du site 
+Réalisation : ARTIFEX 2024 
+
+2.4.  Occupation des sols 
+
+Le site d’étude s’implante dans un secteur agricole. D’après le registre parcellaire graphique de 2022, les parcelles du site étaient 
+occupées par une culture de maïs (sur la moitié Sud) et par une jachère de plus de 6 ans sur la moitié Nord.  
+
+Aucun élément boisé n’est identifié sur l’emprise ou aux abords proches du site d’étude.  
+
+2.5.  Risques technologiques 
+
+2.5.1. Risque industriel 
+
+•  Installations classées pour la protection de l’environnement (ICPE) 
+
+Selon le Ministère de l’Ecologie, du Développement durable, des Transports et du Logement, est une installation classée « toute 
+exploitation industrielle ou agricole susceptible de créer des risques ou de provoquer des pollutions ou nuisances, notamment pour 
+la sécurité et la santé des riverains […] ». 
+
+La commune de Marlenheim compte 19 installations classées pour la protection de l’environnement (ICPE). La plus proche du site 
+d’étude est une unité de méthanisation, soumise à enregistrement, implantée à 525 m à l’Ouest du site d’étude. 
+
+Hormis cette installation, aucune ICPE n’est identifiée à proximité immédiate du site. 
+
+Le projet concerne une installation de stockage d’électricité par batteries. Il s’agit d’une activité soumise à la nomenclature des 
+Installations Classées pour la Protection de l’Environnement (ICPE). Ainsi, le projet est concerné par la rubrique 2925-2 sous le 
+régime de la déclaration. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+•  Etablissements classés SEVESO 
+
+La  directive  européenne  du  9  décembre  1996,  dite  directive  SEVESO  2  concerne  la  prévention  des  risques  d'accidents 
+technologiques  majeurs.  Elle  vise  l'intégralité  des  établissements  où  sont  présentes  certaines  substances  dangereuses.  Deux 
+catégories sont distinguées suivant les quantités de substances dangereuses présentes : les établissements dits « seuil haut » et 
+les établissements dits « seuils bas ». 
+
+La  directive  Seveso  3  relative  à  la  maitrise des  dangers  liés aux  accidents  majeurs  impliquant des  substances dangereuses  est 
+traduite en droit français par l’arrêté ministériel du 26 mai 2014.Il précise les modalités d'application des dispositions décrites au 
+titre Ier du livre V du code de l'environnement. Depuis le 1er juin 2015, cet arrêté remplace et abroge l'arrêté du 10 mai 2000 
+relatif à la prévention des accidents majeurs impliquant des substances ou des préparations dangereuses présentes dans certaines 
+catégories d'installations classées pour la protection de l'environnement soumises à autorisation. 
+
+Il  n’y  a  pas  d’établissement  classé  SEVESO  à  proximité  du  projet.  Le  plus  proche  se  localise  à  2,3  km  à  l’Ouest.  Il  s’agit  du 
+Comptoir Agricole de Marlenheim, une installation spécialisée dans le stockage de produits phytosanitaires et d’engrais, classée 
+Seveso Seuil bas. 
+
+2.5.2. TMD 
+
+Le risque de transport de matières dangereuses (TMD) est consécutif à un accident qui se produit lors du transport par route, voie 
+ferrée, voies fluviales et maritimes, de produits dangereux. Les canalisations de matières dangereuses sont également à prendre 
+en compte lors de l’évaluation de ce risque.  
+
+La commune de Marlenheim est exposée au risque TMD, via le réseau routier et le passage d’une canalisation de gaz souterraine. 
+La voie routière la plus proche du projet est localisée à 270 m au Nord du projet, tandis que la canalisation de gaz est enfouie à 
+600 m au Sud-Est du site (Cf. 2.3.1Réseaux, en page 25). Ainsi, le site du projet est en dehors de leur zonage de servitude. 
+
+V. INVENTAIRE DES CAUSES D’EXPOSITION AU DANGER 
+
+1.  CAUSES INTERNES 
+
+Les causes internes, pouvant déclencher des situations accidentelles, sont : 
+
+○  L’erreur humaine, 
+
+○  La défaillance du matériel, 
+
+○  Le défaut d’entretien (combinaison entre l’erreur humaine et la défaillance matérielle), 
+
+○  La négligence (non-préoccupation des systèmes de prévention mis en place, non mise en œuvre de bon sens). 
+
+2.  POTENTIELS DE DANGERS LIES A L’ENVIRONNEMENT EXTERNE 
+
+2.1.  Les risques technologiques 
+
+•  Risque technologique majeur 
+
+Le risque d’agression externe par un risque technologique prend en compte le probable effet domino sur le site d’un premier 
+accident d’origine externe. 
+
+Seule une ICPE en enregistrement (non classée SEVESO) est localisée dans un rayon de 2 km autour du site. Des mesures sont 
+prises sur cette installation de méthanisation afin d’assurer l’absence de risque à l’extérieur de son emprise. Pour rappel, ce site 
+se positionne à 525 m du projet.  
+
+Les terrains du projet ne sont concernés par aucun Plan de Prévention des Risques Technologiques. 
+
+Le projet étant éloigné des axes majeurs de circulation et des réseaux de transport de matières dangereuses (et hors périmètre 
+de protection), il n’est donc pas concerné par le risque TMD. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+•  Poste électrique RTE 
+
+Les transformateurs de puissance constituent le plus grand risque d'incendie individuel dans les postes électriques, car ils utilisent 
+des volumes importants d'huile pour le refroidissement et l'isolation électrique. La conception du poste et le positionnement des 
+équipements à risque à l’intérieur de son enceinte n’engendre pas de risque d ‘effet domino à l’extérieur de l’emprise clôturée.  
+
+La présence d’équipements électriques de hautes et très hautes tensions induit également un risque électrique. Ce risque est 
+interne au poste et non susceptible d’engendrer des effets à l’extérieur.  
+
+2.2.  Malveillance 
+
+Le site du projet peut être concerné par la malveillance. Ce risque est réduit par la mise en place, dès le lancement des travaux de 
+clôtures (clôtures périphériques et clôture interne autour du poste de transformation), de portails d’entrée (accès au site interdit) 
+et de caméras. 
+
+Conformément  à  l’arrêté  du  10  mai  2000  relatif  à  la  prévention  des  accidents  majeurs  impliquant  des  substances  ou  des 
+préparations  dangereuses  présentes  dans  certaines  catégories  d’installations  classées  pour  la  protection  de  l’environnement 
+soumises à autorisation, les actes de malveillances ne seront pas retenus comme évènements initiateurs d’un accident majeur 
+
+2.3.  Risques naturels 
+
+Les risques naturels recensés sont : 
+
+○  Un aléa moyen pour le phénomène de retrait-gonflement des argiles, 
+
+○  Un risque sismique modéré. 
+
+A noter que des zones à risque inondation sont présentes sur la commune mais aucun zonage du PPRi ne concerne les terrains du 
+projet ou ceux directement limitrophes.  
+
+Le projet ne prévoit pas la mise en place d’équipements ou construction nécessitant d’importantes fondations. Les études menées 
+en amont du démarrage des travaux (géotechniques) permettront d’adapter le projet à la nature du sol et notamment au risque 
+argile.  
+
+Les risques sismiques sur le territoire français sont décrits par les décrets n°2010-1254 et n°2010-1255 du 22 octobre 2010 relatifs 
+au risque sismique, qui définissent respectivement : 
+
+○  d’une part les catégories de bâtiments, équipements et installations, répartis en deux catégories dites « à risque normal » 
+
+et « à risque spécial » ; 
+
+○  d’autre part les zones de sismicité sur le territoire national. 
+
+D’après les dispositions de ce texte : 
+
+○ 
+
+le projet fait partie des installations à risque faible de catégorie d’importance I (bâtiments dans lesquels est exclue toute 
+activité humaine nécessitant un séjour de longue durée) ; 
+
+○ 
+
+la commune est classée en zone de sismicité modéré. 
+
+Ainsi,  dans  ce  contexte,  l'installation  n'est  pas  soumise  à  des  règles  de  construction,  d'aménagement  et  d'exploitation 
+spécifiques. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+VI. ACCIDENTOLOGIE ET RETOUR D’EXPERIENCES 
+
+1.  INVENTAIRE DES ACCIDENTS DE LA BASE DE DONNEES ARIA 
+
+La base de données A.R.I.A. (Analyse, Recherche et Information sur les Accidents) du Bureau d’Analyse des Risques et Pollutions 
+Industrielles (BARPI), exploitée par le Ministère de l’Ecologie du Développement et de l’Aménagement Durables, recense, depuis 
+1992, les événements accidentels qui ont, ou qui auraient pu, porter atteinte à la santé ou à la sécurité publique, à l’agriculture, à 
+la nature et à l’environnement. Cette base de données recense plusieurs événements en lien avec la présence de batteries de 
+stockage.  
+
+1.1.  Rapport « Stockage stationnaire de l'énergie : risques et solutions envisageables » - 2022 
+
+En 2022 a été publié un rapport relatif aux risques des activités de stockage d’énergie. Il fait la synthèse de 4 ans de travaux menés 
+par un groupe réunissant experts de la sécurité civile et incendie, scientifiques et industriels, créé spécifiquement à l’initiative de 
+la direction générale de la Sécurité civile et de la Gestion des crises et du SDIS73. Ce rapport présente une synthèse et analyse de 
+l’accidentologie des batteries.  
+
+Il  ressort  de  cette  analyse  une  augmentation  des  accidents  en  lien  avec  les  batteries  depuis  le  début  des  années  2010.  La 
+généralisation  progressive  des  applications  commerciales  et  la  meilleure  prise  en  compte  de  toutes  les  étapes  de  la  vie  d’un 
+système  de  stockage  électrochimique  de  l’énergie  (notamment  son  recyclage)  expliquent  la  tendance  à  l’augmentation  de 
+l’accidentologie. 
+
+Les parties ci-après sont issues de ce rapport d’étude.  
+
+L’étude met en évidence la diversité des filières pouvant être confrontées à un accident. Le plus souvent (47%), il s’agit d’entreprises 
+en charge du traitement, du recyclage et de l’élimination de batteries ou d’entreprises en charge du recyclage des déchets qui 
+peuvent être amenées à être victimes d’un événement. Pour certaines de ces entreprises, la découverte de piles ou batteries est 
+fortuite car les déchets n’étaient pas censés en contenir. Pour d’autres, la présence de piles ou batteries étaient attendues mais les 
+modes  de  retraitement  (broyage,  incinération)  ou  les  conditions  de  stockage  (mélange  de  produits,  température)  sont  sources 
+d’événements.  C’est  notamment  le  cas  au  sein  des  sociétés  en  charge  des  déchets  d’équipements  électriques  et  électroniques 
+(DEEE).  
+
+En second lieu (21%), ce sont les entreprises en charge de la fabrication, de l’assemblage ou du conditionnement de batteries qui 
+sont le plus sujettes à des accidents.  
+
+Vient ensuite la filière automobile avec 9% des évènements recensés depuis 1999. Plus rarement, des événements ont eu lieu dans 
+les centres de recherche ou d’essais, dans les sociétés de distribution d’électricité, dans des entreprises en charge du stockage ou 
+de la vente ou encore dans le résidentiel. 
+
+Illustration 13 : Accidentologie 1999 – 2020 
+Source : Groupe de Travail « SYSTEMES DE STOCKAGE ELECTROCHIMIQUE DE L’ENERGIE » 2022 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+Il est intéressant de se pencher sur les événements initiateurs des différents accidents étudiés. En l’occurrence, une première analyse 
+met en évidence que la cause n’est pas toujours connue (45%). La première cause identifiée est la défaillance électrique et plus 
+précisément le court-circuit à l’origine de 22% des accidents.  
+
+En deuxième plan, ce sont des contraintes mécaniques (chocs, coups, broyages et percements) qui sont responsables de 14% des 
+accidents.  
+
+En moindre mesure, les origines suivantes ont pu être identifiées :  
+
+○ 
+
+○ 
+
+○ 
+
+l’échauffement ou la soumission à une température élevée (soit du fait d’un mauvais stockage ou mauvaise utilisation soit 
+du fait de la présence d’un incendie à proximité) : 7%,  
+
+le défaut de fabrication : 5%,  
+
+la présence d’une batterie endommagée par un événement antérieur : 3%.  
+
+Parmi les autres événements initiateurs, nous noterons le mauvais stockage ou encore la mauvaise manipulation (4%). 
+
+Illustration 14 : Accidentologie par origine (cas étudiés issus du BARPI) 
+Source : Groupe de Travail « SYSTEMES DE STOCKAGE ELECTROCHIMIQUE DE L’ENERGIE » 2022 
+
+L’étude des effets des différentes situations accidentelles a également été étudiée par le groupe de travail. Il ressort de cette 
+analyse que : 
+
+○  91% des accidents sont à l’origine d’un incendie  
+
+○  25% à l’origine d’un incendie accompagné d’explosions 
+
+○  5% seulement des accidents ont pour effet une explosion ou un emballement violent non-suivi d’un incendie. 
+
+1.2.  Analyse retour d’expérience depuis 2020 
+
+Afin de compléter les conclusions de ce rapport, une recherche bibliographique sur la base de données ARIA a été réalisée pour 
+les événements survenus après 2020. La synthèse de ces événements est donnée en annexe. Cette analyse vient consolider les 
+éléments  issus  du  rapport  précédemment  étudié.  En  effet,  sur  87  événements  supplémentaires  étudiés,  la  grande  majorité  a 
+engendré un départ de feu, 1 seul n’enregistre une explosion sans départ de feu. Il est important de souligner que la présence de 
+batteries lithium n’est pas systématiquement la cause de l’incident (la cause de l’incident n’est pas connue, la présence de batterie 
+lithium est uniquement suspectée, l’événement déclencheur n’a pas de lien avec la présence d’une batterie qui est un élément 
+aggravant) : 
+
+○  13 événements sont en lien avec des véhicules : véhicules électriques en circulation (5), véhicules électriques en phase 
+d’essai ou en fabrication (4), entrepôt contenant des équipements sur batteries (2). A noter, 2 incendies sur des poids lourds 
+dont  le  chargement  contenait,  entre  autres,  des  batteries.  La  cause  n’est  pas  toujours  connue  mais  un  emballement 
+thermique d’une batterie lithium est souvent suspectée ;  
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+○  9 événements survenus sur des stocks de batteries usagées ; 
+
+○  21  événements  survenus  sur  des  stocks  de  déchets  avec  présence  de  batteries.  L’accidentologie  ne  précise  pas  si  leur 
+
+présence au sein de ces déchets est normal ou lié à un dysfonctionnement de tri ou une erreur humaine…  
+
+○  34  événements  survenus  sur  des  sites  de  prise  en  charge  de  déchets  où  la  présence  de  déchets  non  conformes 
+
+(potentiellement batteries lithium) est à l’origine d’un départ de feu ; 
+
+○  4 événements survenus sur des stockage de batteries lithium. Les causes de ces événements ne sont pas précisées. A noter 
+que  l’un  d’eux  est  survenu  dans  un  cabanon  de  stockage  de  batteries  de  voiturettes  électriques  sur  un  camping  et  a 
+engendré une explosion ; 
+
+○  6 événements sont survenus sur des équipements/installations de stockage d’électricité par batteries, sur des BESS, des 
+
+parcs ou installations photovoltaïques : 
+
+- 
+- 
+
+- 
+- 
+
+Un départ de feu sur un conteneur d’une BESS a été rapidement maitrisé par les protections du site, 
+Un départ de feu est survenu lors d’une phase de test, préalablement à la mise en service d’une BESS en lien, sans 
+doute, avec des fuites de liquide de refroidissement. Sur cet événement, les équipements de sécurité n’ont pas 
+fonctionné (phase test), 
+Trois événements survenus sur des BESS ou parc photovoltaïque n’ont pas de cause identifiée, 
+Un événement, survenu en chine en 2021, sur une installation photovoltaïque de toiture a engendré l’explosion des 
+batteries. Les causes et origines de l’incendie ne sont pas détaillées.  
+
+Les batteries lithium sont de plus en plus répandues et équipent la plupart des appareils portables, la quasi-totalité des véhicules 
+électriques, les moyens de mobilités douces et sont utilisées pour stocker les énergies, notamment renouvelables.  
+
+Les piles et batteries lithium sont régulièrement à l’origine d’un feu lorsqu’elles sont stockées en vrac dans des contenants (fût, 
+caisse, etc…) ou en déchèterie, notamment lorsque leur présence n’est pas connue et donc non prise en considération dans les 
+modalités de stockage et manutention. On note également plusieurs événements survenus sur des équipements défaillants en 
+attente de recyclage ou prise en charge.  
+
+1.3.  Rapport  sur  « L’implication  des  batteries  Lithium-ion  dans  l’accidentologie  hors  secteur 
+
+d’activité des déchets » - 2022 
+
+En janvier 2022, le BARPI a édité une synthèse des événements impliquant des batteries Li-ion depuis les années 2000, survenus 
+hors activité déchets et hors utilisation par des particuliers. Ainsi, cette analyse porte sur 36 événements uniquement (428 n’ont 
+pas été retenus car impliquent des technologies sans lithium ou le secteur des déchets). 
+
+Les activités employant des batteries lithium-ion peuvent être divisées en 2 ensembles : les activités de fabrication, recherche ou 
+développement (60% des événements) et les activités d’utilisation.  
+
+Illustration 15 : Répartition par code d’activité de l’accidentologie impliquant des batteries Li-ion) 
+Source : BARPI 2022 
+
+Les phénomènes dangereux identifiés sont de 3 types. L’incendie est le phénomène prédominant. Il est généralement couplé à 
+des rejets de matières dangereuses (fumées notamment) voir des explosions. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+Illustration 16 : Répartition des événements par phénomène 
+Source : BARPI 2022 
+
+Le taux de connaissance des perturbations avérées ou supposées concernant ces événements s’établit autour de 61%. Le défaut 
+matériel est la cause principale. 
+
+Illustration 17 : Nombre d’événements par perturbations avérées ou supposées 
+Source : BARPI 2022 
+
+La synthèse du BARPI précise que « quel que soit le type de batteries Lithium, dès lors que celles-ci sont sollicités en dehors de leur 
+plage de fonctionnement nominale (conditions électriques, thermique et mécaniques), un emballement thermique d’une cellule est 
+susceptible de survenir ». En cas d’emballement thermique, des gaz toxiques peuvent être libérés lors de la rupture d’enveloppe 
+de la batterie.  
+
+2.  CONCLUSIONS 
+
+La quasi-totalité des incidents recensés concernent un incendie. 
+
+Les  analyses  de  l’accidentologie  en  lien  avec  la  présence  de  batteries  lithium  montrent  que  la  grande  majorité  des  incidents 
+survenus concernent des activités « déchets ».  
+
+L’implication d’un accumulateur à base de lithium n’est pas toujours certifiée mais souvent soupçonnée.  
+
+A noter que ces retours d’expérience ne précisent généralement pas la technologie de la batterie. Il peut cependant être supposé 
+qu’une grande partie de ces événements sont liés à des batteries de technologie NMC (stabilité chimique moindre) ou autres : l’un 
+des  événements  est  lié  à  la  formation  de  dendrites  peu  probable  sur  des  batteries  Lithium  ion  et  la  technologie  NMC  était 
+grandement  majoritaire  ces  dernières  années  pour  les  batteries  de  voitures  électriques  et  les  installations  stationnaires  de 
+stockage d’électricité. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+Lorsque les batteries Li-ion sont utilisées en dehors de leur condition de fonctionnement (température, tension…), soumises à des 
+conditions environnementales dégradées (humidité, poussières, ventilation insuffisante...) ou à un choc, elles peuvent faire l’objet 
+d’un emballement thermique.  
+
+Ce type de phénomène peut également être causé par des défauts de fabrication à l’échelle cellule (contamination, présence de 
+défauts au niveau des électrodes ou du séparateur…) ou à l’échelle module/rack/système (défaut de serrage, fusible insuffisant 
+ou mal dimensionné, défaut d’isolement, défaillance BMS...).  
+
+Le phénomène d’emballement thermique se caractérise par des réactions de décompositions exothermiques successives pouvant 
+se traduire par une fuite d’électrolyte liquide, l’émission de fumées, un feu ou une explosion. Au sein d’un système stationnaire, 
+la défaillance peut provenir d’une seule cellule et l’emballement thermique peut se propager à l’ensemble d’un module, rack, 
+conteneur, voire aux conteneurs voisins. 
+
+Ainsi, il ressort de cette analyse de l’accidentologie mais également de la bibliographie disponible les points suivants : 
+
+○  Le management précis des batteries est primordial pour assurer la bonne conduite de l’activité et sa sécurisation. En effet, 
+cette  gestion  assure  une  surveillance  des  équipements,  permet  d’identifier  rapidement  toute  situation  dangereuse  et 
+permet d’intervenir à distance ou en présentiel pour y remédier ; 
+
+○  La conception du site doit permettre d’assurer des conditions adaptées au fonctionnement des batteries : condition de 
+
+pression, température, humidité, charge et décharge… ; 
+
+○  Des  agressions  extérieures  peuvent  engendrer  une  altération  de  la  batterie  pouvant  aboutir  sur  un  emballement 
+
+thermique ou la formation d’une atmosphère explosive ; 
+
+○  La difficulté d’intervention des secours est survenue sur une partie de ces événements. Ces difficultés étaient dues à : 
+l’absence  d’une  réserve  d’eau  sur  le  site  ou  une  défaillance  de  la  borne  incendie,  la faible  visibilité  du  fait  des  fumées 
+d’incendie  notamment  dans  les  événements  survenus  au  sein  d’un  bâtiment,  le  manque  d’indication  sur  les  éléments 
+stockés ; 
+
+○  La  détection  rapide  des  incidents,  notamment  par  des  caméras  thermiques,  permet  une  intervention  et  maitrise  des 
+
+risques plus rapides des incidents ; 
+
+○  L’importance d’assurer une gestion des batteries usagées et en fin de vie afin d’assurer une prise en charge rapide de ces 
+
+équipements et leur évacuation vers des centres de stockage, recyclage ou élimination adaptés.  
+
+La société AMARENCO a intégré ses éléments dans son cahier des charges pour la conception du projet de stockage d’électricité 
+par batteries de Marlenheim.  
+
+A noter également, deux points d’attention :  
+
+○  Lors des événements survenus, les eaux d’extinction ont été récupérées et confinées. Les analyses réalisées sur ces eaux 
+ont montré, dans certains cas, des taux de polluant nécessitant une prise en charge par un organisme adapté. Dans d’autres 
+cas, l’absence de polluant a permis leur rejet vers le milieu naturel. Il est important de souligner que la conformité et la 
+qualité du réseau de collecte est importante. En effet, certains événements ont entrainé des déversements directs des eaux 
+d’extinction dans le milieu naturel suite à l’absence ou à une défaillance du réseau de collecte ; 
+
+○  Au cours ou à la suite des incendies recensés, des analyses de fumées ou de retombées de fumées ont pu être effectuées. 
+Dans la majorité des événements, les analyses menées n’ont pas mis en évidence de dépassement des taux réglementaires. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+VII.  REDUCTION DES POTENTIELS DE DANGERS A LA SOURCE 
+
+1.  CHOIX DE LA TECHNOLOGIE 
+
+Les 2 principales familles de batteries lithium ion aujourd’hui employées en France sont : 
+
+○  Le NMC (Nickel Manganèse Cobalt) ; 
+
+○  Le LFP (Lithium Fer Phosphate). 
+
+A noter qu’il existe d’autres familles, moins détaillées ici car leur caractéristiques et/ou développement actuels ne permettent pas 
+leur emploi dans un système stationnaire de stockage d’électricité.  
+
+Le site flashbattery présente une comparaison des principales technologies de batteries lithium. Il apparait : 
+
+○  Les technologies les plus sécuritaires sont les batteries LFP (Lithium-Fer-Phosphate) et LTO (Lithium-Titane) ; 
+
+○  Les technologies présentant une énergie spécifique, ou densité massique, la plus intéressante (rapport entre la quantité 
+d’énergie contenue et le poids de la batterie) sont les batteries NCA (Nickel-Cobalt-Aluminium) et NMC (Nickel-Manganèse-
+Cobalt) ; 
+
+○  Les technologies présentant un taux de charge/décharge (taux C) le plus intéressant (correspondant à la capacité de la 
+
+cellule à générer de l’énergie) sont les batteries LTO, NCA et NMC. 
+
+Illustration 18 : Comparaison des différentes technologies de batteries Li-ion 
+Source : flashbattery 
+
+Aujourd’hui, la société AMARENCO fait le choix de s’orienter vers le système LFP qui présente une sécurité accrue de la chimie vis-
+à-vis de la technologie NMC. Le risque d’emballement thermique est ainsi minimisé. La technologie NMC a initialement eu un 
+développement plus rapide du fait de sa forte densité massique qui en fait la technologie la plus intéressante pour les batteries 
+de  voiture  électrique  (marché  porteur  du  développement  des  batteries).  A  titre  comparatif,  la  technologie  NMC  permet  un 
+stockage de l’ordre de 200 Wh par kg contre moins de 120 Wh pour la technologie LFP. La technologie NMC a donc été logiquement 
+utilisée dans les projets de stockage stationnaire d’électricité. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.34 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+Cependant, la technologie LFP prend de plus en plus d’ampleur sur le marché du stockage stationnaire d’électricité. En effet, la 
+densité  massique  et  volumique  est  moins  prépondérante  sur  ce  type  de  projet  contrairement  à  la  stabilité  et  sécurité  de  la 
+technologie. L’analyse précédemment menée a notamment mis en évidence les risques incendie de la technologie NMC (court-
+circuit, emballement thermique). Aujourd’hui, il est estimé que : 
+
+○ 
+
+○ 
+
+la montée en température de batteries LFP est inférieure aux batteries NMC. De plus ce type d’équipement  a une très 
+bonne tenue de température (fonctionnement assuré jusqu’à 70°C) ; 
+
+les cellules NMC sont plus fragiles et donc plus vulnérables aux courts circuits ou aux contaminations extérieures ;  
+
+○  en cas de combustion, la cathode ne produit pas d’oxygène ce qui limite l’emballement thermique ; 
+
+○ 
+
+la densité énergétique des batteries LFP est plus faible et aura tendance à moins chauffer (bien qu’elle soit plus longue à 
+refroidir). 
+
+Un second critère, majeur pour la société AMARENCO, fait que les batteries LFP sont privilégiées : la technologie NMC emploie du 
+cobalt, dont le plus grand gisement se localise en République Démographique du Congo qui abrite 50% de la ressource mondiale. 
+Les conditions d’extraction font que la société AMARENCO souhaite privilégier des technologies dont les éléments sont traçables 
+et dont l’exploitation respecte les droits humains et les enjeux environnementaux. De plus, les composants d’une batterie LFP 
+étant mieux répartis dans le monde, il apparait une plus grande diversité d’approvisionnement.  
+
+2.  CHOIX DES EQUIPEMENTS ET DE CONCEPTION 
+
+•  Rapport INERIS - Moyens de maîtrise des risques des batteries pour les applications conteneurisées - 2023 
+
+En juillet 2023, l’INERIS a publié en rapport étudiant les moyens de maitrise des risques des batteries lithium sur les BESS. Sur la 
+base  des  retours  d’expériences,  l’INERIS  a  détaillé  des  mesures  indispensables  pour  maitriser  les  risques  sur  les  activités  de 
+stockage d’électricité par batteries. L’illustration ci-dessous synthétise ces mesures : 
+
+Illustration 19 : Etapes de la défaillance et mesures de maitrises 
+Source INERIS 2023 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+On notera les barrières préventives suivantes : 
+
+○  Qualité de fabrication et de conception des cellules ; 
+
+○  Maitrise des conditions environnementales ;  
+
+○  BMS et capacité d’arrêt d’urgence ; 
+
+○  Protection passive des circuits. 
+
+Le projet de site de stockage d’électricité par batteries porté par la société AMARENCO intègre les barrières préventives définies 
+par l’INERIS (cf. paragraphe suivant). 
+
+•  La norme UL 9540A 
+
+UL 9540A est une norme d'essai élaborée par Underwriters Laboratories (UL), un organisme mondial de certification de la sécurité. 
+Elle concerne notamment les systèmes de stockage d'énergie par batterie. La norme établit des critères et des procédures d'essai 
+pour évaluer la sécurité, les performances et la fiabilité de ces systèmes. Il s’agit d’une norme reconnue par les principaux pays 
+développeur de système de stockage d’électricité par batteries.  
+
+Ainsi, les tests UL 9540A permettent de vérifier que les systèmes de stockage d'énergie proposent un système de sécurité suffisant 
+et peuvent gérer les risques potentiels de ce type d’activité (emballement thermique, explosion, incendie, défaillances électriques) 
+que l’origine soit interne ou externe. 
+
+Les procédures d'essai de la norme UL 9540A couvrent divers aspects d'un système de stockage d'énergie, notamment les cellules, 
+les modules de batterie, les conteneurs, les systèmes de gestion thermique et les contrôles de sécurité. On notera entre autres, 
+les tests suivants : 
+
+○  Test de propagation thermique : Ce test évalue la capacité du système à empêcher l'emballement thermique d'un élément 
+
+de la batterie de se propager aux éléments ou modules adjacents. 
+
+○  Essai de surcharge : L'objectif de cet essai est d'évaluer la réaction du système de stockage d'énergie à une surcharge, afin 
+
+de s'assurer qu'elle n'entraîne pas de défaillance catastrophique. 
+
+○  Essai d'écrasement : Ce test détermine l'intégrité structurelle du système en le soumettant à des contraintes mécaniques, 
+
+simulant des événements accidentels potentiels. 
+
+○  Essai de court-circuit : il examine la réaction du système à un court-circuit et vérifie sa capacité à gérer de telles situations 
+
+en toute sécurité. 
+
+○  Essai  d'exposition  au  feu  :  Ce  test  évalue  les  performances du  système  en  cas  d'incendie  extérieur,  en  s'assurant  qu'il 
+
+n'aggrave pas la situation ou ne contribue pas à la propagation de l'incendie. 
+
+Dans son cahier des charges, la société AMARENCO imposera à ses fournisseurs le respect des exigences de la norme UL 9540A 
+pour l’ensemble des conteneurs batteries.  
+
+•  Choix de conception du site AMARENCO 
+
+Les retours d’expérience, les différentes études menées et les réflexions menées par AMARENCO et les différents fournisseurs ont 
+permis de définir une série de mesures sécuritaires de prévention et d’intervention afin de maitriser les risques.  
+
+Points d’attention issus des retours 
+d’expérience et de la bibliographie 
+
+Choix de conception 
+
+Choix de la technologie de batteries 
+
+AMARENCO a fait le choix de privilégier la technologie LFP qui, à ce jour, est la plus 
+sécuritaire.  
+
+AMARENCO  continue  à  suivre  le  développement  des  technologies  et  les  retours 
+d’expérience dans le domaine du stockage stationnaire d’électricité par batteries dans 
+une volonté d’amélioration continue de ses projets.  
+
+Management précis des batteries 
+primordial 
+
+Mise en place d’un BMS adapté au niveau des racks, des conteneurs et du site (assurer 
+un  contrôle  automatisé  des  équipements  sur  la  base  de  données  collectées  en 
+continue : température, intensité, tension). 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 2  CARACTERISATION DES DANGERS ET DES ENJEUX  
+
+Assurer des conditions adaptées au 
+fonctionnement des batteries 
+
+Les modules batteries seront IP66 (absence d’entrée d’air ou d’humidité). Ils seront 
+installés dans des racks, eux même dans des conteneurs. 
+
+Chaque  rack  sera  doté  d’un  système  de  refroidissement  à  eau  (contrôler  la 
+température des batteries). Ce système permet également, au besoin, de réchauffer 
+les  batteries  afin  d’assurer  une  exploitation  dans  les  conditions  de  température 
+optimale. 
+
+Les conteneurs présenteront une enveloppe IP55 et seront conforme à la norme UL 
+9540A. 
+
+Le BMS permettra de gérer les charges et décharges. 
+
+Les modules batteries seront répartis en rack dans différents conteneurs. 
+
+Eviter les agressions extérieures 
+
+Le  site  sera  entièrement  clôturé  et  équipé  de  portails  d’entrée  et  d’un  système  de 
+vidéosurveillance. 
+
+Le  projet  se  localise  en  dehors  des  zones  présentant  des  conditions  climatiques 
+pouvant altérer le site : zone de montagne, côtière… 
+
+Le site est conçu est organisé afin de permettre un accès rapide et facilité des secours.  
+
+Faciliter l’intervention des secours 
+
+Le site prévoit la mise en place de réserve d’eau incendie.  
+
+AMARENCO réalisera des échanges avec le SDIS (phase conception et mise en service 
+du site).  
+
+Le site intégrera des détecteurs et alarmes (thermique, gaz, tension…) permettant de 
+déceler rapidement une anomalie de fonctionnement ou un incident. 
+
+En  cas  d’incident  détecter,  des  systèmes  d’intervention  automatisé  permettront  de 
+maitriser rapidement la défaillance : 
+
+Permettre  une  détection  rapide  des 
+incidents 
+
+○  Système de déconnexion électrique 
+
+○  Système d’alerte sonore et visuelle 
+
+○  Système de ventilation / extraction gaz 
+
+○  Système de diffusion de gaz inerte 
+
+○  Système d’aspersion d’eau à l’intérieur du conteneur 
+
+Des visites de contrôle seront effectuées régulièrement. 
+
+Gérer les batteries en fin de vie 
+
+Un plan de gestion des batteries en fin de vie sera mis en place. Leur prise en charge 
+se fera par un organisme compétant et conformément à la réglementation en vigueur. 
+
+L’ensemble  de  ces  paramètres  sont  intégrés  dans  le  cahier  des  charges  AMARENCO  et  sont  les  mesures  minimums  que  les 
+fournisseurs d’équipements doivent proposer.  
+
+Ainsi, le projet a été conçu en intégrant une réduction à la source des potentiels de dangers. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 3  ANALYSE PRELIMINAIRE DES RISQUES  
+
+PARTIE 3   ANALYSE PRELIMINAIRE DES RISQUES 
+
+I.  ANALYSE PRELIMINAIRE DES RISQUE DE L’ACTIVITE PROJETEE 
+
+L’analyse des retours d’expérience a mis en évidence que le risque principal concerne l’incendie. Le rejet de matière dangereuse 
+et l’explosion sont également des événements recensés dans l’accidentologie.  
+
+La présence d’équipements électriques, notamment de haute tension, engendre également un risque d’électrocution.  
+
+Pour rappel, le projet a été conçu en intégrant une réduction à la source de ces potentiels de dangers. 
+
+1.  RISQUE INCENDIE 
+
+1.1.  Principe d’un incendie 
+
+Pour qu’un incendie se déclare, il faut la présence 
+des trois éléments simultanément : 
+
+○  Un combustible, 
+
+○  Un comburant (oxygène de l’air), 
+
+○  Une source d’énergie d’activation. 
+
+Source : http://wwwedu.ge.ch/co/golette/college_doc/jd2000/PHOTOS_JD/triangle2.gif 
+
+L’extension du feu s’effectue par transport d’énergie dû (Cf. schéma 
+ci-contre) : 
+
+○  Au rayonnement : apport de chaleur aux matériaux voisins du 
+
+foyer par rayonnement électromagnétique, 
+
+○  À 
+
+la  convection :  transfert  de  chaleur  par  mouvement 
+
+ascendant d’air réchauffé (fumées, gaz chauds), 
+
+○  À  la  conduction :  transfert  de  chaleur  au  sein  d’un  même 
+
+matériau, 
+
+○  Au  déplacement  de  substances  déjà  en  combustion 
+
+(projections, envol de flammèches).  
+
+Les flammes ont une température variant de 600 à 1 200°C et à leur contact, les brûlures sont immédiates. Une brûlure peut 
+également survenir en cas de contact avec une surface chaude.  
+
+Plusieurs défauts sur l’installation peuvent être à l’origine d’un incendie sur l’installation : 
+
+Source : http://www.goldfire.be/fr/Images/propagation.gif 
+
+○  Un court-circuit, 
+
+○  Un arc électrique, 
+
+○  Un défaut sur les batteries de stockage. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 3  ANALYSE PRELIMINAIRE DES RISQUES  
+
+1.2.  Risque en lien avec les batteries 
+
+Le déclenchement d’un incendie lié aux batteries de stockage est le principal risque. Le danger provient d’abord de la conception 
+même  de  la  batterie.  La  rencontre  entre des matériaux à  haute  densité  énergétique et  des électrolytes très  inflammables  est 
+l’exemple même d’un mélange pouvant générer un incendie. Cela devient particulièrement vrai lorsqu’une batterie au lithium 
+libère de manière incontrôlée l’énergie qu’elle a stockée. Car dès que la chaleur générée dépasse le point de fusion du séparateur, 
+une réaction en chaine se produit appelée « Emballement thermique » ou « Thermal Runaway ». 
+
+L’énergie thermique élevée conduit d’abord à l’évaporation de l’électrolyte, créant ainsi de la chaleur supplémentaire et des gaz 
+combustibles. Si la pression dépasse un certain point, les gaz inflammables sont libérés et forment un mélange inflammable avec 
+l’air : des flammes apparaissent à l’extérieur de la batterie. Le courant thermique d’une seule cellule suffit à chauffer les cellules 
+voisines du bloc de batterie jusqu’à une réaction en chaine. Une fois cette réaction en chaine enclenchée, la batterie brûle et 
+dans certains cas bien spécifique au bout de plusieurs minutes elle peut éventuellement exploser. 
+
+Comme il a été présenté précédemment, les batteries de technologie LFP sont les plus stables chimiquement réduisant le risque 
+d’emballement thermique. Le graphique ci-dessous présente l’énergie générée par différentes technologies lithium-ion, lors d’un 
+emballement thermique provoqué artificiellement. On constate la montée en température de batteries LFP est bien inférieure aux 
+batteries NMC, mais également aux autres technologies et qu’elle présente une bien meilleure tenue aux hautes températures.  
+
+Illustration 20 : Emballement thermique d’une batterie 
+Source : Sandia National Laboratories 
+
+De plus, la conception du site de stockage permettra d’assurer une surveillance des conditions de fonctionnement afin que les 
+conditions  optimales  des  batteries  soient  respectées.  Il  s’agit  notamment  d’une  régulation  de  la  température  des  racks  mais 
+également du conteneur, et une surveillance de différents paramètres par le BMS (tension, courant, température). Ainsi, en cas 
+d’apparition  d’une  surchauffe  d’un  équipement,  celui-ci  pourra  être  immédiatement  déconnecté,  bien  avant  d’atteindre  une 
+température suffisante pour initier un emballement thermique.  
+
+1.3.  Autres éléments déclencheurs 
+
+Un court-circuit se produit lors d’un contact entre la phase et le neutre, à la suite d’un défaut d’isolation par exemple. Un arc 
+électrique est susceptible d'apparaître lors de l’ouverture ou la fermeture d’un circuit (défaut de serrage ou foudre par exemple). 
+La vérification périodique de l’installation (décrite précédemment) et le suivi continu des données de charge/décharge suffit à 
+prévenir ces risques.  
+
+Les batteries seront réparties dans différents conteneurs positionnés sur une plateforme à plus de 10 m des limites du site. Un 
+départ d’incendie à l’extérieur du site n’aurait pas d’incidence sur ces équipements. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 3  ANALYSE PRELIMINAIRE DES RISQUES  
+
+2.  RISQUE EXPLOSION 
+
+Une ATEX (ATmosphère EXplosive) est : 
+
+« Un mélange avec l’air dans les conditions atmosphériques, de substances 
+inflammables sous forme de gaz, vapeurs, brouillards ou poussières, dans 
+lequel, après inflammation, la combustion se propage à l’ensemble du 
+mélange non brûlé ». 
+
+Source : http://www.prc.cnrs-gif.fr/images/document-
+atex/explosion-atex.gif 
+
+L’augmentation de la pression dans un espace confiné à des valeurs supérieures à la capacité de résistance des matériaux engendre 
+la  ruine  des  équipements.  Les  parois  les  plus  fragiles  se  rompent  lorsque  la  contrainte  ultime  est  atteinte.  La  destruction  des 
+équipements s’accompagne de la propagation d’une onde de pression aérienne, de la projection des matériaux et de la perte de 
+confinement (libération de gaz ou déversement de matière). 
+
+Les cellules seront positionnées au sein de modules, eux même positionnés dans des racks au sein des conteneurs. Ces séparations 
+et  le  positionnement  des  équipements  aux  sein  d’un  conteneur  permettent  d’éviter  tout  risque  d’incidence  à  l’extérieur  du 
+conteneur en cas d’incident sur un équipement mais également tout risque de détérioration (choc notamment) des équipements.  
+
+Au niveau du conteneur, la formation d’une ATEX n’est pas un phénomène déjà survenu. Bien qu’IP55 (efficace contre le contact, 
+les  jets  d'eau  et  les  poussières),  le  conteneur  n’est  pas  totalement  étanche  et  présente  une  taille  modérée.  Il  n’est  donc  pas 
+susceptible d’avoir une augmentation de pression à des valeurs suffisante pour engendrer une explosion.  
+
+3.  RISQUE TOXIQUE 
+
+3.1.  Emissions atmosphériques 
+
+Il est rappelé qu’en fonctionnement normal, le projet ne génère aucun risque d’émissions gazeuses.  
+
+Dans  son  rapport  de  juillet  2023,  l’INERIS  précise  que  « lors  d’essai  abusifs  (électrique  type  surcharge  /  thermique  type 
+emballement) réalisés sur des batteries Li-ion, il a été noté que les principaux gaz détectés dans les fumées de décomposition et/ou 
+de combustion des seuls éléments constitutifs des cellules Li-ion étaient le CO2, le CO, des hydrocarbures comprenant CH4, C2H4, 
+C2H2, etc. et les carbonates organiques (DMC, EMC…), de l’H2, le HF et le POF319. Le formaldéhyde (CH2O), l’HCl et le monoxyde 
+d’azote (NO) peuvent également être détectés. 
+
+Ces fumées contiennent ainsi des gaz de nature : 
+
+○ 
+
+inflammable (CO, CH4, C2H4, C2H2, H2, carbonates organiques) ; 
+
+○  toxique, c’est-à-dire des substances pour lesquelles des seuils de toxicité aigüe existent (CO, HF, HCl, CH2O, NO, CO2 à forte 
+concentration).  A  notre  connaissance,  il  n’existe  pas  de  données  consolidées  sur  la  toxicité  du  POF3  (fluorure  de 
+phosphoryle). Dans une approche conservatrice, il est toutefois possible de considérer le seuil de toxicité aigüe du fluorure 
+d’hydrogène (HF). » 
+
+Plus  précisément,  le  groupe  de travail  Systèmes  de Stockage  Electrochimiques  de  l’Energie a  réalisé  l’évaluation de  la toxicité 
+émanant d’un feu sur plusieurs types de batterie Li-ion. Lors des essais, trois types d’émissions/fumées distinctes ont été mis en 
+évidence lors des différents brulages : 
+
+○  Fumée de combustion de la batterie prise dans un incendie. Elles présentent les caractéristiques classiques des fumées de 
+feu. Aucune toxicité particulière autre que celle habituellement présente dans des fumées d’incendie n’a été détectée ; 
+
+○  Combinaison entre les fumées d’incendie et les rejets de gaz/particules de la cellule électrochimique (cf. tableau ci-après) ; 
+
+○  Expulsion de gaz sans incendie. Ce scénario est cependant peu probable et non recensé dans l’accidentologie récente. Les 
+cellules sont dans une enveloppe fermée, comprises dans un module avec enveloppe IP66. Ces modules sont positionnés 
+dans  des  conteneurs  qui,  bien  que  n’étant  pas  totalement  hermétiques,  empêcherait  un  largage  massif  de  gaz  dans 
+l’atmosphère.  Les  systèmes  de  gestion  et  de  suivi  des  installations  détecteraient  rapidement  un  tel  disfonctionnement 
+(présence de capteur de gaz).  
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 3  ANALYSE PRELIMINAIRE DES RISQUES  
+
+Il ressort bien de cette analyse que la technologie LFP est plus stable chimiquement que la NMC. En effet, les taux mesurés sont 
+bien inférieurs voir nul sur certains paramètres : HF/HCL, SO2, NO2. 
+
+Le  groupe  de  travail  Systèmes  de  Stockage  Electrochimiques  de  l’Energie  conclut  qu’à  « l’air  libre,  hormis  les  carbonates,  les 
+différents gaz toxiques suivent l’aéraulique des fumées d’incendie et se trouvent rapidement dilués. Ces gaz sont émis de manière 
+très ponctuelle, uniquement lors des phases d’ouverture des évents des cellules sous pression. Ils n’apportent donc aucune toxicité 
+particulière. » 
+
+Il  est  également  rappelé  que  dans  l’accidentologie  récente,  lors  d’incendie  sur  des  éléments  contenant  des  piles  ou  batteries 
+lithium,  des  analyses de  fumées  ou  de  retombées  ont  ponctuellement  été  effectuées.  Il  ne  ressort  généralement  pas  de  taux 
+notables.  
+
+3.2.  Emissions sols et eaux 
+
+Le  système  de  refroidissement  des  modules  comprend  un  mélange  d’eau  et  de  glycol.  Le  cahier  des  charges  de  la  société 
+AMARENCO impose l’intégration d’un mélange n’induisant pas de risque environnemental significatif en cas de fuite.  
+
+Les transformateurs contiennent de l’huile. Ils seront systématiquement positionnés sur rétention permettant de récupérer les 
+éventuelles égouttures. Le transformateur principal disposera en plus d’une fosse déportée. 
+
+En  cas  d’incendie  sur  le  site,  la  combustion  de  certains  équipements  peut  mobiliser  ou  libérer  des  polluants.  Concernant  les 
+électrolytes, libérés en cas de rupture de cellules, ils seraient : 
+
+○  Hexafluorophosphate de lithium qui est rapidement dégradé lors de sa dilution avec les eaux ; 
+
+○  Des produits inflammables qui seraient détruits par l’incendie.  
+
+Ces polluants resteraient au niveau du conteneur qui fera office de rétention. En cas de transport par les eaux d’extinction, ils 
+seront récupérés dans la noue étanche du site ou dans des bacs de rétention qui présentent une capacité de 240 m3. Ces eaux 
+seront ainsi confinées sur le site. A la fin de l’incident, les eaux pourront être analysées afin de caractériser les potentiels polluants 
+présents. Si besoin, elles seront prises en charge par un organisme adapté. L’accidentologie des dernières années a montré que 
+ces eaux d’extinction peuvent habituellement être rejetées dans le milieu naturel du fait de l’absence de polluant (ou de taux non 
+significatifs). 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 3  ANALYSE PRELIMINAIRE DES RISQUES  
+
+4.  RISQUE D’ELECTROCUTION 
+
+De nombreux équipements électriques seront présent sur l’installations (câble, armoires électriques…). Ainsi, il existe un risque de 
+contact direct (avec une pièce nue sous tension) ou indirect (pièce conductrice accidentellement mise sous tension).  
+
+Ces contacts sont susceptibles de provoquer des électrisations ou électrocutions.  
+
+La prévention du risque électrique repose sur des dispositions réglementaires figurant dans le Code du travail. Elle concerne la 
+mise en sécurité des installations et des matériels électriques, et ce dès leur conception. L’objectif est d’éviter tout contact, qu’il 
+soit direct ou indirect, avec des pièces nues sous tension ou mises accidentellement sous tension. En outre, le matériel doit être 
+conforme à la réglementation en vigueur afin de protéger les utilisateurs. 
+
+Ce projet sera conforme aux dispositions du code du travail. Ainsi, les équipements électriques seront conçus et dimensionnés 
+selon les normes en vigueur et disposés dans des armoires, coffrets pour les protéger. Les réseaux électriques HT seront enterrés 
+dans le sol avec un recouvrement minimum de 80 cm. Les masses de tous les équipements seront mises à la terre et asservies à 
+une coupure automatique de l'alimentation en cas de défaut. 
+
+De plus, une vérification périodique sera mise en place pour contrôler la conformité d'une installation électrique aux exigences 
+réglementaires et normatives en vigueur. 
+
+Par conséquence, le risque de d’électrocution est peu probable. 
+
+II. SYNTHESE DES SCENARIOS D’ACCIDENT 
+
+Le tableau en page suivante présente une synthèse de l’analyse des risques. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.42 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 3  ANALYSE PRELIMINAIRE DES RISQUES  
+
+Particularités de 
+l’installation 
+
+Phénomène redouté 
+
+Causes 
+
+Phénomènes 
+dangereux 
+
+Milieu 
+impacté 
+
+Mesures mises en place 
+
+Analyse 
+
+Scénario retenu ? 
+
+Emballement thermique 
+
+Défaillance matériel 
+
+Exploitation dans des 
+condition inadaptées 
+
+Agression extérieure 
+(choc) 
+
+INCENDIE 
+
+Départ de feu électrique 
+
+Défaillance électrique 
+
+INCENDIE 
+
+s
+e
+i
+r
+e
+t
+t
+a
+b
+r
+u
+e
+n
+e
+t
+n
+o
+C
+
+Présence  de  batteries 
+des 
+lithium 
+conteneurs 
+
+dans 
+
+Dégagement de fumée 
+
+Incendie 
+
+DEGAGEMENT 
+TOXIQUE 
+
+Apport d’une source 
+d’ignition 
+
+Explosion 
+
+Emballement thermique 
+
+EXPLOSION 
+
+Agression extérieure 
+(choc) 
+
+Humain 
+Eau 
+Sol 
+Air 
+
+Humain 
+Eau 
+Sol 
+Air 
+
+Humain 
+Eau 
+Sol 
+Air 
+
+Pollution des sols et des 
+eaux 
+
+Rupture de confinement 
+
+Incendie 
+
+DEVERSEMENT DE 
+MATIERES 
+
+Eau 
+Sol 
+
+Electrocution 
+
+Court-circuit 
+
+Défaut électrique 
+
+ELECTROCUTION 
+
+Humain 
+
+•  Choix  de  la  technologie  LFP  (faible  risque 
+
+d’emballement thermique), 
+
+•  Maitrise  des  conditions  de  fonctionnement 
+(régulation 
+contrôle  des 
+température, 
+charges et décharges, présence d’un BMS…), 
+•  Respect de la norme UL 9540A vis-à-vis de la 
+
+conception des conteneurs, 
+
+•  Répartition  des  équipements  dans  plusieurs 
+
+conteneurs au sein d’un site clôturé.  
+
+•  Sécurité électrique, 
+•  Coupes circuits, 
+•  Mise à la terre des équipements électriques, 
+•  Présence de détecteur et alarmes, 
+•  Vérification et maintenance régulière, 
+•  Présence de gaz inertant dans les conteneurs 
+permettant de stopper rapidement un départ 
+de feu électrique. 
+
+•  Maitrise  du  risque  incendie  /  emballement 
+
+thermique (cf. partie précédente), 
+
+•  Séparation des équipements, 
+•  Choix de la technologie LFP, 
+•  Implantation du projet dans un milieu ouvert. 
+
+•  Maitrise  du  risque  incendie  /  emballement 
+
+thermique (cf. partie précédente), 
+
+•  Ventilation 
+
+évitant 
+
+la 
+
+formation 
+
+d’atmosphère explosive, 
+
+•  Event d’explosion, 
+•  Respect de la norme UL 9540A vis-à-vis de la 
+
+conception des conteneurs, 
+
+•  Répartition  des  équipements  dans  plusieurs 
+
+conteneurs au sein d’un site clôturé. 
+
+•  Utilisation  d’un  mélange  eau/glycol  à  faible 
+
+risque environnemental, 
+
+•  Maitrise  du  risque 
+
+incendie 
+
+(cf.  partie 
+
+précédente), 
+
+Les  choix  de  conception  décrits  dans  la  partie  précédente 
+permettent  de  réduire  à  la  source  le  risque  incendie : 
+technologie LFP, maitrise des conditions de fonctionnement 
+(gestion  précise  des 
+températures,  des  conditions 
+pression/humidité,  des  opérations  de  charge/décharge)  et 
+d’agression  extérieurs  (enveloppe  rigide  des  cellules, 
+installation dans des conteneurs…).  
+
+La  mise  en place des  installations  électriques  sera  réalisée 
+conformément à la réglementation. Ces installations feront 
+l’objet d’un contrôle régulier et d’une maintenance adaptée.  
+
+En cas de disfonctionnement, la surveillance automatisée et 
+à  distance  du  site  permettront  de  déconnecter 
+les 
+équipements  défaillants.  En  cas  de  départ  de  feu,  la 
+présence de gaz inertant permettra de maitriser rapidement 
+l’incident  avant 
+tout  déclenchement  d’emballement 
+thermique des batteries.  
+
+La maitrise du risque incendie sur les conteneurs batteries 
+permet  de  maitriser  le  risque  de  dégagement  toxique.  En 
+effet, en fonctionnement normal ce risque est nul.  
+
+Les  études  sur  les  batteries  LFP  montrent  qu’en  cas 
+d’incendie,  les  fumées  dégagées  ne  présentent  aucune 
+toxicité particulière.  
+La maitrise du risque incendie sur les conteneurs batteries 
+permet de limiter le risque explosion.  
+
+NON 
+
+NON 
+
+NON 
+
+Les conteneurs, racks et modules, sont conçus pour éviter la 
+formation d’atmosphère explosive (évent de surpression).  
+
+NON 
+
+L’implantation des équipements du site et la répartition des 
+équipements  dans  des  conteneurs  fermés  permet  d’éviter 
+toute agression extérieure.  
+
+La maitrise du risque incendie sur les conteneurs batteries 
+permet  de  limiter  le  risque  de  déversement  de  produits 
+polluants.  
+
+•  Mise en place d’un système de récupération 
+
+et confinement des eaux d’extinction. 
+
+A noter que le site disposera d’une rétention étanche pour 
+récupérer et confiner les eaux d’extinction.  
+
+•  Sécurité électrique, 
+•  Coupes circuits, 
+•  Mise à la terre des équipements électriques, 
+•  Respect du code du travail, 
+•  Site clôturé et sous vidéo surveillance, 
+•  Equipements 
+dans 
+
+électriques 
+
+des 
+
+Le risque d’électrocution est uniquement interne au site. Le 
+site sera clôturé et télésurveillé. Son accès ne sera autorisé 
+qu’au personnel formé au risque électrique.  
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+conteneurs fermés, 
+
+•  Affichage d’une signalétique adaptée. 
+
+NON 
+
+NON 
+
+P.43 
+P.43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n
+o
+i
+t
+a
+m
+r
+o
+f
+s
+n
+a
+r
+t
+e
+t
+s
+o
+P
+
+i
+
+o
+n
+m
+o
+d
+t
+e
+f
+f
+E
+
+PARTIE 3  ANALYSE PRELIMINAIRE DES RISQUES  
+
+Particularités de 
+l’installation 
+
+Phénomène redouté 
+
+Causes 
+
+Phénomènes 
+dangereux 
+
+Milieu 
+impacté 
+
+Mesures mises en place 
+
+Analyse 
+
+Scénario retenu ? 
+
+Court-circuit 
+
+Départ de feu 
+
+Défaut électrique 
+
+INCENDIE 
+
+Surtension 
+
+Humain 
+Eau 
+Air 
+Sol 
+
+•  Sécurité électrique, 
+•  Coupes circuits, 
+•  Mise à disposition des secours des 
+procédures de mise en sécurité, 
+
+•  Mise à la terre des équipements électriques, 
+•  Affichage d’une signalétique adaptée. 
+
+La  mise  en place des  installations  électriques  sera  réalisée 
+conformément à la réglementation. Ces installations feront 
+l’objet d’un contrôle régulier et d’une maintenance adaptée.  
+
+En cas de disfonctionnement, la surveillance automatisée et 
+les 
+à  distance  du  site  permettront  de  déconnecter 
+équipements défaillants. 
+
+Postes de 
+transformations 
+secondaire et 1 poste 
+haute tension 
+
+Déversement de produits 
+polluants 
+
+Rupture de confinement 
+
+Incendie 
+
+DEVERSEMENT DE 
+MATIERES 
+
+Eau 
+Sol 
+
+•  Maitrise du risque incendie (cf. partie 
+
+précédente), 
+
+•  Vérification et maintenance adaptée des 
+
+équipements, 
+
+•  Rétention des huiles (fosse déportée pour le 
+
+transformateur principal). 
+
+Les  transformateurs  seront  régulièrement  contrôlés  et 
+feront l’objet d’une maintenance adaptée. De plus, ils seront 
+équipés d’une rétention pour les huiles.  
+
+Electrocution 
+
+Court-circuit 
+
+Défaut électrique 
+
+ELECTROCUTION 
+
+Humain 
+
+•  Sécurité électrique, 
+•  Coupes circuits, 
+•  Mise à la terre des équipements électriques, 
+•  Respect du code du travail, 
+•  Site clôturé et sous vidéo surveillance, 
+•  Equipements 
+dans 
+
+électriques 
+
+des 
+
+Le risque d’électrocution est uniquement interne au site. Le 
+site sera clôturé et télésurveillé. Son accès ne sera autorisé 
+qu’au personnel formé au risque électrique.  
+
+Implantation du projet 
+en zone agricole sans 
+risque majeur 
+(technologique, naturel) 
+
+/ 
+
+/ 
+
+/ 
+
+•  Surveillance du site, 
+•  Eloignement des équipements des limites du 
+
+/ 
+
+site. 
+
+Le site est éloigné des équipements/zones à risque : cours 
+d’eau présentant un risque de débordement, massifs boisés, 
+canalisation de gaz naturel, route départementale majeure, 
+unité de méthanisation. 
+
+conteneurs fermés, 
+
+•  Affichage d’une signalétique adaptée. 
+
+NON 
+
+NON 
+
+NON 
+
+NON 
+
+Présence du poste 
+source RTE de 
+Marlenheim 
+
+Départ de feu / effet 
+domino sur le site 
+
+Court-circuit 
+
+Défaut électrique 
+
+INCENDIE 
+
+Surtension 
+
+Humain 
+Eau 
+Air 
+Sol 
+
+•  Surveillance du site, 
+•  Eloignement des équipements des limites du 
+
+site, 
+
+•  Prise en compte des contraintes RTE (pas 
+
+d’implantation d’équipements sous les lignes 
+très haute tension. 
+
+/ 
+
+NON 
+
+L’analyse des risques démontre que l’ensemble des risques potentiels de l’activité ont été pris en compte dès la phase de conception, notamment par : 
+
+○  La méthode d’exploitation du site : refroidissement des modules, régulation de la température des équipements. 
+
+○  Le choix de la technologie employée LFP ; 
+
+Aucun scénario majeur n’est donc retenu. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 4  MAITRISE DES RISQUES  
+
+PARTIE 4  MAITRISE DES RISQUES 
+
+I.  CONDITIONS D’AMENAGEMENT ET D’EXPLOITATION DU SITE 
+
+Comme présenté précédemment, des mesures sont prévues pour réduire le risque à la source.  
+
+1.  CHOIX DE CONCEPTION  
+
+Se reporter à la Partie 2 – VII. Réduction des potentiels de danger à la source. 
+
+2.  PREVENTION CONTRE LA MALVEILLANCE 
+
+Pour éviter toute pénétration illégale, le site sera intégralement clôturé. Cette clôture a plusieurs fonctions : 
+
+○  Délimiter parfaitement l’installation, 
+
+○ 
+
+Interdire l’accès au site à toutes personnes : promeneurs, curieux, ou individus désirant nuire à l’exploitation. 
+
+Un  portail  est 
+(exploitation/maintenance).  
+
+installé  sur  chaque  entrée  du  site,  portail  qui  n’est  ouvert  que 
+
+lors  d’interventions  sur 
+
+le  site 
+
+Le poste de transformation principal est également entouré d’une clôture.  
+
+Par ailleurs, les bâtiments sont fermés à clé en dehors des horaires d’ouverture. 
+
+Des caméras seront également mises en place sur le site.  
+
+3.  GESTION DU SITE 
+
+3.1.  Gestion et surveillance 
+
+Le site sera géré automatiquement via le système informatique BMS. Celui-ci permettra de programmer les phases de charge et 
+de décharge suivant les données transmises par RTE. Ce système permettra également d’assurer la sécurité du site en détectant 
+automatiquement des défaillances (électrique, surchauffe…) et en appliquant les procédures adaptée (déconnexion du module ou 
+du conteneur, adaptation de la ventilation, du refroidissement/chauffage…).  
+
+Cette gestion automatique sera couplée à une astreinte 24h/24 et 7j7. Le personnel d’astreinte pourra intervenir à tout moment 
+à distance pour adapter la gestion automatique suivant les informations qu’il recevra en temps réel.  
+
+Cette gestion à distance est notamment rendue possible par les nombreuses informations enregistrées en continu sur le site : 
+température des équipements, taux de charge…   
+
+3.2.  Entretien et maintenance préventive 
+
+La  maintenance  est  assurée  régulièrement  pour  tous  les  organes  de  sécurité.  Les  capteurs  seront  régulièrement  étalonnés  et 
+contrôlés. 
+
+Des plans de maintenance seront établis afin d’anticiper toute défaillance de matériel. Cette maintenance préventive est établie 
+pour chaque matériel, suivant les données propres à sa fiabilité (données constructeur) et à ses conditions d’utilisation.  
+
+Le site fera l’objet d’un contrôle régulier environ une fois par mois. 
+
+La maintenance préventive et les contrôles réglementaires seront effectués tous les ans. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.45 
+P.45 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 4  MAITRISE DES RISQUES  
+
+4.  SYSTEME DE DETECTION ET SIGNALISATION 
+
+Plusieurs équipements de surveillance seront présents au niveau des différents conteneurs permettant d’assurer la gestion du 
+site mais également d’identifier rapidement une défaillance ou un incident :  
+
+○  Contrôle tension  
+
+○  Contrôle de la température (intérieur et extérieur) ; 
+
+○  Contrôle de la pression ; 
+
+○  Contrôle de dégagement gazeux ; 
+
+○  Détecteur de flamme / fumée. 
+
+Ces éléments sont repris sur l’illustration en page suivante (Cf. Illustration 21 : Plan de masse projeté). 
+
+En cas de défaillance, la personne d’astreinte est immédiatement informée afin de pouvoir intervenir, d’abord à distance puis, si 
+nécessaire, sur site. En cas d’incident sur le site, les secours sont également informés. En parallèle, l’alarme sonore et le gyrophare 
+du conteneur concerné se déclenchent.  
+
+5.  MESURES D’INTERVENTION 
+
+5.1.  Accès et informations secours 
+
+Au niveau de l’entrée du site sera positionné un panneau d’informations précisant la nature du site, les mesures à suivre en cas 
+de constations d’un incident et les numéros à appeler en cas d’incident observé.  
+
+Des informations permettant une intervention rapide des secours en cas d’incident seront également affichées à l’entrée du site, 
+notamment  un  plan  présentant  notamment  la  localisation  des  coupures  et  les  moyens  de  récupération  des  eaux  incendie 
+(permettant d’isoler les eaux d’extinction). 
+
+A  noter  que  chaque  conteneur  sera  équipé  d’un  bouton  d’arrêt  d’urgence  permettant  la  mise  hors  tension  (en  plus  de 
+déconnecteurs principaux pour l’ensemble du site).  
+
+Les  pistes  du  site  seront  suffisamment  larges  et  disposeront  d’une  portance  suffisante  pour  permettre  aux  véhicules  lourds 
+d’accéder  au  site  et  réaliser des  manœuvres.  L’entrée sera  calibrée pour  le  passage des  camions.  Les  réserves  d’eau  incendie 
+seront positionnées aux différents angles du site.  
+
+Ces éléments sont repris sur l’illustration en page suivante (Cf. Illustration 21 : Plan de masse projeté). 
+
+5.2.  Moyen d’extinction 
+
+Sur le site 2 réserves d’eau incendie de 120 m3 chacune seront mises en place. Elles permettront de fournir aux secours, si besoin, 
+une réserve d’eau importante.  
+
+Des extincteurs seront présents sur le site, au niveau des locaux et bâtiment de pilotage.  
+
+Ces éléments sont repris sur l’illustration en page suivante (Cf. Illustration 21 : Plan de masse projeté). 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.46 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 4  MAITRISE DES RISQUES  
+
+Poste 
+électrique 
+
+Illustration 21 : Plan de masse projeté 
+Réalisation : AMARENCO 2024 
+
+Légende 
+
+Clôture du site 
+
+Clôture du poste principal 
+
+Portail d’accès 
+
+Caméra de surveillance 
+
+Bâche incendie 
+
+Aire d’aspiration 
+
+Détecteurs (2 d’hydrogène, 2 de fumée, 2 de 
+chaleur) avec alarme visuelle et sonore 
++ bouton d’arrêt d’urgence 
+
+Event de surpression / ventilation 
+
+Gaz inertant 
+
+Déconnecteur / bouton d’arrêt d’urgence 
+
+Extincteur neige carbonique 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.47 
+P.47 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 4  MAITRISE DES RISQUES  
+
+II. SYNTHESE DE LA SURETE DES INSTALLATIONS  
+
+La liste des organes de sécurité présents sur l’installation sont les suivants. 
+
+Eléments 
+
+Cellule 
+
+Module 
+
+Rack  
+
+Conteneur 
+
+Conception et surveillance 
+
+Sécurisation / Intervention 
+
+Sécurité de conception 
+
+•  Technologie LFP 
+•  Enveloppe rigide 
+•  Event de surpression sur la cellule (évitant le risque explosion) 
+
+•  Enveloppe IP66 (absence d’entrée d’air ou d’humidité) 
+• 
+•  Event de surpression 
+
+Isolation optimisée (éviter court-circuit et réduire le risque d’emballement thermique) 
+
+•  Système de refroidissement à eau pour chaque rack (contrôler la température des batteries 
+et éviter leur échauffement). Ce système permet également, au besoin, de réchauffer les 
+batteries afin d’assurer une exploitation dans les conditions de température optimale 
+
+•  Séparation des batteries dans plusieurs conteneurs 
+•  Enveloppe IP55 et résistance au feu EI40 
+•  Présence d’un système de détection et d’extinction incendie 
+
+- 
+- 
+- 
+- 
+- 
+
+Système de déconnexion électrique 
+Système d’alerte sonore et visuelle 
+Système de ventilation / extraction gaz 
+Système de diffusion de gaz inerte (maitrise feu d’origine électrique) 
+Système d’aspersion d’eau à l’intérieur du conteneur  
+
+•  Respect de la future règlementation ICPE et de la norme UL 9540A vis-à-vis de la conception 
+
+des conteneurs, notamment pour limiter les risques incendie 
+
+•  Mise en place d’un BMS adapté au niveau des racks, des conteneurs et du site (assurer un 
+contrôle  automatisé  des  équipements  sur  la  base  de  données  collectées  en  continue : 
+température, intensité, tension) 
+
+•  Choix  du  fournisseur  des  équipements :  AMARENCO  s’attache  à  consulter  plusieurs 
+fournisseurs d’équipements sur la base d’un cahier des charges précis afin de sélectionner 
+le prestataire le plus adapté et apportant la plus grande sécurité 
+
+•  Maintenance  et  vérification  régulières  des  équipements  électriques  du  site  et 
+renouvellement  des  batteries  au  besoin  (les  batteries  usagées  étant  orientées  vers  des 
+centres de prise en charge adaptés) 
+
+•  Continuité électrique assurée. Les masses métalliques seront reliées entre elles et mises à 
+la  terre.  Un  contrôle  de  ces  équipements  électrique  sera  effectué  annuellement  par  un 
+organisme agréé. 
+
+•  Détecteurs  et  alarmes  sur  le  site  (thermique,  gaz,  tension…)  permettant  de  déceler 
+
+rapidement une anomalie de fonctionnement ou un incident 
+
+•  Site entièrement clôturé équipé d’un portail d’entrée et d’un système de vidéosurveillance 
+•  Choix  d’implantation  du  site  en  dehors  des  zones  présentant  des  conditions  climatiques 
+
+• 
+
+pouvant altérer le site : zone de montagne, côtière… 
+Implantation  dans  un  milieu  ouvert,  mise  en  place  d’accès  adaptés  pour  les  secours  et 
+présence de réserves incendie 
+
+•  Selon les solutions techniques proposées par les fournisseurs : Mise en place d’un réseau de 
+récupération  des  eaux  d’extinction  des  conteneurs  et  présence  d’une  noue  étanche  de 
+confinement ou d’un bac de rétention  
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.48 
+P.48 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 4  MAITRISE DES RISQUES  
+
+Tous les travaux de réparation ou d’aménagement conduisant à une augmentation des risques (emploi d’une flamme ou d’une 
+source chaude, …) ne seront effectués qu’après délivrance d’un permis feu et en respectant les règles d’une consigne particulière. 
+Après la fin des travaux et avant la reprise de l’activité, une vérification des installations sera effectuée par l’exploitant ou son 
+représentant.  
+
+Mesures d’intervention : 
+
+○  Système  d’extinction  par  gaz  inertant  /  aérosol  permettant  de  maitriser  rapidement  un  feu  d’origine  électrique  (avant 
+
+propagation ou déclenchement d’un emballement thermique des batteries) ; 
+
+○  Système d’aspersion d’eau à l’intérieur du conteneur ; 
+
+○  Event de décompression sur les cellules, modules et conteneurs (évite l’explosion en cas de montée en pression) ; 
+
+○  Possibilité de gérer la température grâce au système de refroidissement et les contrôles de la température (intérieur et 
+
+extérieur) ; 
+
+○  Possibilité  de  gérer  la  ventilation  pour  contrôler  l’humidité  et  assurer  une  extraction  des gaz  (contrôle  de  dégagement 
+
+gazeux ; 
+
+○  Possibilité de déconnecter certains équipements si une défaillance est détectée ; 
+
+○  Bouton d’arrêt d’urgence. 
+
+Possibilité complémentaire de sécurité qui sera définie  avec le SDIS : raccord  de branchement  pompier pour pouvoir noyer le 
+container en cas d’emballement thermique. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.49 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 5  SYNTHESE ET CONCLUSION DE L’ANALYSE DE RISQUE  
+
+PARTIE 5   SYNTHESE ET CONCLUSION DE L’ANALYSE 
+DE RISQUE 
+
+Les  causes  d’exposition  au  danger  sont  multiples  et  peuvent  être  internes  (défaillance,  erreur  humaine…)  ou  externes  à 
+l’installation  (risques  technologiques,  naturels,  malveillance).  L’accidentologie  montre  que  l’incident  principal  recensé  est 
+l’incendie  notamment  lié  à  un  emballement  thermique  des  batteries.  Ainsi,  le  choix  de  la  technologie  de  batteries  apparait 
+primordial. La société AMARENCO a opté pour la technologie présentant un risque d’emballement thermique très faible. De plus, 
+la maitrise des paramètres de fonctionnement du site, par la présence d’un système de management informatisé complété par 
+une astreinte continue, permet d’assurer le maintien des équipements dans des conditions optimales. Enfin, AMARENCO a fait le 
+choix d’imposer à ses fournisseurs que les équipements mis en place respectent la norme UL9540A.  
+
+Ces dernières années les développements dans le domaine et les différents retours d’expérience ont permis d’affiner la conception 
+de ce type de projet et de définir des mesures de sécurité (protection amont) nécessaires. Des mesures complémentaires sont 
+prévues pour faciliter l’intervention des secours. 
+
+L’ensemble de ces mesures permettent ainsi de maitriser tout incident sur le site en confinant les effets au niveau du conteneur 
+concerné.  
+
+Avec  la  mise  en  place  des  mesures  de  protection,  il  apparait  que  les  risques  incendie,  explosion  et  dégagement  toxique  sont 
+maitrisés sur le projet de Marlenheim.  
+
+Les  mesures  mises  en  place  concernent  à  la  fois  la  prévention  (réduction  de  l’occurrence),  la  protection  (des  biens  et  des 
+personnes) et l’intervention (moyens mis en œuvre pendant un sinistre). Elles sont intégrées dans la conception de l’installation. 
+
+AMARENCO maîtrise correctement les risques liés à l’exploitation de son site de stockage d’électricité par batteries. Le niveau 
+de risque est acceptable. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.50 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE 
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Incendie et 
+explosion sur un 
+véhicule électrique 
+
+Incendie lors 
+d’essais sur un 
+véhicule électrique 
+
+Incendie lors 
+d’essais sur une 
+batterie de véhicule 
+électrique 
+
+20/11/2021 
+
+Crissey (71) 
+
+feu  se  déclare  dans  un  bâtiment 
+Un 
+d’expédition  de  marchandises  au  sein  d’une 
+entreprise  spécialisée  dans 
+fret.  Un 
+important  panache  de  fumée  se  dégage  et 
+des bruits d’explosion se font entendre. 
+Absence  d’incidence  atmosphérique  d’après 
+les analyses. 
+
+le 
+
+Le  départ  de  feu  serait  dû  à  un 
+problème  au  niveau  d’une 
+batterie 
+d’un 
+transpalette (choc sur la batterie 
+ou ouïes du chargeur obstruées). 
+
+lithium 
+
+au 
+
+19/01/2023 
+
+Belfort (90) 
+
+Fuite  d’hydrogène  sur  un  prototype  de 
+véhicule à hydrogène. La fuite s’enflamme et 
+se propage à la batterie lithium.  
+
+Plusieurs  fuites  sur 
+le  circuit 
+hydrogène  lors  d’un  essai  de 
+montée en pression. 
+
+28/07/2021 
+
+Linas (91) 
+
+Incendie sur un 
+véhicule électrique 
+
+04/04/2022 
+
+Paris (75) 
+
+Incendie lors 
+d’essais sur un 
+véhicule électrique 
+
+28/02/2022 
+
+Blainville-sur-Orne 
+(14) 
+
+Explosion et 
+incendie sur un 
+véhicule électrique 
+
+29/04/2022 
+
+Paris (75) 
+
+Incendie sur un 
+véhicule électrique 
+
+07/06/2023 
+
+Annezin (62) 
+
+Une fuite de produit chimique se produit à la 
+suite  de  tests  d’écrasement  réalisés  sur  une 
+batterie  Lithium-Ion  de  400  V  chargée 
+(12kW), destinée à l’équipement de véhicules 
+légers.  Un  emballement 
+thermique  est 
+constaté.  
+
+Un  feu  se  déclare  sur  un  bus  de  transport 
+urbain  à  énergie  électrique  alimenté  par  6 
+batteries Lithium Métal Polymère (LMP “tout 
+solide”, capacité totale de 441 kWh) alors que 
+ce dernier vient de se stopper à un arrêt en 
+ville. L’incendie engendre un dégagement de 
+fumée et la propagation à un abri bus voisin. 
+
+Un  feu  se  déclare  sur  l’une  des  4  batteries 
+d’un  camion  à  l’intérieur  d’une  usine  de 
+construction  automobile,  après  un  essai  de 
+roulage. Le feu entraîne un fort dégagement 
+de  fumées.  Des  prélèvements  de  sol,  au 
+niveau  de 
+feu  et  du 
+l’extinction  du 
+refroidissement  des  batteries,  sont  réalisés. 
+Les  terres  concernées  sont  décapées  et 
+isolées  dans  des  bennes  étanches  dans 
+l’attente des résultats d’analyse.  
+
+Un  feu  se  déclare  sur  un  bus  de  transport 
+urbain alimenté par 6 batteries Lithium Métal 
+Polymère (LMP “tout solide”, capacité totale 
+de  441  kWh)  en  ville.  L’incendie  se  propage 
+en façade d’un immeuble de 8 étages à usage 
+mixte de commerces et de bureaux, 
+
+Un départ de feu se déclare au niveau d’une 
+« essence 
+de 
+voiture 
+rechargeable  »  dans  un  rond-point.  La 
+batterie s’enflamme brusquement après 3h. 
+
+hybride 
+
+type 
+
+Une  enquête  est  en  cours  pour 
+définir la cause du sinistre. 
+
+La  batterie  impliquée  dans  le 
+sinistre est une batterie Lithium-
+ion  de  600  V.  La  cause  de 
+l’incident n’est pas connue. 
+
+Sur  des  vidéos  prises  par  des 
+se 
+témoins,  une  explosion 
+produit sur le toit du bus où sont 
+situées  les  batteries  LMP,  suivie 
+de  flammes  qui  s’étendent  à 
+toute la carrosserie. Un incendie 
+s’est déjà produit sur un bus de 
+la même série au début du mois 
+(événement déjà présenté). Tous 
+les bus de la série sont retirés de 
+la circulation et une enquête est 
+initiée. 
+
+L’expert automobile dépêché sur 
+place confirme que l’évènement 
+provient  bien  d’un  problème  au 
+niveau  des  batteries  lithium-ion 
+du véhicule. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.51 
+P.51 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Incendie sur un 
+véhicule électrique 
+
+29/04/2022 
+
+Carcassonne (11) 
+
+Un  bus  de  transport  urbain  à  énergie 
+électrique,  sans  usagers  (en  cours  d’essai), 
+prend feu après avoir heurté un pont de voies 
+de transports ferroviaires. 
+
+La  cause  de 
+l’incendie  est 
+l’inflammation  des  batteries 
+lithium-ion  situées  en  partie 
+haute du bus après le choc avec 
+le pont. 
+
+Incendie dans une 
+usine de fabrication 
+de véhicules 
+électriques 
+
+11/05/2022 
+
+Boismorand (45) 
+
+Incendie et 
+explosion sur un 
+entrepôt de 
+véhicules électriques 
+avec station de 
+recharge 
+
+14/12/2021 
+
+Colomiers (31) 
+
+Incendie sur un 
+entrepôt de textile 
+contenant des 
+trottinettes 
+électriques 
+
+09/06/2023 
+
+Bobigny (93) 
+
+Incendie sur un 
+véhicule 
+
+04/05/2022 
+
+Aulnay-sous-Bois 
+(93) 
+
+Incendie sur un 
+véhicule 
+
+13/08/2021 
+
+Fontclaireau (16) 
+
+Un feu se déclare dans un entrepôt de 1 000 
+m²  au  sein  d’une  usine  spécialisée  dans  la 
+fabrication  de  petits  véhicules  utilitaires 
+électriques.  Le  bâtiment  contient  des 
+véhicules légers, des batteries électriques de 
+technologie  acide/plomb),  des  bouteilles  de 
+gaz et des bouteilles d’acétylène. 
+Un important dégagement de fumées s’élève 
+dans le ciel. 
+Les  analyses  de 
+l’absence de risque sanitaire. 
+
+l’air  réalisée  révèlent 
+
+Une sourde explosion suivie d’un incendie se 
+produisent dans un entrepôt dont une partie 
+contient des vélos et scooters électriques et 
+un  conteneur  de  recharge  de  batteries 
+Lithium-ion (Li-ion). 
+La  présence  significative  de  particules  au 
+niveau des habitations ainsi qu’à 1 km dans le 
+sens  du  vent  est  relevée.  Concernant  les 
+mesures en HF et HCl, elles sont en dessous 
+du  seuil  de  détection.  Les  relevés  en 
+particules sont non significatifs après 4 h. 
+
+Un feu se déclare sur 2 cellules  de  stockage 
+de textile, trottinettes électriques et batteries 
+au lithium dans un entrepôt d’une entreprise 
+spécialisée dans le commerce de textile. 
+Un important panache de fumée se dégage et 
+est visible des communes proches. 
+Les  analyses  toxicologiques  se révèlent  sous 
+les seuils d’alerte. 
+
+Un feu se déclare sur la remorque d’un poids 
+lourd de 42 t garé à quai d’un entrepôt de 20 
+000  m².  Celui-ci  contient  des  batteries 
+lithium-ion.  Le  feu  se  propage  à  un  second 
+véhicule  garé  à  proximité  contenant  un 
+chargement  de  cartons  puis  à  la  façade  de 
+l’entrepôt. 
+
+lourd 
+Un  feu  se  déclare  sur  un  poids 
+transportant  de  l’oxygène,  du  lithium  et 
+divers  produits  médicaux  sur  une  route 
+nationale. 
+sont 
+impactées par les fumées de l’incendie. Une 
+personne est incommodée par les fumées. 
+
+habitations 
+
+Plusieurs 
+
+de 
+
+tôt, 
+la 
+
+Une enquête est effectuée. Deux 
+le  conteneur 
+ans  plus 
+assurant 
+des 
+recharge 
+batteries  Li-ion  était  à  l’origine 
+d’un départ de feu (ARIA 54538). 
+la  suite  du  sinistre,  des 
+A 
+cellule 
+réorganisations 
+le 
+avaient  été  effectuées  et 
+conteneur  avait  été  muni  d’une 
+caméra thermique (sans système 
+de  détection 
+incendie).  Les 
+recommandations des assureurs 
+fixe 
+et  pompiers 
+d’extinction  automatique  sur  le 
+pour 
+conteneur, 
+permettre 
+du 
+conteneur,  rétention)  n’avaient 
+pas été mises en œuvre. 
+
+(dispositif 
+
+raccord 
+
+noyage 
+
+le 
+
+L’origine  de  l’incendie  n’est  pas 
+connue. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.52 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Explosion et 
+incendie lié à 
+l’altération d'une 
+batterie ancienne 
+
+14/01/2022 
+
+Montlhery (91) 
+
+Incendie sur un 
+stock de batteries 
+défectueuses 
+
+08/08/2023 
+
+Le Mans (72) 
+
+Un emballement thermique et un incendie se 
+produisent lors du redémarrage d’un groupe 
+électrogène  et  de  batteries  Lithium-ion 
+n’ayant  pas  été  en  service  depuis  près  de  2 
+ans. La batterie au lithium est stockée dans un 
+conteneur avec 11autres batteries de même 
+raccordées  à  une 
+technologie 
+installation de panneaux photovoltaïques au 
+sol. Le conteneur se situe à l’extérieur d’une 
+entreprise  spécialisée  dans 
+la  réparation 
+d’équipements électriques. 
+
+toutes 
+
+Incendie d’une palette de module lithium-ion 
+au  sein  d’une  entreprise  de  fabrication  de 
+piles  et  batteries.  Explosion  des  vitres  du 
+bâtiment du fait de la chaleur.  
+45  cellules  lithium  fer  phosphate  ont  été 
+impactées  et  le  volume  de  gaz  émis  est 
+estimé  à  3  600  l  (mélange  de  H2,  CO2,  CO, 
+CH4, C2H4 et autres CxHx). 
+
+avaient 
+
+batteries 
+
+Les 
+été 
+redémarrées  par  le  personnel 
+compétent  suivant  la  procédure 
+fournie  par 
+le  fabricant  des 
+batteries. L’une des 12 batteries 
+a explosé et pris feu. Le fabricant 
+évoque un possible court-circuit 
+de la batterie lié à des dendrites 
+de  lithium  qui  aurait  mis  en 
+contact l’anode et la cathode de 
+la batterie. 
+
+l’incendie, 
+
+Départ  de  feu  sur  un  stock  de 
+batteries  défectueuses.  Le  jour 
+de 
+les  modules 
+défectueux ont été démontés de 
+leur pack batterie et ainsi retirés 
+de leur enveloppe mécanique de 
+protection  pour  analyse,  puis 
+entreposés  à 
+l’extérieur  du 
+bâtiment.  Ces  modules  étaient 
+désolidarisés  et  déconnectés 
+électriquement  du  reste  de  la 
+batterie. 
+court-circuit 
+électrique  serait  à  l’origine  de 
+l’emballement  thermique  d’une 
+des cellules. Celui-ci a provoqué 
+une émission de gaz et de fumée 
+l’atmosphère,  ainsi  que 
+dans 
+autres 
+des 
+l’emballement 
+cellules à proximité. 
+
+Un 
+
+Echauffement pile 
+lithium à recycler 
+
+12/05/2022 
+
+Bletterans (39) 
+
+Emballement  thermique  de  piles  boutons 
+lithium en mélanges dans des futs – centre de 
+récupération et recyclage 
+
+Echauffement des piles du fait de 
+manipulation récente 
+
+Incendie sur un 
+stock de batteries à 
+recycler 
+
+04/06/2023 
+
+Saint-Quentin-
+Fallavier (38) 
+
+Départ de feu à proximité d’un chapiteau de 
+stockage  de  piles  et  d’accumulateurs  dans 
+une  usine  de  traitement  d’accumulateurs 
+électriques usagés. 
+Les  analyses  des  fumées  réalisées  par  la 
+cellule 
+pas 
+d’incidences sur la qualité de l’air. De plus, les 
+préleveurs  de  qualité  d’air  extérieur  en 
+fonctionnement  le  jour  de  l’incident,  ne 
+montrent pas d’impact de métaux. 
+
+ne  montrent 
+
+chimique 
+
+Le  jour  de  l’évènement,  le  site 
+était  à  l’arrêt.  Le  départ  de  feu 
+pourrait être dû : 
+-  aux  fortes  chaleurs,  orages  (le 
+télécompteur  foudre  ne  montre 
+pas  d’impact  de 
+foudre  sur 
+site  mais  de 
+l’emprise  du 
+impacts  dans  un 
+nombreux 
+rayon de 2 km autour du site) et 
+fortes pluies ; 
+
+tôt 
+
+palier 
+
+lithium 
+
+la  présence  de 
+
+-à 
+primaire dans le lot ; 
+-au  déplacement  du  lot,  2  jours 
+plus 
+à 
+pour 
+l’affaissement  des  palettes,  qui 
+auraient pu provoquer un court-
+circuit par la mise en contact de 
+2 éléments, 
+- à un acte de malveillance, le lieu 
+du  sinistre  étant  à  quelques 
+mètres de la limite de propriété. 
+
+Incendie sur un 
+stock de batteries 
+usagées 
+
+06/09/2022 
+
+Gréoux-les-Bains 
+(04) 
+
+Un  feu  de  batteries  lithium-ion  (Li-ion)  se 
+déclare dans un box de récupération de 1 m³ 
+contenant 43 batteries Li-ion reformées dans 
+une  usine  de  construction  de  bateaux  de 
+plaisance. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.53 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Incendie et 
+explosion sur une 
+batterie défectueuse 
+
+08/02/2023 
+
+Epierre (73) 
+
+Incendie sur un 
+stock de batteries 
+usagées 
+
+05/07/2022 
+
+Bletterans (39) 
+
+Un feu, accompagné d’explosions, se déclare 
+au  niveau  d’une  batterie  lithium  “retour 
+client”  dans  un  local  d’une  usine  spécialisée 
+dans la fabrication de cartes électroniques et 
+de batteries. 
+
+Un  feu  se  déclare  au  niveau  d’un  fût 
+lithium  en 
+métallique  de  piles  boutons 
+mélange  stocké  dans  un  local  dédié  d’un 
+centre de récupération, tri et valorisation de 
+piles. La procédure d’alerte alarme incendie à 
+la  suite  de  l’incident  2  mois  plus  tôt  (ARIA 
+60223) a correctement été mise en œuvre. Le 
+plan  d’évacuation  avec 
+le  descriptif  des 
+dangers  a  permis  au  secours  de  localiser 
+rapidement la zone concernée. 
+
+Incendie sur un 
+stock de batteries 
+usagées 
+
+16/01/2023 
+
+Grand-Couronne 
+(76) 
+
+Un feu se déclare dans une des 4 cellules d’un 
+entrepôt de 26 000 m². Cette cellule de 6 000 
+m² appartient à une entreprise de transport 
+et de logistique spécialisée  dans  le  stockage 
+de  produits  divers,  essentiellement  des 
+équipements  automobiles,  et  stocke  12  250 
+batteries automobiles au lithium (technologie 
+lithium  polymère  métal).  Celles-ci  sont  des 
+être 
+pièces 
+diagnostiquées  en  vue  d’une  décision  de 
+maintenance. Certaines sont stockées depuis 
+4 ans. La combustion du lithium entraînant un 
+dégagement gazeux d’acide fluorhydrique, 
+
+destinées 
+
+usagées 
+
+à 
+
+Incendie sur un 
+stock de batteries 
+usagées 
+
+20/02/2023 
+
+Avion (62) 
+
+Un feu se déclare dans une benne contenant 
+6  m³  de  batteries  au  lithium  stockée  en 
+extérieur  d’un  site  de  récupération  et  de 
+traitement  des  fers  et  métaux.  Un  employé 
+est légèrement blessé après avoir inhalé de la 
+fumée  et  est  transporté  à 
+l’hôpital.  Six 
+habitations  individuelles,  soit  27  personnes, 
+sont confinées. 
+
+Incendie sur un 
+stock de déchets  
+
+13/12/2022 
+
+Saint-Apollinaire 
+(21) 
+
+Incendie sur un 
+stock de déchets  
+
+04/10/2022 
+
+Pont-Sainte-
+Maxence (60) 
+
+Un  feu  se  déclare  dans  une  des 
+loges 
+contenant des résidus de broyage lourds issus 
+du 
+gros 
+électroménager hors froid, dans un centre de 
+tri et traitement de déchets. 
+
+de  DEEE 
+
+traitement 
+
+de 
+
+Un  feu  se  déclare  dans  une  alvéole  de 
+stockage  extérieure  de  petits  appareils  en 
+mélange, non dépollués pouvant contenir des 
+indésirables,  dans  un  centre  de  tri.  Cette 
+activité destinée à la collecte et au recyclage 
+des  déchets  d’équipement  électrique  et 
+électronique 
+(DEEE)  est  en  cours  de 
+rangement  et  de  maintenance.  Un  léger 
+dégagement de fumées est visible. 
+
+L’inspection  des 
+installations 
+classées 
+relève 
+non-
+des 
+sur 
+conformités  notamment 
+l’incompatibilité et les conditions 
+de  stockage.  Le  BEA-RI  réalise 
+une enquête pour en extraire un 
+les 
+retour  d’expérience 
+risques 
+liés  au  stockage  de 
+batteries au lithium. 
+
+sur 
+
+feu 
+Le  déclenchement  du 
+pourrait  provenir  d’une  pile  au 
+lithium.  Par  ailleurs,  le  site  est 
+sous  vidéosurveillance  et  des 
+sont 
+caméras 
+installées,  mais  elles  n’ont  pas 
+permis la détection du départ de 
+feu. 
+
+thermiques 
+
+La présence d’une pile au lithium 
+dans  un  DEEE  stocké  dans 
+l’alvéole est à l’origine du départ 
+de feu. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.54 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Incendie puis 
+explosion sur un 
+stock de déchets 
+
+01/07/2023 
+
+Strasbourg (67) 
+
+Incendie  dans  un  centre  de  traitement  de 
+déchets  métalliques  et  véhicules  hors 
+d’usage.  
+Dégagement  de 
+significatif d’après les analyses) 
+Fuite  de  la  rétention  des  eaux  d’extinction 
+(paramètres normaux d’après les analyses). 
+Détonation du fait de l’incendie 
+
+(pas  d’impact 
+
+fumée 
+
+Incendie sur un 
+stock de déchets 
+
+23/06/2022 
+
+Bourges (18) 
+
+Un  feu  se  déclare  sur  1  kg  de  déchets  de 
+poudres d’alliages  métalliques  contenant  du 
+lithium dans une salle sèche de 30 m² servant 
+à 
+fabrication  de  pastilles  de  piles 
+thermiques. 
+
+la 
+
+Selon  les  pompiers,  la  présence 
+d’une  batterie  lithium  serait  à 
+l’origine du départ de feu. 
+
+Suite à  une  panne  au niveau du 
+four  de  fusion, 
+l’opérateur  a 
+le  creuset  et  contre 
+nettoyé 
+creuset du four avec un chiffon. 
+Le chiffon utilisé, souillé avec des 
+poussières  d’alliage  a  pris  feu 
+après 
+son  élimination.  De 
+l’électricité statique a enflammé 
+le  chiffon,  puis  les  déchets  de 
+poudres 
+(produit 
+d’alliages 
+inflammable). 
+
+Incendie sur un 
+stock de déchets 
+
+23/05/2022 
+
+Saint-Thibault (10) 
+
+Un  feu  se  déclare  au  niveau  d’une  zone  de 
+stockage de déchets en transit dans une usine 
+spécialisée  dans  le  recyclage  de  déchets 
+d’équipements  électriques  et  électroniques 
+(DEEE). 
+
+Le départ de feu est dû à une pile 
+au 
+lithium  dans  des  déchets 
+restants  dans  une  zone  de 
+stockage pour le transit. 
+
+Incendie sur un 
+stock de déchets 
+
+15/07/2023 
+
+La Chapelle-Saint-
+Ursin 
+
+Un feu se déclare dans un centre de gestion 
+de  déchets  comprenant  notamment  une 
+déchetterie et un centre VHU (véhicules hors 
+d’usage) 
+
+présence 
+
+d’un 
+déchet 
+La 
+l’eau,  comme 
+réagissant  avec 
+lithium,  pourrait 
+une  batterie 
+feu,  un 
+l’origine  du 
+être  à 
+épisode pluvieux s’étant produit 
+dans la matinée. La réactivité du 
+gardien  a  permis  de  contenir  le 
+sinistre. 
+
+Incendie sur un 
+stock de déchets 
+
+08/08/2022 
+
+Gonesse (95) 
+
+Un départ de feu se produit dans une alvéole 
+de  petit  appareil  ménager  (PAM)  dans  un 
+centre 
+déchets 
+traitement 
+d'équipements électriques et électroniques. 
+Dégagement de fumées 
+
+de 
+
+de 
+
+suspecte 
+
+L’exploitant 
+que 
+l’origine du feu serait la présence 
+d’un  équipement  contenant  un 
+lithium 
+accumulateur 
+autonome, 
+(aspirateur 
+équipement 
+micro-
+mobilité…). 
+
+de 
+
+au 
+
+Incendie sur un 
+stock de déchets 
+
+11/09/2021 
+
+Saint-Jacques-de-la-
+Lande (35) 
+
+Explosion et 
+incendie sur un 
+stock de déchets 
+
+18/10/2021 
+
+Hombourg (68) 
+
+Un feu se déclare  au  niveau  de 6 caisses de 
+palettes  de  batteries  en  plomb  dans  une 
+entreprise  de  tri  et  transit  de  déchets 
+dangereux. 
+
+Une  explosion  retentit  dans  un  atelier  de 
+reconditionnement  de  piles  dans  une 
+traitement  de  déchets 
+entreprise  de 
+dangereux. Des fumées se dégagent du local 
+et sont suivies d’un incendie accompagné de 
+détonations  (correspondant  à  l’éclatement 
+de  piles).  Un  important nuage  de  fumée  est 
+visible. 
+
+L’exploitant  suspecte  un  court-
+circuit  entre  les  bornes  de  deux 
+batteries  au  plomb  ou  une 
+présence  d’une  batterie  au 
+lithium 
+potentiellement 
+défectueuse,  comme  pouvant 
+être à l’origine de l’incendie. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.55 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Incendie sur un 
+stock de déchets 
+
+28/03/2021 
+
+Halluin (59) 
+
+Incendie sur un 
+stock de déchets 
+
+09/04/2023 
+
+Harnes (62) 
+
+Incendie sur un 
+stock de déchets 
+
+Incendie sur un 
+stock de déchets 
+(impact de foudre) 
+
+28/03/2023 
+
+Checy (45) 
+
+31/07/2021 
+
+Aubord (30) 
+
+Un  feu  se  déclare  sur  un  tas  extérieur  de 
+résidus  de  broyage  issus  des  DEEE  (déchets 
+d’équipements  électriques  et  électroniques) 
+dans  une  usine 
+la 
+récupération de déchets triés. 
+
+spécialisée  dans 
+
+La présence d’une pile au lithium 
+dans les déchets serait à l’origine 
+du départ de feu. 
+
+Un feu se déclare dans une caisse palette de 
+DEEE  (déchets  d’équipements  électriques  et 
+électroniques)  sur  un  site  de  tri,  transit  et 
+regroupement des déchets. 
+
+Des batteries et des piles lithium 
+les  déchets 
+présentes  dans 
+électroniques seraient à l’origine 
+du départ de feu. 
+
+Un feu  se  déclare dans  une  benne  de petits 
+appareils électroménagers en mélange (PAM) 
+sur un site de collecte des déchets. 
+
+L’origine du sinistre pourrait être 
+due à la surchauffe d’une pile au 
+lithium présente dans les PAM. 
+
+Un feu se déclare au niveau d’une batterie au 
+lithium  dans  une  alvéole  de  ferrailles  d’un 
+centre de récupération de déchets triés. 
+
+L’incendie est lié à un impact de 
+foudre  sur  une  batterie  au 
+lithium. 
+
+Incendie et 
+explosion sur un 
+stock de déchets 
+
+23/06/2021 
+
+Villy-le-Pelloux (74) 
+
+électriques 
+
+Embrasement et détonation dans un stock de 
+déchets  d’équipements 
+et 
+électroniques.  
+Malgré la fermeture de la vanne d’isolement 
+du site, de la mousse utilisée pour l’extinction 
+est  présente  dans  le  ruisseau  au  niveau  de 
+l’exutoire  et 
+l’eau  y  est  noire.  Après 
+investigations, il apparait que le rejet d’eaux 
+d’incendie  au  ruisseau  est  dû  à  une 
+inétanchéité entre la vanne et son support en 
+béton. 
+
+serait 
+Le  départ  de 
+vraisemblablement 
+la 
+présence d’une batterie lithium. 
+
+lié  à 
+
+feu 
+
+Incendie sur un 
+stock de déchets 
+
+31/03/2021 
+
+Couëron (44) 
+
+Départ de feu sur un stock de déchets dans un 
+centre  de  tri  et  de  transfert  de  déchets 
+industriels.  
+
+réaction 
+
+exothermique 
+Une 
+d’une  pile/batterie  au  lithium 
+serait à l’origine de l’évènement. 
+
+Incendie sur un 
+stock de déchets 
+
+15/06/2023 
+
+Saint-Quentin-
+Fallavier (38) 
+
+Incendie sur un 
+stock de déchets 
+
+21/02/2023 
+
+Verrières-en-Anjou 
+(49) 
+
+Incendie sur un 
+stock de déchets 
+
+10/11/2021 
+
+Tourville-les-Ifs (76) 
+
+Un feu se déclare sur un fût de piles boutons 
+lithium  primaires  stocké  à  proximité  d’une 
+machine de tri de piles en mélange dans une 
+usine 
+d’accumulateurs 
+de 
+électriques usagés. 
+
+traitement 
+
+Un  feu  se  déclare  au  niveau  d’une  trémie 
+extérieure  entre  des  zones  de  stockage  de 
+petits appareils en mélange, et de plastique, 
+dans un centre de traitement de DEEE. 
+
+Découverte  d’un  foyer  d’incendie  dans  un 
+centre de tri, transit, regroupement de DEEE. 
+Après  avoir  été  exposés  aux  fumées,  4 
+employés  sont  évacués  vers  l’hôpital  pour 
+contrôle. 
+
+Explosion et 
+incendie sur un 
+stock de déchets 
+
+23/11/2022 
+
+Saint-Doulchard (18) 
+
+Une explosion se produit au niveau d’un bac 
+de  stockage  de  piles  au  lithium  dans  les 
+réserves d’un supermarché. 
+
+Incendie sur un 
+stock de déchets 
+
+04/04/2022 
+
+Vert-le-Grand (91) 
+
+feu 
+
+Un 
+électroniques (DEEE) dans un centre de tri. 
+
+sur  des  déchets 
+
+se  déclare 
+
+L’origine  de l’incendie se trouve 
+dans  un  fût  contenant  des  piles 
+et batteries au lithium. 
+
+L’exploitant  remplaçait  les  piles 
+au 
+lithium  nécessaires  aux 
+étiquettes  électroniques  et  15 
+000 de ces piles étaient stockées 
+l 
+dans  deux  bacs  de  200 
+entreposés dans le local déchets 
+de 
+zone 
+réserve,  hors 
+la 
+commerciale. 
+
+La présence d’un déclencheur de 
+type pile lithium dégradée serait 
+à l’origine de l’événement. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.56 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Incendie sur un 
+stock de déchets 
+
+22/12/2021 
+
+Gonfreville-l’Orcher 
+(76) 
+
+électriques 
+
+récupération  de  déchets 
+
+Un  feu  se  déclare  dans  une  remorque  de 
+et 
+déchets  d’équipements 
+électroniques  (DEEE)  stocké  dans  une  usine 
+de 
+triés.  Le 
+responsable  d’exploitation  tente  d’étouffer 
+l’incendie avec 3 extincteurs. Le feu se calme 
+quelque  temps  avant  de  reprendre  et  la 
+fumée se fait de plus en plus épaisse. 
+
+La présence de piles et batteries 
+lithium contenues dans les PAM 
+notamment dans les trottinettes 
+l’origine  du 
+électriques  est  à 
+départ  de 
+Les  petits 
+feu. 
+appareils  sont  empilés  dans  des 
+remorques,  ce  qui  détériore  les 
+appareils  et 
+les  batteries  et 
+augmente le risque d’incendie. 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur des 
+déchets (présence 
+d’un déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+02/09/2021 
+
+Torcy (71) 
+
+Départ  de  feu  sur  un  stock  de  déchets  non 
+dangereux en mélange. 
+
+Présence  d’un  déchet  non 
+conforme. 
+
+09/08/2023 
+
+Nantes (44) 
+
+Un feu se déclare dans une benne de ferrailles 
+stockée au sol dans un centre de tri, transit, 
+regroupement  de  déchets.  Une  épaisse 
+fumée se dégage. 
+
+18/07/2022 
+
+Saran (45) 
+
+feu 
+
+Un 
+trémie 
+se  déclare  dans 
+d’alimentation d’un centre de tri de déchets 
+non dangereux. 
+
+la 
+
+03/02/2022 
+
+Saran (45) 
+
+Un feu se déclare sur la presse à paquets dans 
+un centre de tri des déchets. 
+
+la  benne  de 
+
+La  présence  d’une  pile  lithium 
+ferrailles 
+dans 
+pourrait  être  à 
+l’origine  du 
+départ de feu. Les fortes chaleurs 
+ainsi que l’absence de personnel 
+à  proximité  du  lieu  du  sinistre 
+ont  favorisé  l’incendie  et  son 
+extension. 
+
+Le feu a été causé par la présence 
+d’un objet non conforme de type 
+batterie  ou  pile  au  lithium.  Le 
+sprinklage  de  la  trémie  ne  s’est 
+pas déclenché automatiquement 
+en l’absence de flammes. 
+
+Un objet non conforme, de type 
+pile  au  lithium  écrasé  par  la 
+presse,  serait  à 
+l’origine  du 
+départ de feu. 
+
+10/11/2021 
+
+Vert-le-Grand (91) 
+
+Un  feu  se  déclare  dans  la  fosse  d’ordures 
+ménagères  d’une  installation  d’incinération 
+de déchets non dangereux.  
+Dégagement  de  fumées  d’incendies  (pas 
+d’incidences d’après les analyses).  
+
+L’incendie  est  dû  à  la  présence 
+d’un déchet non conforme dans 
+les  ordures  ménagères  de  type 
+pile lithium dégradée. 
+
+05/12/2022 
+
+Jaunay-Marigny (86) 
+
+Un 
+feu  se  déclare  dans  une  benne 
+provenant 
+d’emballages 
+principalement  de  garages  Ces  déchets  sont 
+en transit avant traitement. 
+
+souillés 
+
+secs 
+
+14/04/2022 
+
+Fresnes-sur-Marne 
+(77) 
+
+Incendie avec dégagement de fumée sur une 
+installation  de  stockage  de  déchets  non 
+dangereux 
+
+La  présence  d’un  déchet  non 
+destiné  à  ce  type  de  pré-
+traitement  (pile  au  lithium  ?)  a 
+engendré,  après  broyage,  un 
+point  chaud  dans  un  coin  de  la 
+benne 
+et 
+d’emballages 
+matériaux souillés broyés. 
+
+Le  sinistre  est  dû  aux  fortes 
+chaleurs 
+(température 
+supérieure à 30°C) et la présence 
+d’une  source  de  départ  de  feu 
+qui  n’a  pas  pu  être  identifiée 
+(pile  lithium,  fusée  de  détresse, 
+bout de verre). 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.57 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+29/10/2022 
+
+Torcy (71) 
+
+29/08/2022 
+
+Montardon (64) 
+
+Apparition de flammes dans un tas de 30 t de 
+déchets à trier avec bois et 120 t de déchets 
+non  valorisables  à  l’air  libre  à  l’arrière  d’un 
+centre de tri sur la plateforme de stockage et 
+transit de déchets non dangereux. 
+
+Un  feu  se  déclare  au  niveau  de  déchets 
+venant  d’être  déversés  dans  l’îlot  dédié  au 
+stockage  des  déchets  non  dangereux  dans 
+le 
+une  usine  spécialisée  dans 
+recyclage des papiers 
+
+le  tri  et 
+
+18/04/2023 
+
+Nanterre (92) 
+
+Un feu se déclare sur un centre de tri, transit, 
+regroupement de déchets non dangereux 
+
+16/01/2023 
+
+Herblay-sur-Seine 
+(95) 
+
+Un feu se déclare dans la benne de stockage 
+des  batteries  au  plomb  d’un  centre  de 
+traitement de véhicules hors d’usage. 
+
+25/02/2021 
+
+Le Grand-Quevilly 
+(76) 
+
+29/01/2021 
+
+Escaudoeuvres (59) 
+
+01/09/2021 
+
+Clairoix (60) 
+
+de 
+
+d’un 
+
+centre 
+
+Un  feu  se  déclare  au  niveau  de  la  presse  à 
+balles 
+transit, 
+regroupement  de  déchets  non  dangereux, 
+lors  du  compactage  de  déchets  de  métaux. 
+Plusieurs  phénomènes  de  surpression  ayant 
+été observés avant que l’incendie se déclare. 
+
+tri, 
+
+Un  feu  se  déclare  sur  un  stock  de  batteries 
+usagées  destinées  au  recyclage.  Le  sinistre 
+concerne 1 à 2 t de batteries, qui sont passées 
+dans  le  concassage  comme  prévu.  Seul  le 
+plastique  des  batteries  a  fondu  et  non  le 
+métal, l’exploitant conclut qu’il s’agit d’un feu 
+de  faible  intensité.  L’exploitant  réalise  des 
+mesures sur les jauges Owen et les partisols 
+afin de vérifier l’absence de métaux tels que 
+le nickel, cadmium et lithium. 
+
+Un feu se déclare dans un tas de ferrailles à 
+proximité  du  broyeur  d’un  centre  de 
+traitement de véhicules hors d’usage (VHU). 
+Le panache de fumée, qui monte jusqu’à 30 
+m,  ne  présente  pas  de  danger  pour 
+la 
+population. 
+
+rebuts  ou 
+La  présence  de 
+(fusée 
+équipements  explosifs 
+d’artifices, 
+feux 
+détresse, 
+bombes 
+batterie 
+aérosols, 
+lithium…)  dans  la  composition 
+des déchets reçus pourrait être à 
+l’origine du départ de feu. 
+
+de 
+
+présence 
+
+La 
+déchets 
+indésirables, inflammables, dans 
+l’îlot,  comme  un  accumulateur 
+lithium,  pourrait  être  à  l’origine 
+du départ de feu. 
+
+Des batteries au lithium serait à 
+l’origine  du  départ  de  feu.  Ces 
+déchets  ne  devraient  pas  être 
+présents sur le site. 
+
+Une petite batterie au lithium est 
+découverte  dans  la  benne  de 
+batteries  au  plomb.  Celle-ci 
+pourrait  être  à 
+l’origine  du 
+dégagement  de  fumée.  Elle  est 
+isolée et remisée avec les autres 
+batteries au lithium. 
+
+L’exploitant suspecte la présence 
+d’aérosols non totalement vidés 
+parmi  les  déchets  compressés. 
+Ces  derniers  étaient  issus  de  la 
+collecte  sélective  des  ménages. 
+La  présence  d’une  batterie  ou 
+d’une  pile  au 
+lithium  est 
+également possible. 
+
+La  réception  de  batteries  non 
+conformes comme des batteries 
+Ni-Cd ou des batteries au lithium, 
+qui ne sont pas autorisées sur le 
+site,  pourrait  être  à  l’origine  de 
+l’événement. 
+
+La  vidéo  de  surveillance  montre 
+un échauffement à l’intérieur du 
+tas, qui a duré quelques minutes 
+et qui s’est ensuite traduit par un 
+dégagement de fumées, avant le 
+départ de feu. Selon l’exploitant, 
+l’échauffement  serait  dû  à  la 
+présence  d’une  pile  ou  batterie 
+au Lithium. 
+A noter que l’accueil des déchets 
+ne  faisait  pas  l’objet  d’un  tri 
+adapté. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.58 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Explosion et 
+incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+18/07/2021 
+
+Saint-Fons (69) 
+
+Un dégagement de fumées est observé sur un 
+tas de platinage (déchets métalliques ferreux) 
+dans une entreprise de recyclage de métaux 
+
+Possible présence d’une batterie 
+
+16/07/2021 
+
+Vaux-le-Pénil 
+
+Un  feu  se  déclare  au  niveau  du  quai  de 
+déchargement  dans  incinérateur  de  déchets 
+non dangereux.  
+Un  dégagement  important  de  fumées  est 
+observé. 
+
+17/08/2023 
+
+Berville-sur-Seine 
+(76) 
+
+ferreux 
+
+(aluminium, 
+
+Un feu se déclare au niveau d’un tas de 20 m³ 
+de  matériaux 
+inox, 
+caoutchouc) posés au sol et livrés une 1 heure 
+plus  tôt  dans  un  centre  de  tri,  transit, 
+regroupement  de  déchets  d’équipements 
+électriques  et  électroniques 
+(DEEE)  et 
+métalliques. 
+Les  opérateurs  constatent  une  faible  fumée 
+et des flammes. 
+Lors  de  l’intervention  des  pompiers,  une 
+canalisation incendie se rompt. 
+
+10/08/2023 
+
+Vert-le-Grand (91) 
+
+Un feu se déclare au niveau d’un stockage de 
+déchets  issus  de  la  collective  sélective  dans 
+une installation de tri, transit, regroupement 
+de  déchets  non  dangereux  au  sein  d’un 
+centre de gestion des déchets. 
+
+11/07/2023 
+
+Pavie (32) 
+
+Un  feu  se  déclare  dans  le  casier  en  cours 
+d’exploitation d’une installation  de stockage 
+de déchets non dangereux. 
+
+Lors  de  l’incendie,  des  déchets 
+étaient présents sur le quai suite 
+à une forte affluence des apports 
+le  jour  même.  La  présence  de 
+piles  lithium  dans  les  déchets 
+l’origine  de 
+pourrait  être  à 
+l’incendie selon l’exploitant. 
+
+Le départ de feu pourrait être lié 
+la  présence  d’une  batterie 
+à 
+lithium.  Concernant  le  réseau 
+incendie, la canalisation qui s’est 
+rompue était en PVC. Les secours 
+confirment  que  l’utilisation  de 
+PVC  (matériaux  cassant)  pour 
+réaliser un réseau incendie n’est 
+pas une bonne pratique. 
+
+Le  feu  a  pris  sur  le  stockage  en 
+attente  de  tri.  La  présence  d’un 
+est 
+déchet  non 
+suspectée 
+un 
+déclencheur de type pile lithium 
+dégradée). 
+
+conforme 
+(comme 
+
+La  présence  d’un  déchet  non 
+conforme (déchet chaud entrant 
+à déclenchement retardé de type 
+ou 
+batterie 
+l’incompatibilité 
+entre  deux 
+déchets entrés en mélange serait 
+à l’origine du départ de feu. 
+
+lithium) 
+
+19/10/2021 
+
+Cannes (06) 
+
+Une  explosion  se  produit  dans  la  presse  à 
+balles  d’un  centre  de 
+tri.  L’explosion 
+engendre un incendie. 
+
+Le  départ  de  feu  est  dû  à  la 
+présence d’une pile au lithium. 
+
+30/09/2022 
+
+Athis-Mons (91) 
+
+Un feu se déclare dans un tas de résidus de 
+broyage  sur  un  site  de  récupération  de 
+métaux. 
+
+L’incendie  est  dû  à  la  présence 
+d’un  morceau  de  batterie  au 
+lithium dans le tas impacté. 
+
+31/05/2022 
+
+Castine-en-Plaine 
+(14) 
+
+Un  feu  se  déclare  dans  un  stock  de  40  t  de 
+déchets  dans  un  atelier  de  broyage  de 
+batteries automobiles. 
+
+L’incendie  est  lié  à  la  présence 
+d’une  pile  lithium  dans  le  stock 
+de  batteries,  déchet 
+interdit 
+dans cet atelier. 
+
+13/06/2021 
+
+Isles-les-Meldeuses 
+(77) 
+
+Un feu se déclare au niveau d’un casier dans 
+une installation de stockage de déchets non 
+dangereux. 
+
+présence 
+
+La 
+déchet 
+inflammable  (type  pile  lithium) 
+est suspectée. 
+
+d’un 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.59 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+08/06/2022 
+
+Villeveyrac (34) 
+
+Un  feu  se  déclare  dans  un  casier  en  cours 
+installation  de 
+d’exploitation  dans  une 
+stockage de déchets non dangereux. 
+
+29/05/2022 
+
+Saint-Nazaire (44) 
+
+feu  se  déclare  sur  une  remorque 
+Un 
+contenant 40 m³ de déchets incinérés dans un 
+centre de transfert de déchets. 
+
+03/04/2022 
+
+Saint-Saulve (59) 
+
+31/07/2023 
+
+Mornac (16) 
+
+Un  feu  se  déclare  sur  un  tas  de  résidus  de 
+broyage stocké en plein air, de 200 m² et 10 
+m  de  haut,  en  attente  de  traitement,  dans 
+une entreprise spécialisée dans la collecte et 
+le  recyclage  de  déchets.  Un  épais  nuage  de 
+fumée est visible à plusieurs kilomètres.  
+
+Un feu se déclare au niveau d’un stockage de 
+déchets  métalliques  divers  collectés  dans  la 
+déchetteries 
+journée 
+professionnelles  dans  une  usine  de 
+récupération de déchets métalliques. 
+
+issus 
+
+des 
+
+et 
+
+La  présence  d’une  fusée  de 
+détresse, pile ou batterie lithium 
+serait à l’origine du départ de feu 
+selon l’exploitant. 
+
+L’incendie  pourrait  être  dû  à  la 
+présence  d’un  déchet  non-
+conforme  de  type  fusée  de 
+détresse  ou  batterie  au  lithium, 
+dissimulée dans la remorque. 
+
+Du  lithium,  présent  dans  des 
+batteries,  serait  à  l’origine  du 
+départ de feu. 
+
+Une pile lithium de petite taille (5 
+cm de longueur) est à l’origine du 
+départ de feu. Du fait de sa taille, 
+celle-ci n’a pas été vue lors de la 
+réception des déchets. 
+
+23/05/2022 
+
+Castine-en-Plaine 
+(14) 
+
+Un  feu  se  déclare  dans  un  stock  de  50  t  de 
+lourds  sur  un  site 
+résidus  de  broyage 
+industriel autorisé à traiter ces déchets pour 
+en extraire les fractions valorisables. 
+
+L’incendie  est  lié  à  la  présence 
+lithium,  déchet 
+d’une  pile 
+interdit  dans  les  broyeurs  de 
+métaux. 
+
+27/10/2022 
+
+Colombier-Saugnieu 
+(69) 
+
+Un feu se déclare dans un stock de 2 000 m³ 
+de déchets non dangereux de type déchets de 
+chantiers  contenant  notamment  de  la  laine 
+de  verre,  du  béton,  du  bois  situé  sur  une 
+plateforme  extérieure  dans  une  entreprise 
+spécialisée  dans 
+le 
+recyclage  de  déchets  industriels.  L’incendie 
+se propage vers un stockage contigu composé 
+de  déchets  partiellement  triés  à  la  pelle 
+mécanique  avant  leur  passage  en  chaîne  de 
+tri 
+
+la  récupération  et 
+
+26/07/2022 
+
+Saran (45) 
+
+Un  feu  se  déclare  sur  une  presse  à  paquets 
+dans un centre de tri. 
+
+23/08/2022 
+
+Strasbourg (67) 
+
+Lors du chargement de métal à broyer sur un 
+site  de 
+récupération  de  déchets  non 
+dangereux à l’aide d’une grue, de la ferraille 
+s’enflamme dans le grappin. La marchandise 
+en  feu  est  isolée  mais  les  flammes  se  sont 
+déjà  propagées  dans  le  reste  de  ferraille  à 
+broyer. 
+
+Le  feu  s’est  déclaré,  en  dehors 
+des  heures  ouvrées,  dans  un 
+stock de déchets encore non trié. 
+L’exploitant émet 2 hypothèses : 
+une piste criminelle, car le stock 
+incendié se situe à moins de 20 m 
+de  la  clôture,  à  portée  de  jet 
+incendiaire depuis l’extérieur ou 
+une  prise  de  feu  accidentelle 
+dans  le  massif  de  déchets,  liée 
+par  exemple 
+à  un  objet 
+contenant  une  batterie  au 
+lithium dégradée. 
+
+Le départ de feu aurait été causé 
+par  l’écrasement  d’une  pile  au 
+lithium  par 
+la 
+compression  d’une  bouteille 
+d’aérosol non vidée. 
+
+la  presse  ou 
+
+l’incendie  est 
+L’origine  de 
+probablement 
+batterie 
+une 
+lithium  qui  s’est  enflammée  au 
+contact  du  grappin  de  la  grue. 
+Les  conditions  météorologiques 
+défavorables  (temps  sec  et  très 
+chaud)  ont  pu 
+le 
+favoriser 
+développement de l’incendie. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.60 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+stock de déchets 
+(présence d’un 
+déchet non 
+conforme) 
+
+Incendie sur un 
+équipement de 
+stockage 
+d’électricité par 
+batteries 
+
+Incendie sur une 
+installation de 
+stockage 
+d’électricité par 
+batteries 
+
+Incendie puis 
+explosion sur une 
+installation de 
+stockage 
+d’électricité par 
+batteries 
+
+Incendie sur une 
+installation de 
+stockage 
+d’électricité par 
+batteries (fuite de 
+liquide de 
+refroidissement) 
+
+15/06/2022 
+
+Besançon (25) 
+
+Un  départ  de  feu  survient  en  cabine  de  tri. 
+L’employé  saisit  les  déchets  “fumant”,  les 
+isole dans une poubelle et les immerge dans 
+de l’eau. 
+
+Un  feu  se  déclare  sur  un  stock  de  5  m³  de 
+cartons en attente de mise en balle. 
+
+27/02/2023 
+
+Ablis (78) 
+
+Un feu se déclare dans un centre de tri, transit 
+de déchets non dangereux. 
+
+L’origine de l’événement est une 
+batterie  au  lithium  qui  a  été 
+déposée par erreur dans un bac 
+de  tri  par  un  usager  parmi  les 
+déchets  ménagers  recyclables 
+(DMR). 
+
+Selon  l’exploitant,  l’événement 
+s’est  probablement  produit  à 
+cause  d’une  pile  ou  d’une 
+batterie au lithium. 
+
+Une batterie au lithium d’un outil 
+portatif  est  découverte  dans  la 
+benne,  probablement  jetée  par 
+une personne sur un chantier. Le 
+feu a été activé quand les cartons 
+ont été ramassés dans la benne à 
+l’aide  de  la  pelle  et  par  le  vent 
+tourbillonnant. 
+
+06/05/2023 
+
+Le Diamant (972) 
+
+11/08/2021 
+
+Bellac (87) 
+
+de 
+
+Un  feu  se  déclare  au  niveau  de  plusieurs 
+conteneurs 
+transformateurs 
+photovoltaïques  avec  batteries  au  lithium 
+d’une ferme solaire. La présence de batteries 
+l’intervention  des 
+au 
+secours. L’incendie se propage à deux autres 
+conteneurs. 
+
+lithium  complique 
+
+Un  feu  se  déclare  dans  un  conteneur 
+renfermant  des  modules  de  batteries 
+Lithium/ions sur un poste de transformation 
+électrique  alimenté  par  une 
+ligne  haute 
+tension de 90 KV. L’alarme incendie du poste 
+de transformation se déclenche. Le départ de 
+feu  est  identifié  au  niveau  d’un  conteneur 
+renfermant  26  modules  de  batteries 
+Lithium/ions. 
+12 
+conteneurs,  tous  équipés  d’un  dispositif 
+d’extinction azote/argon et d’un système de 
+sprinklers  alimenté  à  sec  par  les  secours. 
+L’incendie est maîtrisé.  
+
+comprend 
+
+site 
+
+Le 
+
+16/04/2021 
+
+Chine 
+
+30/07/2021 
+
+Australie 
+
+alors  que 
+
+Un  feu  se  produit  au  niveau  d’une  station 
+électrique  située  sur  le  toit  d’un  centre 
+commercial. 
+les  pompiers 
+interviennent sur l’incendie, une explosion se 
+produit  au  niveau  du  système  de  stockage 
+d’énergie par batterie lithium-fer-phosphate. 
+Le système de stockage d’énergie (25 MWh), 
+connecté  à  une  installation  de  panneaux 
+solaires,  vise  à  mettre  à  disposition  de 
+l’électricité pour des bornes de recharge pour 
+des  véhicules  électriques.  L’explosion  tue 
+deux pompiers et en blesse un. Un employé 
+est porté disparu. 
+
+incendie  se  produit  sur 
+
+Un 
+l’un  des 
+conteneurs  batteries  d’un  site  de  stockage 
+lors  d’une  phase  de 
+d’électricité 
+test 
+préalable  à 
+la  mise  en  service  du  site. 
+L’incendie s’est propagé au conteneur voisin 
+(distant  de  15  cm)  du  fait  notamment  des 
+rafales de vent.  
+
+du 
+
+liquide 
+
+Fuite 
+de 
+refroidissement  ayant  provoqué 
+un  arc  électrique,  un  court-
+circuit  puis  un  emballement 
+thermique.  Le  site  étant  en 
+phase  de  test,  le  système  de 
+sécurité n’a pas fonctionné. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.61 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Incendie sur une 
+installation de 
+stockage 
+d’électricité par 
+batteries 
+
+03/06/2022 
+
+Poggio-di-Nazza (2B) 
+
+Incendie sur une 
+installation de 
+stockage 
+d’électricité par 
+batteries 
+
+06/04/2023 
+
+Aghione (2B) 
+
+Incendie sur un 
+stock d’éléments de 
+batteries lithium 
+
+23/12/2022 
+
+Lempdes (63) 
+
+Incendie sur un 
+stock de batteries 
+
+24/05/2023 
+
+Demouville (14) 
+
+Une  enquête  du  BEA-RI  est 
+réalisée. 
+
+ainsi 
+
+Un feu se déclare au niveau d’un conteneur 
+de 60 m³ contenant des batteries Lithium-ion 
+(340  modules  de  50  kg,  capacité  de  3,75 
+MWh), 
+transformateur 
+qu’un 
+fonctionnant  à  l’huile  minérale  (800  kg).  Le 
+transformateur est isolé des batteries par une 
+paroi coupe-feu. Le conteneur se situe au sein 
+d’un parc photovoltaïque d’une puissance de 
+4,88 MWc. 
+Un dégagement de fumées est visible et une 
+odeur âcre est ressentie par la population. 
+Le  sol  est  contaminé  par  des  coulées  de 
+lithium, du fait du percement du plancher ; 
+Le  relevé  de  mesures  de  toxicité  réalisé  par 
+les pompiers autour de la zone du conteneur 
+sur  un  rayon  de  3  à  4  km  dans  l’axe  des 
+fumées  ne 
+résultat 
+préoccupant. 
+
+révèle  pas  de 
+
+Un feu se déclare sur un BESS (Battery Energy 
+Storage Solutions) stocké dans un conteneur 
+dans un bâtiment en bois de 150 m² abritant 
+636 batteries lithium-ion de 6,5 kW pour un 
+total  de  4  MW  dans  un  parc  de  12  000 
+panneaux  photovoltaïques.  Le  dispositif  fixe 
+d’extincteur  automatique  Argon/Azote  est 
+déclenché. Sur les conseils de l’exploitant, des 
+arrêts  d’urgences  sont  actionnés  à  plusieurs 
+endroits  du  bâtiment  pour  couper 
+les 
+énergies. Les extincteurs de CO2 du site sont 
+utilisés.  Mais  peu  après 
+l’ouverture  des 
+portes, un phénomène thermique se produit. 
+Le binôme d’attaque est légèrement blessé et 
+évacué  vers  l’hôpital.  Les  habitations,  ainsi 
+qu’une  déchetterie,  sont  évacuées  dans  un 
+rayon de 500 m et les routes sont coupées. 
+Les  fumées intoxiquent 3 pompiers  qui  sont 
+conduits  à 
+les 
+expertises  internes  mobilisées,  des  contacts 
+sont  pris  avec  les  sociétés  intégratrices  et 
+constructrices des batteries endommagées. 
+
+l’hôpital.  Pour  confirmer 
+
+Un feu se déclare sur un caisson en plastique 
+de 1 m³ contenant 500 à 600 kg d’éléments 
+de batteries lithium-ion situés sur le parking 
+extérieur  d’une  usine  spécialisée  dans  la 
+fabrication  de  batteries  lithium  à  partir  de 
+cellules, et dans l’électrification de véhicules 
+thermiques. 
+
+ou 
+
+Un feu se déclare au niveau d’un stockage de 
+100  batteries  lithium  et  de  1  500  batteries 
+plomb-acide  dans  un  magasin  de  2  000  m² 
+spécialisé  dans  la  vente  et  la  réparation  de 
+batteries  pour  des  véhicules,  des  engins  de 
+chantier 
+appareils 
+encore 
+électroniques.  L’incendie  se  propage  à 
+l’entreprise voisine.  
+risques 
+Des  pompiers, 
+chimiques, effectuent des relevés de toxicité 
+qui  se  révèlent  négatifs  (batteries  plombs). 
+Les  locaux  sont ventilés  pour  permettre  des 
+reconnaissances à l’intérieur de la structure. 
+
+spécialisés  en 
+
+des 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.62 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 6  ANNEXES – ACCIDENTOLOGIE  
+
+Type d’accident 
+
+Date 
+
+Lieu 
+
+Description de l’accident 
+
+Cause probable de l’accident 
+
+Explosion d’un stock 
+de batteries 
+
+10/03/2021 
+
+Berny-Rivière (02) 
+
+Incendie sur un 
+stock de batteries 
+
+28/03/2023 
+
+Saint-Trivier-sur-
+Moignans (01) 
+
+Un  cabanon  explose  à 
+l’intérieur  d’un 
+camping.  Le  cabanon, de 6 m³,  contient des 
+au 
+lithium 
+au 
+batteries 
+fonctionnement 
+voitures 
+des 
+électriques. Le propriétaire décède. 
+
+servant 
+
+petites 
+
+une 
+
+société 
+
+spécialisée 
+
+Un feu se déclare dans un bâtiment de 800 m² 
+supportant  des  panneaux  photovoltaïques 
+dans 
+dans 
+l’hébergement de données informatiques. Le 
+bâtiment est divisé en 4 cellules, dont une à 
+usage  de  data  center  et  une  autre 
+comportant un stockage de 1 200 batteries au 
+lithium. Le feu démarre au niveau du local des 
+batteries des panneaux photovoltaïques. Un 
+panache  de  fumée  est  visible  sur  plusieurs 
+kilomètres. 
+
+Un  défaut  matériel  sur 
+les 
+batteries ou les régulateurs BMS 
+(système de gestion de batterie) 
+serait à l’origine du sinistre. 
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.63 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTIE 7  BIBLIOGRAPHIE  
+
+PARTIE 7  BIBLIOGRAPHIE 
+
+ATEE CLUB STOCKAGE D’ENERGIE – 2022/2023 - Comptes rendu de réunions. 
+
+BARPI – janvier 2022 - Implication des batteries Lithium-ion dans l’accidentologie hors secteurs d’activité des déchets. 
+
+ENTECH SMART ENERGIE - Eléments techniques.  
+
+EURALARM – 15 février 2022 - Solutions intégrées de protection contre l'incendie pour les batteries Lithium-Ion. 
+
+GROUPE DE TRAVAIL - SYSTEMES DE STOCKAGE ELECTROCHIMIQUE DE L’ENERGIE – 2022 - Stockage stationnaire de l’énergie : 
+Risques et solutions envisageables. 
+
+INERIS – Octobre 2012 - Batteries et sécurité. 
+
+INERIS - 6 juillet 2023 - Moyens de maîtrise des risques des batteries pour les applications conteneurisées. 
+
+LA PLATEFORME VERTE – 28 septembre 2022 - Recommandations pour le développement de projets de stockage d’électricité en 
+France. 
+
+LA PLATEFORME VERTE – 2022 / 2023 – Notes. 
+
+NIDEC - Elément technique.  
+
+AFR 58 - Projet de stockage d’électricité par batteries - Département du Bas-Rhin (67) + Commune de Marlenheim 
+
+P.64 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SAS CLIMAX INGENIERIE 
+4 rue Jean le Rond d'Alembert 
+81000 Albi 
+Tél. : 05 63 48 10 33 - contact@artifex-conseil.fr - RCS 502 363 948 
+
+www.artifex-conseil.fr 
+
+ 
+ 
+

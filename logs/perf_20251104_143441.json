@@ -1,0 +1,3964 @@
+{
+  "run_timestamp": "20251104_143441",
+  "total_events": 363,
+  "total_duration_sec": 118.396276,
+  "events_by_stage": {
+    "http_request": {
+      "count": 44,
+      "total_duration": 458.1350000000001,
+      "min_duration": 2.659,
+      "max_duration": 16.25,
+      "statuses": {
+        "OK": 44
+      },
+      "avg_duration": 10.412
+    },
+    "list_card_filtered": {
+      "count": 309,
+      "total_duration": 0,
+      "min_duration": null,
+      "max_duration": 0,
+      "statuses": {
+        "SKIP": 309
+      },
+      "avg_duration": 0.0
+    },
+    "dept_prefilter_summary": {
+      "count": 10,
+      "total_duration": 0,
+      "min_duration": null,
+      "max_duration": 0,
+      "statuses": {
+        "OK": 10
+      },
+      "avg_duration": 0.0
+    }
+  },
+  "raw_events": [
+    {
+      "timestamp": "2025-11-04T14:34:44.478059",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 2.659,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:34:49.542237",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 5.06,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:34:49.542237",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:49.542237",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:49.542237",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:49.542237",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:49.542237",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:49.542237",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:49.542237",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:49.542237",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:52.977759",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 7.994,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:34:52.978780",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:52.978780",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:52.978780",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:52.978780",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:52.978780",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:52.978780",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:52.978780",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:52.978780",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:56.043063",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 10.058,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:34:56.044070",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:56.044070",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:56.044070",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:56.044070",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:56.044070",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:56.044070",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:56.044070",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:56.044070",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:57.612996",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 10.127,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:34:57.613987",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:57.613987",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:57.613987",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:57.613987",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:57.613987",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:57.613987",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:57.613987",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:34:57.613987",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:00.229390",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 10.685,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:00.230407",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:00.230407",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:00.230407",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:00.230407",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:00.230407",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:00.230407",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:00.230407",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:00.230407",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:03.148389",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 10.168,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:03.148389",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:03.148389",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:03.148389",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:03.148389",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:03.148389",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:03.148389",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:03.152391",
+      "stage": "dept_prefilter_summary",
+      "dept": "10",
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "OK",
+      "details": {
+        "total_listed": 14,
+        "total_skipped": 14,
+        "to_download": 0
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:06.110026",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 10.065,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:06.111026",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:06.111026",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:06.111026",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:06.111026",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:06.111026",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:06.111026",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:06.111026",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:06.111026",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:08.630658",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.016,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:08.631659",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:08.631659",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:08.631659",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:08.631659",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:08.633680",
+      "stage": "dept_prefilter_summary",
+      "dept": "52",
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "OK",
+      "details": {
+        "total_listed": 12,
+        "total_skipped": 12,
+        "to_download": 0
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:11.356198",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.125,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:11.357195",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:11.359182",
+      "stage": "dept_prefilter_summary",
+      "dept": "08",
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "OK",
+      "details": {
+        "total_listed": 17,
+        "total_skipped": 17,
+        "to_download": 0
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:12.930597",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 9.777,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:12.931611",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:12.931611",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:12.931611",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:12.931611",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:12.931611",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:12.931611",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:12.931611",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:12.931611",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:14.907078",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 8.794,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:14.908067",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:14.908067",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:14.909065",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:14.909065",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:14.909065",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:14.909065",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:14.909065",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:14.909065",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:15.730221",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 7.097,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:15.731248",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:15.731248",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:15.731248",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:15.731248",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:15.731248",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:15.731248",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:15.731248",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:15.731248",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:17.529425",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 6.169,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:17.530429",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:17.530429",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:17.530429",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:17.530429",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:17.530429",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:17.530429",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:17.530429",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:17.530429",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:19.133479",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 6.2,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:19.134494",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:19.134494",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:19.134494",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:19.134494",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:19.134494",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:19.134494",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:19.134494",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:19.134494",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:22.199156",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 7.289,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:22.200165",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:22.200165",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:22.200165",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:22.200165",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:22.200165",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:22.200165",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:22.200165",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:22.200165",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:22.201683",
+      "stage": "dept_prefilter_summary",
+      "dept": "51",
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "OK",
+      "details": {
+        "total_listed": 32,
+        "total_skipped": 32,
+        "to_download": 0
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:25.234624",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 9.502,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:25.235623",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:25.235623",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:25.235623",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:25.235623",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:25.235623",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:25.235623",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:25.235623",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:25.235623",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:27.021889",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 9.49,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:27.022889",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:27.022889",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:27.022889",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:27.022889",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:27.022889",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:27.022889",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:27.022889",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:27.022889",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:29.125019",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 9.991,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:29.126019",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:29.126019",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:29.126019",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:29.126019",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:29.126019",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:29.126019",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:29.126019",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:29.126019",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:33.780486",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.578,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:33.780486",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:33.780486",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:33.780486",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:33.780486",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:33.780486",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:33.780486",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:33.780486",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:33.780486",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:36.633071",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.395,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:36.634801",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:36.634801",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:36.634801",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:36.634801",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:36.635818",
+      "stage": "dept_prefilter_summary",
+      "dept": "55",
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "OK",
+      "details": {
+        "total_listed": 20,
+        "total_skipped": 20,
+        "to_download": 0
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:38.516937",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.492,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:38.516937",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:38.516937",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:38.516937",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:38.516937",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:38.516937",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:38.516937",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:38.516937",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:38.516937",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:40.786849",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.659,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:40.787843",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:40.787843",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:40.787843",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:40.787843",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:40.787843",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:40.787843",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:40.787843",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:40.787843",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:45.415253",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.633,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:45.416273",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:45.416273",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:45.416273",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:45.416273",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:45.416273",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:45.416273",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:45.416273",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:45.416273",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:49.292470",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 12.657,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:49.292470",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:49.292470",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:49.292470",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:49.292470",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:49.292470",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:49.292470",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:49.292470",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:49.292470",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:53.148498",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 14.63,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:53.148498",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:53.148498",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:53.148498",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:53.148498",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:53.148498",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:53.148498",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:53.148498",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:53.148498",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:57.040304",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 16.25,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:35:57.041321",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:35:57.043293",
+      "stage": "dept_prefilter_summary",
+      "dept": "54",
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "OK",
+      "details": {
+        "total_listed": 33,
+        "total_skipped": 33,
+        "to_download": 0
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:00.203615",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 14.785,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:00.204614",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:00.204614",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:00.204614",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:00.204614",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:00.204614",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:00.204614",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:00.204614",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:00.204614",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:02.651034",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 13.357,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:02.651034",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:02.651034",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:02.651034",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:02.651034",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:02.651034",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:02.651034",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:02.651034",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:02.651034",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:05.326639",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 12.176,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:05.327645",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:05.327645",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:05.327645",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:05.327645",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:05.327645",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:05.327645",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:05.327645",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:05.327645",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:07.784767",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 10.741,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:07.785769",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:07.785769",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:07.785769",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:07.785769",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:07.785769",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:07.785769",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:07.785769",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:07.785769",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:10.509781",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 10.303,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:10.509781",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:10.509781",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:10.509781",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:10.509781",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:10.509781",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:10.509781",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:10.509781",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:10.509781",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:13.765829",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.113,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:13.766811",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:13.766811",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:13.766811",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:13.766811",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:13.766811",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:13.766811",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:13.766811",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:13.766811",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:16.437131",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.108,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:16.438117",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:16.438117",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:16.438117",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:16.438117",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:16.438117",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:16.438117",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:16.438117",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:16.438117",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:19.087549",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.3,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:19.088532",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:19.088532",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:19.088532",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:19.088532",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:19.088532",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:19.088532",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:19.088532",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:19.088532",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:22.188564",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.676,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:22.189556",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:22.189556",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:22.189556",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:22.189556",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:22.189556",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:22.189556",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:22.189556",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:22.189556",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:25.622660",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.854,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:25.624659",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:25.624659",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:25.624659",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:25.624659",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:25.624659",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:25.624659",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:25.624659",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:25.624659",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:28.389657",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.95,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:28.390674",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:28.390674",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:28.390674",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:28.390674",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:28.390674",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:28.390674",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:28.390674",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:28.390674",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:31.220371",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 12.129,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:31.221358",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:31.221358",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:31.221358",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:31.221358",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:31.221358",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:31.221358",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:31.221358",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:31.221358",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:33.655268",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 11.464,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:33.656278",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:33.656278",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:33.656278",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:33.656278",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:33.656278",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:33.656278",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:33.656278",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:33.656278",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:36.466111",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 10.84,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:36.467120",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:36.467120",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:36.467120",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:36.467120",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:36.470138",
+      "stage": "dept_prefilter_summary",
+      "dept": "68",
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "OK",
+      "details": {
+        "total_listed": 36,
+        "total_skipped": 36,
+        "to_download": 0
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:38.317993",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 9.925,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:38.319008",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:38.319008",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:38.319008",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:38.321011",
+      "stage": "dept_prefilter_summary",
+      "dept": "57",
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "OK",
+      "details": {
+        "total_listed": 59,
+        "total_skipped": 59,
+        "to_download": 0
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:40.863442",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 9.641,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:40.864441",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:40.864441",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:40.864441",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:40.864441",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:40.864441",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:40.864441",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:40.867451",
+      "stage": "dept_prefilter_summary",
+      "dept": "88",
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "OK",
+      "details": {
+        "total_listed": 30,
+        "total_skipped": 30,
+        "to_download": 0
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:42.871343",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 9.213,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T14:36:42.872337",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:42.872337",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:42.872337",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:42.872337",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:42.872337",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:42.872337",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:42.872337",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:42.872337",
+      "stage": "list_card_filtered",
+      "dept": null,
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "SKIP",
+      "details": {
+        "reason": "no_bess_patterns"
+      }
+    },
+    {
+      "timestamp": "2025-11-04T14:36:42.874335",
+      "stage": "dept_prefilter_summary",
+      "dept": "67",
+      "url_domain": null,
+      "duration_sec": null,
+      "status": "OK",
+      "details": {
+        "total_listed": 56,
+        "total_skipped": 56,
+        "to_download": 0
+      }
+    }
+  ]
+}

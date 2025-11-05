@@ -1,6 +1,6 @@
 """
-Scraper DREAL Auvergne-Rhône-Alpes - VERSION HYBRIDE OPTIMALE
-Combine la robustesse du crawl dynamique avec la performance du parallélisme
+Scraper DREAL Auvergne-Rhône-Alpes - VERSION OPTIMISÉE
+Combine crawl robuste + parallélisme 15 workers + délai adaptatif
 """
 import re
 import time
@@ -15,12 +15,12 @@ from models import Project
 
 logger = logging.getLogger(__name__)
 
-# Configuration
-DELAY = 0.4  # Rate limiting agressif pour performance
-MAX_WORKERS = 5  # Parallélisme fiches
+# ============ Configuration OPTIMISÉE ============
+DELAY = 0.2  # 🚀 Via AdaptiveHTTPClient (baisse si succès)
+MAX_WORKERS = 15  # 🚀 Augmenté: 5 → 15 workers
 DEFAULT_SEED = "https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/projets-r3463.html"
 
-# Hints année AURA (optimisation)
+# Hints année AURA (optimisation: accès direct)
 YEAR_PAGE_HINTS = {
     "2025": "https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/2025-r6319.html",
     "2024": "https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/2024-r5914.html",
@@ -31,6 +31,7 @@ YEAR_PAGE_HINTS = {
 # ============ Utils ============
 
 def _sha1(text: str) -> str:
+    """Génère SHA1 d'une chaîne"""
     return hashlib.sha1(text.encode("utf-8")).hexdigest()
 
 
@@ -42,7 +43,6 @@ def _get_html_cached(client, url: str, cache: Dict) -> Tuple[str, str]:
     
     logger.info(f"GET {url}")
     html, final_url = client.get_text(url)
-    time.sleep(DELAY)
     
     cache[url] = (html, final_url)
     return html, final_url
@@ -55,30 +55,19 @@ def _extract_title_from_tree(tree: HTMLParser) -> str:
 
 
 def _is_bess_title(title: str) -> bool:
-    """
-    Validation BESS OPTIMALE - Version la plus permissive et précise
-    Accepte: stockage + (batterie OU BESS OU électricité OU 2925)
-    """
+    """Validation BESS OPTIMALE"""
     t = title.lower()
     
-    # Vérifier "stockage"
     has_stock = "stockag" in t
-    
-    # Vérifier indicateurs BESS (élargi)
     has_batt = (
-        "batter" in t or  # batterie, batteries
-        "bess" in t or
-        re.search(r"\b2925(\-?2)?\b", t) is not None or
-        ("électricité" in t and "stockag" in t) or  # stockage d'électricité
-        ("energie" in t and "stockag" in t)  # stockage d'énergie
+        "batter" in t or "bess" in t or
+        re.search(r"\b2925(-?2)?\b", t) is not None or
+        ("électricité" in t and "stockag" in t) or
+        ("energie" in t and "stockag" in t)
     )
-    
-    # Exclure les faux positifs (pure photovoltaïque sans stockage explicite)
     is_pure_solar = (
-        "photovolta" in t and 
-        "batter" not in t and 
-        "bess" not in t and
-        "électricité" not in t
+        "photovolta" in t and "batter" not in t and
+        "bess" not in t and "électricité" not in t
     )
     
     return has_stock and has_batt and not is_pure_solar
@@ -94,7 +83,7 @@ def _belongs_to_dept(title: str, url: str, dept_code: str) -> bool:
     return False
 
 
-# ============ Découverte "Par département" ============
+# ============ Découverte Page Racine ============
 
 def _extract_department_links(html: str, base_url: str) -> List[Dict]:
     """Extrait liens vers pages départements"""
@@ -107,15 +96,15 @@ def _extract_department_links(html: str, base_url: str) -> List[Dict]:
         if not href:
             continue
         
-        # Pattern: .../departement-01-r4613.html
+        # Pattern 1: URL directe par département
         if re.search(r"/[\w\-\u00C0-\u017F]+-\d{2}-r\d+\.html(?:\?[^\s\"']+)?$", href):
-            code_match = re.search(r"-([0-9]{2})-r\d+\.html", href)
+            code_match = re.search(r"-(\d{2})-r\d+\.html", href)
             out.append({
                 "url": urljoin(base_url, href),
                 "label": label,
                 "code": code_match.group(1) if code_match else None
             })
-        # Fallback: code dans le label "(01)"
+        # Pattern 2: Lien texte avec code département
         elif re.search(r"\(\s*\d{2}\s*\)", label):
             code_match = re.search(r"\((\d{2})\)", label)
             out.append({
@@ -128,10 +117,7 @@ def _extract_department_links(html: str, base_url: str) -> List[Dict]:
 
 
 def _crawl_find_dept_index(client, start_url: str, cache: Dict, max_pages: int = 50) -> Tuple[Optional[str], Optional[str], List[Dict]]:
-    """
-    Crawl dynamique pour trouver la page "Par département"
-    OPTIMISÉ: cache + limite pages réduite
-    """
+    """Crawl dynamique pour trouver page \"Par département\""""
     domain = urlparse(start_url).netloc
     queue = [start_url]
     seen = set()
@@ -150,12 +136,12 @@ def _crawl_find_dept_index(client, start_url: str, cache: Dict, max_pages: int =
         
         links = _extract_department_links(html, final_url)
         
-        # Heuristique: page avec >= 5 départements
+        # Heuristique: >= 5 départements trouvés = bonne page
         if len([x for x in links if x.get("code")]) >= 5:
             logger.info(f"✓ Page 'Par département' trouvée: {final_url} ({len(links)} liens)")
             return final_url, html, links
         
-        # Continuer navigation interne
+        # Ajouter liens pertinents au queue
         tree = HTMLParser(html)
         for a in tree.css("a"):
             href = a.attributes.get("href", "")
@@ -166,20 +152,19 @@ def _crawl_find_dept_index(client, start_url: str, cache: Dict, max_pages: int =
             parsed = urlparse(full_url)
             
             if parsed.netloc == domain and full_url.startswith("http"):
-                # Priorité aux URLs pertinentes
                 if any(keyword in full_url.lower() for keyword in [
                     "projet", "departement", "par-departement", "cas", "evaluation"
                 ]):
                     queue.append(full_url)
     
-    logger.error("Page 'Par département' introuvable après crawl")
+    logger.error("Page 'Par département' introuvable")
     return None, None, []
 
 
 # ============ Année -> Segments A-Z ============
 
 def _slice_year_section(full_html: str, year: str) -> str:
-    """Extrait section HTML pour une année donnée"""
+    """Extrait section HTML pour année donnée"""
     m_start = re.search(rf"(^|\W){re.escape(year)}(\W|$)", full_html)
     if not m_start:
         return ""
@@ -212,7 +197,7 @@ def _extract_alpha_links_from_year_section(dept_html: str, base_url: str, year: 
 
 
 def _normalize_alpha_label(label: str) -> str:
-    """Normalise labels alphabétiques A-G, H-M, N-S, T-Z"""
+    """Normalise labels alphabétiques"""
     s = (label or "").strip().lower()
     s = s.replace("–", "-").replace("—", "-").replace("à", "-")
     s = re.sub(r"\s+", "", s)
@@ -250,7 +235,6 @@ def _find_year_page_url_in(html: str, base_url: str, year: str) -> Optional[str]
     tree = HTMLParser(html)
     yr = str(year)
     
-    # Via balises <a>
     for a in tree.css("a"):
         href = a.attributes.get("href", "")
         text = a.text() or ""
@@ -260,8 +244,7 @@ def _find_year_page_url_in(html: str, base_url: str, year: str) -> Optional[str]
         if yr in text or re.search(rf"(?:^|/){yr}-r\d+\.html", href, re.I):
             return urljoin(base_url, href)
     
-    # Scan brut HTML
-    match = re.search(rf'href=["\'](/?{yr}-r\d+\.html)(?:[#?][^"\']*)?["\']', html, re.I)
+    match = re.search(rf'href=["\'](/?{yr}-r\d+\.html)(?:[#?][^\\"\']*)?["\']', html, re.I)
     if match:
         return urljoin(base_url, match.group(1))
     
@@ -270,7 +253,6 @@ def _find_year_page_url_in(html: str, base_url: str, year: str) -> Optional[str]
 
 def _find_year_page_url(client, year: str, cache: Dict, seed: str = DEFAULT_SEED) -> Optional[str]:
     """Trouve URL page annuelle avec fallback hints"""
-    # 1. Essayer depuis seed
     try:
         html, final_url = _get_html_cached(client, seed, cache)
         found = _find_year_page_url_in(html, final_url, year)
@@ -279,7 +261,7 @@ def _find_year_page_url(client, year: str, cache: Dict, seed: str = DEFAULT_SEED
     except Exception as e:
         logger.warning(f"Seed FAIL {seed}: {e}")
     
-    # 2. Hint explicite
+    # Fallback: YEAR_PAGE_HINTS
     hint = YEAR_PAGE_HINTS.get(str(year))
     if hint:
         logger.info(f"YEAR_HINT {year} -> {hint}")
@@ -309,20 +291,16 @@ def _extract_project_links_from_list(list_html: str, base_url: str) -> List[str]
     
     for a in tree.css("a"):
         href = a.attributes.get("href", "")
-        # Pattern: .../projet-a12345.html
         if re.search(r"-a\d+\.html(?:\?[^\s\"']+)?$", href):
             out.append(urljoin(base_url, href))
     
     return sorted(set(out))
 
 
-# ============ Collecte URLs Fiches (optimisé) ============
+# ============ Collecte URLs Fiches ============
 
 def _collect_project_urls_from_alpha(client, alpha_urls: List[str], dept_code: str, cache: Dict, max_pages: int = 50) -> List[str]:
-    """
-    Collecte toutes les URLs de fiches depuis les segments alphabétiques
-    OPTIMISÉ: Pagination complète + logging détaillé
-    """
+    """Collecte toutes URLs fiches depuis segments alphabétiques"""
     all_urls = []
     
     for alpha_url in alpha_urls:
@@ -349,7 +327,7 @@ def _collect_project_urls_from_alpha(client, alpha_urls: List[str], dept_code: s
     return sorted(set(all_urls))
 
 
-# ============ Téléchargement Parallèle Fiches ============
+# ============ Téléchargement Parallèle - 🚀 15 WORKERS ============
 
 def _fetch_project_worker(args: tuple) -> Optional[Project]:
     """Worker parallèle pour téléchargement et validation fiche"""
@@ -360,12 +338,10 @@ def _fetch_project_worker(args: tuple) -> Optional[Project]:
         tree = HTMLParser(proj_html)
         title = _extract_title_from_tree(tree)
         
-        # Validation BESS
         if not _is_bess_title(title):
             logger.debug(f"[{dept_code}] NON-BESS: {title}")
             return None
         
-        # Si fallback régional, vérifier appartenance département
         if fallback_yearpage and not _belongs_to_dept(title, proj_final, dept_code):
             logger.debug(f"[{dept_code}] MAUVAIS-DEPT: {title}")
             return None
@@ -396,13 +372,7 @@ def _collect_department_hybrid(
     cache: Dict,
     max_pages: int = 50
 ) -> List[Project]:
-    """
-    Collecte département avec stratégie hybride optimale:
-    1. Chercher A-Z dans page département
-    2. Fallback page annuelle régionale
-    3. Collecte URLs séquentielle
-    4. Téléchargement fiches en parallèle
-    """
+    """Collecte département avec stratégie hybride optimale"""
     projects = []
     
     try:
@@ -411,18 +381,14 @@ def _collect_department_hybrid(
         logger.error(f"[{dept_code}] Dept page FAIL {dept_url}: {e}")
         return projects
     
-    # STRATÉGIE 1: Liens A-Z dans section année de page département
     alpha_urls = _extract_alpha_links_from_year_section(dept_html, dept_final, year)
     fallback_yearpage = False
     
-    # STRATÉGIE 2: Fallback page annuelle régionale
     if not alpha_urls:
-        logger.warning(f"[{dept_code}] Aucun lien A-Z {year} dans page dept -> fallback page annuelle")
+        logger.warning(f"[{dept_code}] Aucun lien A-Z {year} -> fallback page annuelle")
         
-        # Chercher URL année dans page département
         year_page = _find_year_page_url_in(dept_html, dept_final, year)
         
-        # Sinon chercher via seed + hints
         if not year_page:
             year_page = _find_year_page_url(client, year, cache, seed=DEFAULT_SEED)
         
@@ -444,7 +410,6 @@ def _collect_department_hybrid(
     
     logger.info(f"[{dept_code}] {len(alpha_urls)} segments alphabétiques à explorer")
     
-    # Collecte URLs fiches (séquentiel pour stabilité)
     all_project_urls = _collect_project_urls_from_alpha(
         client, alpha_urls, dept_code, cache, max_pages
     )
@@ -455,7 +420,7 @@ def _collect_department_hybrid(
     
     logger.info(f"[{dept_code}] Total: {len(all_project_urls)} fiches à analyser")
     
-    # Téléchargement parallèle (performance boost)
+    # 🚀 Parallélisation MAX_WORKERS = 15
     logger.info(f"[{dept_code}] Téléchargement parallèle ({MAX_WORKERS} workers)...")
     
     args_list = [
@@ -483,30 +448,31 @@ def discover_projects(
     dept: Optional[str] = None,
     seed_url: Optional[str] = None
 ) -> List[Project]:
-    """
-    API principale scraper Auvergne-Rhône-Alpes - VERSION HYBRIDE OPTIMALE
-    
-    Combine:
-    - Crawl dynamique robuste (pas de hardcoding)
-    - Fallback intelligent multi-niveaux
-    - Collecte séquentielle stable
-    - Téléchargement parallèle performant
-    - Validation BESS élargie
+    """API principale scraper AURA - VERSION OPTIMISÉE
     
     Args:
-        year: Année à rechercher (ex: "2024", "2023")
-        client: Client HTTP (utils.HTTPClient)
-        dept: Code département (ex: "01") ou None pour tous
-        seed_url: URL de départ (défaut: page projets DREAL)
+        year: Année à scraper (ex: "2024")
+        client: HTTPClient ou AdaptiveHTTPClient
+        dept: Code département optionnel (ex: "01")
+        seed_url: URL de départ personnalisée
     
     Returns:
-        Liste de projets BESS découverts
+        List[Project]: Projets BESS trouvés
     """
     cache = {}
     start_url = seed_url or DEFAULT_SEED
     max_pages = 50
     
-    # Découverte dynamique page "Par département"
+    logger.info(
+        f"\n{'='*70}\n"
+        f"SCRAPER AURA (OPTIMISÉ)\n"
+        f"Année: {year}\n"
+        f"Département: {dept or 'TOUS'}\n"
+        f"Workers: {MAX_WORKERS} | Délai: {DELAY}s adaptatif\n"
+        f"{'='*70}"
+    )
+    
+    # Étape 1: Trouver page "Par département"
     logger.info("Recherche page 'Par département'...")
     dept_index_url, dept_index_html, dept_links = _crawl_find_dept_index(
         client, start_url, cache, max_pages=max_pages
@@ -519,36 +485,32 @@ def discover_projects(
     depts = [d for d in dept_links if d.get("code")]
     logger.info(f"✓ {len(depts)} départements disponibles")
     
-    # Mode département spécifique
+    # Étape 2a: Mode département spécifique
     if dept:
         code = dept.zfill(2)
         target = next((d for d in depts if d["code"] == code), None)
         
         if not target:
-            logger.error(f"Département {code} non trouvé dans la liste")
+            logger.error(f"Département {code} non trouvé")
             return []
         
-        logger.info(f"Mode département unique: {code} -> {target['url']}")
+        logger.info(f"Mode département unique: {code}")
         return _collect_department_hybrid(
             client, target["url"], code, year, cache, max_pages
         )
     
-    # Mode tous départements
-    logger.info(f"Mode TOUS départements ({len(depts)} départements)")
+    # Étape 2b: Mode tous départements
+    logger.info(f"Mode TOUS départements ({len(depts)} depts)")
     all_projects = []
     
     for d in sorted(depts, key=lambda x: x["code"]):
-        logger.info(f"\n{'='*60}")
-        logger.info(f"Département: {d['code']} - {d['label']}")
-        logger.info(f"{'='*60}")
+        logger.info(f"\n{'='*60}\nDépartement: {d['code']}\n{'='*60}")
         
         projects = _collect_department_hybrid(
             client, d["url"], d["code"], year, cache, max_pages
         )
         all_projects.extend(projects)
     
-    logger.info(f"\n{'='*60}")
-    logger.info(f"TOTAL: {len(all_projects)} projets BESS découverts")
-    logger.info(f"{'='*60}")
+    logger.info(f"\n{'='*60}\nTOTAL AURA: {len(all_projects)} projets BESS\n{'='*60}")
     
     return all_projects

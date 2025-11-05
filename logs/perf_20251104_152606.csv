@@ -1,0 +1,7 @@
+Stage,Count,Total_Duration_s,Avg_Duration_s,Min_s,Max_s,Statuses
+http_request,303,1788.24,5.902,1.775,38.807,{'OK': 303}
+parse_html,266,0.18,0.001,0.001,0.002,{'OK': 266}
+extract_content,266,0.08,0.0,0.001,0.002,{'OK': 266}
+validate_bess,266,0.04,0.0,0.001,0.001,"{'REJECT': 261, 'ACCEPT': 5}"
+project_accepted,5,28.67,5.735,3.902,7.146,{'OK': 5}
+http_cache_hit,3,0,0.0,,0,{'CACHE': 3}

@@ -1,0 +1,241 @@
+Station de stockage d'électricité de "Rambervillers" sur la commune de Rambervillers
+
+R&S
+
+9
+
+2
+
+1
+
+7
+
+8
+
+2
+
+4
+
+0
+
+5
+
+0
+
+0
+
+0
+
+1
+
+0
+
+SAS
+
+MALVILLE
+
+Romain
+
+32°
+
+Création d'un poste de transformation de tension 63kV afin de connecter au 
+réseau de transport d'électricité une station de stockage d'électricité par batterie 
+relevant de la nomenclature ICPE 2925-2 (Ateliers de charge d'accumulateurs 
+électriques)
+
+Le projet est la création d'une station de stockage d'électricité par batterie stationnaire située à proximité du poste
+électrique RTE "RAMBERVILLERS" existant sur la commune de Rambervillers (88). L'emprise du projet dans sa
+dimension maximale (selon l'approbation de RTE) est d'environ 1,3ha, sur des parcelles actuellement en nature de
+prairies permanentes. La surface de la parcelle accueillant les conteneurs est laissée en sol naturel enherbé.
+Environ 700m linéaires de pistes lourdes (5m de large) en matériaux naturels (grave/concassé) seront créés.
+L'installation de la station de stockage sera faite par grue mobile. Elle consiste en 13 ensembles de 5 conteneurs
+de 20 pieds (4 conteneurs hébergeant chacun des batteries et 1 container hébergeant un onduleur et un
+transformateur). La distance séparant chaque container est d'au moins 3m et leur distance à la clôture périphérique
+du projet est de 7m. Les onduleurs sont reliés à un premier jeu de transformateurs BT/HTA, eux-mêmes connectés
+au transformateur HTA/HTB objet du présent "cas par cas" (tension >63kV ; ici 63kV au maximum). La station de
+stockage sera reliée au réseau public de transport d'électricité à partir de ce dernier transformateur HTB jusqu'au
+poste source RTE "RAMBERVILLERS" par câble enterré. Le site du projet sera pourvu des équipements adéquats
+de prévention et de lutte contre les incendies.
+
+Création d'une station de stockage d'électricité d'au maximum 50MVA/100MWh connectée au réseau public de
+transport d'électricité afin de contribuer à l'équilibrage en temps réel entre la production et la consommation
+d'électricité. En participant à la réserve primaire, à la réserve secondaire et au mécanisme de capacité, la station
+de stockage assure l'intégration des moyens de production intermittent (solaire et éolien) au réseau électrique et la
+stabilisation du réseau électrique pendant les pics de consommations (soir et hivers).
+
+Les travaux prévus pour une durée de 20 mois maximum. La première phase sera dédiée à la partie génie civil et
+VRD avec la réalisation des pistes lourdes et la réalisation des tranchées et caniveaux. La seconde phase implique
+l'installation du matériel HTB, puis l'équipement HTA (y compris la mise à disposition du bâtiment, et enfin la partie
+BT).
+
+Le projet de stockage d'électricité permettra de pallier l'intermittence des energies renouvelables, de fiabiliser le
+réseau électrique en participants à différents services système demandés par RTE. Le poste permettra l'injection ou
+le soutirage de puissance électrique vers/depuis le réseau RTE. Le site ne nécessitera pas d'intervention humaine,
+si ce n'est une visite mensuelle d'entretien.
+
+Le poste permettra l'injection ou le soutirage de puissance électrique vers/depuis le réseau RTE. Le projet de
+stockage est sous le régime de déclaration ICPE rubrique 2925-2 (Ateliers de charge d'accumulateurs électriques)
+et la globalité du projet fera l'objet d'une demande de permis de construire.
+
+Superficie du poste HT
+Longueur de l'enceinte HT
+Largeur de l'enceinte HT
+Emprise de la partie stockage, voirie, maintenance, incendie et contexte paysager
+Hauteur max de l'équipement de stockage
+
+1800 m²
+60 m
+30 m
+11000 m²
+3,70 m
+
+LE HAUT DES CARRIERES
+
+Rambervillers
+
+8
+
+8
+
+7
+
+0
+
+0
+
+0 6
+
+3 7
+
+2 4
+
+E
+
+4 8
+
+2
+
+1
+
+4 4
+
+N
+
+0 6
+
+3 7
+
+2 4
+
+E
+
+4 8
+
+2
+
+1
+
+4 4
+
+N
+
+0 6
+
+3 7
+
+3
+
+1
+
+E
+
+4 8
+
+2
+
+1
+
+3 9
+
+N
+
+Le projet se situe sur les parcelles cadastrales AS 21 et AS 22 de la commune de Rambervillers.
+
+Le site est situé en zone A au sens du Règlement National de l'Urbanisme
+
+PPRi innondations de la Mortagne. Les parcelles concernées ne sont
+pas situées dans la zone innondable.
+
+Approuvé par arrêté préfectoral du 7 octobre 2016.
+
+Le site est en zone Agricole au sens du Règlement National de
+l'Urbanisme
+
+Incendie, risque prévu et maîtrisé par les normes de sécurité.
+
+Uniquement durant la phase travaux avec en moyenne 2 
+camions/jours
+
+Son engendré par le transformateur mais non concerné en dehors de
+ la parcelle au vu des distances prises en compte dans l'implantation 
+par rapport aux premières habitations
+
+Liquide diélectrique pour le poste HT, récupéré dans un bac de 
+rétention
+
+Récupéré dans un bac de rétention 
+
+L'emprise foncière en zone Agricole ne sera plus utilisée pour une
+exploitation agricole de fauche.
+
+L'implantation des différents éléments de la station de stockage respecte le projet d'AMPG de la DGPR pour la
+rubrique 2925 de la nomenclature des ICPE mis en consultation ; à savoir :
+- Distances de sécurité entre les unités de stockage et la clôture périphérique (7m), mais aussi entre les unités de
+stockages elles-mêmes (3m), celles-ci étant isolées thermiquement de l'environnement externe.
+- 2 citernes souples de 120m3 à moins de 200m des actifs en extrémité, un bassin de récupération des eaux de
+pluie et un bassin de récupération des eaux en cas d’incendie
+- la réalisation de pistes lourdes permettant la circulation périphérique et interne des engins de lutte contre les
+incendies au sein du site en grave concassée naturelle
+- mise en place d'un mur coupe feu entre les transformateurs dans le poste HT et une distance importante entre les
+unités de stockage et le poste HT.
+- écran acoustique et paysager revêtu d'un bardage bois laissant des passages petite faune ainsi qu'une distance à
+la limite de propriété de 7m ; ainsi la pression acoustique à la limite de propriété correspondante prenant en compte
+le transformateur est inférieure aux niveaux admissibles.
+
+Pour ce qui est de l'impact paysager, la station de stockage est loin de tout espace habité. Elle est délimitée au
+nord, à l'ouest et à l’est par des prairies permanentes, au sud par un hangar agricole et une route départementale.
+La zone du projet sera entourée d'une palissade en bois naturel laissant des passages petite faune et faisant
+également office d'écran acoustique. Devant cette palissade sera plantée une haie paysagère renforcée d'au moins
+3m de large qui sera constituée d'arbustes hauts et bas en quinconce.
+
+Ce projet s'inscrit dans l'impératif de la transition énergétique et son emplacement a été sélectionné pour son
+moindre impact : Il est situé hors de tout espace naturel protégé (ZNIEFF, Natura...), il est proche du poste source
+RTE RAMBERVILLERS de sorte à minimiser la quantité de câble à tirer pour relier le projet au réseau électrique.
+Le projet est éloigné de toute habitation. Le sol restera en terre naturelle enherbée hors emprise des plateformes et
+pistes lourdes. Il n'y a donc pas lieu de réaliser une évaluation environnementale.
+
+MALVILLE
+
+Romain
+
+Représentant légal
+
+Paris
+
+0
+
+8
+
+0
+
+6
+
+2
+
+0
+
+2
+
+4
+
+

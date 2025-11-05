@@ -1,0 +1,4 @@
+Stage,Count,Total_Duration_s,Avg_Duration_s,Min_s,Max_s,Statuses
+http_request,44,458.14,10.412,2.659,16.25,{'OK': 44}
+list_card_filtered,309,0,0.0,,0,{'SKIP': 309}
+dept_prefilter_summary,10,0,0.0,,0,{'OK': 10}

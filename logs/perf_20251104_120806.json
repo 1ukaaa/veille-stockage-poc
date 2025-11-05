@@ -1,0 +1,73 @@
+{
+  "run_timestamp": "20251104_120806",
+  "total_events": 6,
+  "total_duration_sec": 13.856072,
+  "events_by_stage": {
+    "http_request": {
+      "count": 6,
+      "total_duration": 16.902,
+      "min_duration": 2.326,
+      "max_duration": 3.514,
+      "statuses": {
+        "OK": 6
+      },
+      "avg_duration": 2.817
+    }
+  },
+  "raw_events": [
+    {
+      "timestamp": "2025-11-04T12:08:09.647176",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 3.061,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T12:08:12.155143",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 2.501,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T12:08:14.483738",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 2.326,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T12:08:17.270825",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 2.785,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T12:08:19.987745",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 2.715,
+      "status": "OK",
+      "details": {}
+    },
+    {
+      "timestamp": "2025-11-04T12:08:23.503248",
+      "stage": "http_request",
+      "dept": null,
+      "url_domain": "www.grand-est.developpement-durable.gouv.fr",
+      "duration_sec": 3.514,
+      "status": "OK",
+      "details": {}
+    }
+  ]
+}

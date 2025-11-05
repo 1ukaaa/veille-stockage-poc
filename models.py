@@ -16,6 +16,10 @@ class Project:
     project_title: str
     project_url: str
     discovered_at: str = field(default_factory=lambda: datetime.now().isoformat())
+
+    # NOUVEAU: Support multi-URLs (Hauts-de-France)
+    url_cerfa: Optional[str] = None
+    url_decision: Optional[str] = None
     
     def to_dict(self):
         return asdict(self)

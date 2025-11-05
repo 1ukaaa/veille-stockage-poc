@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "input_file": "out\\analyzed\\analyzed_grand-est_2024.csv",
+    "output_file": "C:\\Users\\lmauvignant\\OneDrive - EDF Renouvelables\\Documents\\veille-stockage-poc\\out\\enriched\\enriched_grand-est_2024.csv",
+    "timestamp": "2025-11-04 16:36:28",
+    "duration_seconds": 1711.0,
+    "projects_processed": 5
+  },
+  "statistics": {
+    "permits_found": 0,
+    "high_confidence": 0,
+    "avg_confidence": 0.0
+  }
+}

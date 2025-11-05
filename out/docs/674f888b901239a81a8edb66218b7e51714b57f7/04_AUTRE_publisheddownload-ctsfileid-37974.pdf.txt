@@ -1,0 +1,1022 @@
+DOCUMENT SECURITE INCENDIE 
+
+TABLE DES MATIÈRES 
+
+TABLE DES MATIÈRES 
+
+GLOSSAIRE ET NORMES 
+
+1) Termes et abréviations 
+2) Cadre normatif 
+
+I. INTRODUCTION 
+
+1) Contexte 
+2) Fonctionnement d'une batterie lithium-ion et causes de défaillance 
+
+a) Fonctionnement d’une batterie lithium-ion 
+b) Causes de défaillance pouvant mener à un emballement thermique 
+
+3) Risques et dangers 
+
+a. Classement de l’incendie 
+b. Risque thermique et de propagation 
+c. Risque d’explosion 
+d. Effets toxiques des fumées 
+
+II. MESURES DE PRÉVENTION DU RISQUE 
+
+1) Choix des équipements et matériels 
+
+a) Choix de la technologie 
+b) Choix de la batterie stationnaire 
+c) Norme UL9540A de non propagation 
+d) Résultats des tests 
+
+2) Système de gestion de batterie (BMS) 
+3) Thermal management system (TMS) et système de ventilation active (HVAC) 
+4) Maintenance régulière et rigoureuse 
+
+III. SYSTÈMES ET MESURES DE DÉFENSE INCENDIE 
+
+1) Système de déconnexion des cellules et arrêt d’urgence 
+2) Système de défense incendie à eau 
+
+IV. DÉROULEMENT DE L’ALERTE 
+
+1) Schéma du déroulement 
+2) Schéma mise en sécurité 
+
+SOURCES 
+
+1 
+
+2 
+
+2 
+2 
+
+3 
+
+3 
+3 
+3 
+4 
+6 
+6 
+6 
+7 
+7 
+
+9 
+
+9 
+9 
+10 
+11 
+12 
+15 
+15 
+16 
+
+16 
+
+16 
+17 
+
+18 
+
+18 
+19 
+
+20 
+
+1 / 21 
+
+ 
+GLOSSAIRE ET NORMES 
+
+1)  Termes et abréviations  
+
+Les abréviations spécifiques utilisées sont énumérées ci-après : 
+Anglais  
+
+Français 
+
+(BESS) 
+(HVAC) 
+
+(SCADA) 
+(EES) 
+(TR) 
+(LFP) 
+(NMC) 
+(BMS) 
+(MP2XL) 
+
+Battery Energy Storage System 
+Heating Ventilation Air Conditioning 
+
+Système de stockage d’énergie de batterie 
+(CVC) 
+
+Chauffage, ventilation, Climatisation 
+
+Supervisory Control and Date Acquisition 
+Electrical Energy Storage 
+Thermal runaway 
+Type de cellule : lithium-fer-phosphate 
+Type de cellule: nickel, cobalt, and manganese 
+Batterie management system 
+Tesla - Megapack 2XL (lithium-ion LFP battery 
+stationary energy storage product) 
+
+Système de contrôle et d'acquisition de données 
+
+Emballement thermique 
+
+Système de gestion de batterie 
+Tesla  -  Megapack  2XL  (Batterie  stationnaire  de 
+stockage d’énergie Lithium-ion LFP) 
+
+2)  Cadre normatif  
+
+Comme  toute  installation,  un  BESS  doit  être  conforme  aux  codes  et  règlements  locaux  en 
+matière  d'incendie.  La  conception  du  BESS  doit  être  réalisée  conformément  aux  normes  et 
+réglementations obligatoires, que ce soit pour les conteneurs ou les armoires de batteries, mais aussi 
+pour l'installation électrique, le bâtiment et le site en lui-même. 
+Dans  le  cas  où  les  codes  de  prévention  des  incendies  et  les  réglementations  ne  concernent  pas 
+spécifiquement les BESS li-ion, CORSICA SOLE se conformera aux normes les plus reconnues, à savoir : 
+
+●  NFPA 855 : Norme pour l'installation de systèmes de stockage d'énergie stationnaires. 
+●  FM  Global  Property  Loss  Prevention  Data  Sheets  5-33  -  Systèmes  de  stockage  d'énergie 
+
+électrique. 
+
+●  UL  9540A  :  Norme  de  sécurité  -  Méthode  d'essai  pour  l'évaluation  de  la  propagation  d'un 
+incendie par emballement thermique dans les systèmes de stockage d'énergie par batterie. 
+
+●  UL 9540 : Norme de sécurité - Systèmes et équipements de stockage d'énergie. 
+● 
+
+IEC TS 62933-5-1 (spécification technique) : Systèmes de stockage de l'énergie électrique (EES) 
+- Partie 5-1 : Considérations de sécurité pour les systèmes EES intégrés au réseau - Spécification 
+générale. 
+IEC 62933-5-2 (norme internationale) : Systèmes de stockage de l'énergie électrique (EES)  - 
+Partie 5-2 : Exigences de sécurité pour les systèmes EES intégrés au réseau - Systèmes à base 
+électrochimique.
+
+● 
+
+2 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I. 
+
+INTRODUCTION  
+
+Ce document présente les lignes directrices que CORSICA SOLE suivra lors de la conception de 
+l’installation de stockage d’énergie stationnaire par batteries (BESS) sur la commune de Faux-Fresnay, 
+dans la Marne, afin de réduire le risque d'incendie et d'assurer un impact minimal sur l'environnement. 
+Les batteries installées seront très probablement des batteries lithium-ion de type LFP (Lithium Fer 
+Phosphate)  du  fournisseur  Tesla,  les  Megapack  2XL,  ou  le  cas  échéant,  d’un  autre  fournisseur 
+présentant, à minima, les mêmes caractéristiques. Ces Megapack 2XL, destinés au stockage d’énergie 
+électrique  à  grande  échelle,  font  partie  des  produits  de  stockage  par  batterie  les  plus  sûrs  de  leur 
+catégorie. Les unités sont soumises à des tests de résistance au feu approfondis et comprennent des 
+spécialisé. 
+systèmes 
+
+surveillance 
+
+intégrés 
+
+sécurité 
+
+logiciel 
+
+un 
+
+de 
+
+de 
+
+et 
+
+1)  Contexte 
+
+CORSICA SOLE est un acteur majeur du photovoltaïque et le leader du stockage d'énergie en 
+France. Créée en 2009, la société est  basée à Bastia, à Paris, à la Réunion et  aux  Antilles. En 2023, 
+CORSICA SOLE exploite plus de 100 MWc de centrales solaires et plus de 150 MWh de systèmes de 
+stockage  d'énergie  par  batterie  (BESS)  à  travers  la  France  et  l'Europe.  La  société  a  fait  partie  des 
+pionniers  de  l’exploitation  de  batteries  Lithium-Ion  avec  des  premières  installations  à  l’échelle 
+industrielle mises en service dès 2014 (Centrale d’Alata, Corse du Sud, 2MW 4,3 MWh). 
+Le marché des BESS se développe très rapidement du fait de l’évolution des systèmes électriques vers 
+une  production  accrue  par  des  sources  d’énergie  renouvelables  et  de  l’industrialisation  de  la 
+production des batteries de stockage d’électricité. Au cours des dernières décennies, des installations 
+pilotes ont pu mettre en œuvre ces technologies et permettre d’expérimenter l’exploitation de ces 
+systèmes avec les risques qui y sont liés. Ces expérimentations ont permis d’établir des normes de 
+conception et d’exploitation issus de l’analyse des incidents qui ont eu lieu sur certains de ces pilotes 
+(États-Unis, Corée du Sud, Japon, Belgique, France...). Les principaux acteurs du secteur ont également 
+défini  des  lignes  directrices  pour mettre  en œuvre  les  BESS  en  toute  sécurité et  atténuer  le  risque 
+d'incendie, l’évolution des compositions chimiques des batteries a notamment apporté des progrès 
+notables sur les risques d’emballement thermique et d’incendie des cellules de stockage. 
+
+3 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2)  Fonctionnement d'une batterie lithium-ion et causes de défaillance 
+
+a)  Fonctionnement d’une batterie lithium-ion 
+
+Chaque cellule Lithium-Ion est constituée de deux 
+électrodes,  l'Anode  (électrode  négative)  et  la  Cathode 
+les  électrodes,  se  trouve 
+(électrode  positive).  Entre 
+l'électrolyte conducteur d'ions. Il s'agit d'un mélange de sels 
+de lithium dissous dans des solvants organiques avec divers 
+additifs qui agit comme médiateur des processus d'échange 
+d'ions au sein de  la cellule. Enfin, un séparateur assure la 
+séparation  électrique  des  électrodes  en  facilitant  un 
+échange d'ions efficace. 
+La  présence  de  batteries  Lithium-Ion  dans  une  pièce 
+représente  un  risque  d'incendie  car  les  batteries  Lithium-
+Ion  combinent  des  matériaux  à  haute  énergie  avec  les  électrolytes  souvent  inflammables.  Tout 
+dommage  au  séparateur  à  l'intérieur  des  batteries  (causé  par  des  dommages  mécaniques  ou  des 
+températures  élevées)  peut  entraîner  un  court-circuit 
+interne  avec  une  forte  probabilité 
+d'emballement thermique. 
+
+Malgré le large éventail de combinaisons possibles au sein de la famille des batteries lithium-ion, les 
+électrodes négatives sont généralement à base de graphite (C), et deux chimies se démarquent de la 
+concurrence pour l'électrode positive : le nickel-manganèse-cobalt (NMC) et le lithium- phosphate de 
+fer (LFP). 
+
+Les  batteries  NMC  ont  d'abord  été  largement  utilisées  pour  répondre  à  la  demande  soudaine  et 
+exponentielle  de  véhicules  électriques  (VE)  et  de  systèmes  de  stockage  d'énergie  à  batterie 
+stationnaire (BESS). En effet, la densité de puissance élevée, la haute disponibilité de puissance et les 
+performances à basse température des cellules NMC en ont fait, à première vue, le candidat idéal pour 
+ces applications. 
+
+Le LFP, quant à lui, a une densité énergétique plus faible mais sa stabilité chimique, plus élevée que le 
+NMC,  en  matière  de  risques  de  sécurité  en  font  une  alternative  raisonnable  aux  cellules  NMC. Par 
+conséquent, les cellules LPF ont tendance à atteindre un niveau d'emballement thermique plus tard 
+que les cellules NMC et à s’emballer moins violemment. 
+
+b)  Causes de défaillance pouvant mener à un emballement thermique 
+
+La  défaillance  des  batteries  au  lithium-ion  et  le  risque  de  surchauffe  et  /  ou  d'auto-
+
+inflammation qui en résulte peuvent provenir d'une ou de plusieurs des causes suivantes : 
+
+-  Défauts  de  fabrication 
+montage/construction)  
+
+internes  (défauts  de  matériaux,  contamination,  défauts  de 
+
+-  Dommages  physiques  (lors  de  montages  sur  les  produits  finis,  de  l'expédition,  de  la 
+manutention, du traitement des déchets ou pendant le service ; qu'ils soient accidentels ou 
+malveillants) 
+
+4 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-  Défaut du séparateur dû à la formation de dendrite (par vieillissement non détecté et court-
+
+circuit interne subséquent)  
+
+-  Dégradation mécanique (écrasement / pénétration)  
+- 
+
+Endommagement  thermique  (exposition  à  des  températures  élevées,  exposition  aux 
+flammes, chaleur provenant de cellules adjacentes/voisines) 
+-  Dégradation électrique (surcharge, sur décharge, court-circuit 
+
+Schéma : Relations de cause à effet conduisant à un emballement thermique pour les cellules au 
+lithium-ion 
+
+L’emballement thermique commence généralement dans une seule cellule avant que la propagation 
+thermique ne crée un effet domino à travers les cellules voisines. L’organisation d’une BESS tend à 
+favoriser  la  propagation  de  l’emballement  si  aucune  mesure  n’est  prise.  Les  systèmes  de  stockage 
+d'énergie  à  batterie  Li-Ion  sont  composés  de  racks,  eux-mêmes  formés  de  modules  constitués  de 
+multiples cellules. Dans le cas d'un grand BESS, ce phénomène peut, en cascade, affecter l'ensemble 
+du module, du rack, et finalement l'ensemble de l’unité. 
+
+5 / 21 
+
+ 
+ 
+ 
+ 
+ 
+3)  Risques et dangers  
+
+a.  Classement de l’incendie  
+
+Les  substances  combustibles  des  batteries 
+
+lithium-ion  sont 
+principalement des gaz et des solides. Le système de l'armoire de la batterie 
+lithium-ion est  électrifié. Ainsi, les  batteries  lithium-ion constituent donc un 
+risque des classes A, C et D. 
+
+b.  Risque thermique et de propagation 
+
+Le flux thermique correspond à la quantité de chaleur dégagée par unité de temps et par unité 
+de surface et responsable des trois modes de propagation d’un incendie : la conduction, la convection 
+et le rayonnement. Ces flux peuvent être amplifiés par l’état de charge de la batterie : plus elle est 
+chargée plus le feu est puissant et difficile à maîtriser. 
+
+En outre, au vu des historiques d’incident, rares sont les incendies qui concernaient plus de deux unités 
+pour les batteries avec des cellules NMC (Nickel Manganèse Cobalt), et quasiment pas d’incident pour 
+les cellules LFP (Lithium Fer Phosphate).  
+
+Les  mesures  de  sécurité  déployées  au  niveau  des  unités  de  stockage  et  au  niveau  des  sites 
+d’implantation des projets ont permis de maîtriser la propagation du feu pour l’incendie soit restreint 
+à l’unité défaillante. 
+
+En effet, les cellules LFP ont l’avantage de monter moins haut en température, selon les chercheurs de 
+l’institut de technologie de Karlsruhe « A comparison of the maximum temperatures gives the highest 
+value of 731 °C for the NMC cathode, and a value of only 259 °C for the LFP cathode. »1.  
+
+c.  Risque d’explosion 
+
+Le  risque  d’explosion  à  la  suite  d’un  incendie  n’est  pas  nul :  des  essais  réglementaires  ont 
+montré  que  les  produits  de  combustion  d'un  module  de  batterie  li-ion  peuvent  inclure  des  gaz 
+inflammables et ininflammables.  
+Les gaz générés par l’incendie et/ou ceux consécutifs à la libération d’électrolyte lors de l’emballement 
+peuvent  s’accumuler  au  sein  de  l’unité  de  stockage.  Associés  à  un  apport  en  oxygène  en  cas 
+d’ouverture, intentionnelle ou non, les gaz accumulés au sein de l’enceinte peuvent engendrer une 
+explosion si aucune mesure d’évacuation des gaz n’a été prise. 
+
+1 LEI Boxia, ZHAO Wenjiao, ZIEBERT Carlos, UHLMANN Nils, ROHDE Magnus, JURGEN SEIFERT Hans, “Experimental Analysis 
+of  Thermal  Runaway  in  18650  Cylindrical  Li-Ion  Cells  Using  an  Accelerating  Rate  Calorimeter”,  Karlsruhe  Institute  of 
+Technology, 2017 
+
+6 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d.  Effets toxiques des fumées 
+
+La combustion d’un container de stockage dégage de nombreux polluants présents dans les 
+fumées. En plus du dioxyde de carbone et de la vapeur d’eau qui ne sont pas toxiques en tant que tels, 
+les  gaz  les  plus  couramment  rencontrés  sont  le  monoxyde  de  carbone,  l’acide  cyanhydrique  et 
+chlorhydrique, l'anhydride sulfureux et diverse substances organiques non brûlées. 
+
+D’après  les  simulations  du  CNPP,  quelles  que  soient  les  conditions  atmosphériques  considérées, 
+l'indice de toxicité reste inférieur à 1.2 Ainsi l’apparition d’effets irréversibles pour la santé est peu 
+probable. D’après les études du CNPP, l’incendie de 19 containers de manière simultanée ne conduit 
+pas  à  l’établissement  d’une  zone  de  danger  du  fait  de  la  toxicité  de  l’air  et  des  sols.  Cependant, 
+l’évacuation  du  personnel  présent  à  proximité  immédiate  du  sinistre  est  préconisée  le  temps  de 
+l’incident. 
+
+Le  SDIS  SAVOIE  a  mené  plusieurs  essais  concernant  la  toxicité  des  fumées  suite  à  un  incendie  de 
+batterie.  Il  en  ressort  que  deux  paramètres  sont  à  prendre  en  compte  sur  une  éventuelle  toxicité 
+particulière des fumées amenée par les batteries : la taille/puissance des batteries et le type de milieu : 
+confiné ou ouvert. 
+
+⇒  L’utilisation de protection respiratoire systématique lors de la progression pour les sapeurs-
+
+pompiers et l’humidification du milieu permettra de limiter ces risques3 
+
+Les mesures réalisées lors des incidents passés ont démontré la non-toxicité de l’air les heures suivants 
+l’incendie : 
+
+● 
+
+Incident en Haute-Corse le 6 avril 2023, « des batteries prennent feu » : 
+
+« Les  services  de  la  Direction  Régionale  de  l’Environnement,  de  l'Aménagement  et  du  Logement 
+(DREAL) sont sur place pour une évaluation de la situation. La cellule spécialisée en risque chimique 
+des sapeurs-pompiers d'Ajaccio a également été appelée sur les lieux.  [Au lendemain de l'incident] 
+En fin de matinée, leurs premières constatations font état de relevés nuls pour l'air avec simplement 
+une odeur irritante au niveau des deux points d'entrée du hangar et à l'intérieur. Le confinement de la 
+population n'est donc plus nécessaire »4 
+
+2 CNPP, « Dimensionnement de l’intensité des effets thermiques et toxiques des fumées générés en cas d’incendie de batterie 
+stockées dans les conteneurs », Rapport d’étude N° CR 23 14547, 2023 p18 
+3 SDIS Savoie, Stockage stationnaire de l’énergie : risques et solutions envisageables, 2021, p 112 
+
+4https://france3-regions.francetvinfo.fr/corse/haute-corse-des-batteries-prennent-feu-au-parc-photovoltaique-d-aghione-2748782.html 
+
+7 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+
+Incident en Arizona au sein du système de stockage d’énergie de McMicken le 18 juillet 2020: 
+« L'APS (Arizona Public Service) a engagé AECOM et Wood pour effectuer une évaluation des éventuels 
+impacts résiduels sur le site et hors site, sur l'environnement et la santé humaine. […] Ces études ont 
+évalué les mécanismes potentiels d'exposition environnementale aux contaminants préoccupants (CP) 
+et n'ont pas mis en évidence d'impacts ou de risques sur le site ou hors site pour la santé humaine 
+ou l'environnement. »5 
+
+● 
+
+Incident sur la Victoria batterie (VBB) de 300 (MW) / 450 (MWh) (Megapack Tesla) 
+« Les  données  démontrent  que  deux  heures  après  l'incendie,  la  qualité  de  l'air  dans  la  zone 
+environnante était "bonne" et qu'aucun problème durable de qualité de l'air n'est apparu à la suite de 
+l'incendie »6
+
+5 DNV.GL, « McMicken battery energy storage system event technical analysis and recommendations”, Arizona public service, 2020 
+6 BENSEN Tom, ROGERS Paul, GRANT Casey, HOUGH George, « Victorian Big Battery Fire », 2022, p9 
+
+8 / 21 
+
+ 
+ 
+ 
+ 
+ 
+II.  MESURES DE PRÉVENTION DU RISQUE 
+
+1)  Choix des équipements et matériels 
+
+a)  Choix de la technologie  
+
+La généralisation de batteries Lithium-ion LFP, réduit considérablement le risque incendie des 
+systèmes stationnaires. A noter que la sécurité s'est beaucoup améliorée avec le passage des cellules 
+NMC en cellules LFP. Les batteries LFP (LiFePO4 : lithium fer phosphate) ont démontré qu’elles étaient 
+plus  stables  et  donc  beaucoup  moins  enclin  aux  emballements  thermiques.  En  effet,  selon  des 
+chercheurs  à  l’institut  de  technologie  de  Karlsruhe  :  « les  essais  d’emballement  thermique  ont 
+confirmé que les cellules avec une cathode LFP présentaient une bonne stabilité sous abus thermique, 
+tandis que les cellules avec une cathode NMC présentaient une faible tolérance à haute température.”7   
+
+A  ce  jour,  aucun  incident  d’emballement  thermique  n’a  été  enregistré  sur  la  technologie  LFP 
+concernant du stockage stationnaire. 
+
+La technologie (LFP) et le fournisseur (Tesla) choisi répondent aux exigences de sécurité. Pour que les 
+batteries puissent être déployées dans un système de stockage d'énergie, les fabricants de batteries 
+doivent d'abord certifier leurs produits et répondre à nos spécifications ainsi qu'à la certification UL ou 
+NFPA, ce qui nécessite des tests sur site et un contrôle approfondi des limites au niveau de la cellule, 
+du module et du système. 
+
+7  LEI  Boxia,  ZHAO  Wenjiao,  ZIEBERT  Carlos,  UHLMANN  Nils,  ROHDE  Magnus,  JURGEN  SEIFERT  Hans,  “Experimental  Analysis  of  Thermal 
+Runaway in 18650 Cylindrical Li-Ion Cells Using an Accelerating Rate Calorimeter”, Karlsruhe Institute of Technology, 2017 
+
+9 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b)  Choix de la batterie stationnaire 
+
+Le Megapack 2XL (MP2XL) est un BESS entièrement intégré composé de modules de batterie, 
+d'électronique de puissance, d'un système de gestion et systèmes de contrôle pré-assemblés dans une 
+seule armoire, destiné aux installations extérieures.  
+
+Le toit thermique, qui fait partie du système de gestion thermique (TMS) du MP2XL, est certifié IP20. 
+Les batteries lithium-ion sont disposées à l'intérieur d'une enceinte en acier IP66 (baie de module de 
+batterie),  offrant  une  protection  optimale.  Cette  approche  modulaire  de  style  armoire  permet  au 
+système d'être facilement entretenu depuis l'extérieur. 
+
+Les MP2XL sont conçus de manière à ce que les portes restent fermées en cas d’incendie, et évacuent 
+toute fumée et flamme par le biais des évents anti-déflagration intégrés dans le toit. Ainsi les flammes 
+se propagent vers l’extérieur par la toiture de l’unité et non par les parois latérales réduisant les risques 
+de propagation et d’explosion.  
+
+10 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les MP2XL intègrent un système de contrôle de l'explosion pour atténuer le risque d'une déflagration 
+incontrôlée. Ce système intègre des évents sensibles à la pression (évents de surpression). Ces évents 
+de  surpression  (26  au  total)  permettent  aux  gaz,  aux  produits  de  combustion  et  aux  flammes  de 
+s'échapper en toute sécurité par le toit lors d'un événement thermique et ainsi éviter l’accumulation 
+de gaz inflammables dans l'armoire, ce qui réduit le risque de déflagration ou d'explosion. 
+Selon la documentation Tesla : « Ils sont conçus pour s'ouvrir lorsqu'ils sont soumis à une surpression 
+de 12 kPa ou 250 livres par pied carré (psf), alors que l'enceinte en acier IP66 de la baie du module de 
+batterie a une résistance de 30 kPa (626 psf). En d'autres termes, lors d'un événement de surpression 
+à l'intérieur de l'armoire MP2XL, les évents de surpression s'ouvriront lorsqu'ils seront soumis à une 
+surpression d'environ 12 kPa (250 psf), bien avant que l'intégrité de l'enceinte elle-même ne soit 
+compromise à 30 kPa (626 psf) avec un facteur de sécurité de 2,5. »8 
+
+Les  MP2XL  disposent  de  plusieurs  mécanismes  de  contrôle  de  sécurité  électrique  tels  qu’une 
+protection  contre  les  surintensités  d’un  module,  une  protection  DC  et  AC  de  l'onduleur  et  une 
+protection contre les défauts à la terre. Ils sont également équipés d'un système de détection de défaut 
+à la terre DC qui mesure la résistance d'isolement avant le fonctionnement et recherche un courant de 
+fuite excessif pendant le fonctionnement.  
+
+c)  Norme UL9540A de non-propagation 
+
+Initialement élaborée par UL (Underwriters Laboratories), l'ANSI (American National Standards 
+Institute)  et  le  SCC  (Conseil  Canadien  des  Normes)  en  2019,  la  norme  UL9540A  a  une  valeur 
+internationale. 
+Cette  norme  couvre  tous  les  niveaux  de  système  (cellule,  module,  unité,  installation)  avec  une 
+considération spécifique des niveaux unité et installation. Elle vise à évaluer la réaction des systèmes 
+de stockage d'énergie (SSE) aux événements d'emballement thermique et aux risques de propagation 
+du feu. 
+Les tests de l'unité et de l'installation déclenchent un emballement thermique dans un SSE chargé à 
+100%, et étudient son impact sur le SSE adjacent, les murs voisins et l'enceinte du système. 
+
+Le test sera validé lorsqu'un incendie à l'intérieur d'un BESS ne se propagera pas à d'autres unités, ne 
+percera  pas  les  murs  ou  l'enceinte  du  SSE  et  qu'il  n'y  aura  pas  de  débris  volants  ou  de  décharge 
+explosive de gaz. 
+Les paramètres mesurés sont le taux de dégagement de chaleur, production et composition des gaz, 
+le  taux  de  dégagement  de  fumée,  le  flux  thermique  maximal  sur  les  murs  et/ou  les  unités  SSE 
+adjacents, existence de déflagrations et de débris volants, composition chimique des liquides libérés 
+et eau utilisée dans la phase d'extinction de l'incendie. 
+
+Les données générées par la méthode  d’essai UL 9540A peuvent être  utilisées pour déterminer les 
+systèmes/caractéristiques de protection contre l'incendie et l'explosion requis pour une installation 
+BESS.  Les  données  générées  comprennent,  sans  s'y  limiter  :  les  caractéristiques  d'emballement 
+thermique de la cellule ; la composition des gaz d'emballement thermique de la cellule ; le potentiel 
+de propagation de l'incendie d'une cellule à l'autre, d'un module à l'autre et d'une unité à l'autre ; les 
+produits de combustion et le taux de dégagement de chaleur. 
+
+8 Fisher engineering for Tesla energy, «Tesla Megapack 2 and Megapack 2XL, fire propagation, engineering analysis», Janvier 
+2022, p12 
+
+11 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d)  Résultats des tests 
+
+Tesla  Energy  a missionné une  société  de  services  d’ingénierie,  Fisher  Engineering,  Inc (FEI), 
+pour l’élaboration d’une étude de risque incendie sur la batterie lithium-ion, Megapack 2XL, destiné 
+au stockage d’énergie stationnaire. FEI a donc rédigé, en janvier 2023, un rapport d’analyse de risque 
+et de protection incendie9. Ce rapport inclut une analyse du MP2XL, des caractéristiques de sécurité 
+incendie, des résultats des test UL9540A (au niveau d’une cellule, d’un module et d’un rack), des tests 
+incendie supplémentaires (au niveau de l'unité) et d’une modélisation de la propagation du feu. 
+
+Dans le cadre du test d’essai au feu UL9540A au niveau d’un module, chaque cellule a été chargée à 
+100  %  et  a  été  déconnecté  du  BMS  et  du  TMS;  ce  qui  signifie  que  la  détection  d’un  emballement 
+thermique  dans  une  cellule  par  le  BMS,  afin  d'empêcher  la  propagation,  a  été  supprimée. 
+L'emballement  thermique  a  été  initié  via  des  éléments  chauffants  installés  sur  les  deux  surfaces 
+latérales  de  deux  cellules.  Cela  a  entraîné  le  chauffage  simultané  de  six  cellules,  forçant  plusieurs 
+cellules à s'emballer thermiquement en même temps. Le module a été placé sous une hotte et les 
+produits dégagés lors de la combustion ont été collectés et analysés. 
+
+Ces résultats au niveau d’un module ont permis d’établir un test au niveau de l’unité complète. 
+Le module de batterie a été choisi pour être considéré comme le pire des cas. Dans ce module, six 
+cellules ont été chauffées simultanément. Les éléments chauffants ont été programmés pour fournir 
+une vitesse de chauffage de 5 °C par minute, comme spécifié par UL 9540A. Le nombre de cellules et 
+l'emplacement ont été choisis pour fournir la plus grande exposition thermique aux cellules adjacentes 
+afin d’assurer la propagation de cellule à cellule pendant le test. 
+
+9 Fisher engineering for Tesla energy, «Tesla Megapack 2 and Megapack 2XL, fire propagation, engineering analysis», Janvier 
+2022 
+
+12 / 21 
+
+ 
+ 
+ 
+ 
+ 
+Aucune flamme n’a été observée à l'extérieur de l'appareil. Les températures de surface des modules 
+adjacents n’ont pas atteint leur température d’emballement thermique. Aucun danger d'explosion, y 
+compris,  mais  sans  s'y  limiter,  les  observations  d'une  déflagration,  projectiles,  débris  volants, 
+détonation ou autre décharge explosive de gaz n’ont été observés.  
+
+D’après  la  documentation Tesla :  «  Les  essais UL  9540A  au  niveau  des  cellules et  des modules ont 
+démontré que des gaz inflammables s'échappent des cellules MP2XL en cas d'emballement thermique 
+; cependant, elles ne libèrent pas de gaz toxiques parfois associés à la défaillance des batteries lithium-
+ion, tels que HCN, HCL et HF 
+
+Les tests UL 9540A au niveau de l'unité ont  démontré que le  MP2XL respecte ou dépasse tous les 
+critères de performance de la norme UL 9540A. De plus, le MP2XL a été testé dans le pire des cas, 
+c'est-à-dire 100 % SOC avec le BMS et le TMS désactivés
+
+13 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Tesla a également effectué un test destructif au niveau de l'unité MP2XL. Ce test destructif va bien au-
+delà de ce qui est requis par les normes actuelles et dépasse également tout scénario de défaillance 
+MP2XL  plausible  envisagé  par  Tesla.  Il  a  permis  d’observer  le  comportement  au  feu  des  différents 
+composants et le déroulé d’un incendie dans ce scénario de défaillance extrême du Megapack 2XL. 
+
+Durant ce test, 48 cellules ont été chauffées simultanément jusqu’à une température d’emballement 
+thermique  pour  démontrer  à  quel  point  le  dysfonctionnement  doit  être  important  pour  initier  un 
+emballement thermique et un départ de feu.  
+
+Durant ce test mettant en œuvre un scénario de dysfonctionnement extrême, les gaz dégagés par les 
+cellules se sont enflammés, menant au déclenchement des évents de surpression situés sur le toit du 
+container des batteries. 
+Cet emballement thermique et la surpression en découlant n’ont pas entraîné l’ouverture des portes 
+du container (qui sont restés fermées) et aucune surpression, projections de débris n’ont été observés 
+à  l’extérieur  du  container.  Les  pressions  mesurées  à  l’intérieur  du  conteneur  pendant  le  test  sont 
+restées inférieures à plus de 2,5 fois la pression de résistance des parois du container. 
+Le test destructif de l’unité a conduit à une progression lente de l’incendie au sein du container qui a 
+brûlé pendant 6 heures et 40 minutes jusqu'à ce que les flammes s’éteignent. Le feu n’a pu se propager 
+à travers la “Customer Interface Bay (CIB)” et seulement la moitié du container de batteries est entré 
+en combustion.10
+
+10 Fisher engineering (for Tesla energy), «Tesla Megapack 2 and Megapack 2XL, fire propagation, engineering analysis», Janvier 2022, p33 
+
+14 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2)  Système de gestion de batterie (BMS) 
+
+Le BMS (système de gestion de batterie) a pour principal rôle de maintenir le pack batterie 
+dans  les  conditions  électriques  et  thermiques  compatibles  avec  sa  plage  d’utilisation  sûre.  Il  est 
+également un contributeur essentiel à la continuité de service de l’application qu’il alimente. Or, dans 
+de  nombreuses  applications,  la  continuité  de  service  est  essentielle  pour  la  sécurité.  Il  permet  de 
+l'identification  de 
+fournir  des 
+caractéristiques de fonctionnement inhabituelles des batteries.  
+
+indications  précoces  (fonctionnement  alarming  24/7)  pour 
+
+Le  BMS  identifie  les  conditions  anormales  de  la  batterie  ou  les  écarts  par  rapport  aux  conditions 
+normales  de  fonctionnement  du  système  et  envoie  données  et  des  avertissements  pour  une 
+surveillance supplémentaire, d'actions et de rapports supplémentaires. Ces conditions de défaillance 
+comprennent, sans s'y limiter, la surchauffe, la perte de communication, la surtension et l'isolement 
+Les paramètres tels que la température de la cellule, la tension, le courant, l'état de charge, etc. sont 
+ainsi surveillés, et contrôlés par ses systèmes et, en cas de données anormales, une alarme ou une 
+autre commande/action est activée.  
+En cas d’anomalies plusieurs mesures d'atténuation peuvent être mises en place telles que : 
+
+-  Arrêt partiel ou complet du système 
+-  Augmentation  de  la  ventilation  (HVAC)  pour  réduire  l'accumulation  possible  de  vapeurs 
+
+explosives 
+
+-  Refroidissement accru pour extraire rapidement le maximum de chaleur possible 
+
+Ces actions du BMS peuvent soit empêcher l’emballement thermique d’une cellule soit empêcher la 
+propagation de ce dernier aux cellules adjacentes. En fonction de la gravité de la condition de défaut, 
+le BMS peut automatiquement isoler temporairement le module de batterie affecté (défaut moins 
+grave) ou déconnecter définitivement le module. 
+
+Au-delà des protections intégrées du BMS décrites ci-dessus, le MP2XL est pris en charge par le centre 
+d'opérations local (LOC) de Tesla. Le MP2XL dispose de capacités de surveillance, de diagnostic et de 
+dépannage à distance 24h/24 et 7j/7, sans qu'il soit nécessaire d'avoir un technicien Tesla sur place. 
+De plus, l'installation sera surveillée via un système local de contrôle de surveillance et d'acquisition 
+de données (SCADA).  
+
+3)  Thermal management system (TMS) et système de ventilation active (HVAC) 
+
+Les systèmes HVAC maintiennent la température de l'environnement et gèrent l'humidité afin 
+de maintenir les conditions optimales pour les batteries. Ce système est le premier à entrer en jeu pour 
+refroidir  une  cellule/module  en  cas  de  dysfonctionnement  et  permet  la  plupart  du  temps  d’éviter 
+l’emballement thermique. Ces systèmes HVAC sont couplés à un système de gestion thermique (TMS) 
+assurant  une  température  de  fonctionnement  appropriée  pour 
+le  MP2XL  en  utilisant  un 
+refroidissement liquide via un mélange 50/50 d'éthylène glycol et d'eau et de réfrigérant R-134a. La 
+baie thermique et le toit thermique abritent les composants du TMS.  
+
+15 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4)  Maintenance régulière et rigoureuse 
+
+L'installation BESS sera régulièrement inspectée et correctement entretenue afin de prévenir 
+
+toute situation susceptible de déclencher un incendie : 
+
+-  Vérification des connexions électriques pour réduire les points chauds 
+-  Remplacement des filtres et des liquides de refroidissement dans les systèmes CVC (chauffage, 
+
+ventilation et climatisation) 
+
+-  Vérification de la protection électrique 
+-  Vérification des dispositifs d'arrêt d'urgence 
+-  Vérification / ajustement du niveau d'eau dans les réservoirs d'eau 
+-  Vérification de la disponibilité du débit d'eau 
+
+Le site fera l’objet d’un débroussaillage adéquat afin de prévenir tout risque d'incendie.  
+Le site sera clôturé et interdit au public. Durant sa phase d’exploitation, l’installation ne nécessitera 
+pas de présence humaine. L’installation sera télésurveillé et piloté 24h/24h.  
+
+III.  SYSTÈMES ET MESURES DE DÉFENSE INCENDIE 
+
+1)  Système de déconnexion des cellules et arrêt d’urgence  
+
+A la moindre alerte, l'arrêt d'urgence ainsi qu’un circuit de protection des MP2XL peuvent être 
+
+déclenchés à tous les niveaux de l'installation de stockage d'énergie. 
+
+Chaque cellule est fusionnée individuellement à l'aide d'un fil de liaison et est équipée de son propre 
+dispositif  d'interruption  de  circuit  interne  (DIC).  Le  DIC  garantit  que  toute  surintensité  ou  une 
+augmentation de pression dangereuse à l'intérieur d'une cellule est isolée dans cette cellule. Ces deux 
+caractéristiques  garantissent  que  la  cellule  est  physiquement  et  irréversiblement  déconnectée  du 
+reste du module et n'a pas d'impact sur les cellules ou modules environnants pour le reste de l'année. 
+Les modules de batterie comprennent chacun un convertisseur DC-DC dédié qui isole électriquement 
+et galvaniquement le module du courant continu (DC « direct current ») commun de l’unité. 
+
+Une déconnexion intelligente exclusive à Tesla, est installée au milieu de chaque module de batterie 
+et  ajoute  un  niveau  de  sécurité  supplémentaire.  La  déconnection  est  activement  contrôlée  par  le 
+système de gestion de la batterie (BMS). Ce dernier recherche en permanence et détecte de manière 
+autonome les conditions qui ne sont pas conformes aux normes.  
+Si  un  problème  est  détecté,  le  BMS  déclenche  automatiquement,  en  quelques  millisecondes,  une 
+décharge  pyrotechnique  à  l'intérieur  du  dispositif  de  déconnexion,  ce  qui  ouvre  immédiatement  la 
+connexion et permet d'économiser de l'énergie. 11 
+
+Dans le cadre de la certification des MP2XL concernant la norme UL9540A, les tests ont démontré la 
+non-propagation d’un emballement thermique d’une cellule à une autre12. 
+
+11  CONFIDENTIEL: Tesla, « Megapack safety application note”, 2021, p1-2 
+12  Fisher engineering (for Tesla energy), «Tesla Megapack 2 and Megapack 2XL, fire propagation, engineering analysis», Janvier 2022, p22 
+
+16 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les résultats des test UL9540A ont montré la fiabilité et la robustesse des unités MP2XL13:  
+
+●  Pas de propagation du feu ou de preuve d'un embrasement soutenu,  
+●  Pas de flammes observées à l'extérieur de l'armoire, pas de propagation du feu aux armoires 
+
+adjacentes,  
+
+●  Suppression  intégrale  des incendies  ou  suppression manuelle  des  incendies  non  nécessaire 
+
+pour arrêter la propagation du feu d'une armoire à l'autre,  
+
+●  Pas d'observations de risques d'explosion,  
+●  Pas d'écoulement de liquide libre observé après l'essai. 
+
+2)  Système de défense incendie à eau 
+
+ Un réseau incendie sera mis en place pour permettre le raccordement des lances à eau des 
+pompiers  garantissant  un  débit  minimal  de  120m3/h  et  un  volume  d’eau  suffisant  pour  maintenir 
+l’arrosage en service durant toute la durée des opérations d’extinction. 
+
+Ainsi, deux citernes souples de réserve d’eau incendie d’un volume unitaire de 120m3 seront installée 
+à l’entrée du site afin de répondre aux besoins en eau des services de secours. Ces citernes seront 
+accompagnées d’aires d’aspiration conformément aux exigences du SDIS 51. 
+
+13  Fisher  engineering  (for  Tesla  energy),  «Tesla  Megapack  2  and  Megapack  2XL,  fire  propagation,  engineering  analysis», 
+Janvier 2022, p30 
+
+17 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IV.  Déroulement de l’alerte 
+
+1)  Schéma du déroulement  
+
+*voir schéma mise en sécurité 
+
+18 / 21 
+
+ 
+ 
+ 
+ 
+2)  Schéma mise en sécurité 
+
+19 / 21 
+
+ 
+ 
+ 
+SOURCES 
+
+●  EURALARM, Guide sur les solutions intégrées de protection contre l’incendie pour les batteries 
+Lithium-Ion,  FFMI,  2022,  URL :  https://www.ffmi.asso.fr/solutions-integrees-de-protection-
+contre-lincendie-pour-les-batteries-lithium-ion/ 
+
+●  ROSHAN  Sebastian,  “A  review  of  fire  mitigation  methods  for  li-ion  battery  energy  storage 
+URL: 
+
+system”, 
+https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/prs.12365  
+
+Process 
+
+safety, 
+
+2022, 
+
+●  LEI Boxia, ZHAO Wenjiao, ZIEBERT Carlos, UHLMANN Nils, ROHDE Magnus, JURGEN SEIFERT 
+Hans, “Experimental Analysis of Thermal Runaway in 18650 Cylindrical Li-Ion Cells Using an 
+Accelerating Rate Calorimeter”, Karlsruhe Institute of Technology, 2017 URL : Batteries | Free 
+Full-Text | Experimental Analysis of Thermal Runaway in 18650 Cylindrical Li-Ion Cells Using an 
+Accelerating Rate Calorimeter (mdpi.com) 
+
+●  DNV.GL,  « McMicken  battery  energy  storage  system  event  technical  analysis  and 
+URL: 
+
+Arizona 
+
+service, 
+
+2020 
+
+recommandations”, 
+public 
+https://coaching.typepad.com/files/mcmicken.pdf 
+
+●  DNV.GL, “Technical Reference for Li-ion Battery Explosion Risk and Fire Suppression”, 2019, 
+https://www.dnv.com/Publications/technical-reference-for-li-ion-battery-explosion-
+
+URL: 
+risk-and-fire-suppression-165062 
+Innovent, Plan d’opération interne site de stockage d’energie par batteries, 2020 
+
+● 
+●  SDIS Savoie, Stockage stationnaire de l’énergie : risques et solutions envisageables, 2021 
+●  ROSEWATER David, “Energy storage system safety”, Sandia National Laboratories, 2021, URL: 
+
+https://energy.sandia.gov/wp-
+content/uploads/2021/12/4_Rosewater_David_SNL_WIPSC_Session4_6-9-21.pdf 
+
+●  ENSOSP, “Etude  du risqué  incendie de  stockage de  batterie dans le cadre  de  la montée en 
+puissance  de  la  motorisation  électrique »,  Direction  générale  de  la  sécurité  civile  et  de  la 
+gestion des crises, 2019 
+
+DOCUMENTATION FOURNISSEUR  
+
+●  Fisher engineering for Tesla energy, «Tesla Megapack 2 and Megapack 2XL, fire propagation, 
+
+engineering analysis»,  Janvier 2022 
+
+●  HAUTE  DE  CORSE  =  après 
+
+incendie  pas  de 
+
+risque 
+
+(DREAL)  https://france3-
+
+regions.francetvinfo.fr/corse/haute-corse-des-batteries-prennent-feu-au-parc-
+photovoltaique-d-aghione-2748782.html 
+
+●  LAURAUX Matthieu, « Incendie : 60 fois plus de risque en voiture thermique qu’en électrique 
+?  »,  Autoplus,  01/2022,  URL  https://www.autoplus.fr/environnement/incendie-de-voitures-
+60-plus-de-risque-thermique-quen-electrique-552961.html#item=1 
+
+●  WINTON Neil, “Electric Car Fire Risks Look Exaggerated, But More Data Required For Definitive 
+URL 
+
+Verdict”, 
+https://www.forbes.com/sites/neilwinton/2022/03/02/electric-car-fire-risks-look-
+exaggerated-but-more-data-required-for-definitive-verdict/?sh=48c6f1a02327 
+tests », 
+excuses 
+
+30/09/2022 
+
+●  AXA, 
+
+03/2022, 
+
+présente 
+
+Forbes, 
+
+crashs 
+
+« AXA 
+
+pour 
+
+ses 
+
+les 
+
+https://www.axa.ch/fr/aproposdaxa/medias/communiques-presse/derniers-communiques-
+presse/20220829-crash-tests-2022-position-excuses.html 
+
+Vidéos 
+
+20 / 21 
+
+ 
+ 
+ 
+ 
+●  Tentative  extinction  (CO2,  ABC,  Halon,  metal  fire  extinguisher,  water)  pompier  test : 
+
+https://youtu.be/RJkFFM1Aw6Y 
+
+●  Lieutenant-colonel Michel Gentilleau SDIS 86  “Extinction d’un feu batterie et secours », INRS 
+URL 
+
+Recherche 
+
+sécurité), 
+
+national 
+
+2022, 
+
+de 
+
+et 
+de 
+(institut 
+https://www.youtube.com/watch?v=AKyF-TM050A,  
+
+21 / 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+

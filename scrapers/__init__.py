@@ -8,6 +8,9 @@ AVAILABLE_REGIONS = {
     "auvergne-rhone-alpes": "auvergne_rhone_alpes",
     "bourgogne-franche-comte": "bourgogne_franche_comte",
     "normandie": "normandie",
+    "grand-est": "grand_est", 
+    "hauts-de-france": "hauts_de_france",
+    "ile-de-france": "ile_de_france",
 }
 
 

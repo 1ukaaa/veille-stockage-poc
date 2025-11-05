@@ -1,0 +1,8981 @@
+Verdi à vos côtés 
+
+→ 
+
+Corsica Sole – Faux-Fresnay 
+
+17/01/2025 
+
+Version 4 
+
+Note environnementale 
+
+Inventaires réalisés le 18 novembre 2024 
+
+Verdi Conseil Cœur de France 
+Siège : 99 rue de Vaugirard – 75006 Paris – Tél. : 01 42 22 61 22 
+conseilcoeurdefrance@verdi.fr  
+Agence : PAE Tillé, 2 rue Jean-Baptiste Godin - 60000 BEAUVAIS 
+Tél. 03 44 48 26 50  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOMMAIRE 
+
+  
+
+1 CONTEXTE ET OBJECTIFS DE L’ETUDE ......................................................................................................... 6 
+
+1.1 PRESENTATION DU PROJET.................................................................................................................................... 7 
+1.2 CONTEXTE GEOGRAPHIQUE.................................................................................................................................... 7 
+1.3 OBJECTIFS DE L’ETUDE .......................................................................................................................................... 7 
+
+2 CONTEXTE ENVIRONNEMENTAL DU TERRITOIRE ....................................................................................... 9 
+
+2.1 MATERIELS ET METHODE ..................................................................................................................................... 10 
+2.1.1 Analyse bibliographique .......................................................................................................................... 10 
+2.1.2 Inventaires naturalistes ........................................................................................................................... 12 
+2.2 MILIEU PHYSIQUE ................................................................................................................................................ 18 
+2.2.1 Le sol .......................................................................................................................................................... 18 
+2.2.2 L’eau ........................................................................................................................................................... 21 
+2.2.3 Risques naturels majeurs ....................................................................................................................... 36 
+2.3 MILIEU NATUREL .................................................................................................................................................. 40 
+2.3.1 Contexte paysager ................................................................................................................................... 40 
+2.3.2 Zones humides ......................................................................................................................................... 44 
+2.3.3 Analyses des données bibliographiques .............................................................................................. 52 
+2.3.4 Les habitats .............................................................................................................................................. 54 
+2.3.5 Flore ........................................................................................................................................................... 56 
+2.3.6 Faune ......................................................................................................................................................... 59 
+2.3.7 Synthèse des enjeux écologiques ......................................................................................................... 60 
+2.4 MILIEU HUMAIN ................................................................................................................................................... 62 
+2.4.1 Occupation du sol et paysage................................................................................................................ 62 
+2.4.2 Patrimoine ................................................................................................................................................. 68 
+2.4.3 Risques industriels et technologiques .................................................................................................. 71 
+
+3 DEFINITION DES IMPACTS ............................................................................................................................. 73 
+
+3.1 METHODE ............................................................................................................................................................ 74 
+3.1 IMPACTS BRUTS SUR LES HABITATS ..................................................................................................................... 75 
+3.2 IMPACTS BRUTS SUR LA BIODIVERSITE ................................................................................................................. 76 
+
+4 MESURES D’EVITEMENT ET DE REDUCTION .............................................................................................. 77 
+
+4.1 MESURES D’EVITEMENT ....................................................................................................................................... 79 
+4.2 MESURES DE REDUCTION ..................................................................................................................................... 81 
+
+5 IMPACTS RESIDUELS APRES MISE EN PLACE DES MESURES D’EVITEMENT ET DE REDUCTION ..... 88 
+
+6 CONCLUSION ................................................................................................................................................... 90 
+
+ 
+ 
+ 
+SOMMAIRE 
+
+  
+
+Figure 1 : Localisation du site étudié ....................................................................................................... 8 
+Figure 2 : Zones d’échantillonnages de la faune et de la flore .......................................................... 14 
+Figure 3 : Contexte topographique du site d’étude et de son territoire d’implantation (Source : 
+topographic-map.com). ........................................................................................................................... 19 
+Figure 4 : Carte géologique 1/50 000 imprimé (Source : SIGES Seine-Normandie) ..................... 20 
+Figure 5 : Réseau hydrographique à proximité du site d'étude (Données issues de la BD 
+CARTHAGE). ............................................................................................................................................... 23 
+Figure 6 : Masse d’eau de surface à proximité du site d'étude (Issue de la base de données 
+SANDRE). .................................................................................................................................................... 25 
+Figure 7 : Entité hydrogéologique « 928AG01 - Alluvions actuelles à anciennes du bassin 
+versant de l’Aube » .................................................................................................................................... 27 
+Figure 8 : Entité hydrogéologique « 121AO01 - Craie du Séno-Turonien du Bassin parisien du 
+bassin versant de l'Aube et de la Seine (bassin Seine-Normandie) » .............................................. 28 
+Figure 9 : Entité hydrogéologique « 121AO30- Craie marneuse et marnes du Turonien inférieur 
+du bassin versant de l'Aube et de la Seine (bassin Seine-Normandie) » ........................................ 29 
+Figure 10 : Fiche nationale de l'entité hydrogéologique locale « 928AG01 - Alluvions actuelles à 
+anciennes du bassin versant de l’Aube » (Extrait de la plateforme SIGES – Fiche nationale/BD 
+LISA) ............................................................................................................................................................. 30 
+Figure 11 : Fiche nationale de l'entité hydrogéologique locale « 928AG01 - Alluvions actuelles à 
+anciennes du bassin versant de l’Aube » (Extrait de la plateforme SIGES – Fiche nationale/BD 
+LISA) ............................................................................................................................................................. 31 
+Figure 12 : Fiche nationale de l'entité hydrogéologique locale « 928AG01 - Alluvions actuelles à 
+anciennes du bassin versant de l’Aube » (Extrait de la plateforme SIGES – Fiche nationale/BD 
+LISA) ............................................................................................................................................................. 32 
+Figure 13 : SDAGE du bassin Seine-Normandie .................................................................................. 35 
+Figure 14 : Enveloppes Approchées des Inondations Potentielles cours d'eau et submersion 
+marine de plus d'un hectare (Source : Géorisques) ............................................................................ 36 
+Figure 15 : Zones sensibles aux remontées de nappe (Source : Géorisques). .............................. 37 
+Figure 16 : Exposition au risque de retrait et de gonflement des argiles (Source : Géorisques).
+ ...................................................................................................................................................................... 38 
+Figure 17 : Occupation du sol à proximité du site – Corine Land Cover 2018 .............................. 41 
+Figure 18 : Localisation des zones d’intérêts à proximité du site .................................................... 43 
+Figure 19 : Localisation de zones humides à proximité du site ........................................................ 45 
+Figure 20 : Classes d'hydromorphie GEPPA (adaptées et complétées par SOLENVIE) .............. 47 
+Figure 21 : Contexte géologique sur le site d’étude ............................................................................ 49 
+Figure 22 : Localisation des sondages effectués sur le site d’étude ............................................... 51 
+Figure 23 : Photos des habitats observés sur le terrain ..................................................................... 54 
+Figure 24 : Détermination et localisation de chaque habitat définit selon le code EUNIS ........... 55 
+
+SOMMAIRE 
+
+  
+
+Figure 25 : Synthèse des enjeux présents sur le site .......................................................................... 61 
+Figure 26 : Occupation du sol de la commune de Faux-Fresnay en 2021. .................................... 63 
+Figure 27 : Les chiffres clés du paysage et de son évolution pour le territoire de Faux-Fresnay.
+ ...................................................................................................................................................................... 64 
+Figure 28 : Evolution de l'imperméabilisation des sols urbanisés sur la commune de Faux-
+Fresnay. ....................................................................................................................................................... 65 
+Figure 29 : Evolution de la consommation d'espace en 2021 sur le territoire de Faux-Fresnay.
+ ...................................................................................................................................................................... 66 
+Figure 30 : Evolution de l'artificialisation sur le territoire de Faux-Fresnay. ................................... 67 
+Figure 31 : Eléments patrimoniaux dans un rayon de 10 km autour du site du projet. ............... 70 
+Figure 32 : Localisation de l'ancien site industriel concerné par des sols pollués sur la 
+commune de Faux-Fresnay. .................................................................................................................... 71 
+
+ 
+ 
+ 
+SOMMAIRE 
+
+  
+
+Tableau 1 : Modalités de notation des enjeux patrimoniaux propres aux habitats référencés .. 13 
+Tableau 2 : Synthèse des modalités de définition des enjeux floristiques ..................................... 14 
+Tableau 3 : Echelon hydrographique (Région, secteur, sous-secteur, zone) auquel le site du 
+projet appartient (Données issues de la BD CARTHAGE). ................................................................. 21 
+Tableau 4 : Cours d'eau traversant la commune de Faux-Fresnay. ................................................ 22 
+Tableau 5 : Entités hydrogéologiques nationales, régionales et locales retrouvées sur le 
+territoire de Faux-Fresnay, commune d'implantation du site du projet. ......................................... 26 
+Tableau 6 : Masses d'eau souterraines localisées sur le périmètre de Faux-Fresnay. ................ 33 
+Tableau 7 : Orientation fondamentale du SDAGE. .............................................................................. 35 
+Tableau 8 : Historique des catastrophes naturelles sur la commune de Faux-Fresnay. ............. 39 
+Tableau 9 : Liste des espaces d’intérêts écologiques ........................................................................ 42 
+Tableau 10 : Surfaces totales pour chaque habitat identifié sur le site .......................................... 54 
+Tableau 11 : Liste des espèces floristiques associées à leurs statuts de protection .................. 58 
+Tableau 12 : Listes des espèces d’oiseaux observées sur le site et ses abords associées à 
+leurs statuts de protection ....................................................................................................................... 59 
+Tableau 13 : Tableau synthétique des enjeux ...................................................................................... 60 
+Tableau 14 : Evolution du paysage entre 2019 et 2021 ..................................................................... 65 
+Tableau 15 : Les monuments classés et inscrits dans un rayon de 10 km autour du site d’étude 
+(Source : Atlas des patrimoines - Ministère de la Culture). ............................................................... 68 
+Tableau 16 : Anciens sites industriels et activités de services (CASIAS) recensés sur le 
+territoire de Faux-Fresnay. ....................................................................................................................... 72 
+Tableau 17 : Impacts bruts du projet sur les habitats ........................................................................ 75 
+
+ 
+ 
+1 
+
+CONTEXTE ET OBJECTIFS DE L’ETUDE 
+
+6 
+
+ 
+ 
+1.1 PRESENTATION DU PROJET 
+
+La  société  CORSICA  SOLE  prévoit  de  construire un  poste  de  transformation  400/33  kV  pour 
+délivrer l’énergie stockée par des batteries de 250 MW et 500 MWh sur le réseau public. Ce poste 
+comprendra une plateforme gravillonnée de 0,3 ha avec des installations haute tension et un 
+bâtiment de contrôle, le tout clôturé et sécurisé. La plateforme sera perméable à l’eau, sauf pour 
+le transformateur et le bâtiment qui seront sur des dalles béton. Les déblais seront évacués et 
+la terre végétale réutilisée sur place. 
+
+Un diagnostic écologique flash a été réalisé sur une parcelle agricole, commandé par Corsica 
+Sole. L'objectif de cette étude est d'évaluer la biodiversité présente sur le site à l’instant t, d'ana-
+lyser les habitats et d'identifier d'éventuelles espèces protégées ou des espèces exotiques en-
+vahissantes.  Cette  démarche  permet  d’évaluer  les  enjeux  écologiques  afin  de  protéger  la 
+biodiversité au regard du projet de construction de zone de stockage d’énergie. 
+
+1.2 CONTEXTE GEOGRAPHIQUE 
+
+Faux-Fresnay, petite commune de l'Aube en région Grand Est, est nichée au cœur de la plaine 
+champenoise, à environ 40 kilomètres de Troyes. Ce territoire rural se distingue par ses vastes 
+étendues agricoles, principalement dédiées à la culture céréalière et à la betterave sucrière, em-
+blématiques de la Champagne crayeuse. Le climat, d'influence océanique tempérée avec des 
+nuances continentales, se traduit par des hivers frais et des étés modérément chauds, propices 
+aux activités agricoles. Le site, d'une superficie d'environ 8,6 hectares, est un champ situé en 
+zone agricole, à proximité immédiate de la centrale électrique de Faux-Fresnay (Figure 1).  
+
+1.3 OBJECTIFS DE L’ETUDE 
+
+L’objectif de cette présente étude est de caractériser la faune et la flore présente sur le site. La 
+carte (Figure 1) représente le site inventorié qui accueillera le projet. 
+
+Nous étudions les groupes suivants : 
+
+•  La flore et les habitats, 
+•  L’entomofaune, 
+•  L’avifaune, 
+•  L’herpétofaune, 
+•  La mammalogie. 
+
+7 
+
+ 
+ 
+ 
+Figure 1 : Localisation du site étudié  
+
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+8 
+
+ 
+ 
+ 
+ 
+2 
+
+CONTEXTE ENVIRONNEMENTAL DU 
+TERRITOIRE
+
+9 
+
+ 
+ 
+ 
+2.1 MATERIELS ET METHODE 
+
+2.1.1  ANALYSE BIBLIOGRAPHIQUE 
+
+L’analyse du contexte environnementale basera sur des données bibliographiques et cartogra-
+phiques. Les composantes à analyser sont celles qui sont susceptibles d’être prioritairement 
+affectées par le projet. Cette analyse portera sur : 
+
+•  Le  milieu  physique :  La  topographie,  la  géologie,  l’hydrographie  et  l’hydrogéologie,  les 
+
+risques naturels majeurs 
+
+•  Le milieu naturel : les zones humides, les zones réglementaires et d’inventaires, les ha-
+
+bitats, la faune et le flore 
+
+•  Le milieu humain : l’occupation du sol et le paysage, le patrimoine et les risques indus-
+
+triels et technologiques 
+
+Par ailleurs, une approche méthodique est mise en œuvre en plusieurs étapes afin d’identifier et 
+d’analyser  les  caractéristiques  du  sol  et  les  éventuels  risques  environnementaux.  Cette  dé-
+marche permet d’apporter une vision claire des principaux enjeux liés au site et de renforcer la 
+connaissance préalable avant les phases de terrain. 
+
+➢  Recherche documentaire initiale : La collecte des documents réglementaires, bases de 
+données et cartes disponibles pour la zone étudiée est effectuée, en s'appuyant notam-
+ment  sur  des  sources  administratives  et  scientifiques  (INPN,  SIG  environnementaux, 
+rapports  d'études  d’impact  existants,  etc.).  Ces  sources  fournissent  des  informations 
+sur l’occupation du sol actuelle et passée, les activités humaines environnantes, ainsi 
+que sur les éventuelles zones humides ou réglementaires. 
+
+➢ 
+
+Identification des enjeux pédologiques et hydrologiques : À l’aide des bases de données 
+géologiques  et  hydrogéologiques  (BRGM,  bases  locales  de  suivi  des  nappes  phréa-
+tiques), l’analyse des caractéristiques du sol est réalisée en tenant compte de l’épaisseur 
+de la nappe, de la perméabilité des couches géologiques et des risques potentiels de 
+remontée de nappe. Cette analyse permet d'anticiper les risques de saturation et d'éro-
+sion et de vérifier la compatibilité de l’occupation du sol avec le profil hydrologique. 
+
+➢  Cartographie et analyse des risques : En utilisant les bases de données de l'IGN et les 
+plans de prévention des risques (PPR), les zones sujettes aux mouvements de terrain 
+(glissements, affaissements, etc.) ainsi que les autres aléas naturels ou anthropiques 
+sont identifiées. La superposition des données géologiques, hydrologiques et d’occupa-
+tion du sol permet de mettre en évidence les secteurs à risque. 
+
+➢ 
+
+Identification des zones humides et espaces réglementaires : Grâce aux inventaires na-
+tionaux et locaux (zones humides prioritaires, ZNIEFF, Natura 2000), les zones humides 
+potentielles et les zones réglementaires sont identifiées. Ces informations sont essen-
+tielles pour anticiper les contraintes réglementaires éventuelles et orienter les phases 
+d’observation de terrain. 
+
+10 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Natura 2000 : 
+Zone  de  Protection  Spéciale  (ZPS) :  Désignées  en  vertu  de  la  directive  Oiseaux  (Directive 
+2009/147/CE), ces zones visent à protéger les habitats des oiseaux sauvages migrateurs et 
+des espèces menacées. 
+Zone Spéciale de Conservation (ZSC) : Ces zones sont désignées en vertu de la directive Ha-
+bitats (Directive 92/43/CEE) et visent à protéger les habitats naturels et les espèces de faune 
+et de flore sauvages d'intérêt communautaire. 
+
+Aire de Protection de Biotope : 
+Ce sont des zones créées par arrêté préfectoral pour protéger des biotopes (milieux naturels) 
+nécessaires à la survie d'espèces protégées. Elles visent à préserver les conditions de vie des 
+espèces protégées en empêchant la destruction ou la dégradation de leur habitat. 
+
+Zone Naturelle d'Intérêt Écologique, Faunistique et Floristique (ZNIEFF) : 
+ZNIEFF de type 1 : Ce sont des secteurs de grande valeur biologique ou écologique. Ils se 
+caractérisent par leur richesse en espèces, en habitats ou par des espèces rares ou protégées. 
+Les ZNIEFF de type 1 sont souvent de petites tailles et concernent des espaces homogènes. 
+ZNIEFF de type 2 : Ce sont des ensembles naturels vastes, riches et peu modifiés, qui offrent 
+des potentialités biologiques importantes. Ils peuvent inclure des espaces plus ou moins arti-
+ficialisés mais qui jouent un rôle dans le fonctionnement écologique de l'ensemble. 
+
+Zone Importante pour la Conservation des Oiseaux (ZICO) : 
+Les ZICO sont des sites identifiés pour leur importance pour la conservation des populations 
+d'oiseaux. Elles servent de base pour la désignation des Zones de Protection Spéciale (ZPS) 
+dans le cadre du réseau Natura 2000. 
+
+Parc Naturel Régional (PNR) : 
+Les PNR sont des territoires ruraux habités, reconnus au niveau national pour la richesse de 
+leur patrimoine naturel, culturel et pour leurs paysages remarquables. Ils ont pour vocation de 
+protéger et valoriser ce patrimoine tout en favorisant un développement économique et social 
+soutenable. Les parcs naturels régionaux sont créés par décret et gérés par un syndicat mixte. 
+
+11 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.1.2  INVENTAIRES NATURALISTES 
+
+2.1.2.1 Flore et habitats 
+
+Habitats : Méthodologie d’inventaire 
+
+Avant la phase de terrain, un plan d'échantillonnage a été construit de façon à visualiser des 
+entités topographiques et physionomiques homogènes à prospecter. Il repose sur une analyse 
+des cartes IGN et des photographies aériennes (ortho-photos), et peut le cas échéant être enrichi 
+de toutes données d'inventaire existantes. 
+
+Pour évaluer les enjeux écologiques du site, l'analyse repose sur une combinaison de données 
+locales  issues  directement  du  site  d'étude,  complétées  par  des  informations  provenant  des 
+zones environnantes : d'abord des données recueillies dans un rayon de 1 km, puis dans une 
+aire légèrement élargie de 5 km, et enfin des données issues d'une zone très élargie de 20 km 
+autour du site. 
+
+Les prospections sur les sites d'étude se font de la manière la plus complète possible par le suivi 
+de  quadrats  passant  par  l'ensemble  des  entités  homogènes  préalablement  repérées.  Ces 
+transects sont complétés par des relevés supplémentaires lorsque cela s’avère nécessaire sur 
+le terrain pour une délimitation plus fine des entités écologiques. 
+
+Date de l’inventaire 
+
+Opérateurs 
+
+Météo 
+
+Thématique 
+
+Commentaire 
+
+18 novembre 2024 
+
+Ternisien M.,  
+
+Couvert nuageux  Flore 
+
+Le caractère patrimonial de chaque espèce botanique référencée est défini selon  des critères 
+réglementaires ainsi que selon un critère de rareté/sensibilité n’ayant pas de portée juridique. Le 
+terme  «  patrimonial  »  renvoie  à  des  espèces  ou  habitats  qui  nécessitent  une  attention 
+particulière, du fait de leur statut de rareté et/ou de leur niveau de menace (Tableau 1). 
+
+La  nomenclature  utilisée  pour  la  cartographie  des  végétations  est  celle  d’European  Nature 
+Information  System  (noté  EUNIS  2012),  référentiel  de  l’ensemble  des  habitats  présents  en 
+France et en Europe. La correspondance avec le code CORINE Biotope est également précisée. 
+
+Les  habitats  naturels  d’intérêt  communautaire  listés  en  annexe  I  de  la  Directive  Européenne 
+92/43/CEE (dite Directive « Habitats/Faune/Flore ») possèdent également un code spécifique, 
+annoté  le  cas  échéant.  Parmi  ces  habitats  d’intérêt  européen,  certains  possèdent  une  valeur 
+patrimoniale encore plus forte et sont considérés à ce titre comme « prioritaires » (le code N2000 
+est alors complété d’un astérisque *). Le caractère de « zone humide » associé aux habitats dé-
+crits est également considéré. Celui-ci est défini conformément à l'article L. 211‑1 du code de 
+l’environnement  portant  sur  la  caractérisation  des  zones  humides.  L’ensemble  des  éléments 
+précédemment décrits permet d’évaluer le caractère « patrimonial » des habitats identifiés. 
+
+12 
+
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Tableau 1 : Modalités de notation des enjeux patrimoniaux propres aux habitats référencés 
+
+Habitats 
+Code 
+EUNIS 
+
+Désignation EUNIS des habitats 
+
+Enjeu patrimonial de 
+l’habitat 
+
+Niveau de 
+dégradation 
+
+Enjeu in situ 
+
+Sans végétation 
+
+Nul 
+
+Habitat fortement anthropique 
+
+Très faible à Faible 
+
+Habitat naturel 
+
+Habitat naturel 
+
+Habitat naturel 
+
+Habitat naturel 
+
+Habitat naturel 
+
+Habitat naturel 
+
+Habitat naturel 
+
+Modéré 
+
+Modéré 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Très fort 
+
+Très fort 
+
+- 
+
+- 
+
+Fort 
+
+Faible 
+
+Fort 
+
+Faible 
+
+- 
+
+- 
+
+- 
+
+Nul 
+
+Très faible 
+
+Faible 
+
+Modéré 
+
+Modéré 
+
+Fort 
+
+Fort 
+
+Très fort 
+
+Très fort 
+
+APHN : Arrêté de protection des habitats naturels 
+
+Flore : Méthodologie d’inventaire 
+
+Les prospections sur le site d'étude se font de la manière la plus complète possible par le suivi 
+de  quadrats  passant  par  l'ensemble  des  entités  homogènes  préalablement  repérées  (voir 
+méthodologie  habitats).  Ces  quadrats  (1  m  x  1  m,  Figure  2)  sont  complétés  par  des  relevés 
+supplémentaires  en  parcourant  le  site  lorsque  cela  est  nécessaire  et  afin  d’obtenir  une  liste 
+d’espèces la plus complète possible à l’issue de la prospection. 
+
+Les  espèces  patrimoniales  et  /  ou  protégées  ainsi  que  les  Espèces  Végétales  Exotiques 
+Envahissantes  (EVEE)  feront  l’objet  d’une  attention  particulière  et  seront  associées  à  des 
+propositions de gestion.  
+
+Les espèces seront identifiées à l’aide d’ouvrages de références tels que les flores notamment 
+la flore de Bonnier (Flore complète portative de la France, de la Suisse et de la Belgique: de la 
+France, de la Suisse et de la Belgique, Gaston Bonnier et Georges De Layens, 1985) ou bien des 
+guides naturalistes (édition Delachaux). 
+
+La nomenclature principale de référence est celle de la base de données nomenclaturale de la 
+flore de France (BDNFF). 
+
+Le caractère patrimonial de chaque espèce botanique référencée est défini selon des critères 
+réglementaires ainsi que selon un critère de rareté/sensibilité n’ayant pas de portée juridique. Le 
+terme  «  patrimonial  »  renvoie  à  des  espèces  ou  habitats  qui  nécessitent  une  attention 
+particulière, du fait de leur statut de rareté et/ou de leur niveau de menace (Tableau 2). 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 2 : Zones d’échantillonnages de la faune et de la flore 
+
+Tableau 2 : Synthèse des modalités de définition des enjeux floristiques 
+
+l
+
+e
+a
+n
+o
+i
+t
+a
+n
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+V  
+
+V  
+
+Taxons 
+
+Taxon 
+
+Taxon 
+
+Taxon 
+
+Taxon 
+
+Taxon 
+
+Taxon 
+
+Taxon 
+
+Taxon 
+
+Taxon 
+
+l
+
+i
+
+e
+a
+n
+o
+g
+é
+r
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+V  
+
+e
+v
+i
+t
+c
+e
+r
+i
+D
+a
+
+l
+
+e
+d
+e
+c
+è
+p
+s
+E
+
+s
+t
+a
+t
+i
+b
+a
+H
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+V  
+
+- 
+
+V  
+
+*
+*
+e
+n
+n
+e
+é
+p
+o
+r
+u
+E
+R
+L
+N
+C
+U
+
+I
+
+NA 
+
+LC 
+
+LC 
+
+NT 
+
+LC 
+
+LC 
+
+LC 
+
+NT 
+
+NT 
+
+l
+
+*
+*
+e
+a
+n
+o
+i
+t
+a
+n
+N
+C
+U
+
+I
+
+i
+
+l
+
+*
+*
+e
+a
+n
+o
+g
+é
+R
+N
+C
+U
+
+I
+
+NA 
+
+LC 
+
+LC 
+
+LC 
+
+NT 
+
+NT 
+
+NT 
+
+VU 
+
+VU 
+
+NA 
+
+DD à LC 
+
+NT 
+
+LC 
+
+VU à CR 
+
+VU à CR 
+
+NT à CR 
+
+NT à CR 
+
+NT à CR 
+
+i
+
+e
+t
+n
+a
+n
+m
+r
+e
+t
+é
+d
+e
+c
+è
+p
+s
+E
+
+F
+F
+E
+I
+N
+Z
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+V  
+
+- 
+
+V  
+
+V  
+
+*
+é
+t
+e
+r
+a
+R
+
+Enjeu Patrimoniale 
+
+CCC 
+
+Introduite 
+
+CC à AC 
+
+Nul à Faible (selon rareté) 
+
+AR à R 
+
+AR à R 
+
+AR à RRR 
+
+AR à RRR 
+
+Modéré 
+
+Modéré 
+
+Fort 
+
+Fort 
+
+AR à RRR 
+
+Très fort (protection réglementaire) 
+
+AR à RRR 
+
+Très fort (protection réglementaire) 
+
+AR à RRR 
+
+Très fort (protection réglementaire) 
+
+* La rareté est exprimée selon huit classes de rareté (RRR, RR, R, AR, AC, C, CC, CCC avec R = Rare, C = Commune, A = Assez,) et est 
+issue des données régionales émises par les conservatoires botaniques. 
+
+** NE ou NA ? : Non évaluée, DD : données insuffisantes, LC : préoccupation mineur, NT : quasi menacée, VU : Vulnérable, EN : en 
+danger, CR : en danger critique. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1.2.2 Faune 
+
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Date de l’inventaire 
+
+Opérateurs 
+
+Météo 
+
+Thématique 
+
+Commentaire 
+
+18 novembre 2024 
+
+Ternisien M.,  
+
+Couvert nuageux  Faune 
+
+Entomofaune 
+
+Quatre  ordres  d’insectes  sont  inventoriés  :  les  rhopalocères  (papillons  de  jour)  les  odonates 
+(libellules), les coléoptères et les orthoptères (criquets, sauterelles et grillons). Ces groupes ont 
+l’avantage d’être bien connus et sont représentatifs du type et de l’état du milieu qu’ils occupent, 
+ce qui permet alors d’évaluer la valeur patrimoniale du site. 
+
+Pour  étudier  l’entomofaune,  la  méthode  des  transects  (10  m  x  2  m)    a  été  utilisé  afin  de 
+prospecter tous les habitats. Ceux-ci sont aux mêmes emplacements que les quadrats relevés 
+pour la flore (cf. méthodologie inventaire flore). 
+
+La zone d’étude est également parcourue à pied sur l’ensemble de la superficie. Les sessions 
+de prospections sont réalisées par beau temps et par températures comprises entre 18°C et 
+30°C dans la mesure du possible. 
+
+Concernant les rhopalocères, la recherche s’effectue sur tout type de milieux. C’est aux heures 
+les  plus  chaudes  que  les  rhopalocères  sont  les  plus  actifs.  Les  individus  adultes  sont  soit 
+déterminés  à  vue  (jumelles)  soit  capturés  avec  un  filet  à  papillons  pour  être  déterminés  sur 
+place. 
+
+Pour les odonates, les individus sont recherchés essentiellement près des points d’eau (fossés, 
+étangs,  mares…),  où  ces  derniers  sont  souvent  en  nombre.  Pour  les  mêmes  raisons  que  les 
+papillons, la prospection s’effectue l’après-midi. Les individus adultes sont soit déterminés à vue 
+(jumelles) soit capturés avec un filet à papillons pour être déterminés sur place. Comme pour 
+les papillons, les comportements observés permettent de faire état de l’utilisation du site par les 
+espèces.  Enfin,  des  exuvies  (dernière  mue  de  la  larve  avant  d’atteindre  l’état  adulte)  sont 
+recherchées  sur  la  végétation  du  bord  des  eaux.  Elles  permettent  à  la  fois  de  compléter 
+l’inventaire  mais  aussi  de  recueillir  des  informations  complémentaires  sur  le  statut  de 
+reproduction des espèces sur le site et sur la qualité écologique des zones en eau. 
+
+Et enfin concernant les orthoptères et les coléoptères, leur recherche s’effectue à vue, sur tous 
+les types de milieux, les individus sont capturés à la main, au filet fauchoir ou encore au parapluie 
+japonais. 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Avifaune 
+
+Espèces nicheuses 
+
+Afin d'évaluer la population d'oiseaux nicheurs la méthode des Indices Ponctuels d'Abondance, 
+élaborée et décrite par Blondel, Ferry et Frochot en 1970, a été utilisée. 
+
+Cette méthode consiste, aux cours de deux sessions distinctes de comptage (au cours de la 
+journée), à noter l'ensemble des oiseaux observés et / ou entendus durant 20 minutes à partir 
+d'un point fixe du territoire. Tous les contacts auditifs ou visuels dans un rayon d’environ 150 à 
+200m avec les oiseaux sont notés. Cette méthode permet de définir le cantonnement de chaque 
+couple d'oiseaux. Ces points d’écoutes ont été réalisées au niveau des points faune. 
+
+En  complément,  des  prospections  aléatoires  sont  réalisées  pendant  lesquelles  toutes  les 
+espèces vues ou entendues, en-dehors des points d’écoute, sont consignées. 
+
+Ces deux méthodes permettent d’estimer les populations d’espèces. 
+
+Des  IPA  (Indices  Ponctuels  d’Abondance)  et  des  recherches  au  sol  (indices  de  présence  et 
+contact direct) ont été réalisés. Les points d'écoute sont réalisés sur l'ensemble du périmètre 
+d'étude. 
+
+Espèces migratrices 
+
+Pour ces espèces, les individus observés sont notés lors des prospections. L’étude se fait à l’aide 
+d’une  paire  de  jumelles  et  d’une  longue  vue,  ce  qui  permet  d’observer  et  de  dénombrer  les 
+oiseaux  en  vol  ou  posés  tout  en  restant  à  une  distance  raisonnable.  Les  données 
+météorologiques (température, vent, pluviométrie, …) sont des facteurs influençant les oiseaux 
+pendant la migration. Elles sont évaluées avant toute prospection. 
+
+Concernant  l’avifaune  migratrice,  les  oiseaux  observés  sont  dissociés  en  deux  groupes  pour 
+permettre une analyse plus juste des futurs impacts/incidences : 
+
+Les  oiseaux  vus en  vol  (migration  active)  sont  définis  comme  oiseau  de passage.  Différents 
+éléments sont notés comme la direction des vols, la hauteur et l’effectif. Ils nous permettent 
+d’évaluer l’importance de la zone d’étude comme axe migratoire. 
+
+Les oiseaux exploitant la zone d’étude (déplacement ou halte migratoire), sont définis comme 
+oiseau séjournant sur le site. Il s’agit là de noter les oiseaux observés (effectifs, espèces, …) qui 
+utilisent le site pour se nourrir et/ou se reposer. 
+
+Ces  informations  nous  permettent  d’évaluer  l’importance  de  la  zone  d’étude  comme  halte 
+migratoire. Il est cependant possible que des individus soient sédentaires sur la zone d’étude. 
+
+16 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Herpétofaune : les reptiles 
+
+Les reptiles appartiennent à la famille des animaux dits ectothermes, ce qui signifie qu'ils ne 
+sont pas capables de réguler leur température interne. En tant qu'organismes poïkilothermes, 
+leur température interne évolue en réponse à la température ambiante, des températures trop 
+basses  les  contraignent  à  hiberner,  et  à  l’inverse  en  été,  les  fortes  chaleurs  qui  ne  leur 
+conviennent pas les amènent à entrer en estivage. Cela entraîne une réduction du métabolisme, 
+de la fréquence cardiaque, de la respiration et de la température chez ces animaux. Les reptiles 
+reprennent leur activité lorsque la température ambiante et l'ensoleillement deviennent propices. 
+
+Il est à noter que les reptiles sont également soumis à des contraintes similaires au fil de la 
+journée, en fonction de l'heure et des conditions météorologiques, notamment l'ensoleillement. 
+
+Les reptiles sont présents dans une grande diversité d'habitats, allant des milieux naturels aux 
+zones fortement anthropisées.Certains reptiles sont associés à des habitats secs, tels que le 
+Lézard des murailles, tandis que d'autres sont étroitement liés à des milieux humides, comme 
+la  Couleuvre  à  collier.  Il  s’agit  d’animaux  particulièrement  discrets,  possédant  des  territoires 
+généralement restreints. 
+
+Du fait de leur grande discrétion et de leur cycle de vie, plusieurs méthodes  de recherches ont 
+été utilisées. La méthode de recherche à vue a été privilégiée dans des zones identifiées comme 
+habitats potentiels pour les individus comme sous des pierres, le long de rochers à nus… 
+
+Mammalogie 
+
+Pour les mammifères, du fait de leur grande discrétion, plusieurs méthodes « indirectes » ont 
+été  utilisées  :  la  recherche  d’indices  de  présence,  l’identification  d’éventuels  cadavres  en 
+particulier sur les routes, et les observations inopinées. 
+
+Concernant la recherche d’indices de présence, il s’agit de déceler et d’identifier les empreintes, 
+les fèces, les terriers, les restes de repas, etc. 
+
+Une  prospection  des  routes  à  proximité  peut  se  révéler  intéressante.  Les  routes  sont 
+régulièrement  traversées  par  les  mammifères  et  les  collisions  peuvent  être  fréquentes  sur 
+certains  secteurs.  Les  cadavres  retrouvés  constituent  donc  une  source  d’informations  non 
+négligeable. 
+
+Enfin, les données concernant les observations inopinées (un mammifère traversant une route, 
+une prairie, en fuite, etc.) sont recueillies. 
+
+N.B. : Les inventaires réalisés à cette période pourraient ne pas refléter entièrement la composition 
+des communautés spécifiques présentes sur le site, en raison de leur réalisation en fin de période 
+favorable pour l'évaluation des différents groupes taxonomiques. Il est donc conseillé d'interpréter 
+les résultats avec précaution et de les analyser au regard de la bibliographie ou de les compléter 
+par  des  relevés  complémentaires  à  d'autres  saisons  afin  de  mieux  rendre  compte  de  la 
+biodiversité présente localement sur le site. 
+
+17 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.2 MILIEU PHYSIQUE 
+
+La description et l’analyse du milieu physique porte sur les thématiques du  sol (topographie, 
+géologie), de l’eau (hydrographie, hydrogéologie – eaux superficielles et souterraines), le climat 
+(facteurs météorologiques), l’air (pollution atmosphérique, qualité de l’air) et les risques naturels 
+majeurs. 
+
+2.2.1  LE SOL 
+
+Topographie : le relief 
+
+Le site du projet est localisé sur la commune de Faux-Fresnay dans la Marne, à la frontière avec 
+le département de l’Aube. La commune présente des caractéristiques topographiques typiques 
+des paysages du Bassin parisien et de la Champagne crayeuse.  
+
+La topographie de la commune est relativement plane, comprise entre 80 et 130m d’altitude. 
+Typique des plaines agricoles, le territoire est donc marqué par de grandes étendues agricoles. 
+En direction des cours d’eau et de la vallée de la saine et des cours d’eau, ; le relief se vallonne. 
+
+La géologie 
+
+La  commune  de  Faux-Fresnay  appartient  aux  feuilles  géologiques  n°223  SEZANNE  et  n°224 
+FRERE CHAMPENOISE. Le site du projet est localisé sut le territoire géologique de Fère-Cham-
+penoise.  
+
+Le territoire est dominé par des terrains crayeux du Crétacé supérieur,  incluant le Turonien, le 
+Coniacien, le Santonien, et le Campanien. Ces formations présentent des craies blanches ho-
+mogènes,  souvent  pauvres  en  macrofaune  mais  caractérisées  par  des  foraminifères  spéci-
+fiques. Sur le site du projet, les couches géologiques qui dominent sont les alluvions anciennes 
+du quaternaire et les craies à Micraster decipiens (Coniacien-biozone c de foraminifères). 
+
+Les alluvions anciennes (basses terrasses) de type sable et gravillons crayeux se rencontrent 
+dans  des  formations  géologiques  anciennes  situées  principalement  entre  5  et  10  mètres  de 
+profondeur. Ces dépôts, typiques des terrains alluviaux quaternaires, sont constitués de sables 
+et de gravillons qui, en raison de leur origine fluviale, présentent souvent une forte perméabilité. 
+Ces alluvions sont riches en fragments de craie, ce qui les distingue des alluvions plus récentes.  
+
+La craie à Micraster decipiens est une formation géologique du Coniacien du Crétacé supérieur, 
+caractérisée par la présence dominante de l’espèce de foraminifère Micraster decipiens, qui est 
+utilisée pour dater ces couches géologiques. Elle fait partie de la biozone C des foraminifères, 
+une classification stratigraphique essentielle pour le Coniacien.
+
+18 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Site du projet 
+
+Figure 3 : Contexte topographique du site d’étude et de son territoire d’implantation (Source : topographic-map.com).  
+
+19 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Légende : 
+
+Feuille n°223 - SEZANNE 
+
+Légende : 
+
+Feuille n°224 – FRERE CHAMPENOISE 
+
+20 
+
+Figure 4 : Carte géologique 1/50 000 imprimé (Source : SIGES Seine-Normandie) 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.2.2  L’EAU 
+
+L’ensembles des informations et des données mentionnées ci-après ont été consultées sur la 
+plateforme du SIGES Seine-Normandie (Système d’information pour la gestion des eaux souter-
+raines en Seine-Normandie). 
+
+Hydrographie et hydrologie de surface 
+
+Bassin hydrographique 
+
+Le  site  du  projet,  implanté  sur  la  commune  de  Faux-Fresnay,  fait  partie  du  Bassin  hydrogra-
+phique Seine-Normandie. Un bassin hydrographique correspond à un grand bassin versant, soit 
+une zone géographique correspondant à l’air de réception et d’écoulement des eaux de surface 
+et des eaux souterraines vers un cours d’eau. La limite d’un bassin hydrographique est donc 
+constituée par la ligne de partage des eaux superficielles, déterminée par l’hydrographie de la 
+zone de drainage. Sur le territoire national, on distingue 6 grands bassins hydrographiques, dont 
+le bassin Seine-Normandie. Ce bassin se compose de la Seine et de ses affluents principaux 
+(l’Yonne, la Marne, l’Oise). Il compte également 55 000 rivières et s’étend sur 94 500 km, soit 
+18% du territoire.  
+
+Chaque bassin hydrographique est ensuite divisé en région, secteur et sous-secteur hydrogra-
+phique. Chaque découpage correspond à une zone dans laquelle toutes les eaux de ruissèle-
+ment  convergent  à  travers  un  réseau  de  cours  d’eau  et  de  rivières.  Le  Tableau  3  précise 
+l’ensemble des zones à laquelle le site du projet appartient. 
+
+L’Aube est une rivière française considérée comme une des quatre plus gros affluent de la Seine. 
+
+Tableau 3 : Echelon hydrographique (Région, secteur, sous-secteur, zone) auquel le site du projet ap-
+partient (Données issues de la BD CARTHAGE). 
+
+Région hydrographique 
+
+Secteur Hydrographique 
+
+La Seine, de sa source au 
+confluent de l’Oise (exclu) 
+
+L’Aube de sa source au con-
+fluent de la Seine 
+
+Sous-secteur hydrogra-
+phique 
+
+Zone hydrographique 
+
+L’Aube, du confluent de 
+l’Herbissonne (exclu) au 
+confluent de la Seine 
+
+Le ru du Moulin de sa source 
+au confluent de l’Aube (ex-
+clu) 
+
+21 
+
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Réseau hydrographique 
+
+Un réseau hydrographique est l'ensemble des cours d'eau et des plans d'eau (rivières, fleuves, 
+ruisseaux, lacs, étangs, etc.) d'un territoire donné, interconnectés et drainant les eaux de surface 
+vers un même point de convergence, généralement la mer, un océan ou un autre plan d'eau. Ce 
+réseau peut inclure : 
+
+•  Cours d'eau : Rivières, fleuves, torrents, ruisseaux, etc. 
+
+•  Plans d'eau : Lacs, étangs, marécages, etc. 
+
+•  Affluents  :  Cours  d'eau  qui  se  jettent  dans  un  autre  cours  d'eau  plus  important  (par 
+
+exemple, une rivière qui se jette dans un fleuve). 
+
+•  Confluents : Lieu où deux cours d'eau se rejoignent. 
+
+Le réseau hydrographique peut être naturel ou modifié par l'homme (canaux, barrages). Il joue 
+un  rôle  essentiel  dans  le  drainage  des  eaux  pluviales,  l'approvisionnement  en  eau,  l'irrigation 
+agricole, la biodiversité, ainsi que la gestion des risques d'inondation. La manière dont les eaux 
+s'écoulent dans un réseau hydrographique dépend de la topographie, du climat, et de la géologie 
+de la région. 
+
+La commune de Faux-Fresnay est traversée par près de 8 cours d’eau (Tableau 4). Sur le site du 
+projet, aucun cours d’eau ni plan d’eau ne sont à mentionner. Cependant, on notera la présence 
+du Ruisseau du Moulin à moins de 200 mètres. 
+
+Tableau 4 : Cours d'eau traversant la commune de Faux-Fresnay. 
+
+Nom du cours d’eau 
+
+Classe  
+
+Longueur traversant la commune 
+
+Commune de Mareuil-Lès-Meaux 
+
+La Superbe 
+
+Canal de la Noue de Barbara 
+
+Ruisseau du Moulin 
+
+Canal 01 es Prélots 
+
+Bras du Moulin 
+
+Cours d’eau 01 du Gué de la Plaine 
+
+Fossé 01 du Cul de la Noue 
+
+Ruisseau de Couchis 
+
+3 
+
+4 
+
+4 
+
+5 
+
+6 
+
+6 
+
+6 
+
+6 
+
+Total global de linéaire de cours d’eau sur le territoire de la commune 
+
+0.079 km 
+
+0.338 km 
+
+5.775 km 
+
+1.514 km 
+
+0.388 km 
+
+0.995 km 
+
+4.912 km 
+
+4.488 km 
+
+18.49 km 
+
+Légende : 
+
+Classe 1 : cours d’eau de plus de 100 km 
+
+Classe 2 : cours d’eau de 50 à 100 km 
+
+Classe 3 : cours d’eau de 25 à 50 km 
+
+Classe 4 : cours d’eau de 10 à 25 km 
+
+Classe 5 : cours d’eau de 5 à 10 km 
+
+Classe 6 : cours d’eau inférieur à 5 km 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 5 : Réseau hydrographique à proximité du site d'étude (Données issues de la BD CARTHAGE). 
+
+23 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Masses d’eau de surface 
+
+Une  masse  d’eau  superficielle  est  une  unité  de  gestion  des  ressources  en  eau  définie  par  la 
+Directive Cadre sur l’Eau (DCE) de l’Union européenne.  
+
+Elle désigne tout plan ou cours d'eau présent à la surface de la Terre. Les types de masses d'eau 
+superficielles comprennent : 
+
+•  Les rivières et fleuves 
+
+•  Les lacs et étangs 
+
+•  Les zones humides 
+
+•  Les estuaires 
+
+•  Les eaux côtières jusqu'à une certaine distance du rivage 
+
+Ces masses d'eau sont distinguées des masses d'eau souterraines (qui sont les nappes phréa-
+tiques). Elles sont regroupées et évaluées en fonction de critères hydrologiques, géographiques 
+et écologiques dans le but d'assurer une gestion durable des ressources en eau, tant en termes 
+de qualité que de quantité. 
+
+La gestion des masses d'eau superficielles vise à atteindre un  bon état écologique et un bon 
+état  chimique,  selon  des  critères  définis  par  la  DCE.  Cela  inclut  le  contrôle  de  la  pollution,  la 
+protection de la biodiversité aquatique et la gestion des risques liés aux inondations et à la sé-
+cheresse. 
+
+La commune de Faux-Fresnay est en interaction avec deux masses d’eau superficielles (Masse 
+d’eau cours d’eau, état des lieux 2019 – SANDRE) :  
+
+•  HR24 F1530600 - Ruisseau du moulin 
+•  HR32 F1575000 – Ru du cul de la Noue 
+
+24 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 6 : Masse d’eau de surface à proximité du site d'étude (Issue de la base de données SANDRE). 
+
+25 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Hydrogéologie  
+
+Entité hydrogéologique 
+
+Une entité hydrogéologique est une unité géologique distincte qui présente des caractéristiques 
+propres en matière d'hydrologie souterraine. Ces entités correspondent à des formations géo-
+logiques capables de contenir et de transmettre de l'eau sous forme d'aquifères ou, au contraire, 
+de la retenir (couches imperméables). Une entité hydrogéologique est définie par des critères 
+géologiques et hydrauliques qui influencent la présence, le stockage, et la circulation de l'eau 
+souterraine. 
+
+Elle est distinguée selon 3 niveaux et selon sa potentialité aquifère : niveau national, niveau ré-
+gional et niveau local. De plus, plusieurs entités hydrogéologiques peuvent se succéder par em-
+pilement des couches géologiques aquifères et des formations imperméables qui les séparent. 
+
+Sur le territoire de la commune de Faux-Fresnay, on dénombre 3 entités hydrogéologiques lo-
+cales  (Tableau 5). Le périmètre  du  projet  est  concerné  par une seule des 3  entités.  Les  péri-
+mètres de chaque entité sont présentés dans les Figure 7, Figure 8, Figure 9. L’ensembles des 
+données cartographiques sont issues de l’espace cartographique de la plateforme SIGES Seine 
+Normandie. 
+
+Des fiches descriptives proposées par la BD LISA (Base de Données des Limites de Systèmes 
+Aquifères) sont également disponibles (Figure 10, Figure 11, Figure 12). 
+
+Tableau 5 : Entités hydrogéologiques nationales, régionales et locales retrouvées sur le territoire de 
+Faux-Fresnay, commune d'implantation du site du projet. 
+
+Niveau national 
+
+Niveau régional 
+
+Niveau local 
+
+928- Alluvions actuelles à 
+anciennes de la vallée de la 
+Seine amont 
+
+928AG– Alluvions actuelles à anciennes de 
+la vallée de l'Aube 
+
+928AG01 - Alluvions actuelles à anciennes 
+du bassin versant de l'Aube 
+
+121 - Grand système multi-
+couche du Campanien au 
+Turonien (Séno-Turonien) du 
+Bassin Parisien 
+
+121AO– Craie du Sénonien au Turonien infé-
+rieur du Bassin Parisien du bassin versant de 
+l'Aube et de la Seine (bassin Seine-Norman-
+die) 
+
+121AO01 - Craie du Séno-Turonien du Bassin 
+Parisien du bassin versant de l'Aube et de la 
+Seine (bassin Seine-Normandie) 
+
+121AO30- Craie marneuse et marnes du 
+Turonien inférieur du bassin versant de 
+l'Aube et de la Seine (bassin Seine-Norman-
+die) 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+➔  928AG01 - Alluvions actuelles à anciennes du bassin versant de l’Aube 
+
+Cette entité hydrogéologique fait partie d’un système aquifère situé dans le bassin versant de 
+l’Aube.  Elle  est  caractérisée  par  des  formations  alluviales  qui  se  sont  accumulées  au  fil  du 
+temps, comprenant des alluvions actuelles et anciennes. 
+
+Il s’agit d’un système aquifère à nappe libre, ce qui indique que l’eau souterraine est libre, sans 
+confinement supérieur. Le milieu est alluvial et poreux, ce qui permet à l’eau de s’infiltrer et de 
+circuler à travers les couches de sédiments.  
+
+Commune du projet 
+
+Zone d’étude élargie 
+
+Ordre 1 
+
+Figure 7 : Entité hydrogéologique « 928AG01 - Alluvions actuelles à anciennes du bassin versant 
+de l’Aube » 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+➔  121AO01 - Craie du Séno-Turonien du Bassin parisien du bassin versant de l'Aube et de 
+
+la Seine (bassin Seine-Normandie) 
+
+Cette entité hydrogéologique est principalement composée de craie et de marnes du Turonien 
+inférieur et du Sénonien. La craie y est souvent blanche et peu marneuse, et elle forme un im-
+portant réservoir pour les eaux souterraines dans cette région. C’est une nappe libre, l’eau est 
+donc contenue dans les formations géologiques sans être confinée par un niveau perméable. 
+Elle permet donc un bon transit des eaux souterraines à travers les couches de craie. Ce sys-
+tème est classé sédimentaire, avec des caractéristiques de porosité matricielle et des fissures. 
+La Craie du Séno-Turonien dans cette zone est une ressource importante pour l'approvisionne-
+ment en eau souterraine. Elle joue un rôle clé dans la gestion des ressources en eau, notamment 
+dans la région de l'Aube et de la Seine. 
+
+Commune du projet 
+
+Zone d’étude élargie 
+
+Ordre 1 
+
+Ordre 2 
+
+Figure 8 : Entité hydrogéologique « 121AO01 - Craie du Séno-Turonien du Bassin parisien du bas-
+sin versant de l'Aube et de la Seine (bassin Seine-Normandie) » 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+➔  121AO30- Craie marneuse et marnes du Turonien inférieur du bassin versant de l'Aube 
+
+et de la Seine (bassin Seine-Normandie) 
+
+La Craie Marneuse et marnes du turonien inférieur du bassin versant de l’Aube et de la Seine est 
+par définition, une entité hydrogéologique constituée principalement de craie et de marne du 
+Turonien. Ces formations géologiques sont incluses dans un système aquifère plus large de la 
+craie du Sénonien au Turonien inférieure, une aquifère à nappe libre. Ce système est classifié 
+comme sédimentaire, avec un milieu caractérisé par des structures matricielles et des fissures, 
+permettant la circulation des eaux souterraines. Le système hydrogéologique auquel appartient 
+l’unité 121AO30 joue un rôle important dans la région ; notamment pour le stockage et le transit 
+des eaux souterraines. La nappe présente une fissuration importante, influençant les caracté-
+ristiques de son débit et sa capacité à alimenter les puits et forage dans le bassin versant de 
+l’Aube et de la Seine. 
+
+Commune du projet 
+
+Zone d’étude élargie 
+
+Ordre 1 
+
+Ordre 2 
+
+Ordre 3 
+
+Figure 9 : Entité hydrogéologique « 121AO30- Craie marneuse et marnes du Turonien infé-
+rieur du bassin versant de l'Aube et de la Seine (bassin Seine-Normandie) » 
+
+29 
+
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 10 : Fiche nationale de l'entité hydrogéologique locale « 928AG01 - Alluvions actuelles à anciennes du bassin versant de l’Aube » (Extrait de la plateforme 
+SIGES – Fiche nationale/BD LISA) 
+
+30 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 11 : Fiche nationale de l'entité hydrogéologique locale « 928AG01 - Alluvions actuelles à anciennes du bassin versant de l’Aube » (Extrait de la plateforme 
+SIGES – Fiche nationale/BD LISA) 
+
+31 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 12 : Fiche nationale de l'entité hydrogéologique locale « 928AG01 - Alluvions actuelles à anciennes du bassin versant de l’Aube » (Extrait de la plateforme 
+SIGES – Fiche nationale/BD LISA) 
+
+32 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Masse d’eau souterraine 
+
+Selon la Directive Cadre dur l’Eau (DCE, 2000/60/CE), une  masse d’eau souterraine se définit 
+comme un volume distinct d’eau souterraine à l’intérieur d’un ou plusieurs aquifères.  
+
+Un aquifère est définit comme étant un ensemble d’une ou plusieurs couches souterraines de 
+roches ou d’autres couches géologiques d’une porosité et d’une perméabilité suffisante pour 
+permettre soit un courant significatif d’eau souterraine soit le captage de quantité importantes 
+d’eau souterraine. 
+
+Le territoire de Faux-Fresnay est situé sur 3 masses d’eau souterraines (Tableau 6). 
+
+Tableau 6 : Masses d'eau souterraines localisées sur le périmètre de Faux-Fresnay. 
+
+Code  
+
+Code  
+
+national 
+
+européen 
+
+Nom 
+
+Niveau 
+
+Type 
+
+Ecoulement 
+
+HG008 
+
+FRHG008 
+
+Alluvions de l'Aube 
+
+HG208 
+
+FRHG208 
+
+HG218 
+
+FRHG218 
+
+Craie de Champagne 
+sud et centre 
+
+Albien-néocomien cap-
+tif 
+
+1 
+
+1 
+
+2 
+
+Alluviale 
+
+Entièrement libre 
+
+Dominante sédimentaire non 
+alluviale 
+
+Libre et captif, majori-
+tairement libre 
+
+Dominante sédimentaire non 
+alluviale 
+
+Entièrement captif 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Dispositions législatives et documents cadres 
+
+Cadre réglementaire 
+La Loi sur l’Eau du 3 janvier 1992 a défini les principes d’une nouvelle politique de l’eau en affir-
+mant que celle-ci est un patrimoine commun dont la gestion équilibrée est d’intérêt général. La 
+Loi sur l’Eau a mis en place des outils de planification décentralisée pour faciliter la mise en 
+œuvre de cette politique, dont les principaux sont :  
+
+-  Les SDAGE : Schémas Directeurs d’Aménagement et de Gestion des Eaux élaborés pour 
+chacun des grands bassins hydrographiques français par les comités de bassin ;  
+
+-  Les SAGE : Schémas d’Aménagement et de Gestion des Eaux élaborés à une échelle 
+plus locale (bassin versant d’une rivière, système aquifère…) - lorsque cela est nécessaire 
+par une Commission Locale de l’Eau. 
+
+Schéma directeur d’aménagement et de gestion des eaux du bassin Seine-Normandie (SDAGE) 
+
+La commune de Faux-Fresnay appartient au SDAGE du bassin Seine-Normandie. 
+
+Le SDAGE du bassin Seine Normandie est un document stratégique de planification qui guide la 
+gestion durable des ressources en eau dans cette région. Il est révisé tous les 6 ans dans le 
+cadre de la Directive Cadre sur l’Eau de l’Union Européenne, qui vise à atteindre le bon état des 
+eaux, à la fois pour les eaux de surfaces que pour les eaux souterraines. 
+
+Les principaux objectifs du SDAGE Seine-Normandie sont : 
+
+•  Améliorer  la  qualité  de  l’eau :  réduire  la  pollution  des  rivières,  des  lacs  et  des  nappes 
+
+souterraines 
+
+•  Assurer  une  gestion  durable  des  ressources  en  eau :  réduire  la  pression  sur  les  res-
+
+sources, notamment dans un contexte de changement climatique 
+
+•  Préserver les écosystèmes aquatiques : protéger la biodiversité des zones humides, des 
+
+rivières et des estuaires 
+
+•  Prévenir les risques liés à l’eau : mieux gérer les risques d’inondations et de sécheresses, 
+
+• 
+
+et adapter la gestion aux effets du changement climatique 
+Impliquer les acteurs locaux : promouvoir la gouvernance partagée et renforcer la parti-
+cipation des parties prenantes, y compris les citoyens, les agriculteurs, les industries et 
+les collectivités 
+
+Pour répondre à ces objectifs, le SDAGE Seine-Normandie inclut diverses actions telles que : 
+
+•  La réduction des rejets de polluant provenant des stations d’épuration, de l’industrie et 
+
+de l’agriculture 
+
+•  La restauration des cours d’eau pour permettre la circulation des poissons et la préser-
+
+vation des zones humides 
+
+•  La réduction de la consommation en eau par des mesures d’économies et des innova-
+
+tions technologiques  
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Les 5 orientations fondamentales du SDAGE Seine-Normandie sont présentées dans le Tableau 
+7. 
+
+Tableau 7 : Orientation fondamentale du SDAGE. 
+
+Les orientations fondamentales du SDAGE 
+
+Orientation fondamentale 1 : Pour un territoire vivant et résilient : des rivières fonctionnelles, milieux 
+humides préservés et une biodiversité en lien avec l’eau restaurée 
+
+Orientation fondamentale 2 : Réduire les pollutions diffuses en particulier sur les aires d’alimentation 
+de captages d’eau potable 
+
+Orientation fondamentale 3 : Pour un territoire sain : réduire les pressions ponctuelles 
+
+Orientation fondamentale 4 : Pour un territoire préparé : assurer la résilience des territoires et une 
+gestion équilibrée de la ressource en eau face au changement climatique 
+
+Orientation fondamentale 5 : Agir du bassin à la côte pour protéger et restaurer la mer et le littoral 
+
+A noter que la commune d’implantation du projet n’est pas concernée par un SAGE. 
+
+Figure 13 : SDAGE du bassin Seine-Normandie 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.2.3  RISQUES NATURELS MAJEURS 
+
+Le projet doit considérer les risques naturels majeurs identifiés le territoire de Faux-Fresnay. 
+
+La plateforme gouvernementale Géorisques recense les risques naturels et technologiques sur 
+l’ensemble du territoire français. 
+
+Inondations et remontées de nappes 
+
+L’inondation est une submersion temporaire, plus ou moins rapide, d’une zone habituellement 
+hors de l’eau. Elle peut être due au débordement d’un cours d’eau (phénomène de crue), à un 
+ruissèlement urbain lors de pluie intense, à une remontée de nappe ou à une submersion marine. 
+Les inondations par remontées de nappes se forment lorsque l’alimentation de la nappe phréa-
+tique dépasse leur déversement vers les exutoires naturels.  
+
+Par débordement de cours d’eau 
+
+Les inondations par débordement de cours d’eau arrivent généralement à la suite de précipita-
+tions fortes et/ou répétées. Le cours d’eau sort alors de son lit habituel et inonde la plaine envi-
+ronnante.  
+
+La commune de Faux-Fresnay et le site du projet, en raison de la présence de cours d’eau sur le 
+territoire, est exposée au risque d’inondation par cours d’eau. Les données disponibles sur la 
+plateforme Géorisques fournissent un aperçu des zones qui pourraient potentiellement être tou-
+chées par une inondation liée à un cours d’eau (Figure 14). 
+
+Enveloppes Approchées des Inondations Potentielles 
+cours d’eau et submersion marine de plus d’un hectare 
+(Source : MTES/DGPR) 
+
+Commune du projet 
+
+Zone d’étude 
+
+Figure 14 : Enveloppes Approchées des Inondations Potentielles cours d'eau et 
+submersion marine de plus d'un hectare (Source : Géorisques) 
+
+Concernant ce risque, le projet devra prendre des dispositions afin de gérer et prévenir cet aléa. 
+
+36 
+
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Par remontée de nappes 
+
+Classiquement, les nappes phréatiques ont un cycle de remplissage (en hiver) et de diminution 
+(en été), appelé « battement de la nappe ». Cependant, après des évènements pluvieux intenses, 
+la  nappe  peut  se  retrouver  saturée  et  remonter  dans  la  zone  superficielle  normalement  non-
+saturée,  éventuellement  jusqu’en  surface.  L’inondation  concerne  donc  d’abord  les  parties  en 
+sous-sol et parfois jusqu’aux éléments de surface. 
+
+La plateforme Géorisques identifie deux types de zones associées au risque de remontée de 
+nappe : les zones potentiellement sujettes aux débordements de nappe et les zones potentielle-
+ment sujettes aux inondations de cave.  
+
+Le site du projet est localisé dans une zone sujette aux débordements de nappe et aux inonda-
+tions de cave.  
+
+Le risque de débordement de nappe intervient lorsque le niveau de la nappe phréatique monte 
+jusqu’à la surface du sol et causant une inondation. Ce phénomène se produit généralement 
+lorsque la nappe phréatique est saturée en eau et que l’apport de précipitation est abondant 
+et/ou continu.  
+
+Zones potentiellement sujettes aux inondations de cave 
+
+Zones potentiellement sujettes aux débordements de nappe 
+
+Pas de débordement de nappe ni d’inondation de cave 
+
+Commune du projet 
+
+Zone d’étude 
+
+Figure 15 : Zones sensibles aux remontées de nappe (Source : Géorisques). 
+
+Concernant ce risque, le projet devra prendre des dispositions afin de gérer et prévenir cet aléa. 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Mouvement de terrain 
+
+Les mouvements de terrain regroupent un ensemble de déplacement, plus ou moins brutaux, 
+du sol et du sous-sol. Les déplacements peuvent être lent à très rapide. Ces phénomènes sont 
+souvent très destructeurs, car les aménagements humains y  sont très sensibles et les dom-
+mages aux biens sont considérables et souvent irréversibles. 
+
+On distingue deux types de mouvements de terrains : les mouvements de terrains liés aux cavi-
+tés souterraines, et les mouvements de liés au retrait et gonflement des argiles. 
+
+La commune de Faux-Fresnay est concerné par un risque de mouvement de terrain associé aux 
+cavités : risque d’effondrement – tassement différentiel. A noter qu’en l’absence de la localisa-
+tion des cavités sur le territoire, l’ensemble de la commune est concerné par ce risque.  
+
+Retrait et gonflement des argiles 
+
+Les sols qui contiennent de l’argile se gonflent en présence d’eau et à l’inverse, se tassent en 
+saison  sèche. Ce mouvement  de gonflement et  de  rétractation  du sol  peut  endommager  les 
+infrastructures par fissuration. Les bâtiments qui n’ont pas été conçues pour résister à ces mou-
+vements sont donc vulnérables et peuvent être endommagés.  
+
+D’après  la  carte  de  Géorisques,  le  territoire  de Faux-Fresnay  est exposé  assez  faiblement  au 
+risque de retrait et gonflement des argiles, hormis au sud de la commune, au niveau du ruisseau 
+du Moulin. Le site du projet est faiblement exposé au risque. 
+
+Exposition forte 
+
+Exposition moyenne 
+
+Exposition faible 
+
+Commune du projet 
+
+Zone d’étude 
+
+Figure 16 : Exposition au risque de retrait et de gonflement des 
+argiles (Source : Géorisques). 
+
+38 
+
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Catastrophes naturelles sur la commune 
+
+Une catastrophe naturelle est liée à un phénomène ou à une conjonction de phénomène dont 
+les effets sont particulièrement dommageables. Lorsque d’une catastrophe naturelle touche un 
+territoire, le territoire est « en état de catastrophe naturelle ». 
+
+Tableau 8 : Historique des catastrophes naturelles sur la commune de Faux-Fresnay. 
+
+Code NOR 
+
+Libellé 
+
+Début 
+
+Su le journal officiel le 
+
+INTE9900627A 
+
+Inondations et/ou Coulées 
+de Boue 
+
+25/12/1999 
+
+INTE9900627A 
+
+Mouvement de Terrain 
+
+25/12/1999 
+
+30/12/1999 
+
+30/12/1999 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.3 MILIEU NATUREL 
+
+2.3.1  CONTEXTE PAYSAGER 
+
+Le site d’étude, situé sur la commune de Faux-Fresnay, s’inscrit dans un contexte agricole, do-
+miné par des terres cultivées et des prairies enherbées qui structurent les dynamiques écolo-
+giques  locales  (Figure  17).  Ce  cadre  anthropisé  influe  sur  la  flore,  principalement  composée 
+d’espèces tolérantes aux perturbations du sol, et sur la faune, qui exploite ces milieux ouverts. 
+Bien que ce paysage agricole présente une richesse écologique intrinsèque, le projet reste con-
+finé à cette zone exploitée et ne s’étend pas vers des habitats naturels plus sensibles. 
+
+Dans un rayon d’un kilomètre autour du site d’étude, on trouve une Zone d’Intérêt Communau-
+taire  pour  les  Oiseaux  (ZICO),  reconnue  pour  son  rôle essentiel  dans la  conservation  des es-
+pèces  oiseaux  d’intérêt  européen  (Figure  18).  Ce  périmètre  proche  implique  une  vigilance 
+particulière pour éviter toute perturbation indirecte. Toutefois, la distance et l’absence d’empiè-
+tement direct sur cet espace limitent considérablement les impacts potentiels. 
+
+En élargissant l’analyse à un rayon de 5 kilomètres, des zones protégées majeures apparaissent, 
+notamment un Site d’Intérêt Communautaire (SIC) et une Zone de Protection Spéciale (ZPS) 
+désignés  sous les  directives européennes. Ces  zones, essentielles  pour  la  préservation  de la 
+biodiversité  et  des  habitats  prioritaires,  constituent  des  réservoirs  écologiques  d’importance. 
+Néanmoins, le projet reste en dehors de ces périmètres réglementés, ce qui atténue les risques 
+directs associés à ces espaces sensibles. 
+
+À une échelle encore plus large, dans un rayon de 20 kilomètres, on recense des aires protégées 
+supplémentaires, notamment des Zones Naturelles d’Intérêt Écologique, Faunistique et Floris-
+tique (ZNIEFF) de type 1 et 2, ainsi qu’une aire de protection de biotope (Figure 18). Ces espaces 
+contribuent au maillage écologique régional, jouant un rôle clé dans la conservation des espèces 
+et des milieux naturels. Cependant, leur éloignement relatif réduit l’influence directe du projet 
+sur leur dynamique écologique. 
+
+Site inventorié 
+
+Ainsi, bien que le site soit localisé dans un contexte environnemental riche, le projet reste confiné à 
+un espace anthropisé, en dehors des zones protégées. Cette position hors des périmètres sensibles 
+minimise les risques de perturbation pour la faune et la flore locales, tout en garantissant le maintien 
+des  continuités  écologiques  environnantes.  La  configuration  actuelle  permet  donc  d’envisager  le 
+projet dans des conditions favorables, sans compromettre les équilibres écologiques des espaces 
+naturels avoisinants. 
+
+40 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 17 : Occupation du sol à proximité du site – Corine Land Cover 2018 
+
+41 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Tableau 9 : Liste des espaces d’intérêts écologiques 
+
+Type de zone 
+
+Natura 2000 :  
+Zone de Protection Spéciale 
+
+Marigny, Superbe, vallée de l'Aube 
+
+Nom 
+
+Surface (ha) 
+4524 
+
+Natura 2000 : 
+Sites d’Intérêt Communautaire 
+
+Aire de Protection Biotope 
+
+ZNIEFF 1 
+
+ZNIEFF 2 
+
+ZICO 
+PNR  le  plus  proche  (hors  du 
+rayon de 20 km) 
+
+Savart de la Tommelle à Marigny 
+Marais de la Superbe 
+Prairies, Marais et bois alluviaux de la Bassée 
+Prairies et bois alluviaux de la basse vallée alluviale de l'Aube 
+Garenne de la Perthe 
+Ancien aérodrome de Marigny 
+Forêt de la Perthe à Plancy-L’Abbaye 
+Pelouses et pinèdes de l’aérodrome de Marigny et de la ferme de Varsovie 
+Prairies et bois des grandes Neles à Torcy-le-Grand et le Chêne 
+Prés et bois alluviaux de Rheges et Bessy 
+Marais de la Superbe et du Salon entre Boulages et Faux-Fresnay 
+Bois alluviaux, prairies et marais du grand haut à Romilly-sur-Seine et Mai-
+zières-la-Grande-Paroisse 
+Marais de La Chapelle-Lasson et de Marsangis 
+Marais des pelles à Bessy 
+Prairies, bois et gravières de la Vallée de l'Aube à Torcy-le-Petit 
+Pinèdes de la Gaudine et de Corvau à Villeloup 
+Pinèdes de la cote des terres cocasses et du Mont Equoi à Sainte-Maure et 
+Saint-Benoist-sur-Seine 
+Pelouse du haut de la sentinelle à Feuges 
+Forêt, marais et prairies de sellières entre Romilly-sur-Seine et Conflans-sur-
+seine 
+Pinèdes autour de la ferme de Vaudepart à Echemines 
+Bois et marais du ru de Choisel au nord d’Anglure 
+Marais  et  mares  de  la  rive  gauche  de  la  Vallée  de  la  Seine  à  Châtres  et 
+Mesgrigny 
+Prairies et bois à Clesles et Saint-Just-Sauvage 
+Marais boisé de la ferme Sébastopol à Sauvage 
+Hêtraie du chemin des Allemands à Pleurs 
+Hêtraie relictuelle de Droupt-Saint-Basle 
+Marais latéraux de la rive droite  de la Vallée de la Seine à  Droupt-Sainte-
+Marie et Saint-Oulph 
+Marais et bois de la Vallée du Pars au sud-ouest de Romilly-sur-Seine 
+Le  grand  marais  et  les  marais  de  Villiers  entre  Potangis  et  Conflans-sur-
+seine 
+Bois alluviaux, marais, bras morts et fleuve la seine à Périgny-la-Rose 
+Bois et marais du confluent de la seine et de l'aube à Marcilly-sur-Seine 
+Bois, prairies et plan d'eau de la noue d'aval au sud-ouest de Granges-sur-
+Aube 
+Bois et marais entre Bagneux et Becheret 
+Parc du château, bois de la Cure et marais de Plancy-l'Abbaye 
+Milieux naturels et secondaires de la Vallée de la Seine (Bassée Auboise) 
+Basse Vallée de l'Aube de Magnicourt à Saron-sur-Aube 
+Vallée de la Seine de La Chapelle-Saint-Luc à Romilly-sur-Seine 
+Vallée de l'Aube, de la Superbe et Marigny 
+Forêt d’Orient 
+
+285 
+275 
+840 
+741 
+636 
+218 
+672 
+336 
+280 
+371 
+522 
+98 
+
+57 
+8.5 
+205 
+276 
+125 
+
+1.8 
+495 
+
+87 
+60 
+64 
+
+200 
+10 
+12 
+11 
+120 
+
+144 
+106 
+
+133 
+94 
+12 
+
+55 
+141 
+8937 
+9284 
+7241 
+21683 
+82020 
+
+42 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 18 : Localisation des zones d’intérêts à proximité du site 
+
+43 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.3.2  ZONES HUMIDES 
+
+La loi du 26 juillet 2019, instituant l’Office Français de la Biodiversité (OFB), a apporté des ajus-
+tements à la définition et à la caractérisation des zones humides. L’une des évolutions majeures 
+réside dans la restauration du caractère alternatif des critères pédologiques et floristiques, ren-
+forçant  ainsi leur identification.  Désormais, les  zones  humides sont  définies  comme  des ter-
+rains, qu’ils soient exploités ou non, régulièrement inondés ou saturés en eau douce, salée ou 
+saumâtre, de façon temporaire ou permanente. Ces zones se caractérisent également par une 
+végétation dominée par des plantes hygrophiles, au moins durant une partie de l’année. 
+
+Encadrés par les Schémas Directeurs d’Aménagement et de Gestion des Eaux (SDAGE), la ma-
+jorité des départements du bassin Rhin-Meuse disposent aujourd’hui d’inventaires départemen-
+taux  des  zones  humides  validés  par  les  préfets.  Ces  inventaires,  réalisés  à  une  échelle  de 
+précision de 1/25 000ème, jouent un rôle clé en répertoriant et en cartographiant ces espaces 
+écologiquement précieux. 
+
+Dans le cadre de l’élaboration des SDAGE, ces inventaires sont systématiquement mis à dispo-
+sition lors de projets d’aménagement ou de révisions de documents de planification urbaine, 
+tels que les Plans Locaux d’Urbanisme (PLU) ou les Schémas de Cohérence Territoriale (SCOT). 
+Cette démarche vise à limiter les impacts de l’urbanisation et à garantir la préservation de ces 
+milieux sensibles. 
+
+Cependant, malgré leur utilité, ces inventaires ne prétendent pas être exhaustifs. La responsabi-
+lité revient aux porteurs de projets de vérifier l’absence d’enjeux environnementaux spécifiques 
+liés aux zones humides dans le cadre de leurs initiatives, afin de préserver l’intégrité de ces éco-
+systèmes essentiels. 
+
+Ainsi, sur le site d’étude plusieurs sources bibliographiques ont pu être utilisées :  
+
+►  La cartographie nationale des zones humides potentielles de 2023 : cette cartographie 
+propose une modélisation des enveloppes qui, selon le critère géomorphologiques et 
+climatiques, sont susceptibles de contenir des zones humides au sens de l’arrêté du 24 
+juin 2008 modifié ;  
+
+►  La cartographie de la région Grand-Est issues de données locales :  
+
+o  Les zones humides probables : ces cartographies permettent de définir des 
+
+secteurs à forte probabilité de présence de zones humides et pour laquelle le 
+caractère humide au titre de la loi sur l’eau ne peut pas être certifié à 100%. Ces 
+cartes ont été construites par différentes méthodes de modélisation ;  
+
+o  Les zones humides effectives résultant d’inventaires liés à des prospections de 
+terrain : réalisés localement, ils permettent d’avoir connaissance de certaines 
+zones humides, mais ne sont pas exhaustifs. Chacun ayant été réalisé dans un 
+contexte qui lui est propre, la méthodologie et l’échelle employées doivent être 
+pris en compte ;  
+
+o  Les zonages particuliers : ces zonages regroupent  
+
+44 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+▪ 
+
+▪ 
+
+▪ 
+
+▪ 
+
+les zones Ramsar (convention des zones humides d’importance inter-
+nationale),  
+
+les boisements alluviaux (carte non exhaustive issue de différentes 
+études d’identification des boisements alluviaux de la vallée de la Seine, 
+de l’Aube et de la Marne),  
+
+les zones humides remarquables du SDAGE Seine Normandie (qui abri-
+tent une biodiversité exceptionnelle et présentent un état écologique 
+préservé à minima, elles font l’objet de dispositions particulières),  
+
+les zones humides prioritaires identifiées dans certains SAGE approu-
+vés (elles ont une portée réglementaire particulière du fait que le PAGD 
+d’un SAGE est opposable à l’administration et que son règlement et ses 
+cartes sont opposables à toute personne publique ou privée). 
+
+L’aire d’étude bibliographique présent différents linéaires de zones humides suivant principale-
+ment les cours d’eau s’écoulant au sein de l’aire d’étude bibliographique. 
+
+Selon les différentes sources analysées (Géorisques, SDAGE, RPDZH, et les dernières modélisa-
+tions de pré-localisation de zones humides), une zone humide effective se situe à proximité du 
+site (Figure 19) et le site se situe donc en zone humide probable. Des sondages pédologiques fait 
+sur la parcelle afin de lever le doute sur le caractère humide de la zone sont présentés dans les 
+parties suivantes. 
+
+Figure 19 : Localisation de zones humides à proximité du site 
+
+45 
+
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.3.2.2 Caractérisation de zones humides 
+
+Contexte règlementaire 
+
+La notion de « zone humide » est présentée au 1° du I de l’article L211-1 du Code de l’Environne-
+ment : « La prévention des inondations et la préservation des écosystèmes aquatiques, des sites 
+et des zones humides ; on entend par zone humide les terrains, exploités ou non, habituellement 
+inondés ou gorgés d'eau douce, salée ou saumâtre de façon permanente ou temporaire, ou dont 
+la végétation, quand elle existe, y est dominée par des plantes hygrophiles pendant au moins 
+une partie de l'année. » 
+
+La caractérisation de zones humides est régie par l’arrêté du 24 juin 2008 complété par l’arrêté 
+du 1er octobre 2009. Cette caractérisation se base sur des critères d’hygrophylie de la végéta-
+tion et/ou d’hydromorphie des sols (critères alternatifs). 
+
+L’article 23 de la LOI n° 2019-773 du 24 juillet 2019 portant création de l'Office français de la 
+biodiversité vient réaffirmer que le critère pédologique et le critère floristique sont alternatifs et 
+permettent tout deux l’identification de zone humide. 
+
+Méthodologie de l’étude 
+
+La méthodologie suivante a été mise en place : 
+
+►  Etude des données existantes ; 
+►  Pré localisation des sondages de reconnaissance à la vue du projet, des données de photo-
+
+grammétrie, des données topographiques ; 
+
+►  Investigations de terrain : réalisation de sondages à la tarière manuelle ; 
+►  Rédaction d’une note de synthèse sur la base des investigations menées ; 
+►  Conclusion sur la présence ou non d’une zone humide dans l’emprise des parcelles concernées 
+
+par l’étude et la surface concernée le cas échéant. 
+
+La délimitation de zone humide au regard du critère pédologique sera faite en application des 
+textes suivants : 
+
+►  L’arrêté du 24 juin 2008 modifié par l’arrêté du 1er octobre 2009 qui précise les critères de défi-
+nition et de délimitation des zones humides (articles L.214-7-1 et R.211-108 du Code de l'envi-
+ronnement) ; 
+
+►  La circulaire du 18 janvier 2010 abrogeant la circulaire du 25 juin 2008 relative à la délimitation 
+
+des zones humides (articles L.214-7-1 et R.211-108 du Code de l'environnement) ; 
+
+On considère une zone comme humide si l'on note dans la carotte de sol : 
+
+►  La présence significative de traits rédoxiques débutant à moins de 25 cm de profondeur et se 
+
+prolongeant en profondeur ; 
+
+►  La présence significative de traits rédoxiques débutant à moins de 50 cm de profondeur et se 
+
+prolongeant avec des traits réductiques apparaissant avant 120 cm de profondeur ; 
+►  La présence significative de traits réductiques débutant à moins de 50 cm de profondeur ; 
+►  La présence d'une accumulation de matière organique sur plus de 50 cm de profondeur
+
+46 
+
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 20 : Classes d'hydromorphie GEPPA (adaptées et complétées par SOLENVIE) 
+
+47 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Le tableau ci-dessous répertorie les 3 types de sols correspondant à des zones humides et le 
+protocole de terrain à observer en conséquence tels qu’ils sont définis dans l’annexe I de l’arrêté. 
+
+Type de sol correspondant à un sol de zone humide 
+
+Protocole de terrain à observer 
+
+« A tous les histosols, car ils connaissent un engorgement 
+permanent en eau qui provoque l'accumulation de matières 
+organiques peu ou pas décomposées »  
+
+« A tous les réductisols, car ils connaissent un engorgement 
+permanent en eau à faible profondeur se marquant par des 
+traits réductiques débutant à moins de 50 centimètres de pro-
+fondeur dans le sol »  
+
+« Aux autres sols caractérisés par :  
+
+- des traits rédoxiques débutant à moins de 25 centimètres 
+de profondeur dans le sol et se prolongeant ou s'intensifiant 
+en profondeur  
+
+- ou des traits rédoxiques débutant à moins de 50 centi-
+mètres de profondeur dans le sol, se prolongeant ou s'intensi-
+fiant en profondeur, et des traits réductiques apparaissant 
+entre 80 et 120 centimètres de profondeur »  
+
+« L'examen du sondage pédologique vise à vérifier la pré-
+sence d'horizons histiques (ou tourbeux) débutant à moins 
+de 50 centimètres de la surface du sol et d'une épaisseur 
+d'au moins 50 centimètres »  
+
+« L'examen du sondage pédologique vise à vérifier la pré-
+sence de traits réductiques débutant à moins de 50 centi-
+mètres de la surface du sol »  
+
+« L’examen du sondage pédologique vise à vérifier la pré-
+sence :  
+
+- de traits rédoxiques débutant à moins de 25 centimètres 
+de la surface du sol et se prolongeant ou s'intensifiant en 
+profondeur  
+
+- ou de traits rédoxiques débutant à moins de 50 centi-
+mètres de la surface du sol, se prolongeant ou s'intensifiant 
+en profondeur, et de traits réductiques apparaissant entre 
+80 et 120 centimètres de profondeur »  
+
+L’arrêté précise également que « chaque sondage pédologique (…) doit être d’une profondeur de 
+l’ordre de 1,20 m si c’est possible ». Néanmoins, c’est bien l’examen approfondi des 50 premiers 
+centimètres du sol qui est déterminant pour confirmer ou infirmer qu’un sol est caractéristique 
+d’une zone humide. 
+
+48 
+
+ 
+ 
+Contexte géologique  
+
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 21 : Contexte géologique sur le site d’étude 
+
+49 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Le site étudié se situe dans une ancienne vallée fluviale caractérisée par une succession de dé-
+pôts quaternaires et crétacés, témoins de l'évolution géologique et hydrologique locale. 
+
+►  Formation FZ (alluvions fluviales actuelles et récentes) : 
+
+Cette formation constitue la base de la plaine alluviale active, correspondant aux dépôts mo-
+dernes des cours d’eau. Elle est composée de sables, graviers, limons et argiles issus des crues 
+récentes. Les sols sont meubles et sujets aux variations hydrologiques saisonnières, indiquant 
+un environnement dynamique. 
+
+►  Formation FY (alluvions fluviales anciennes) : 
+
+Les terrasses fluviales surplombant légèrement la plaine actuelle témoignent d’anciens épi-
+sodes d’érosion et de dépôt, probablement liés aux fluctuations climatiques du Pléistocène. Ces 
+terrasses sont formées de graviers et de sables consolidés, parfois recouverts de limons. Elles 
+marquent les traces d'anciens cours d’eau fossilisés. 
+
+►  Formation C3 (craie à Micraster decipiens) : 
+
+Sous-jacente aux dépôts quaternaires, la craie affleure par endroits sur les versants et constitue 
+le substratum géologique du site. Elle est caractérisée par une roche calcaire homogène, riche 
+en fossiles tels que Micraster decipiens, indiquant des dépôts marins du Crétacé supérieur. Ces 
+couches jouent un rôle important dans la géologie locale en influençant la circulation des eaux 
+souterraines. 
+
+2.3.2.3 Résultat de l’étude 
+
+Des sondages pédologiques ont été réalisés le 18 novembre 2024 à l’aide d’une tarière manuelle. 
+Ils se sont déroulés par temps nuageux.  
+
+Identification de zones humides 
+
+Les trois sondages réalisés ont tous été arrêtés avant d'atteindre la profondeur prévue (1m20), 
+en raison de la présence de craie qui empêchait de creuser davantage. Toutefois, l'absence de 
+traces d'hydromorphie dans les 50 premiers centimètres de chacun des sondages permet de 
+conclure qu'aucun d'entre eux n'indique la présence d'une zone humide, conformément à la clas-
+sification GEPPA. 
+
+Aucun sondage n’est caractéristique de zone humide. 
+
+Les fiches de chaque sondage sont disponibles dans la suite du rapport.  
+
+50 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 22 : Localisation des sondages effectués sur le site d’étude 
+
+51 
+
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.3.3  ANALYSES DES DONNEES BIBLIOGRAPHIQUES 
+
+Cette analyse bibliographique s’appuie sur les données communales disponibles sur la plate-
+forme de l’Inventaire National du Patrimoine Naturel (INPN), permettant d’identifier les espèces 
+recensées localement et les enjeux associés. La liste complète des espèces observées, ainsi 
+que  leurs  statuts  de  protection  et leurs  caractéristiques,  est  présentée  en  annexe  à  la  fin  du 
+rapport pour une consultation détaillée. L’export de données a été effectué en novembre 2024. 
+Seules les données récentes (postérieure à 2000) sont utilisées. L’ensemble de ces données est 
+présenté en annexe. Les données issues de Faune Grand-Est ne propose que la consultation de 
+l’avifaune, ainsi aucune autre donnée concernant les autres taxons n’a pu être examinées. De 
+plus, la consultation des données issues d’Odonat Grand-Est nécessitent une demande spéci-
+fique auprès de l’organisme contre compensation financière. Ainsi, les données d’Odonat n’ont 
+pu être analysées. 
+
+2.3.3.1 Flore 
+
+Les observations révèlent une grande diversité végétale, indiquant une mosaïque d'habitats va-
+riés sur le site. Les prairies humides sont bien représentées, notamment grâce à des espèces 
+comme Carex rostrata, Cirsium oleraceum, Lythrum salicaria et Iris pseudacorus, qui soulignent 
+l'importance des zones humides. Ces milieux, souvent refuges pour une biodiversité exception-
+nelle, sont essentiels pour la régulation hydrologique et la conservation d'espèces dépendantes 
+des eaux stagnantes ou peu profondes, comme les libellules ou certains amphibiens. 
+
+Les formations forestières et arbustives sont marquées par la présence de Fraxinus excelsior, 
+Cornus sanguinea, Crataegus monogyna et Euonymus europaeus. Ces habitats, composés d'es-
+sences typiques des forêts de plaine et des haies champêtres, jouent un rôle primordial dans la 
+continuité écologique, offrant des corridors pour la faune et des niches pour l'avifaune nicheuse. 
+
+Les  habitats  plus  secs  et  calcaires,  illustrés  par  Brachypodium  pinnatum,  Thymus  praecox  et 
+Hippocrepis comosa, témoignent de conditions plus xériques. Ces milieux ouverts sont cruciaux 
+pour  des  espèces  spécifiques,  souvent  rares,  comme  les  orchidées,  ou  les  insectes  thermo-
+philes. Leur gestion nécessite un entretien régulier pour éviter l'embroussaillement. 
+
+Enfin, la présence de plantes aquatiques telles que Potamogeton crispus et Sparganium erectum 
+confirme des points d'eau ou fossés drainants sur le site. Ces milieux, bien que parfois margi-
+naux, sont stratégiques pour le maintien d'écosystèmes aquatiques fragiles et pour le cycle de 
+vie des amphibiens. 
+
+De plus, parmi les espèces recensées sur la commune de Faux-Fresnay, quelques-unes sont 
+protégées comme l’Anacamptis palustris (orchis des marais) figure parmi les espèces végétales 
+protégées au niveau national. Cette orchidée, rare et emblématique des prairies humides, té-
+moigne de la qualité écologique des milieux présents. Sa présence impose une vigilance parti-
+culière pour préserver les habitats humides qui lui sont favorables et éviter toute altération de 
+ses sites de croissance. 
+
+52 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Les enjeux pour Faux-Fresnay sont donc multiples : préserver les zones humides et les prairies 
+hydrophiles, maintenir les corridors écologiques entre les haies et les boisements, et gérer les 
+milieux ouverts xériques. Une attention particulière devrait également être portée aux espèces 
+exotiques envahissantes comme Reynoutria japonica, identifiée sur le site, qui pourrait perturber 
+les écosystèmes locaux si non contrôlée. Une gestion différenciée des habitats s'impose pour 
+concilier biodiversité et activités humaines. 
+
+2.3.3.2 Faune 
+
+A Faux-Fresnay, il y a une diversité remarquable, reflétant la richesse des habitats présents sur 
+le site. Les espèces d'insectes recensées, telles que Aglais io, Gonepteryx rhamni, et Macroglos-
+sum stellatarum, indiquent une variété de milieux favorables, notamment des prairies fleuries et 
+des lisières forestières. Ces zones fournissent des ressources alimentaires indispensables pour 
+les papillons et autres pollinisateurs, essentiels au maintien des écosystèmes locaux. 
+
+Les mammifères, tels que Capreolus capreolus, Lepus europaeus et Sus scrofa, témoignent de 
+la présence de milieux ouverts, de haies bocagères et de boisements. Ces habitats servent de 
+refuges et de zones de nourrissage pour ces espèces. Leur préservation est cruciale, notam-
+ment dans le contexte des interactions avec les activités agricoles environnantes. 
+
+Chez les oiseaux, l'observation de Alauda arvensis, Anthus pratensis et Emberiza calandra sou-
+ligne l'importance des milieux ouverts, tels que les plaines agricoles et les prairies. Ces espèces, 
+souvent en déclin en raison de l'intensification agricole, nécessitent une gestion respectueuse 
+de leurs habitats. La présence d'espèces forestières ou semi-ouvertes comme Erithacus rube-
+cula, Oriolus oriolus et Sylvia atricapilla démontre également l'importance des haies et des petits 
+boisements pour le maintien de la biodiversité. 
+
+Certaines  espèces  aquatiques  ou  liées  aux  zones  humides,  comme  Anas  platyrhynchos,  Ta-
+dorna tadorna et Ardea cinerea, confirment l'existence d'étendues d'eau ou de prairies humides 
+sur le site. Ces habitats sont vitaux pour la nidification et l'alimentation de ces oiseaux, mais 
+également pour d'autres espèces dépendant des milieux aquatiques. 
+
+Enfin, des espèces d'intérêt particulier, comme Burhinus oedicnemus et Streptopelia turtur, met-
+tent en lumière la nécessité de préserver les habitats spécifiques qu'elles occupent. Ces oiseaux, 
+inscrits  sur  la  liste  des  espèces  menacées,  requièrent  des  actions  ciblées  pour  garantir  leur 
+maintien. 
+
+Les enjeux pour la faune à Faux-Fresnay sont donc multiples : préserver les prairies, les haies et 
+les lisières forestières ; maintenir les zones humides et les habitats aquatiques ; et promouvoir 
+des pratiques agricoles compatibles avec la biodiversité. La gestion des habitats devra aussi 
+inclure une attention particulière aux espèces en déclin, telles que les passereaux des plaines 
+agricoles, tout en limitant les pressions exercées par les activités humaines. 
+
+53 
+
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.3.4  LES HABITATS 
+
+La qualité des habitats (qui est la capacité de l’environnement à fournir des conditions appro-
+priées à la persistance des individus et des populations) est faible. Le site est caractéristique 
+des milieux agricoles (Figure 24, Tableau 10) abritant une mosaïque d’habitats anthropiques : 
+cultures monospécifiques, bordures, bosquets... 
+
+Figure 23 : Photos des habitats observés sur le terrain 
+
+Tableau 10 : Surfaces totales pour chaque habitat identifié sur le site 
+
+Habitats 
+
+I1.51 Terres labourées nues  
+(CORINE Biotopes : 82.11) 
+H5.61 Sentiers  
+(CORINE Biotopes : 87.2) 
+I1.53 Jachères non inondées avec 
+communautés rudérales annuelles ou 
+vivaces  
+(CORINE Biotopes : 87.1) 
+
+Surface 
+(m²) 
+
+Désignation EUNIS 
+des habitats 
+
+Enjeu  
+patrimonial 
+
+Niveau de dé-
+gradation 
+
+Enjeu 
+in-situ 
+
+147556 
+
+Habitat anthropisé 
+
+Faible 
+
+Modéré 
+
+Faible 
+
+5506 
+
+Habitat anthropisé 
+
+Faible 
+
+Modéré 
+
+Faible 
+
+1607 
+
+Habitat anthropisé 
+
+Faible 
+
+Modéré 
+
+Modéré 
+
+54 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 24 : Détermination et localisation de chaque habitat définit selon le code EUNIS 
+
+55 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Le site étudié, principalement composé d'espaces de culture intensifs, offre actuellement peu 
+d'opportunités pour la biodiversité, notamment en raison de l'absence de bordures naturelles 
+favorables à la faune et la flore. La faible diversité des structures végétales en périphérie des 
+champs, ainsi que l'absence de corridors écologiques, limite considérablement le potentiel de 
+refuge, d'alimentation et de déplacement des espèces. 
+
+Pour améliorer la situation tout en maintenant une production agricole efficiente, plusieurs so-
+lutions peuvent être envisagées. Tout d'abord, l'aménagement de bandes enherbées ou de haies 
+aux abords des parcelles agricoles permettrait de créer des habitats supplémentaires pour la 
+faune tout en protégeant les cultures des phénomènes d'érosion et en favorisant la pollinisation. 
+
+Aucun habitat caractéristique de zone humide n’a été observé. 
+
+2.3.5  FLORE 
+
+L’inventaire  floristique  a  permis  d’identifier  33  espèces  (Tableau  11). La  plupart  des  espèces 
+sont  communes  et  considérés  comme  rudérales.  Ce  sont  des  espèces  pionnières  qui  ont  la 
+capacité de coloniser les espaces libres. Elles ont été observées en bordure de champs. 
+
+Selon le critère flore, le site ne présente pas d’espèce caractéristique de zone humide.  
+
+Cela signifie que la composition spécifique ne correspond pas aux caractéristiques d’un milieu 
+humide selon les référentiels botaniques. 
+
+2.3.5.1 Flore patrimoniale du site 
+
+Le site d’étude n’inclut qu’une faible diversité d’habitats dont la majorité sont des habitats créés 
+par l’Homme. De ce fait, le cortège floristique est composé d’espèces végétales communes dont 
+le caractère patrimonial reste très faible.  
+
+Aucune  espèce  végétale  disposant  d’un  statut  réglementaire  n’a  été  contactée  à  l’intérieur  de 
+l’aire d’étude. 
+
+Sur l’ensemble des 33 espèces constituant le cortège floristique du site d’étude,  32 disposent 
+d’un enjeu patrimonial qualifié de faible (espèces communes). Une espèce, Veronica agrestis, 
+est relativement rare à l’échelle régionale, elle représente donc un enjeu modéré. 
+
+2.3.5.2 Flore invasive 
+
+Le caractère invasif diffère selon les espèces considérées. 
+
+Afin de caractériser les enjeux relatifs aux espèces introduites, un degré d’agressivité pour les 
+milieux naturels a été affecté sur la base des données rendues disponibles par les conserva-
+toires botaniques nationaux. Ainsi, 5 catégories sont considérées : 
+
+56 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+-  Espèce  végétale  exotique  envahissante  avérée  (EVEEA)  :  Espèce  exotique  montrant, 
+dans son territoire d’introduction, une dynamique d’extension rapide du fait d’une repro-
+duction  sexuée  ou  d’une  multiplication  végétative  intense,  et  formant  localement,  no-
+tamment  dans  les  milieux  naturels  ou  semi-naturels,  des  populations  denses  et  bien 
+installées ; ces populations ayant un impact négatif sur la biodiversité et/ou sur la santé 
+humaine et/ou sur les activités économiques. 
+
+-  Espèce végétale exotique envahissante potentielle (EVEEP) : Plante exotique présentant 
+actuellement une tendance au développement d’un caractère envahissant à l’intérieur 
+de communautés naturelles ou semi-naturelles, c’est-à-dire formant dans quelques sites 
+des populations denses (mais non encore stabilisées). La dynamique de l’espèce à l'inté-
+rieur  du  territoire  considéré,  et/ou  dans  des  régions  limitrophes  ou  climatiquement 
+proches, est telle qu'il existe un risque de la voir devenir à plus ou moins long terme une 
+invasive avérée. 
+
+-  Espèce végétale exotique à surveiller (EVEES) : Espèce exotique ne présentant actuelle-
+ment pas de caractère envahissant dans le territoire considéré, mais dont la possibilité 
+qu’elle le devienne n’est pas totalement écartée, compte tenu notamment de son carac-
+tère envahissant dans d’autres régions. 
+
+-  Espèces cultivées non invasives (EVENI) et espèces (introduites ; néophytes le plus sou-
+vent) ne figurant pas dans les listes d’EVEEs éditées par les organismes chargés de leur 
+évaluation : Espèce exotique ne présentant actuellement pas de caractère envahissant 
+dans le territoire considéré et utilisée par l’homme. Ces espèces tendent à disparaître du 
+fait de la concurrence écologique lorsqu’aucune action n’est menée. 
+
+Les activités humaines sont un vecteur de propagation pour de nombreuses espèces végétales 
+pouvant aboutir à la naturalisation d’espèces en dehors de leur aire de répartition primaire. 
+
+La propagation de certaines d’entre elles peut se révéler problématique par les impacts environ-
+nementaux, sanitaires ou économiques qu’elles génèrent. En raison de ces impacts, les espèces 
+exotiques envahissantes doivent désormais être prises en compte par les projets d’aménage-
+ment du territoire afin d’en limiter la propagation. 
+
+En effet, les activités d’aménagement ont une responsabilité accrue vis-à-vis de la gestion de 
+EVEE étant donné que nombre d’entre elles sont favorisées par l’artificialisation des territoires 
+(transport de remblais, mise à nu des sols, transport de semences par les engins). 
+
+En 2018, la réglementation française a défini une première liste de 49 espèces exotiques enva-
+hissantes. En juillet 2019, la Commission Européenne a voté l'ajout de 17 nouvelles espèces 
+envahissantes,  portant  le  nombre  d'espèces  exotiques  envahissantes  à  66,  dont  30  espèces 
+animales et 36 espèces végétales. 
+
+Aucune espèce exotique envahissante n’a été identifiée sur le site. 
+
+57 
+
+ 
+ 
+Tableau 11 : Liste des espèces floristiques associées à leurs statuts de protection 
+
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Nom taxon 
+
+Arctium lappa 
+
+Avena fatua 
+
+Bellis perennis 
+
+Cirsium vulgare 
+
+Cornus mas 
+
+Corylus colurna 
+
+Cotinus coggygria 
+
+Crepis capillaris 
+
+Dactylis glomerata 
+
+Epilobium tetragonum 
+
+Euonymus europaeus 
+
+Festuca sp. 
+
+Galium verum 
+
+Geranium molle 
+
+Hordeum murinum 
+
+Hypericum hirsutum 
+
+Hypericum sp. 
+
+Lamium album 
+
+Malva moschata 
+
+Malva neglecta 
+
+Matricaria discoidea 
+
+Mercurialis annua 
+
+Plantago lanceolata 
+
+Potentilla reptans 
+
+Poterium sanguisorba 
+
+Sambucus nigra 
+
+Scorzoneroides autumnalis 
+
+Sonchus asper 
+
+Taraxacum erythrospermum 
+
+Trifolium repens 
+
+Tripleurospermum inodorum 
+
+Veronica agrestis 
+
+Viburnum lantana 
+
+e
+l
+a
+n
+o
+i
+t
+a
+N
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+.
+e
+v
+i
+t
+c
+e
+r
+i
+D
+a
+l
+e
+d
+s
+e
+c
+è
+p
+s
+E
+
+.
+t
+a
+t
+i
+b
+a
+H
+
+e
+l
+a
+n
+o
+i
+g
+é
+R
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+s
+e
+t
+n
+a
+n
+i
+m
+r
+e
+t
+é
+d
+s
+e
+c
+è
+p
+s
+E
+
+F
+F
+E
+I
+N
+Z
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+e
+l
+a
+n
+o
+i
+g
+é
+R
+é
+t
+e
+r
+a
+R
+
+CC 
+
+CC 
+
+CCC 
+
+CCC 
+
+C 
+
+. 
+
+. 
+
+CCC 
+
+CCC 
+
+CCC 
+
+CCC 
+
+. 
+
+CC 
+
+CCC 
+
+CCC 
+
+C 
+
+. 
+
+CCC 
+
+C 
+
+CC 
+
+CCC 
+
+CCC 
+
+CCC 
+
+CCC 
+
+CC 
+
+CCC 
+
+C 
+
+CCC 
+
+AC 
+
+CCC 
+
+CCC 
+
+R 
+
+CC 
+
+l
+a
+n
+o
+i
+g
+é
+R
+N
+C
+U
+
+I
+
+LC 
+
+. 
+
+LC 
+
+LC 
+
+LC 
+
+. 
+
+. 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+. 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+. 
+
+LC 
+
+LC 
+
+LC 
+
+. 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+. 
+
+LC 
+
+n
+o
+i
+g
+é
+R
+E
+E
+E
+*
+*
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+l
+a
+n
+o
+i
+t
+a
+N
+N
+C
+U
+
+I
+
+LC 
+
+. 
+
+LC 
+
+LC 
+
+LC 
+
+. 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+. 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+. 
+
+LC 
+
+LC 
+
+LC 
+
+NA 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+Enjeu 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Très faible 
+
+Faible 
+
+Très faible 
+
+Très faible 
+
+Modéré 
+
+Très faible 
+
+* AI : Avérée implantée, PI : Potentielles implantée, **EEE : Espèce Exotique Envahissante 
+R = Rare, C = Commune, A = Assez, NE ou NA ? : Non évaluée, DD : données insuffisantes, LC : préoccupation mineur, NT : quasi menacée, 
+VU : Vulnérable, EN : en danger, CR : en danger critique. 
+
+58 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.3.6  FAUNE 
+
+Lors de l’inventaire, 9 individus ont été comptés appartenant à 4 taxons différents. 
+
+Il  convient  de  souligner que  cette étude  ne  constitue  pas un  inventaire  exhaustif  de la  faune 
+présente sur le site, notamment en dehors de la période étudiée. Les résultats obtenus offrent 
+une  vision  partielle  de  la  diversité  faunistique  de  la  parcelle  et  pourraient  être  enrichis  par 
+d’autres études techniques. 
+
+2.3.6.1 Entomofaune 
+
+Aucune espèce d’insecte n’a été observée sur le site lors de l’inventaire étant en fin de période 
+favorable. 
+
+2.3.6.2 Avifaune 
+
+Lors de l’inventaire, 9 individus ont été observés appartenant à 4 espèces différentes (Tableau 
+12). Tous les individus ont été observés en vol au-dessus du site ou à proximité immédiate (par 
+exemple dans la haie). 
+
+Ce sont des espèces relativement communes dont l’enjeu sur le site est faible. 
+
+Tableau 12 : Listes des espèces d’oiseaux observées sur le site et ses abords associées à leurs statuts 
+de protection 
+
+Taxon 
+Espèce (abondance) 
+
+Corvus corone (Corneille noire) (1) 
+
+Columba palumbus (Pigeon ramier) (2) 
+
+Perdrix perdrix (Perdrix grise) (5) 
+
+Turdus merula (Merle) 1 
+
+t
+a
+t
+i
+b
+a
+H
+e
+v
+i
+t
+c
+e
+r
+i
+D
+a
+l
+e
+d
+e
+c
+è
+p
+s
+E
+
+- 
+
+- 
+
+- 
+
+- 
+
+e
+n
+n
+e
+é
+p
+o
+r
+u
+E
+R
+L
+N
+C
+U
+LC 
+
+I
+
+LC 
+
+LC 
+
+LC 
+
+F
+F
+E
+I
+N
+Z
+e
+t
+n
+a
+n
+i
+m
+r
+e
+t
+é
+d
+e
+c
+è
+p
+s
+E
+
+- 
+
+- 
+
+- 
+
+- 
+
+e
+l
+a
+n
+o
+i
+t
+a
+n
+N
+C
+U
+LC 
+
+I
+
+LC 
+
+LC 
+
+LC 
+
+e
+l
+a
+n
+o
+i
+g
+é
+r
+N
+C
+U
+LC 
+
+I
+
+LC 
+
+- 
+
+- 
+
+e
+n
+n
+e
+é
+p
+o
+r
+u
+E
+e
+v
+i
+t
+c
+e
+r
+i
+D
+✔ 
+
+✔ 
+
+- 
+
+- 
+
+e
+l
+a
+n
+o
+i
+t
+a
+n
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+- 
+
+- 
+
+- 
+
+- 
+
+e
+l
+a
+n
+o
+i
+g
+é
+r
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+- 
+
+- 
+
+- 
+
+- 
+
+l
+a
+i
+n
+o
+m
+
+i
+r
+t
+a
+p
+u
+e
+j
+n
+E
+
+e
+t
+i
+s
+e
+l
+
+r
+u
+s
+u
+e
+j
+n
+E
+
+Modéré 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+*
+é
+t
+e
+r
+a
+R
+- 
+
+- 
+
+- 
+
+- 
+
+2.3.6.3 Reptiles, mammifères et malacofaune 
+
+Aucun reptile, aucun escargot et aucun mammifère n’a été observé sur le site et ses abords. 
+
+59 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.3.7  SYNTHESE DES ENJEUX ECOLOGIQUES 
+
+L’objectif de cette synthèse est de présenter les enjeux des sites au regard de la faune, de la 
+flore et des habitats. La Figure 25 illustre la répartition spatiale des enjeux écologiques, avec une 
+hiérarchisation allant de faible à fort, en raison de la gestion anthropique qui limite leur fonction-
+nalité (Tableau 13). 
+
+À la lumière de l'inventaire réalisé, les enjeux écologiques de la zone agricole apparaissent con-
+centrés sur les éléments périphériques tels que les bordures, les chemins et le fond de parcelle 
+proche d’une zone humide identifiée par le SDAGE. Bien que l'essentiel de l'espace soit dédié à 
+la production agricole intensive, les bordures des parcelles, actuellement peu valorisées, pour-
+raient offrir des opportunités importantes pour la biodiversité si elles étaient mieux gérées. Ac-
+tuellement, l'absence de prairies ou de bandes enherbées limite le potentiel d'accueil de la faune 
+et la flore locales, et la lisière boisée, bien qu'existante, souffre d'un manque de stratification 
+végétale et d'un aménagement peu propice à la dynamique naturelle des écosystèmes. 
+
+L'introduction de bandes enherbées le long des bordures agricoles permettrait de restaurer la 
+stratification végétale, offrant ainsi des habitats essentiels pour la faune, tels que des zones de 
+refuge et de déplacement pour les petits mammifères, les insectes et les oiseaux. Ces aména-
+gements  contribueraient  également  à  la  stabilisation  des  sols,  à  la  régulation  hydrique,  et  à 
+l'amélioration de la pollinisation, tout en préservant la production agricole.  
+
+En réduisant la gestion intensive des bordures et en favorisant l'installation de structures végé-
+tales plus complexes, ces actions permettraient d'améliorer la fonctionnalité écologique de l'en-
+semble du site, tout en maintenant une compatibilité avec les objectifs de production agricole. 
+Ce compromis favoriserait à la fois la résilience des écosystèmes locaux et la durabilité des 
+pratiques agricoles. 
+
+Tableau 13 : Tableau synthétique des enjeux 
+
+Thématique 
+
+Biodiversité 
+
+Habitats – Flore 
+
+Biodiversité 
+
+Faune 
+
+Habitats : Zone 
+humide 
+
+Résumé 
+
+Enjeu 
+
+Incidence 
+sur site 
+
+L’inventaire a permis d’identifier 33 espèces végétales. 
+
+Modéré 
+
+Faible 
+
+L’inventaire a permis d’identifier 4 espèces animales. 
+
+Modéré 
+
+Faible 
+
+Malgré la présence à proximité d’une zone humide effective, aucune zone hu-
+mide fonctionnelle n’a été observée selon le critère flore et le critère pédolo-
+gique sur le site. 
+
+Nul 
+
+Nul 
+
+60 
+
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 25 : Synthèse des enjeux présents sur le site
+
+61 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.4 MILIEU HUMAIN 
+
+2.4.1  OCCUPATION DU SOL ET PAYSAGE 
+
+2.4.1.1 OCS Grand Est 
+
+L’outil OCS GE (Occupation du Sol Grand Est) est un système développé pour la région Grand 
+Est, visant à fournir une cartographie détaillée de l’occupation et de l’usage des sols. Cet outil 
+est particulièrement utile pour les acteurs de l'aménagement, de l'environnement, et de l'urba-
+nisme. 
+
+2.4.1.2 Application à la commune de Faux-Fresnay 
+
+Occupation du sol 
+
+En 2021, la commune de Faux-Fresnay était occupée à plus de 90 % par des surfaces agricoles. 
+Les surfaces urbanisées représentaient moins de 4% du territoire (Figure 26, Figure 27). A noter 
+que le site du projet est localisé sur une surface agricole. Le territoire est donc fortement dominé 
+par la présence des espaces agricoles. 
+
+Entre 2019 et 2021, les emprises urbaines ont reculé de près de 4% au profit des emprises agri-
+coles qui ont augmenté de plus de 4%. 
+
+Cependant, en un peu moins de 10 ans, les espaces agricoles ont reculé de 11%, tout comme 
+les espaces forestiers et semi-naturels qui ont régressé de plus de 7% au profit des emprises 
+urbaines (+ 21%).
+
+62 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 26 : Occupation du sol de la commune de Faux-Fresnay en 2021. 
+
+63 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 27 : Les chiffres clés du paysage et de son évolution pour le territoire de Faux-Fresnay. 
+
+64 
+
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Evolution du paysage 
+
+Entre 2019 et 2021, des espaces agricoles, naturels et forestiers ont évolués vers des espaces 
+urbanisés.  Il s’agit en totalité d’espaces agricoles transformés en secteur d’habitat, d’activité 
+économique ou en espace de mutation.  
+
+Sur cette même période, des espaces urbains ont également évolué, vers des espaces de terres 
+arables.  
+
+Tableau 14 : Evolution du paysage entre 2019 et 2021 
+
+Occupation du sol en 2019 
+
+Surface (ha) 
+
+Occupation du sol en 2021 
+
+Surface (ha) 
+
+Territoires agricoles 
+
+Emprise urbaines 
+
+5.3 
+
+9.2 
+
+Habitats 
+
+Activités économique 
+
+Espaces en mutation 
+
+Terres arables 
+
+0.5 
+
+0.1 
+
+4.7 
+
+9.1 
+
+Imperméabilisation des sols urbanisés 
+
+L’imperméabilisation des sols correspond au recouvrement du sol par un matériau imperméable 
+(tel que l’enrobé ou le béton), qui réduit la capacité d’infiltration de l’eau. Entre 2019 et 2021, les 
+surfaces imperméabilisées bâties ont augmenté de 2.51% tandis que les surfaces imperméabi-
+lisées non bâties ont diminué de 26%. Le perméable urbain a augmenté de 11%.  
+
+Figure 28 : Evolution de l'imperméabilisation des sols urbanisés sur la commune de 
+Faux-Fresnay. 
+
+65 
+
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Consommation d’espaces en 2021 
+
+Les  espaces naturels  agricoles  et  forestiers  (ENAF)  comprennent  les emprises  agricoles, les 
+espaces forestiers et semi-naturels, les milieux naturels liés à l’eau et les surfaces en eau. Au 
+sens de la loi Climat et Résilience, « La consommation d’espaces naturels, agricoles et forestiers 
+est entendue comme la création ou l’extension effective d’espaces urbanisés sur le territoire 
+concerné ».  
+
+Entre 2019 et 2021, cette consommation d’espaces naturels agricoles et forestiers représente 
+une surface de -4.01 ha soit une diminution des espaces urbanisés de 5.25%. 
+
+Figure 29 : Evolution de la consommation d'espace en 2021 sur le territoire de 
+Faux-Fresnay. 
+
+66 
+
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Artificialisation 
+
+Les objectifs de développement durable du Code de l’Urbanisme sont fixés et évalués en consi-
+dérant comme :  
+
+-  Artificialisée une surface dont les sols sont soit imperméabilisés en raison du bâti ou 
+d’un revêtement, soit stabilisés et compactés, soit constitués de matériaux composites 
+
+-  Non artificialisée une surface naturelle, nue ou couverte d’eau, soit végétalisée, consti-
+
+tuant un habitat naturel ou utilisée à usage de culture 
+
+L’évolution des surfaces artificialisées et des surfaces non artificialisées montre une diminution 
+des surfaces artificialisées. En 2021, les surfaces artificialisées représentaient 3.08% du terri-
+toire. Entre 2019 et 2021, une baisse de 3.87 ha des surfaces artificialisées a été observée. 
+
+Figure 30 : Evolution de l'artificialisation sur le territoire de Faux-Fresnay. 
+
+67 
+
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.4.2  PATRIMOINE  
+
+2.4.2.1 Définition de l’aire d’étude 
+
+Afin d’appréhender les enjeux patrimoniaux à proximité du projet et dans un périmètre plus large, 
+différents périmètres ont été utilisés. La présente étude intègre trois degrés de lecture : une aire 
+d’étude  éloignée  (10km),  une  aire  d’étude  intermédiaire  (5km)  et  une  aire  d’étude  immédiate 
+(1km). 
+
+Les sites classés et sites inscrits 
+
+Un site classé est un site présentant un intérêt général artistique, historique, scientifique, légen-
+daire  ou  pittoresque.  Il  comprend  aussi  bien  les  espaces  naturels  et  ruraux  que  les  espaces 
+urbains ou bâtis. Avec ce classement, un site classé dispose d’une forte protection qui interdit, 
+sauf dans le cadre d’une autorisation spéciale, la réalisation de tous travaux tendant à modifier 
+l’aspect du site.  
+
+Un site inscrit est un site ne présentant pas un intérêt pour justifier le classement en tant que 
+site classé, mais qui par leur intérêt d’être protégés, peuvent faire l’objet d’une inscription en tant 
+que site inscrit. Cette mesure peut également être un outil adapté pour la préservation du petit 
+patrimoine rural dans des secteur peu soumis à la pression foncière.  
+
+Aucun site classé ou inscrit dans un périmètre de 10 km autour du site d’étude (Figure 31). 
+
+Les monuments historiques et leurs abords 
+
+Un monument historique est un immeuble, un ensemble d’immeubles, de bâtis ou non bâtis, 
+« dont la conservation présente, au point de vue de l’histoire de l’art, un intérêt public ». Les mo-
+numents historiques sont donc classés du fait de leurs enjeux historique, artistique et architec-
+tural par l’autorité administrative. Deux niveaux de protection existent : les sites « classés » ou 
+« inscrits ». 
+
+Aucun monument historique n’est situé à  moins  de 5km du site du projet  (Figure  31).  On note 
+cependant la présence de 5 monuments historiques dans le périmètre de 10 km. 
+
+Tableau 15 : Les monuments classés et inscrits dans un rayon de 10 km autour du site d’étude (Source 
+: Atlas des patrimoines - Ministère de la Culture). 
+
+Appellation 
+
+Eglise Saint Sébastien 
+
+Eglise de la nativité de la Vierge 
+
+Eglise Saint-Martin 
+
+Statut 
+
+Classé 
+
+Classé 
+
+Inscrit 
+
+Date 
+
+Commune 
+
+Département 
+
+04/12/1915 
+
+Euvy 
+
+25/10/1911 
+
+Corroy 
+
+08/05/1933 
+
+Pleurs 
+
+Marne 
+
+Marne 
+
+Marne 
+
+Eglise Saint Maurice 
+
+Classé 
+
+06/11/1915  Gourgançon 
+
+Marne 
+
+Pigeonnier-porche de la ferle de la Colombière 
+
+Partiellement inscrit 
+
+31/03/1992 
+
+Corroy 
+
+Marne 
+
+68 
+
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Les sites patrimoniaux remarquables 
+
+L’article L. 631-1 du code du patrimoine prévoit : « sont classés au titre des sites patrimoniaux 
+remarquables les villes, villages ou quartiers dont la conservation, la restauration, la réhabilitation 
+ou la mise en valeur présente, au point de vue historique, architectural, archéologique, artistique 
+ou paysage, un intérêt public ». 
+
+Ces sites comprennent notamment les centres historiques des villes avec pour objectif d’assu-
+rer la conservation et la mise en valeur des quartiers historiques en instituant des mesures juri-
+diques de protection. Ainsi, les sites patrimoniaux remarquables peuvent ainsi appartenir aux 
+anciens secteurs sauvegardés, aux anciennes zones de protection du patrimoine architectural, 
+urbain et paysager (ZPPAUP) et les anciennes aires de mise en valeur d’architecture et du patri-
+moine (AVAP). L’objectif est de protéger  le patrimoine architectural, urbain et paysager et de 
+mettre en valeur des quartiers et des sites à protéger qui présentent, pour des motifs esthétique 
+ou historique, archéologique, artistique ou paysager, un intérêt public. 
+
+Aucun site patrimoniaux et remarquable dans un périmètre de 10 km autour du site (Figure 31).
+
+69 
+
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Figure 31 : Eléments patrimoniaux dans un rayon de 10 km autour du site du projet. 
+
+70 
+
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+2.4.3  RISQUES INDUSTRIELS ET TECHNOLOGIQUES 
+
+Dans le cadre de l’évaluation du contexte environnemental du site d’implantation du projet, un 
+état des lieux des risques technologiques à proximité est réalisé. Il s’agit de savoir si le projet 
+pourrait être impactés par un potentiel risque technologique. La plateforme gouvernementale 
+Géorisques recense les risques naturels et technologiques sur l’ensemble du territoire français. 
+
+Installations classées pour la protection de l’environnement (ICPE) 
+
+Les Installations classées pour la protection de l’environnement (ICPE) sont des installations qui 
+peuvent avoir des impacts (pollution de l’eau, de l’air, des sols etc.) et présenter des dangers sur 
+l’environnement, la santé et la sécurité publique. Les ICPE sont classées selon leur niveau de 
+danger qu’elles présentent : déclaration, enregistrement et autorisation.  
+
+Sur le territoire de la commune, aucune ICPE n’est enregistrée. 
+
+Sites et sols pollués 
+
+Un site pollué est un site qui, du fait d’anciens dépôts de déchets ou d’infiltration de substances 
+polluantes, présente une pollution susceptible de provoquer une nuisance ou un risque pérenne 
+pour les personnes de l’environnement. 
+
+La commune est concernée par un ancien site industriel (CASIAS  – ci-dessous) classé comme 
+site et sol pollué. 
+
+Zone d’étude 
+
+Ancien site industriel 
+
+Figure 32 : Localisation de l'ancien site industriel concerné par des sols pollués sur la commune 
+de Faux-Fresnay. 
+
+71 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Carte des anciens sites industriels et activités de services (CASIAS) 
+
+La CASIAS recense les anciennes activités susceptibles d’être à l’origine d’une pollution des sols. 
+Il peut s’agir d’anciennes activités industrielles (industrie lourde, manufacturière), ou d’activité 
+de  services  potentiellement  polluantes  (blanchisserie,  stations-services,  …).  Elle  témoigne  de 
+l’histoire industrielle du site depuis la fin du 19ème siècle.  
+
+Sur le territoire de la commune de Faux-Fresnay, un ancien site industriel est recensé.  
+
+Tableau 16 : Anciens sites industriels et activités de services (CASIAS) recensés sur le territoire de 
+Faux-Fresnay. 
+
+Code 
+
+Nom usuel 
+
+Nom raison sociale 
+
+Activité 
+
+SSP3834987 
+
+Crayère 
+
+Crayère 
+
+B08.11Z - Extraction de pierres ornemen-
+tales et de construction, de calcaire indus-
+triel, de gypse, de craie et d'ardoise (voir 
+aussi C23.7) 
+
+72 
+
+ 
+ 
+ 
+ 
+ 
+3 
+
+DEFINITION DES IMPACTS 
+
+73 
+
+ 
+ 
+ 
+3.1 METHODE 
+
+Les impacts seront différenciés en fonction de leur durée et de leur type.  
+
+On distingue les : 
+
+►  Impacts directs : ils résultent de l’action directe de la mise en place et du fonctionne-
+
+ment de l’aménagement (ex : débroussaillage, fondation). La définition de ces impacts 
+prendra en compte l’aménagement et les équipements annexes. 
+
+►  Impacts indirects : ce sont les conséquences, parfois éloignées de l’aménagement.  
+
+►  Impacts induits : ces impacts ne sont pas liés au projet lui-même mais à des aménage-
+
+ments ou phénomènes pouvant découler de ce projet. 
+
+►  Impacts permanents : ils sont irréversibles.  
+
+►  Impacts temporaires : ils sont réversibles et liés à la phase de travaux ou à la mise en 
+route du projet (ex : le bruit provoqué par les engins de chantier lors de la phase de 
+construction ou d’exploitation). 
+
+Afin d’établir les différents types d’impacts engendrés par le projet, il a été choisi de raisonner 
+par type d’entité (faune, flore, habitats naturels) 
+
+Les impacts du projet ont été évalués sur la base de l’inventaire réalisé en septembre 2024.  
+
+Par ailleurs, les niveaux d’impacts ont été définis selon l’ampleur des habitats impactés et la 
+sensibilité de chaque espèce par rapport au projet. Le code couleur est le suivant :  
+
+Impact très faible 
+
+Impact faible 
+
+Impact modéré 
+
+Impact fort 
+
+Impact très fort 
+
+74 
+
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+3.1 IMPACTS BRUTS SUR LES HABITATS 
+
+Le site du projet est composé de 3 habitats dont 1 représente un intérêt modéré aux vues du 
+contexte géographique : en milieu agricole. Cet habitat peut remplir diverses fonctions pour les 
+espèces, comme servir pour l'alimentation, la reproduction ou en tant que zone refuge. Les 3 
+habitats vont être impactés par le projet (Tableau 17).  
+
+Tableau 17 : Impacts bruts du projet sur les habitats 
+
+Habitats 
+
+I1.51 Terres labourées nues  
+(CORINE Biotopes : 82.11) 
+
+H5.61 Sentiers  
+(CORINE Biotopes : 87.2) 
+
+I1.53 Jachères non inondées avec commu-
+nautés rudérales annuelles ou vivaces  
+(CORINE Biotopes : 87.1) 
+
+Surface de 
+l’habitat (m²) 
+
+Surface 
+impactée (m²) 
+
+Nature de l’impact 
+
+147556 
+
+21000 
+
+Terrassement 
+
+5506 
+
+1607 
+
+250 
+
+550 
+
+Mise en place de clôture  
+(hauteur : 2 m) 
+
+Travaux, passage d’engins de 
+chantier 
+
+La majorité des impacts sur les habitats seront dus aux travaux. 
+
+75 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+3.2 IMPACTS BRUTS SUR LA BIODIVERSITE 
+
+Phase du projet :  
+travaux et exploitation 
+
+Impacts bruts  
+(faible ; modéré, fort, très fort) 
+
+Mesures  d’évitement  (E)  et  de 
+réduction (R) intégrées au projet 
+
+Faune & 
+Flore 
+
+Phase travaux : 
+
+Travaux, passage d’en-
+gins de chantier 
+
+Altération d’habitat favorable aux 
+déplacements et à l’alimentation, 
+voir la reproduction : milieu her-
+bacé 
+(Impact direct et permanent) 
+
+Phase d’exploitation : 
+
+Entretien : fauche, dé-
+broussaillage 
+
+Dérangement des individus  
+(Impact direct et temporaire) 
+
+Perturbations sonores et lumi-
+neuses 
+(Impact direct et temporaire) 
+
+E1 - Balisage de l’emprise tra-
+vaux 
+
+E2 - Absence totale d’utilisation 
+de produits phytosanitaires 
+
+R1 - Mesures générales de ré-
+duction en phase chantier 
+
+R2 - Travaux et entretien : éviter 
+les périodes sensibles sur l’an-
+née et en journée 
+
+R3 - Lutter contre l’introduction 
+et la dispersion d’espèces exo-
+tiques envahissantes 
+
+R4 - Gestion écologique des ha-
+bitats 
+
+Les impacts ainsi que les mesures d'évitement et de réduction sont similaires pour la faune, la 
+flore et les habitats. En effet, bien que le projet entraîne des répercussions sur la zone, celles-ci 
+restent relativement localisées. 
+
+En phase travaux tout comme en phase de fonctionnement, des mesures d’évitement et de ré-
+duction devront être mises en place afin d’éviter et réduire au maximum les impacts sur la faune 
+protégées et leurs habitats. 
+
+La réalisation du projet devra respecter le cycle biologique des diverses espèces. 
+
+76 
+
+ 
+ 
+ 
+ 
+ 
+4 
+
+MESURES D’EVITEMENT ET DE RE-
+DUCTION 
+
+77 
+
+ 
+ 
+ 
+D’après l’article R122-14-II du code de l’environnement, les projets doivent en priorité éviter les 
+impacts sur l’environnement, puis, à défaut, les minimiser et enfin en cas de besoin, compenser 
+les impacts résiduels : séquence Eviter-Réduire-Compenser (ERC). Cette séquence s’applique à 
+tous type de plans, programmes et projets dans le cadre des études d’impacts ou d’incidences 
+exigées dans les procédures d’autorisation : loi sur l’eau, Natura 2000, espèces protégées… Pour 
+une meilleure prise en compte de la biodiversité, une concertation avec le maître d’ouvrage et le 
+différent prestataire doit avoir lieu. Les mesures d’évitement et de réduction appliquées au pro-
+jet, et définies selon le guide THEMA ERC, sont présentés par la suite. 
+
+Types de mesure 
+
+Mesures mises en place 
+
+Mesures d’évitement 
+
+E1 - Balisage de l’emprise travaux 
+E2 - Absence totale d’utilisation de produits phytosanitaires 
+
+Mesures de réduction 
+
+R1 - Mesures générales de réduction en phase chantier 
+R2 - Travaux et entretien : éviter les périodes sensibles sur l’année et en journée 
+R3 - Lutter contre l’introduction et la dispersion d’espèces exotiques envahissantes 
+R4 - Gestion écologique des habitats 
+R5 - Diversification des habitats : Plantation de haies 
+
+78 
+
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+4.1 MESURES D’EVITEMENT 
+
+E1 
+
+Balisage de l’emprise des travaux  
+(code référence du THEMA ERC ERC : E2.1b) 
+
+Description de la mesure d’évitement 
+Mesure  visant  à  limiter  ou  à  décaler  l’emprise  initiale  des  travaux  et  à  matérialiser  le  périmètre  du 
+chantier. Sont compris dans les emprises travaux les plateformes techniques, les zones de stockages 
+des engins de chantiers, parking, etc.  
+
+Caractéristique et conception de l’aménagement 
+La matérialisation peut se faire selon différents dispositifs visibles et interdi-
+sant l’accès aux personnels du chantiers et aux riverains.  
+Idéalement, un grillage orange délimitant clairement la zone d’emprise du pro-
+jet sera implanté par le Maître d’ouvrage. L’implantation sera conditionnée à 
+la validation des emprises par le bornage du projet réalisé par un géomètre. 
+Le  grillage  devra  avoir  un  espace  suffisant  (10  cm  environ)  entre  le  terrain 
+naturel et le bas du grillage pour permettre le passage de la petite faune terrestre.  
+Des passages réguliers en phase travaux seront réalisés par un écologue afin de veiller au bon entretien 
+de ces dispositifs pouvant se dégrader dans le temps.  
+
+Grillage orange 
+
+Espace permettant à 
+la faune de s’échapper 
+du chantier 
+
+Espacement de 10 cm entre le niveau 
+TN et le bas du grillage orange 
+
+Piquet béton maintenant le grillage orange espacés de 2 m 
+
+Période de réalisation 
+
+Fréquence de réalisation 
+
+Phase(s) de réalisation 
+
+Avant le début des travaux 
+
+Une seule fois 
+
+Phase travaux 
+
+Intérêts et objectifs 
+Cette opération permettra une identification exacte des zonages à prendre en compte pour l’aménage-
+ment des zones proches de l’emprises du projet. L’objectif étant de préservés les habitats situés en 
+périphérie des emprises projets.  
+
+Milieux/espèces concernées 
+
+Habitats se trouvant en dehors de la zone du projet à ne pas impacter 
+Espèces protégées (ou non) fréquentant les habitats à proximité immédiate du projet (groupe taxono-
+mique divers) 
+
+79 
+
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+E2 
+
+Absence totale d’utilisation de produits phytosanitaires  
+(code référence du THEMA ERC : E3.2a) 
+
+Description de la mesure d’évitement 
+
+Tout engagement du maître d’ouvrage ou prescription visant à mettre en œuvre un entretien de l’em-
+prise projet sans recourir à des produits phytosanitaires 
+
+Caractéristique et conception 
+
+Afin de maintenir la biodiversité en place et dans un objectif d’amélioration qualitatif et quantitatif, au-
+cun produits phytosanitaires destinés aux plantes, insectes ou champignons ne sera utilisé au sein de 
+l’emprise du projet.  
+Afin de vérifier l’application de la mesure, un écologue sera consulté afin de valider les moyens tech-
+niques alternatifs employés pour la gestion intégrée du site.  
+
+Entrepreneur du paysage 
+
+Public concerné 
+
+Période de réalisation 
+
+Fréquence de réalisation 
+
+Phase(s) de réalisation 
+
+Indéfiniment 
+
+Permanente 
+
+Phase  de  travaux  et  d’exploita-
+tion 
+
+Intérêts et objectifs 
+
+Cette mesure permettra de favoriser la diversité spécifique et offrira des habitats propices sans pro-
+duits nocifs pour les espèces.  
+
+Milieux/espèces concernées 
+
+Habitats se trouvant dans de la zone du projet et en dehors à ne pas impacter 
+Espèces protégées (ou non) faunistique et floristique (divers groupe taxonomique) 
+Espèces végétales exotiques envahissantes à éradiquer 
+
+80 
+
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+4.2 MESURES DE REDUCTION 
+
+R1 
+
+Mesures générales de réduction en phase chantier 
+(code référence du THEMA ERC :  R1.1a / R1.1b / R2.1a / R2.1c / R2.1d /R2.1g 
+/ R2.1r) 
+
+DESCRIPTION DE LA MESURE DE REDUCTION 
+
+Installation de la base travaux :  
+R1.1b Limitation/adaptation des installations de chantier (base travaux)  
+Toutes mesures visant à adapter les caractéristiques techniques des installations de chantiers 
+
+Circulation des engins : 
+R1.1a Limitation/adaptation des zones d’accès et/ou de circulation des engins de chantiers  au sein de 
+l’emprise de chantier 
+Toutes mesures visant à adapter les zones d’accès et de circulation au sein de l’emprise du projet.  
+
+R2.1a Adaptation des modalités de circulation des engins de chantiers 
+En complément de la mesure R1.1a et précise les modalités de circulation afin de réduire les nuisances 
+(limitation de vitesse, passage alternatif, etc.) 
+
+R2.1g Dispositif limitant les impacts liés aux passages des engins de chantiers 
+Toutes mesures visant à limiter l’impact du passage des engins de chantier sur le milieu naturel pour 
+limiter le tassement des sols notamment. 
+
+Replis du chantier 
+R2.r Dispositif de replis du chantier 
+Suppression des voies d'accès, déconstruction d'installation temporaire, de tout système d’assainisse-
+ment provisoire et remise en état des terrains concernés. 
+
+Contrôle des produits/polluants et prévention : 
+R2.1d Dispositif préventif de lutte contre une pollution 
+Aire étanche réservée au stationnement des engins de chantiers, stockage de produits dangereux ou 
+potentiellement polluant, … 
+
+Gestion des matériaux et des déchets  
+R2.1c Optimisation e la gestion des matériaux 
+
+Caractéristique et conception 
+
+Installation de la base travaux : 
+La  base  travaux  sera  aménagée  au  sein  des  emprises  prévues  pour  le  chantier.  Elle  accueillera  les 
+baraquements  mobiles  (poste  de  contrôle  et  de  surveillance,  salles  de  repos,  vestiaires  et  salles  de 
+réunion, sanitaires), l’air de stationnement des engins, les aires individualisées pour le stockage des 
+matériaux et fournitures … Elle devra être localisée en dehors des zones identifiées comme sensibles 
+pour la faune et la flore. 
+
+Cette aire devra être étanchéifiée et un système de collecte des eaux de lessivage du chantier sera 
+aménagé et débouchera sur un bassin de décantation permettant d’éviter que ces eaux souillées ne se 
+diffusent dans le milieu naturel.  
+
+La base sera située en retrait des secteurs à enjeux afin d’éviter d’éventuels déversement de polluants 
+et la dégradation des milieux. Les opérations de nettoyage, d’entretien, de réparation, de ravitaillement 
+des engins et du matériel ainsi que le stockage des matériaux se feront exclusivement à l’intérieur de 
+cette aire. 
+
+81 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Le personnel du chantier sera informé des consignes spécifiques contre la création de zones pièges. 
+Cette  mesure  consistera  à  informer  tout  le  personnel  intervenant  pendant  le  chantier  sur  certaines 
+mesures  spécifiques  permettant  d’éviter  la  création  de  zones  pièges  telles  que  des  bidons  ouverts 
+pouvant se remplir d’eau de pluie. 
+A l’heure actuelle, l’emplacement exact de la base travaux n’est pas encore connu. 
+
+Circulation des engins :  
+Durant la phase des travaux, la circulation des engins doit être encadrer pour limiter une dégradation 
+plus importante du sol. Les emprises de travaux, installations de chantier, etc.… doivent être concentrés 
+sur les habitats anthropiques, les zones de dépôts et réduits au maximum, voir totalement évités, sur 
+les milieux naturels. Les pistes doivent être régulièrement arrosées pour éviter l’envol de poussières 
+liées au passage des engins. Cette action doit impérativement être accrue les jours où les vents sont 
+importants. De plus, les engins devront être équipés d’un dispositif absorbant (en cas d’incident). 
+
+Replis du chantier : 
+Après la réalisation des travaux, une remise en état du site devra être mise en œuvre. En fin de chantier, 
+les  mesures  d’accompagnement  comprendront  l'effacement  total  des  traces  de  chantier  avec 
+nettoyage,  réhabilitation  des  aires  utilisées  par  replantation  et  par  mise  en  décharge  des  déchets 
+produits ou déjà présents avant l'opération 
+
+Contrôle des produits/polluants et prévention : 
+Les  substances  non  naturelles  et  polluantes  ne  seront  pas  rejetées  dans  le  milieu  naturel  et  seront 
+retraitées par des filières appropriées. Dans ce but, il pourra être mis en place une filière de récupération 
+des produits/matériaux usagers. Les terres souillées seront aussi évacuées/retraitées et des analyses 
+seront réalisées pour vérifier la non-pollution des sols.  
+
+Les  zones  de  stockage  des  lubrifiants  et  hydrocarbures  utilisés  par  les  engins  de  chantier  seront 
+étanches et confinées (plate-forme étanche avec rebord ou container permettant de recueillir un vo-
+lume liquide équivalent à celui des aires de stockage). Les lubrifiants et hydrocarbures utilisés par les 
+engins de chantier seront stockés dans des réservoirs en bon état, sur une aire de stockage imper-
+méable et à l’abri des intempéries. Des équipements seront mis à disposition pour limiter une disper-
+sion en cas de fuite comme des bacs de rétention au niveau des réservoirs, des fossés filtrants et des 
+dispositifs de cloisonnement. Des fascines pourront également être positionnées. Le personnel utili-
+sant ces produits sera formé sur leurs conditions de stockage et d’utilisation.   
+
+Ces zones de stockage seront aménagées en dehors des secteurs les plus sensibles. Ils doivent être 
+cantonnés sur la parcelle du projet et ne pas occuper les milieux naturels alentours. 
+
+Gestion des matériaux et des déchets : 
+Les  entreprises  attributaires  des  travaux  sont  responsables  du  tri  et  de  l’évacuation  des  déchets  et 
+emballages générés par le chantier ou récupérés avant le début du chantier.  
+
+Les entreprises doivent ainsi s’engager à :  
+
+►  Organiser la collecte et le tri des déchets et emballages, en fonction de leur nature et de leur 
+
+toxicité ;  
+
+►  Conditionner hermétiquement ces déchets ;  
+►  Définir une aire provisoire de stockage quotidien des déchets générés par le chantier en vue 
+
+de faciliter leur enlèvement ultérieur selon les filières appropriées ;  
+
+►  Prendre les dispositions nécessaires contre l’envol des déchets et emballages  
+
+Public concerné 
+Entrepreneur du bâtiment 
+Ensemble des matériaux et matériels utilisés lors de la phase travaux, bâtiments, engins, etc. 
+Période de réalisation 
+Ensemble de la phase travaux 
+
+82 
+
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+INTERETS ET OBJECTIFS 
+Cette mesure vise à encadrer de manière adéquate l’installation de la base travaux, l’utilisation de pro-
+duits,  la  gestion  des  déchets  et  la  circulation  des  engins.  L’objectif  est  d’éviter  d’éventuels  impacts 
+supplémentaires sur le milieu naturel et l’environnement en général.  
+
+Habitats se trouvant dans de la zone du projet et en dehors à ne pas impacter 
+Espèces protégées (ou non) faunistique et floristique (divers groupe taxonomique) 
+
+Milieux/espèces concernées 
+
+83 
+
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+R2 
+
+Travaux et entretien : éviter les périodes sensibles sur l’année 
+et en journée 
+(code référence du THEMA ERC : R3.1a / R3.1b / R3.2a / R3.2b) 
+
+DESCRIPTION DE LA MESURE DE REDUCTION 
+Les inventaires ont mis en évidence la présence potentielle (i) d’oiseaux nicheurs, (ii) du transit d’indivi-
+dus et (iii) des habitats favorables au cycle biologique de certain groupe taxonomique.  
+
+Il y a donc tout intérêt à décaler les travaux en dehors des périodes pendant lesquelles les espèces 
+sont les plus vulnérables. Il s’agit en générale des périodes d’hibernation, de reproduction et d’élevage 
+des jeunes, des périodes de migrations.  
+
+De mars à août, la biodiversité présente donc sensibilité particulière vis-à-vis d’éventuels travaux liés à 
+la réalisation du projet (débroussaillage, abattage, fauche…).  
+
+Pa ailleurs, il faut aussi éviter les heures pendant lesquelles les espèces sont les plus actives.  
+
+Caractéristique et conception 
+Les  périodes  de  sensibilités  sont  spécifiques  à  chaque  groupe  taxonomique dans  le  tableau  ci-des-
+sous. La période la plus favorable pour une intervention est en novembre et février. 
+
+Globalement, les opérations de débroussaillage devront avoir lieu entre septembre et octobre 
+
+La présence d’arbres à décollement d’écorces (arbres favorables aux chiroptères en période de transit) 
+nécessiteront une identification préalable et une préservation en septembre/octobre.  
+
+Ces arbres devront être abattus en hiver après plusieurs jours de gel. Concernant les arbres à cavités, 
+la mesure R7 devra être déployée. 
+
+Espaces concernés 
+Emprise du projet 
+
+Période de réalisation 
+Débroussaillage, fauche, abattage : 
+septembre et octobre 
+Terrassement : à partir de novembre 
+
+Fréquence de réalisation 
+Une seule fois en phase travaux 
+et une à deux fois par an en 
+phase d’exploitation 
+
+Phase(s) de réalisation 
+
+Phase de travaux et 
+d’exploitation 
+
+INTERETS ET OBJECTIFS 
+Une intervention en dehors des périodes dites « sensibles » pour la biodiversité permettra de limiter les 
+risques de destruction d’espèces protégées. Cette mesure est également favorable aux espèces non 
+protégées 
+
+Avifaune, chiroptère, reptile, lépidoptère et autres groupes taxonomiques 
+
+Milieux/espèces concernées 
+
+84 
+
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+R3 
+
+Lutter contre l’introduction et la dispersion d’espèces 
+exotiques envahissantes  
+(code référence du THEMA ERC : R2.1f) 
+
+DESCRIPTION DE LA MESURE DE REDUCTION 
+Les terrains remaniés sont généralement propices à l’installation et au développement des espèces 
+exotiques envahissantes (EEE). Ainsi, toutes mesures préventives permettant de détecter leur présence 
+est à renseigner.  
+
+Caractéristique et conception 
+
+L’introduction d’une EEE peut être intentionnelle ou accidentelle. Il existe une multitude de voies d’in-
+troduction et de raison pour lesquelles l’espèces est introduite. Cependant, dans la grande majorité des 
+cas, cette introduction résulte des activités humaines.  
+Concernant le projet, la principale voie d’introduction réside dans la réalisation des travaux. En effet, les 
+engins sont d’important vecteurs d’EEE. Voici les précautions à prendre afin d’éviter la dispersion ou 
+l’introduction d’EEE : 
+Nettoyage systématique des machines (roues et chenilles des engins, bennes, et tout autre outil ma-
+nuel) et des chaussures et gants du personnel avant le déplacement d’un site à l’autre, pour éviter le 
+transport  de  fragments  de  plantes  pouvant  se  développer  ultérieurement.  Les  résidus  issus  du  net-
+toyage devront être stockés et éliminés dans les mêmes conditions que les espèces exotiques enva-
+hissantes gérées. 
+Absence de déplacement des engins de « travaux en travaux » OU nettoyage systématique en entrée 
+et en sortie de sites sur les aires prévues à cet effet 
+Limiter l’apport de produits extérieurs (terre végétale, remblais) qui peuvent contenir des fragments de 
+tiges ou de rhizomes d’espèces exotiques envahissantes. La provenance de ces produits devra être 
+vérifiée. 
+Éviter de maintenir des terrains nus, c’est-à-dire sans végétation. Les terrains remaniés peuvent être 
+rapidement colonisés. Ces espèces ont un large spectre d’action et s’adaptent facilement à une grande 
+variété de milieux. Elles sont alors très compétitivités sur des milieux remaniés. 
+
+Ensemble de la phase travaux 
+
+Phase de réalisation 
+
+INTERETS ET OBJECTIFS 
+
+Cette opération permettre de limiter l’introduction de nouvelles EEE en phase travaux. 
+
+Zones remaniées 
+Zones concernées par la présence d’engins et de matériel 
+
+Milieux/espèces concernées 
+
+85 
+
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+R4 
+
+Gestion écologique des habitats 
+(code référence du THEMA ERC : R2.1p / R2.2o) 
+
+DESCRIPTION DE LA MESURE DE REDUCTION 
+
+Toutes actions visant à mettre en œuvre une gestion  écologique des habitats, soit  temporairement 
+pendant la phase travaux, soit de manière pérenne au sein de la zone d’emprise du projet. 
+
+Caractéristique et conception 
+
+Pendant la phase travaux et dans une moindre en phase d’exploi-
+tation, des opérations de fauchage, de débroussaillage et d’abat-
+tage  seront  mise  en  œuvre.  Afin  de  réduire  le  risque  de 
+destructions éventuelles d’espèces et en particulier les espèces 
+protégées, il est essentiel de mettre en place une gestion écolo-
+gique avec des opérations dites « douces ».  
+
+Il sera important de respecter comme règle : 
+
+Mettre en œuvre un sens de fauchage/abatage favorable à la pré-
+servation des espèces : fauche différenciée, tardive et centrifuge 
+
+Privilégier des vitesses d’avancement aussi réduites que possible 
+
+Maintenir des espaces de végétation non fauchés/abattus. Ces 
+zones de refuges permettront à la faune de trouver facilement un 
+dernier refuge avant une dispersion vers les habitats à proximité 
+de l’emprise du projet. Dans le cas présent, on tendra à faire en 
+sorte que la fauche  se termine en direction d’espaces non fau-
+chés ou non impactés. 
+
+Emprise du projet 
+
+Période de réalisation 
+
+Entre septembre et octobre 
+
+Espace concerné 
+
+Fréquence de réalisation 
+Une seule fois en phase travaux 
+et  une  fois  par  an  en  phase 
+d’exploitaion 
+
+Phase(s) de réalisation 
+
+Phase travaux et d’exploitation 
+
+INTERETS ET OBJECTIFS 
+La mise en place d’une gestion écologique des habitats par la mise en place de méthode « douce » 
+limitera les impacts sur la faune et le risque de destruction d’espèces protégées  
+
+Avifaune, chiroptère, lépidoptère, reptile, flore 
+
+Milieux/espèces concernées 
+
+86 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+R5 
+
+Diversification des habitats : Plantation de haies 
+(code référence du THEMA ERC : R2.2k) 
+
+DESCRIPTION DE LA MESURE DE REDUCTION 
+La plantation de haies consiste à introduire des alignements linéaires d’arbres et/ou d’arbustes indigènes 
+dans  un  espace  afin  de  recréer  des  corridors  écologiques,  diversifier  les  habitats  et  favoriser  la 
+biodiversité.  Ces  haies  peuvent  jouer  un  rôle  multifonctionnel  :  brise-vent,  réservoir  de  biodiversité, 
+stabilisation  des  sols,  ou  encore  amélioration  du  paysage  agricole.  Elles  permettent  également  de 
+restaurer  des  habitats  spécifiques  pour  certaines  espèces,  tout  en  limitant  l’impact  des  activités 
+anthropiques sur les écosystèmes naturels. 
+
+Caractéristique et conception 
+Les haies doivent être composées d’espèces indigènes et adaptées aux conditions pédoclimatiques lo-
+cales (e.g. Cornus sanguinea, Crataegus monogyna, Prunus spinosa, Rosa canina). Elles seront structu-
+rées en plusieurs strates (herbacée, arbustive et arborée) pour maximiser leur efficacité écologique. Une 
+largeur minimale de 3 à 5 mètres est recommandée pour optimiser leur rôle d’abri pour la faune. Les 
+haies doivent être implantées sur des lignes continues ou des segments connectés afin de maximiser 
+leur rôle de corridor écologique. 
+
+©biodivers 
+
+Emprise du projet 
+
+Espace concerné 
+
+Période de réalisation 
+
+Fréquence d’entretien 
+
+Phase(s) de réalisation 
+
+Entre novembre et mars 
+
+la  plantation,  un  entretien  annuel  est 
+Après 
+nécessaire  au  cours  des  trois  premières  années 
+pour garantir la reprise des végétaux (désherbage 
+manuel  ou  mécanique,  arrosage  si  nécessaire, 
+remplacement des plants morts). Par la suite, un 
+entretien  léger  tous  les  deux  à  trois  ans  suffira 
+pour tailler les branches mortes ou envahissantes 
+et maintenir la haie en bon état écologique. 
+
+Implantation lors de la 
+phase travaux et 
+poursuite en phase 
+d’exploitation 
+
+INTERETS ET OBJECTIFS 
+La plantation de haies vise à réduire l’impact de la fragmentation des habitats et à améliorer la connec-
+tivité écologique entre différentes zones naturelles. Elle favorise l’accueil d’une faune variée (insectes, 
+oiseaux, petits mammifères), limite l’érosion des sols, agit comme brise-vent et améliore la qualité des 
+paysages. Cette mesure contribue également au stockage du carbone et à la régulation hydrique des 
+sols. 
+
+Avifaune, chiroptère, lépidoptère, reptile, flore 
+
+Milieux/espèces concernées 
+
+87 
+
+ 
+ 
+ 
+ 
+5 
+
+IMPACTS RESIDUELS APRES MISE EN 
+PLACE DES MESURES D’EVITEMENT 
+ET DE REDUCTION 
+
+88 
+
+ 
+ 
+ 
+Après la mise en œuvre des mesures d'évitement et de réduction, il est essentiel d'évaluer les 
+impacts résiduels du projet Corsica Sole. Ces impacts résiduels correspondent aux effets envi-
+ronnementaux qui subsistent malgré les précautions prises pour minimiser les perturbations. 
+Cette section examine en détail ces impacts restants sur la faune, la flore et les habitats, afin de 
+s'assurer que toutes les conséquences écologiques du projet sont bien comprises et gérées de 
+manière appropriée. 
+
+Phase du projet :  
+travaux et  
+exploitation 
+
+Impacts bruts  
+(faible ; modéré, 
+fort, très fort) 
+
+Mesures d’évitement 
+(E) et de réduction (R) 
+intégrées au projet 
+
+Impacts résiduels 
+
+Faune & 
+Flore 
+
+Phase travaux : 
+
+Travaux, passage 
+d’engins de chan-
+tier 
+
+Phase d’exploita-
+tion : 
+
+Entretien : fauche, 
+débroussaillage 
+
+Altération d’habi-
+tat favorable aux 
+déplacements et à 
+l’alimentation, voir 
+la reproduction : 
+milieu herbacé 
+(Impact direct et 
+temporaire) 
+
+Dérangement des 
+individus  
+(Impact direct et 
+temporaire) 
+
+Perturbations so-
+nores et lumi-
+neuses 
+(Impact direct et 
+temporaire) 
+
+E1 - Balisage de l’em-
+prise travaux 
+
+E2 - Absence totale 
+d’utilisation de produits 
+phytosanitaires 
+
+R1 - Mesures générales 
+de réduction en phase 
+chantier 
+
+R2 - Travaux et entre-
+tien : éviter les périodes 
+sensibles sur l’année et 
+en journée 
+
+R3 - Lutter contre l’intro-
+duction et la dispersion 
+d’espèces exotiques en-
+vahissantes 
+
+R4 - Gestion écologique 
+des habitats 
+
+R5 - Diversification des 
+habitats : Plantation de 
+haies 
+
+Phase travaux : 
+
+Altération d’habitat fa-
+vorable aux déplace-
+ments et à 
+l’alimentation : milieu 
+herbacé 
+(Impact direct et per-
+manent) 
+
+Dérangement des indi-
+vidus  
+(Impact direct et tem-
+poraire) 
+
+Faible 
+
+Perturbations sonores 
+et lumineuses 
+(Impact direct et tem-
+poraire) 
+
+Phase exploitation 
+
+Aucun impact 
+
+Après l’application des mesures d’évitement et de réduction, l’impact résiduel du projet est faible.
+
+89 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+
+CONCLUSION 
+
+90 
+
+ 
+ 
+ 
+L'étude a été réalisée sur une parcelle de 8,6 hectares située en zone agricole, à proximité de la 
+centrale électrique de Faux-Fresnay. Le site est entouré de zones naturelles d'intérêt écologique, 
+faunistique et floristique (ZNIEFF) ainsi que de zones importantes pour la conservation des oi-
+seaux (ZICO), sans toutefois empiéter sur des périmètres réglementés. 
+
+La  qualité  des  habitats  sur  le  site  est  faible,  caractérisée  par  des  milieux  agricoles  avec  une 
+mosaïque d'habitats anthropiques tels que des cultures monospécifiques et des bordures. Le 
+site offre actuellement peu d'opportunités pour la biodiversité en raison de l'absence de bor-
+dures naturelles favorables à la faune et la flore. 
+
+Les inventaires ont permis d’identifier 33 espèces floristique, principalement communes et ru-
+dérales, sans espèces végétales disposant d'un statut réglementaire. Aucune espèce exotique 
+envahissante n'a été identifiée sur le site. Ainsi que, 9 individus appartenant à 4 taxons différents 
+de la faune. Cependant, aucun inventaire exhaustif n'a été réalisé, les résultats sont  donc une 
+sous-représentation de la richesse faunistique et floristique. Les espèces observées sont prin-
+cipalement communes et caractéristiques des milieux anthropisés. Au regard de la bibliogra-
+phie,  sur  la  commune  de  Faux-Fresnay,  il  y  a  une  diversité  d’habitats  permettant  d’abriter  la 
+faune et la flore commune mais également des espèces plus rares comme l’orchis des marais. 
+
+Les enjeux écologiques sont concentrés sur les éléments périphériques du site, tels que les bor-
+dures et les chemins. L'introduction de bandes enherbées le long des bordures agricoles pour-
+rait améliorer la situation en offrant des habitats supplémentaires pour la faune et en protégeant 
+les cultures. Des mesures d'évitement et de réduction sont proposées, telles que le balisage de 
+l'emprise travaux, l'absence d'utilisation de produits phytosanitaires, et la gestion écologique des 
+habitats  
+
+En conclusion, bien que le site présente une faible diversité d'habitats et une biodiversité limitée, 
+des aménagements tels que l'introduction de bandes enherbées et une gestion écologique des 
+bordures pourraient significativement améliorer la situation. Les mesures d'évitement et de ré-
+duction proposées visent à minimiser les impacts du projet de construction de zone de stockage 
+d'énergie sur la biodiversité locale. 
+
+91 
+
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Annexe 1 :  
+Fiches sondages pédologiques 
+
+92 
+
+ 
+93 
+
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+94 
+
+ 
+  
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+95 
+
+ 
+  
+Annexe 2 :  
+Liste des espèces faune et flore recensées dans la bibliographie 
+
+Liste des espèces végétales recensées sur la commune de Faux-Fresnay 
+
+s
+e
+é
+g
+é
+t
+o
+r
+p
+s
+e
+c
+è
+p
+s
+E
+
+s
+e
+c
+è
+p
+s
+E
+
+s
+e
+é
+t
+n
+e
+m
+e
+l
+g
+é
+r
+
+s
+e
+c
+è
+p
+s
+E
+
+t
+a
+t
+i
+b
+a
+H
+e
+v
+i
+t
+c
+e
+r
+i
+D
+
+s
+e
+c
+è
+p
+s
+E
+
+R
+L
+s
+e
+é
+c
+a
+n
+e
+m
+
+s
+e
+c
+è
+p
+s
+E
+
+s
+e
+l
+a
+n
+o
+i
+g
+é
+r
+s
+e
+é
+c
+a
+n
+e
+m
+
+s
+e
+c
+è
+p
+s
+E
+
+s
+e
+t
+n
+a
+n
+i
+m
+r
+e
+t
+é
+d
+
+F
+F
+E
+I
+N
+Z
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+Espèces 
+
+Abietinella abietina 
+
+Acer pseudoplatanus 
+
+Achillea millefolium 
+
+Aesculus hippocastanum 
+
+Aethusa cynapium 
+
+Agrimonia eupatoria 
+
+Agrostis stolonifera 
+
+Alliaria petiolata 
+
+Alnus glutinosa 
+
+Amaranthus blitum 
+
+Amaranthus retroflexus 
+
+Amblystegium serpens 
+
+Ammi majus 
+
+Anacamptis palustris 
+
+Angelica sylvestris 
+
+Anisantha sterilis 
+
+Anthriscus sylvestris 
+
+Arabidopsis thaliana 
+
+Arabis sagittata 
+
+Arctium lappa 
+
+Arenaria serpyllifolia 
+
+Argentina anserina 
+
+Arrhenatherum elatius 
+
+Artemisia vulgaris 
+
+Asperula cynanchica 
+
+Athyrium filix-femina 
+
+Barbula unguiculata 
+
+Bellis perennis 
+
+Betula pendula 
+
+Blackstonia perfoliata 
+
+Brachypodium pinnatum 
+
+Brachypodium rupestre 
+
+Brachypodium sylvaticum 
+
+Brachythecium rutabulum 
+
+Bromopsis erecta 
+
+Bromopsis ramosa 
+
+96 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Bryonia dioica 
+
+Bryum argenteum 
+
+Bupleurum falcatum 
+
+Calamagrostis epigejos 
+
+Calcidicranella varia 
+
+Calliergonella cuspidata 
+
+Campyliadelphus chrysophyllus 
+
+Capsella bursa-pastoris 
+
+Cardamine hirsuta 
+
+Carduus crispus 
+
+Carex acutiformis 
+
+Carex appropinquata 
+
+x 
+
+x 
+
+x 
+
+Carex elata 
+
+Carex flacca 
+
+Carex hirta 
+
+Carex paniculata 
+
+Carex rostrata 
+
+Carlina vulgaris 
+
+Centaurea decipiens 
+
+Centaurea scabiosa 
+
+Centaurium pulchellum 
+
+Centranthus ruber 
+
+Cerastium fontanum 
+
+Chaenorhinum minus 
+
+Chaerophyllum temulum 
+
+Chelidonium majus 
+
+Chenopodiastrum hybridum 
+
+Chenopodium album 
+
+Circaea lutetiana 
+
+Cirsium arvense 
+
+Cirsium oleraceum 
+
+Cirsium vulgare 
+
+Cladium mariscus 
+
+Clematis vitalba 
+
+Colchicum autumnale 
+
+Convolvulus arvensis 
+
+Convolvulus sepium 
+
+Cornus mas 
+
+Cornus sanguinea 
+
+Coronilla varia 
+
+Corylus avellana 
+
+Crataegus laevigata 
+
+Crataegus monogyna 
+
+Crepis capillaris 
+
+Cryphaea heteromalla 
+
+Cyperus fuscus 
+
+Dactylis glomerata 
+
+Daucus carota 
+
+x 
+
+x 
+
+x 
+
+97 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dicranum scoparium 
+
+Digitaria sanguinalis 
+
+Diplotaxis muralis 
+
+Draba verna 
+
+Dryopteris carthusiana 
+
+Dryopteris filix-mas 
+
+Echinochloa crus-galli 
+
+Elytrigia repens 
+
+Entodon concinnus 
+
+Epilobium parviflorum 
+
+Epilobium tetragonum 
+
+Epipactis palustris 
+
+Equisetum arvense 
+
+Equisetum fluviatile 
+
+Erigeron acris 
+
+Erigeron annuus 
+
+Erigeron canadensis 
+
+Erodium cicutarium 
+
+Eryngium campestre 
+
+Euonymus europaeus 
+
+Eupatorium cannabinum 
+
+Euphorbia cyparissias 
+
+Euphorbia exigua 
+
+Euphorbia helioscopia 
+
+Euphorbia peplus 
+
+Eurhynchium striatum 
+
+Festuca rubra 
+
+Ficaria verna 
+
+Filipendula ulmaria 
+
+Fontinalis antipyretica 
+
+Fragaria vesca 
+
+Frangula alnus 
+
+Fraxinus excelsior 
+
+Frullania dilatata 
+
+Galeopsis tetrahit 
+
+Galium aparine 
+
+Galium mollugo 
+
+Galium palustre 
+
+Geranium columbinum 
+
+Geranium dissectum 
+
+Geranium molle 
+
+Geranium pusillum 
+
+Geranium pyrenaicum 
+
+Geranium robertianum 
+
+Geum urbanum 
+
+Glechoma hederacea 
+
+Glyceria fluitans 
+
+Grimmia crinita 
+
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+98 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grimmia pulvinata 
+
+Hedera helix 
+
+Helianthemum nummularium 
+
+Helictochloa pratensis 
+
+Heracleum sphondylium 
+
+Hieracium umbellatum 
+
+Hippocrepis comosa 
+
+Holcus lanatus 
+
+Homalothecium lutescens 
+
+Homalothecium sericeum 
+
+Humulus lupulus 
+
+Hydrocotyle vulgaris 
+
+Hylocomiadelphus triquetrus 
+
+Hypericum perforatum 
+
+Hypnum cupressiforme 
+
+Inula conyzae 
+
+Iris pseudacorus 
+
+Isothecium alopecuroides 
+
+Jacobaea erucifolia 
+
+Jacobaea paludosa 
+
+Juglans regia 
+
+Juncus conglomeratus 
+
+Juniperus communis 
+
+Kindbergia praelonga 
+
+Knautia arvensis 
+
+Knautia dipsacifolia 
+
+Lactuca serriola 
+
+Lamium album 
+
+Lamium amplexicaule 
+
+Lamium purpureum 
+
+Lapsana communis 
+
+Lepidium draba 
+
+Leucodon sciuroides 
+
+Lewinskya affinis 
+
+Ligustrum vulgare 
+
+Linaria repens 
+
+Linaria vulgaris 
+
+Linum catharticum 
+
+Lolium perenne 
+
+Lonicera periclymenum 
+
+Lonicera xylosteum 
+
+Lophocolea heterophylla 
+
+Lotus corniculatus 
+
+Lycopus europaeus 
+
+Lysimachia arvensis 
+
+Lysimachia vulgaris 
+
+Lythrum salicaria 
+
+Malus sylvestris 
+
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+x 
+
+x 
+
+x 
+
+99 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Malva neglecta 
+
+Malva sylvestris 
+
+Marchantia polymorpha 
+
+Matricaria chamomilla 
+
+Medicago lupulina 
+
+Medicago sativa 
+
+Mentha aquatica 
+
+Mentha arvensis 
+
+Menyanthes trifoliata 
+
+Mercurialis annua 
+
+Metzgeria furcata 
+
+Mnium hornum 
+
+Myosotis arvensis 
+
+Nasturtium officinale 
+
+Neottia ovata 
+
+Odontites vernus 
+
+Ononis natrix 
+
+Ornithogalum umbellatum 
+
+Orthotrichum anomalum 
+
+Orthotrichum diaphanum 
+
+Papaver rhoeas 
+
+Parietaria judaica 
+
+Pastinaca sativa 
+
+Phalaris arundinacea 
+
+Phleum nodosum 
+
+Phragmites australis 
+
+Picea abies 
+
+Picris hieracioides 
+
+Pilosella aurantiaca 
+
+Pilosella officinarum 
+
+Pimpinella major 
+
+Pimpinella saxifraga 
+
+Pinus nigra 
+
+Pinus sylvestris 
+
+Plagiothecium denticulatum 
+
+Plantago lanceolata 
+
+Plantago major 
+
+Plantago media 
+
+Platanthera bifolia 
+
+Poa annua 
+
+Polygala calcarea 
+
+Polygonum aviculare 
+
+Polytrichum formosum 
+
+Populus canadensis 
+
+Populus tremula 
+
+Porella platyphylla 
+
+Portulaca oleracea 
+
+Potentilla reptans 
+
+x 
+
+x 
+
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+x 
+
+x 
+
+100 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Primula elatior 
+
+Prunella vulgaris 
+
+Prunus avium 
+
+Prunus mahaleb 
+
+Prunus spinosa 
+
+Pseudocrossidium hornschuchianum 
+
+Pseudoscleropodium purum 
+
+Ptychostomum capillare 
+
+Ptychostomum pseudotriquetrum 
+
+Pulvigera lyellii 
+
+Quercus petraea 
+
+Quercus pubescens 
+
+Quercus robur 
+
+Radula complanata 
+
+Ranunculus acris 
+
+Ranunculus repens 
+
+Reseda lutea 
+
+Reynoutria japonica 
+
+Rhamnus cathartica 
+
+Rhinanthus alectorolophus 
+
+Ribes rubrum 
+
+Rosa arvensis 
+
+Rosa canina 
+
+Rosa corymbifera 
+
+Rosa gremlii 
+
+Rubus caesius 
+
+Rubus fruticosus 
+
+Rumex conglomeratus 
+
+Rumex hydrolapathum 
+
+Rumex obtusifolius 
+
+Salix caprea 
+
+Salix cinerea 
+
+Salix purpurea 
+
+Sambucus nigra 
+
+Scabiosa columbaria 
+
+Schedonorus arundinaceus 
+
+Schedonorus giganteus 
+
+Schistidium crassipilum 
+
+Schoenus nigricans 
+
+Scutellaria galericulata 
+
+Sedum acre 
+
+Senecio vulgaris 
+
+Setaria verticillata 
+
+Sherardia arvensis 
+
+Silene latifolia 
+
+Silene vulgaris 
+
+Solanum dulcamara 
+
+Solanum nigrum 
+
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+x 
+
+x 
+
+x 
+
+101 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sonchus arvensis 
+
+Sonchus asper 
+
+Sonchus oleraceus 
+
+Sparganium erectum 
+
+Stachys palustris 
+
+Stachys recta 
+
+Stachys sylvatica 
+
+Stellaria aquatica 
+
+Stellaria media 
+
+Streblotrichum convolutum 
+
+Syntrichia montana 
+
+Syntrichia ruralis 
+
+Syntrichia virescens 
+
+Thalictrum flavum 
+
+Thamnobryum alopecurum 
+
+Thuidium tamariscinum 
+
+Thymus praecox 
+
+Thysselinum palustre 
+
+Tortula muralis 
+
+Tragopogon pratensis 
+
+Trifolium campestre 
+
+Trifolium pratense 
+
+Trifolium repens 
+
+Tripleurospermum inodorum 
+
+Typha latifolia 
+
+Urtica dioica 
+
+Valeriana officinalis 
+
+Verbascum nigrum 
+
+Verbena officinalis 
+
+Veronica persica 
+
+Veronica polita 
+
+Viburnum lantana 
+
+Viburnum opulus 
+
+Vicia sepium 
+
+Viola arvensis 
+
+Viola odorata 
+
+Viscum album 
+
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+x 
+
+x 
+
+x 
+
+x 
+
+102 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Liste des espèces animales recensées sur la commune de Faux-Fresnay 
+
+Groupe taxonomique 
+
+Espèce 
+
+Insectes et araignées 
+
+Aglais io 
+
+Insectes et araignées 
+
+Aglais urticae 
+
+Insectes et araignées 
+
+Anthocharis cardamines 
+
+Insectes et araignées 
+
+Colias crocea 
+
+Insectes et araignées 
+
+Gluphisia crenata 
+
+Insectes et araignées 
+
+Gonepteryx rhamni 
+
+Insectes et araignées 
+
+Iphiclides podalirius 
+
+Insectes et araignées 
+
+Leucoma salicis 
+
+Insectes et araignées 
+
+Lymantria dispar 
+
+Insectes et araignées  Macroglossum stellatarum 
+
+Insectes et araignées 
+
+Pararge aegeria 
+
+Insectes et araignées 
+
+Phyllobius pyri 
+
+Insectes et araignées 
+
+Polygonia c-album 
+
+Insectes et araignées 
+
+Pyronia tithonus 
+
+Insectes et araignées 
+
+Sphrageidus similis 
+
+Insectes et araignées 
+
+Vanessa atalanta 
+
+Insectes et araignées 
+
+Vanessa cardui 
+
+Mammifères 
+
+Mammifères 
+
+Mammifères 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Capreolus capreolus 
+
+Lepus europaeus 
+
+Sus scrofa 
+
+Alauda arvensis 
+
+Anas platyrhynchos 
+
+Anthus pratensis 
+
+Anthus trivialis 
+
+Ardea cinerea 
+
+Burhinus oedicnemus 
+
+Buteo buteo 
+
+Carduelis carduelis 
+
+Columba palumbus 
+
+Corvus frugilegus 
+
+Cuculus canorus 
+
+Emberiza calandra 
+
+Emberiza citrinella 
+
+Erithacus rubecula 
+
+Falco tinnunculus 
+
+Fringilla coelebs 
+
+Hippolais polyglotta 
+
+Lanius collurio 
+
+Luscinia megarhynchos 
+
+Motacilla alba 
+
+e
+é
+t
+n
+e
+m
+e
+l
+g
+é
+r
+e
+c
+è
+p
+s
+E
+
+-
+a
+H
+
+e
+v
+i
+t
+c
+e
+r
+i
+D
+
+e
+c
+è
+p
+s
+E
+
+t
+a
+t
+i
+b
+
+R
+L
+e
+é
+c
+a
+n
+e
+m
+e
+c
+è
+p
+s
+E
+
+-
+é
+r
+
+e
+é
+c
+a
+n
+e
+m
+
+e
+c
+è
+p
+s
+E
+
+e
+l
+a
+n
+o
+i
+g
+
+e
+t
+n
+a
+n
+i
+m
+r
+e
+t
+é
+d
+
+e
+c
+è
+p
+s
+E
+
+F
+F
+E
+I
+N
+Z
+
+e
+é
+g
+é
+t
+o
+r
+p
+e
+c
+è
+p
+s
+E
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+103 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIAGNOSTIC FAUNE & FLORE – FAUX-FRESNAY 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Oiseaux 
+
+Motacilla flava 
+
+Oenanthe oenanthe 
+
+Oriolus oriolus 
+
+Parus major 
+
+Perdix perdix 
+
+Phasianus colchicus 
+
+Phylloscopus collybita 
+
+Pluvialis apricaria 
+
+Pyrrhula pyrrhula 
+
+Saxicola rubetra 
+
+Saxicola rubicola 
+
+Streptopelia turtur 
+
+Sturnus vulgaris 
+
+Sylvia atricapilla 
+
+Sylvia communis 
+
+Tadorna tadorna 
+
+Troglodytes troglodytes 
+
+Turdus philomelos 
+
+Turdus viscivorus 
+
+Vanellus vanellus 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+104 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pour nous contacter 
+
+
+
+Mélanie Ternisien 
+Ecologue 
+
++33 6 75 21 09 01 
+mternisien@verdi.fr 
+
+ 
+ 
+ 
+ 
+ 
+

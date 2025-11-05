@@ -1,0 +1,202 @@
+Direction régionale et interdépartementale
+de l’environnement, de l’aménagement
+et des transports d’Île-de-France
+
+Décision n° DRIEAT-SCDD-2025-150 du 29 août 2025
+Dispensant de réaliser une évaluation environnementale
+en application de l’article R.122-3-1 du code de l’environnement
+
+LE PRÉFET DE LA RÉGION D’ÎLE-DE-FRANCE
+PRÉFET DE PARIS
+COMMANDEUR DE LA LÉGION D’HONNEUR
+OFFICIER DE L’ORDRE NATIONAL DU MÉRITE
+
+VU la directive 2011/92/UE du Parlement européen et du Conseil du 13 décembre 2011 concernant l’éva-
+luation des incidences de certains projets publics et privés sur l’environnement, notamment son an-
+nexe III ;
+
+VU le code de l’environnement, notamment ses articles L.122-1, R.122-2, R.122-3 et R.122-3-1 ;
+
+VU le décret n° 2020-844 du 3 juillet 2020 relatif à l’autorité environnementale et à l’autorité chargée
+de l’examen au cas par cas ;
+
+VU le décret du 22 juillet 2020 portant nomination de Monsieur Marc GUILLAUME en qualité de préfet
+de la région d’Île-de-France, préfet de Paris, commandeur de la Légion d’honneur, officier de l’ordre na-
+tional du Mérite ;
+
+VU l’arrêté n° IDF-2022-07-19-00005 du 19 juillet 2022 portant délégation de signature à Madame Em -
+manuelle GAY, directrice régionale et interdépartementale de l'environnement, de l'aménagement et
+des transports d'Île-de-France en matière administrative  ;
+
+VU la décision n° IDF-2025-07-03-00009 du 03 juillet 2025 portant subdélégation de signature en ma-
+tière administrative de Madame Emmanuelle GAY, directrice régionale et interdépartementale de l’en-
+vironnement, de l’aménagement et des transports d’Île-de-France, à ses collaborateurs ;
+
+VU l’arrêté du ministre de la Transition écologique et de la cohésion des territoires du 16 janvier 2023
+fixant le modèle du formulaire de la « demande d’examen au cas par cas » en application de l’article
+R.122-3 du code de l’environnement ;
+
+VU  la demande d’examen au cas par cas  n° F01125P0129 relative au projet de stockage d’énergie par
+batterie situé près du poste source de Chambry et de la RD 405 et  sur la commune de Poincy dans le
+département de la Seine-et-Marne, reçue complète le 25/07/2025 ;
+
+VU l’avis de l’agence régionale de la santé d’Île-de-France daté du 25/08/2025 ;
+
+21-23 rue Miollis
+
+75015 PARIS
+
+Téléphone : 01 40 61 80 80 
+
+www.drieat.ile-de-france.developpement-durable.gouv.fr
+
+1/4
+
+Considérant que le projet  consiste à créer un stockage d’énergie par batterie d’une capacité de 323
+MWh d’énergie, localisé sur un terrain d’assiette d’environ 1 hectare à vocation agricole, se situant à
+proximité immédiate du poste source de Chambry auquel l’infrastructure sera raccordée, et inclut : 
+
+•   sept îlots contenant chacun six unités de stockage par batterie, deux ondulateurs et deux trans-
+
+formateurs BT/HTA à 33 kV, 
+
+•
+
+•
+
+•
+
+un poste électrique avec transformateur de tension 33 kV / 63 kV, 
+
+10 200 m² de clôtures autour de l’installation, 
+
+un poste de contrôle, deux citernes (120 m³), et des pistes d’accès ; 
+
+Considérant que le projet prévoit la création d’un poste de transformation dont la tension maximale
+de transformation est égale ou supérieure à 63 kV et qu’il relève donc de la rubrique 32 des projets sou-
+mis à examen au cas par cas du tableau annexé à l’article R.122-2 du code de l’environnement ;
+
+Considérant que le projet d’unité de stockage est soumis au régime de déclaration au titre de la régle-
+mentation relative aux installations classées pour la protection de l’environnement (ICPE – rubrique
+2925-2 de la nomenclature annexée à l’article R.511-9 du code de l’environnement) ;
+
+Considérant que le projet prévoit d’imperméabiliser une partie de la parcelle (736 m²), qu’il est donc
+susceptible d’avoir un impact sur l’écoulement des eaux pluviales, que le maître d’ouvrage a prévu de
+les gérer par infiltration à la parcelle, sans rejet extérieur, notamment grâce à l’utilisation de matériaux
+perméables pour les pistes d’accès, et d’un bassin d’infiltration, qu’il a prévu de réaliser une étude hy-
+draulique, et que le projet pourrait relever d’une procédure au titre de la rubrique 2.1.5.0. relative aux
+eaux pluviales de la loi sur l’eau (articles L. 214-1 à L. 214-3, et R. 214-1 du code de l’environnement), en
+cas d’infiltration et en fonction de la surface d’écoulement interceptée, et que les enjeux seraient alors
+étudiés et traités dans ce cadre ;
+
+Considérant qu’un ruisseau est présent à proximité immédiate du site et qu’il est de la responsabilité
+du maître d’ouvrage de prendre toutes les mesures pour s’assurer de l’absence de rejet dans le milieu
+en cas d’accident ;
+
+Considérant que le projet prévoit un système de prévoyance du risque incendie, caractéristique d’un
+système de stockage d’énergie, que l’ensemble du site sera entièrement clôturé et que son accès sera li-
+mité aux personnes habilitées, permettant de prévenir les risques d’intrusion ;
+
+Considérant que des habitations sont situées à proximité du site (à environ 100 mètres), que les installa-
+tions prévues sont susceptibles de créer des nuisances sonores et un risque d’exposition aux champs
+électromagnétiques,  que le projet intègre des mesures constructives permettant d’atténuer le bruit
+émis par les ventilateurs, que le pétitionnaire a prévu de réaliser avant les travaux une étude acous -
+tique, permettant de sélectionner les matériels pour se conformer à la réglementation concernant les
+émergences sonores, ainsi qu’une étude de conformité en ce qui concerne la réglementation relative à
+l’exposition des tiers aux champs électriques et magnétiques, notamment l’arrêté interministériel du 17
+mai 2001 ;
+
+Considérant que le projet n’intercepte aucun périmètre de protection ou d’inventaire relatif aux mi-
+lieux naturels, au paysage et au patrimoine, qu’il se situe néanmoins sur un terrain agricole accueillant
+une prairie à vocation de pâturage pouvant être caractéristique d’une biodiversité assez riche, qu’une
+voie d’accès au site intercepte une enveloppe d'alerte de zone humide de classe B selon la cartogra-
+phie de la DRIEAT, à savoir des zones pour lesquelles les informations existantes laissent présager une
+forte probabilité de présence d’une zone humide, que néanmoins cette voie d’accès est déjà existante
+et se situe en dehors du périmètre du projet prévu ; 
+
+Considérant que le maître d’ouvrage devra s’assurer de l’absence d’espèces protégées sur le site, et
+qu’en cas d’impacts résiduels du projet sur des espèces protégées ou leurs habitats, il devra, avant d’en-
+treprendre tout travaux, procéder à une demande de dérogation relative à l’interdiction de porter at-
+teinte à des espèces protégées ou à leurs habitats (article L.411-1 du code de l’environnement) ; 
+
+Considérant que le projet porte un enjeu paysager du fait de son implantation dans une zone à domi-
+nante agricole et naturelle, que le pétitionnaire a pris en compte cet enjeu en prévoyant des mesures
+
+2/4
+
+d’intégration paysagère, notamment par la mise en place de haies mixtes sur tout le pourtour du site,
+et d’implantation de bosquet denses d’essences locales, et qu’il réalisera une étude d’intégration paysa-
+gère détaillée ;
+
+Considérant que les travaux, d’une durée prévisionnelle d’un an, sont susceptibles d’engendrer des nui-
+sances   telles   que   bruits,  poussières,   pollutions  accidentelles   et  obstacles   aux  circulations   et  que   le
+maître d’ouvrage devra respecter la réglementation en vigueur visant à préserver la qualité de vie et la
+sécurité des riverains en limitant les impacts de ces travaux sur l’environnement ; 
+
+Considérant qu’au regard de l’ensemble des éléments fournis par le maître d’ouvrage et des connais-
+sances disponibles à ce stade, le projet n’est pas susceptible d’avoir des impacts notables sur l’environ-
+nement ou sur la santé,
+
+DÉCIDE
+
+Article 1
+ckage d’énergie par batterie situé à Poincy dans le département de la Seine-et-Marne.
+
+    :   La réalisation d’une évaluation environnementale n’est pas nécessaire pour le projet de sto-
+
+Article 2
+ment, ne dispense pas des autorisations administratives auxquelles le projet peut être soumis.
+
+    :    La présente décision, délivrée en application de l’article R.122-3-1 du code de l’environne -
+
+Article 3
+    :   En application de l’article R.122-3-1 (IV) précité, la présente décision sera publiée sur le site In-
+ternet de la préfecture de région et de la direction régionale et interdépartementale de l’environne-
+ment, de l’aménagement et des transports d’Île-de-France.
+
+Pour le préfet de la région d’Île-de-France, préfet de Paris,
+et par délégation,
+La directrice régionale et interdépartementale de l’environne-
+ment, de l’aménagement et des transports d’Île-de-France
+Pour la directrice régionale, et par délégation,
+La cheffe du service connaissance et
+développement durable
+
+3/4
+
+ 
+ 
+ 
+Voies et délais de recours
+
+La présente décision peut faire l’objet d’un recours gracieux formé dans un délai de deux mois à compter de sa notification ou de
+sa mise en ligne sur internet.
+
+Lorsqu’elle   soumet   un   projet   à  évaluation   environnementale,   la   présente   décision   peut   également   faire   l’objet   d’un   recours
+contentieux formé dans les mêmes conditions. Sous peine d’irrecevabilité de ce recours, un recours administratif préalable est
+obligatoire (RAPO) conformément aux dispositions du VII de l’article R. 122-3-1 du code de l’environnement. Ce recours suspend
+le délai du recours contentieux.
+
+Le recours gracieux ou le recours administratif préalable obligatoire (RAPO) doit être adressé à :
+Monsieur le préfet de la région d’Île-de-France
+Adresse postale : DRIEAT IF  – SCDD/DEE – 21-23 rue Miollis - 75015 PARIS
+Le recours doit être formé dans le délai de 2 mois à compter de la notification ou publication de la décision. 
+
+Le recours hiérarchique, qui peut être formé auprès de la ministre de la Transition écologique, de la Biodiversité, de la Forêt, de la
+Mer et de la Pêche, dans le délai de deux mois à compter de la notification ou publication de la décision, n’a pas pour effet de
+suspendre et proroger le délai du recours contentieux.
+Le recours est adressé à :
+Madame la ministre de la Transition écologique, de la Biodiversité, de la Forêt, de la Mer et de la Pêche
+Ministère de la Transition écologique, de la Biodiversité, de la Forêt, de la Mer et de la Pêche
+92055 Paris La Défense Cedex
+
+Le recours contentieux doit être formé dans un délai de deux mois à compter du rejet du RAPO auprès du tribunal administratif
+compétent.
+
+La décision dispensant d’évaluation environnementale rendue au titre de l’examen au cas par cas ne constitue pas une décision
+faisant grief mais un acte préparatoire ; elle ne peut faire l’objet d’un recours contentieux direct. Comme tout acte préparatoire,
+elle est susceptible d'être contestée à l'occasion d'un recours dirigé contre la décision ou l'acte autorisant le projet.
+
+4/4
+
+

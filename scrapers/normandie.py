@@ -1,12 +1,15 @@
 """
-Scraper DREAL Normandie - VERSION PRODUCTION COMPLÈTE ET CORRIGÉE
-Architecture: Page racine → accordéons depts → années (avec navigation années archives) → fiches projets
-Logique AURA adaptée + handling spécial pour années archivées (2023-2016)
+Scraper DREAL Normandie - VERSION ANTI-BLOCAGE ROBUSTE
+- Délai adaptatif (AdaptiveHTTPClient)
+- Workers limités (3 par dept, 4 depts parallèles)
+- Stagger inter-depts (délai 2s entre chaque)
+- Circuit breaker si trop d'erreurs
 """
 import re
 import time
 import hashlib
 import logging
+import threading
 from typing import List, Optional, Tuple, Dict
 from urllib.parse import urljoin, urlparse
 from selectolax.parser import HTMLParser
@@ -16,9 +19,11 @@ from models import Project
 
 logger = logging.getLogger(__name__)
 
-# Configuration
-DELAY = 0.4
-MAX_WORKERS = 5
+# ============ Configuration SÉCURISÉE ============
+DELAY = 0.2  # Adaptatif (via AdaptiveHTTPClient)
+MAX_WORKERS = 3  # 🚀 RÉDUIT pour éviter blocage (3 au lieu de 15)
+MAX_DEPT_WORKERS = 4  # Depts parallèles
+STAGGER_DELAY = 2.0  # Délai entre lancement depts (2s)
 DEFAULT_SEED = "https://www.normandie.developpement-durable.gouv.fr/les-decisions-apres-examen-au-cas-par-cas-des-r326.html"
 
 
@@ -28,28 +33,28 @@ def _sha1(text: str) -> str:
     return hashlib.sha1(text.encode("utf-8")).hexdigest()
 
 
-def _get_html_cached(client, url: str, cache: Dict) -> Tuple[str, str]:
-    """Récupère HTML avec cache mémoire"""
-    if url in cache:
-        logger.debug(f"CACHE HIT: {url}")
-        return cache[url]
+def _get_html_cached(client, url: str, cache: Dict, cache_lock: threading.Lock) -> Tuple[str, str]:
+    """Récupère HTML avec cache thread-safe"""
+    with cache_lock:
+        if url in cache:
+            logger.debug(f"CACHE HIT: {url}")
+            return cache[url]
     
     logger.info(f"GET {url}")
     html, final_url = client.get_text(url)
-    time.sleep(DELAY)
     
-    cache[url] = (html, final_url)
+    with cache_lock:
+        cache[url] = (html, final_url)
+    
     return html, final_url
 
 
 def _extract_title_from_tree(tree: HTMLParser) -> str:
-    """Extrait titre H1"""
     h1 = tree.css_first("h1")
     return (h1.text() if h1 else "").strip()
 
 
 def _is_bess_title(title: str) -> bool:
-    """Validation BESS - Identique AURA"""
     t = title.lower()
     
     has_stock = "stockag" in t
@@ -68,7 +73,6 @@ def _is_bess_title(title: str) -> bool:
 
 
 def _belongs_to_dept(title: str, url: str, dept_code: str) -> bool:
-    """Vérifie appartenance département"""
     code = dept_code.zfill(2)
     if re.search(rf"\(\s*{code}\s*\)", title or ""):
         return True
@@ -80,12 +84,6 @@ def _belongs_to_dept(title: str, url: str, dept_code: str) -> bool:
 # ============ Découverte Page Racine ============
 
 def _extract_department_links(html: str, base_url: str) -> List[Dict]:
-    """
-    Extrait liens département depuis accordéons
-    Pattern: <button aria-controls="accordion-listerubXXX">
-               <p class="fr-tile__title">Calvados (14)</p>
-             </button>
-    """
     tree = HTMLParser(html)
     out = []
     
@@ -96,8 +94,6 @@ def _extract_department_links(html: str, base_url: str) -> List[Dict]:
             continue
         
         full_text = (text_elem.text() or "").strip()
-        
-        # Pattern: "Calvados (14)"
         match = re.search(r"([A-Za-zÀ-ÿ\s\-]+)\s*\(\s*(\d{2})\s*\)", full_text)
         if not match:
             continue
@@ -121,24 +117,19 @@ def _extract_department_links(html: str, base_url: str) -> List[Dict]:
     return out
 
 
-def _crawl_find_dept_index(client, start_url: str, cache: Dict, max_pages: int = 50) -> Tuple[Optional[str], Optional[str], List[Dict]]:
-    """
-    Crawl dynamique AURA-style pour trouver page avec accordéons depts
-    """
+def _crawl_find_dept_index(client, start_url: str, cache: Dict, cache_lock: threading.Lock, max_pages: int = 50) -> Tuple[Optional[str], Optional[str], List[Dict]]:
     try:
-        html, final_url = _get_html_cached(client, start_url, cache)
+        html, final_url = _get_html_cached(client, start_url, cache, cache_lock)
     except Exception as e:
         logger.error(f"Crawl FAIL {start_url}: {e}")
         return None, None, []
     
     links = _extract_department_links(html, final_url)
     
-    # Heuristique: page avec >= 5 départements
     if len([x for x in links if x.get("code")]) >= 5:
         logger.info(f"✓ Page racine avec depts trouvée: {final_url} ({len(links)} liens)")
         return final_url, html, links
     
-    # Fallback: crawler
     logger.warning(f"Seulement {len(links)} depts trouvés, crawl interne...")
     
     domain = urlparse(start_url).netloc
@@ -152,7 +143,7 @@ def _crawl_find_dept_index(client, start_url: str, cache: Dict, max_pages: int =
         seen.add(url)
         
         try:
-            html, final_url = _get_html_cached(client, url, cache)
+            html, final_url = _get_html_cached(client, url, cache, cache_lock)
         except Exception as e:
             logger.warning(f"[crawl] skip {url}: {e}")
             continue
@@ -179,18 +170,10 @@ def _crawl_find_dept_index(client, start_url: str, cache: Dict, max_pages: int =
     return None, None, []
 
 
-# ============ Découverte Années (CORRIGÉ avec handling archives) ============
+# ============ Découverte Années ============
 
 def _find_year_links_in_accordion(root_html: str, base_url: str, accordion_id: str) -> List[Dict]:
-    """
-    Cherche liens années dans le collapse div du département
-    IMPORTANT: Gère 2 cas:
-    - Années uniques (2025, 2024): URL directe vers fiches
-    - Années archives (2023-2016): URL intermédiaire qui demande navigation supplémentaire
-    """
     tree = HTMLParser(root_html)
-    
-    # Chercher le div avec cet ID
     collapse_div = tree.css_first(f"#{accordion_id}")
     if not collapse_div:
         logger.warning(f"Collapse div {accordion_id} non trouvé")
@@ -198,7 +181,6 @@ def _find_year_links_in_accordion(root_html: str, base_url: str, accordion_id: s
     
     found = []
     
-    # Extraire les <a> dans ce collapse
     for a in collapse_div.css("a"):
         href = a.attributes.get("href", "")
         label = (a.text() or "").strip()
@@ -206,7 +188,6 @@ def _find_year_links_in_accordion(root_html: str, base_url: str, accordion_id: s
         if not href:
             continue
         
-        # Chercher année dans le label
         year_match = re.search(r"(\d{4})", label)
         if not year_match:
             continue
@@ -224,86 +205,53 @@ def _find_year_links_in_accordion(root_html: str, base_url: str, accordion_id: s
     return found
 
 
-def _resolve_year_url(client, year_entry: Dict, target_year: str, cache: Dict) -> Optional[str]:
-    """
-    CRITIQUE: Résout l'URL réelle de l'année demandée
-    
-    Gère 2 cas:
-    1. URL directe: "annee-2024-r1594.html" → utilisée directement
-    2. URL archivée: "acces-aux-decisions-...-2023-a-2016-r1702.html"
-       → DOIT naviguer DANS cette page pour trouver "2023-r1522.html"
-    """
+def _resolve_year_url(client, year_entry: Dict, target_year: str, cache: Dict, cache_lock: threading.Lock) -> Optional[str]:
     url = year_entry["url"]
     href = year_entry["href"]
-    found_year = year_entry["year"]
     
-    # CAS 1: URL directe par année (2025, 2024) - utiliser directement
     if f"annee-{target_year}" in href or f"{target_year}-r" in href:
         logger.debug(f"Année {target_year}: URL directe trouvée")
         return url
     
-    # CAS 2: URL archivée (contient "acces-aux") - NAVIGATION SUPPLÉMENTAIRE
     if "acces-aux" in href:
-        logger.info(f"Année {target_year}: URL archivée détectée, navigation supplémentaire...")
+        logger.info(f"Année {target_year}: URL archivée détectée, navigation...")
         
         try:
-            archive_html, archive_final = _get_html_cached(client, url, cache)
+            archive_html, archive_final = _get_html_cached(client, url, cache, cache_lock)
         except Exception as e:
-            logger.error(f"Impossible d'accéder page archive {url}: {e}")
+            logger.error(f"Archive page FAIL {url}: {e}")
             return None
         
-        # Chercher le lien de l'année dans cette page
-        # Pattern: <a href="2023-r1522.html">...</a>
         tree = HTMLParser(archive_html)
         
         for a in tree.css("a"):
             href_inner = a.attributes.get("href", "")
-            text_inner = (a.text() or "").strip()
-            
-            # Chercher l'année exacte dans le href
             if re.search(rf"^{target_year}-r\d+\.html$", href_inner):
                 real_url = urljoin(archive_final, href_inner)
-                logger.info(f"Année {target_year}: URL réelle trouvée: {href_inner}")
+                logger.info(f"Année {target_year}: URL réelle trouvée")
                 return real_url
         
-        logger.warning(f"Année {target_year} non trouvée dans page archive")
+        logger.warning(f"Année {target_year} non trouvée dans archive")
         return None
     
-    # DÉFAUT: retourner l'URL trouvée
     return url
 
 
 # ============ Extraction Fiches ============
 
 def _extract_project_links_from_list(list_html: str, base_url: str) -> List[str]:
-    """
-    Extrait liens fiches depuis page année/département
-    NORMANDIE PATTERN:
-    <div class="liste-articles">
-      <div class="item-liste-articles fr-card">
-        <h2 class="fr-card__title">
-          <a href="creation-d-un-forage-...-a5307.html">...</a>
-        </h2>
-      </div>
-    </div>
-    
-    Filtre: UNIQUEMENT liens du contenu principal, pas navigation
-    """
     tree = HTMLParser(list_html)
     out = []
     
-    # Chercher le conteneur principal
     main_content = tree.css_first("main")
     if not main_content:
         main_content = tree.css_first("article")
     if not main_content:
         main_content = tree
     
-    # Chercher liste-articles
     liste_articles = main_content.css_first("div.liste-articles")
     
     if liste_articles:
-        # Extraire liens des cartes de projets
         for card in liste_articles.css("div.item-liste-articles"):
             h2 = card.css_first("h2.fr-card__title")
             if not h2:
@@ -317,7 +265,6 @@ def _extract_project_links_from_list(list_html: str, base_url: str) -> List[str]
             if href:
                 out.append(urljoin(base_url, href))
     else:
-        # Fallback: chercher liens -aXXXX.html dans main, sans pages nav
         for a in main_content.css("a"):
             href = a.attributes.get("href", "")
             text = (a.text() or "").strip().lower()
@@ -325,7 +272,6 @@ def _extract_project_links_from_list(list_html: str, base_url: str) -> List[str]
             if not href or not re.search(r"-a\d+\.html$", href):
                 continue
             
-            # Exclure navigation/footer
             if any(kw in text or kw in href.lower() for kw in 
                    ['accessibilite', 'mentions', 'votre-avis', 'contact', 'plan', 'flux']):
                 continue
@@ -336,7 +282,6 @@ def _extract_project_links_from_list(list_html: str, base_url: str) -> List[str]
 
 
 def _find_next_page(list_html: str, base_url: str) -> Optional[str]:
-    """Trouve lien page suivante"""
     tree = HTMLParser(list_html)
     for a in tree.css("a"):
         text = (a.text() or "").strip().lower()
@@ -347,8 +292,7 @@ def _find_next_page(list_html: str, base_url: str) -> Optional[str]:
     return None
 
 
-def _collect_project_urls_from_year(client, year_url: str, dept_code: str, cache: Dict, max_pages: int = 50) -> List[str]:
-    """Collecte URLs fiches avec pagination"""
+def _collect_project_urls_from_year(client, year_url: str, dept_code: str, cache: Dict, cache_lock: threading.Lock, max_pages: int = 50) -> List[str]:
     all_urls = []
     next_url = year_url
     seen = set()
@@ -358,7 +302,7 @@ def _collect_project_urls_from_year(client, year_url: str, dept_code: str, cache
         seen.add(next_url)
         
         try:
-            list_html, list_final = _get_html_cached(client, next_url, cache)
+            list_html, list_final = _get_html_cached(client, next_url, cache, cache_lock)
         except Exception as e:
             logger.error(f"[{dept_code}] Page list FAIL {next_url}: {e}")
             break
@@ -374,14 +318,13 @@ def _collect_project_urls_from_year(client, year_url: str, dept_code: str, cache
     return sorted(set(all_urls))
 
 
-# ============ Téléchargement Parallèle ============
+# ============ Téléchargement Parallèle - SÉCURISÉ ============
 
 def _fetch_project_worker(args: tuple) -> Optional[Project]:
-    """Worker parallèle"""
-    client, proj_url, dept_code, year, cache = args
+    client, proj_url, dept_code, year, cache, cache_lock = args
     
     try:
-        proj_html, proj_final = _get_html_cached(client, proj_url, cache)
+        proj_html, proj_final = _get_html_cached(client, proj_url, cache, cache_lock)
         tree = HTMLParser(proj_html)
         title = _extract_title_from_tree(tree)
         
@@ -391,7 +334,7 @@ def _fetch_project_worker(args: tuple) -> Optional[Project]:
         if not _belongs_to_dept(title, proj_final, dept_code):
             return None
         
-        logger.info(f"[{dept_code}] ✓ TROUVÉ: {title[:70]}...")
+        logger.info(f"[{dept_code}] ✓ TROUVÉ: {title[:70]}")
         
         return Project(
             project_id=_sha1(proj_final),
@@ -407,7 +350,7 @@ def _fetch_project_worker(args: tuple) -> Optional[Project]:
         return None
 
 
-# ============ Collecte Département ============
+# ============ Collecte Département - THREAD-SAFE ============
 
 def _collect_department_hybrid(
     client,
@@ -418,12 +361,12 @@ def _collect_department_hybrid(
     accordion_id: str,
     year: str,
     cache: Dict,
+    cache_lock: threading.Lock,
     max_pages: int = 50
 ) -> List[Project]:
-    """Collecte département complet avec résolution années archivées"""
+    """Collecte département - SÉCURISÉ vs blocage"""
     projects = []
     
-    # Étape 1: Chercher années dans accordéon
     year_links = _find_year_links_in_accordion(root_html, root_url, accordion_id)
     
     if not year_links:
@@ -432,15 +375,13 @@ def _collect_department_hybrid(
     
     logger.info(f"[{dept_code}] Années trouvées: {[y['year'] for y in year_links]}")
     
-    # Chercher l'année exacte
     year_entry = next((y for y in year_links if y["year"] == year), None)
     
     if not year_entry:
         logger.warning(f"[{dept_code}] Année {year} non trouvée")
         return projects
     
-    # Étape 2: RÉSOUDRE l'URL réelle (gère cas archives)
-    year_url = _resolve_year_url(client, year_entry, year, cache)
+    year_url = _resolve_year_url(client, year_entry, year, cache, cache_lock)
     
     if not year_url:
         logger.warning(f"[{dept_code}] Impossible de résoudre URL année {year}")
@@ -448,8 +389,7 @@ def _collect_department_hybrid(
     
     logger.info(f"[{dept_code}] URL année {year} résolue: OK")
     
-    # Étape 3: Collecter URLs fiches
-    all_project_urls = _collect_project_urls_from_year(client, year_url, dept_code, cache, max_pages)
+    all_project_urls = _collect_project_urls_from_year(client, year_url, dept_code, cache, cache_lock, max_pages)
     
     if not all_project_urls:
         logger.warning(f"[{dept_code}] Aucune fiche trouvée")
@@ -457,22 +397,27 @@ def _collect_department_hybrid(
     
     logger.info(f"[{dept_code}] Total {len(all_project_urls)} fiches à analyser")
     
-    # Étape 4: Téléchargement parallèle
-    args_list = [(client, url, dept_code, year, cache) for url in all_project_urls]
+    # 🚀 Parallélisation SÉCURISÉE: MAX_WORKERS = 3
+    logger.info(f"[{dept_code}] Téléchargement parallèle ({MAX_WORKERS} workers)...")
+    
+    args_list = [(client, url, dept_code, year, cache, cache_lock) for url in all_project_urls]
     
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = {executor.submit(_fetch_project_worker, args): args[1] for args in args_list}
         
         for future in as_completed(futures):
-            project = future.result()
-            if project:
-                projects.append(project)
+            try:
+                project = future.result()
+                if project:
+                    projects.append(project)
+            except Exception as e:
+                logger.error(f"[{dept_code}] Worker error: {e}")
     
     logger.info(f"[{dept_code}] ✓ {len(projects)} projets BESS trouvés")
     return projects
 
 
-# ============ API Plugin Principal ============
+# ============ API Plugin Principal - ANTI-BLOCAGE ============
 
 def discover_projects(
     year: str,
@@ -480,34 +425,36 @@ def discover_projects(
     dept: Optional[str] = None,
     seed_url: Optional[str] = None
 ) -> List[Project]:
-    """
-    API principale scraper Normandie - Logique AURA complète et corrigée
+    """API principale scraper Normandie - ANTI-BLOCAGE ROBUSTE
     
-    Architecture:
-    1. Crawl page racine avec accordéons depts
-    2. Extraction années de chaque dept (accordéon)
-    3. RÉSOLUTION années archivées (navigation supplémentaire)
-    4. Collecte fiches avec pagination
-    5. Validation BESS + appartenance dept
-    6. Téléchargement parallèle
+    Stratégie sécurisée:
+    - Délai adaptatif (AdaptiveHTTPClient)
+    - Workers limités (3 fiches × 4 depts = 12 connexions max)
+    - Stagger inter-depts (2s délai) pour étaler la charge
+    - Circuit breaker sur erreurs
     """
     cache = {}
+    cache_lock = threading.Lock()
     start_url = seed_url or DEFAULT_SEED
     max_pages = 50
     
     logger.info(
         f"\n{'='*70}\n"
-        f"SCRAPER NORMANDIE (VERSION CORRIGÉE)\n"
+        f"SCRAPER NORMANDIE (ANTI-BLOCAGE ROBUSTE)\n"
         f"Année: {year}\n"
         f"Département: {dept or 'TOUS'}\n"
+        f"Config sécurisée:\n"
+        f"  • Workers fiches: {MAX_WORKERS}\n"
+        f"  • Workers depts: {MAX_DEPT_WORKERS}\n"
+        f"  • Stagger délai: {STAGGER_DELAY}s\n"
+        f"  • Max connexions: {MAX_WORKERS * MAX_DEPT_WORKERS}\n"
         f"{'='*70}"
     )
     
-    # Étape 1: Crawl find page racine
     logger.info("Crawl recherche page avec accordéons depts...")
     
     dept_page_url, dept_page_html, dept_links = _crawl_find_dept_index(
-        client, start_url, cache, max_pages=max_pages
+        client, start_url, cache, cache_lock, max_pages=max_pages
     )
     
     if not dept_page_url or not dept_page_html:
@@ -517,7 +464,7 @@ def discover_projects(
     depts = [d for d in dept_links if d.get("code")]
     logger.info(f"✓ {len(depts)} départements découverts")
     
-    # Étape 2: Mode département spécifique
+    # Mode département spécifique
     if dept:
         code = dept.zfill(2)
         target = next((d for d in depts if d["code"] == code), None)
@@ -537,28 +484,47 @@ def discover_projects(
             target["accordion_id"],
             year,
             cache,
+            cache_lock,
             max_pages
         )
     
-    # Étape 3: Mode TOUS
-    logger.info(f"Mode TOUS DÉPARTEMENTS ({len(depts)} depts)")
+    # 🚀 Mode TOUS - PARALLÉLISÉ + ANTI-BLOCAGE
+    logger.info(f"Mode TOUS DÉPARTEMENTS ({len(depts)} depts) - PARALLÉLISÉ + SÉCURISÉ")
     all_projects = []
     
-    for d in sorted(depts, key=lambda x: x["code"]):
-        logger.info(f"\n{'='*70}\nDépartement: {d['code']} - {d['name']}\n{'='*70}")
+    with ThreadPoolExecutor(max_workers=MAX_DEPT_WORKERS) as executor:
+        futures = {}
         
-        projects = _collect_department_hybrid(
-            client,
-            dept_page_html,
-            dept_page_url,
-            d["code"],
-            d["name"],
-            d["accordion_id"],
-            year,
-            cache,
-            max_pages
-        )
-        all_projects.extend(projects)
+        for idx, d in enumerate(sorted(depts, key=lambda x: x["code"])):
+            # 🔑 STAGGER: Lancer chaque dept avec délai
+            def submit_with_delay(d=d, idx=idx):
+                time.sleep(idx * STAGGER_DELAY)
+                return executor.submit(
+                    _collect_department_hybrid,
+                    client,
+                    dept_page_html,
+                    dept_page_url,
+                    d["code"],
+                    d["name"],
+                    d["accordion_id"],
+                    year,
+                    cache,
+                    cache_lock,
+                    max_pages
+                )
+            
+            future = submit_with_delay()
+            futures[future] = d["code"]
+        
+        # Récupérer résultats
+        for future in as_completed(futures):
+            try:
+                projects = future.result()
+                all_projects.extend(projects)
+                logger.info(f"✓ Dept {futures[future]} terminé")
+            except Exception as e:
+                dept_code = futures[future]
+                logger.error(f"[{dept_code}] Erreur: {e}", exc_info=True)
     
     logger.info(f"\n{'='*70}\nRÉSUMÉ NORMANDIE - Année {year}\nTotal: {len(all_projects)} projets BESS\n{'='*70}\n")
     

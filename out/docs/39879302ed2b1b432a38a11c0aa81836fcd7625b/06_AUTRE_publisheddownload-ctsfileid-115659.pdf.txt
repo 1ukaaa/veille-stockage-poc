@@ -1,0 +1,66 @@
+Légende
+212 Numéro de parcelle cadastrale
+Limite de parcelle cadastrale
+Bâti existant
+Clôture
+Grave concassée
+☑ Voie d'accès à créer
+Espace boisé
+Espace libre
+Eaux usées
+Evacuations EP
+Cote de niveau existant conservé
+Cote de niveau projet
+Zone de maintenance
+Batterie ESS-
+3.00- 1.50
+6.05
+3.50
+Batterie
+ESS
+456.20
+NGF
+Limite de défrichement (3m)
+453.31
+NGF
+IS (1UP)
+Voie d'accès SDIS
+à créer (4m)
+453.31
+NGF
+000000000
+453.31
+NGF
+....\Logo Decade Logo Linkedin v2 Decade.png
+LAVAL S/VOLOGNE
+PHASE ETUDE
+Espace boisé non classé
+3:50 2.44 0.90 3.00-
+Grave concassée
+456.20
+NGF
+Clôture
+6.05
+4.00
+ooooooooo
++ Armoire de coupure
+Poste de livraison
+Périmètre sécurité (7m)-
+Portail d'accès (3UP)—
+MVS-
+456.20
+NGF
+453.39
+NKR
+6.02
+2.50
+4.48
+6.80
+3.00
+-7.04-
+Annexe 5 - Plan de masse
+DATE
+08/09/2025
+NUMERO
+6
+459.29

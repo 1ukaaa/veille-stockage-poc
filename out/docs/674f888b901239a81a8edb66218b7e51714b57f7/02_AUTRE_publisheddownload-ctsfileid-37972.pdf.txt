@@ -1,0 +1,415 @@
+Fiche technique –  
+Faux-Fresnay
+
+www.corsicasole.com
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+SOMMAIRE
+
+I.
+
+Caractéristiques générales du projet
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+Situation géographique et administrative
+
+Nature du projet
+
+Objectifs du projet
+
+Déroulé du projet
+
+a.
+
+b.
+
+Phase chantier
+
+Phase exploitation
+
+Chiffres clés
+
+Engagement
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I. Caractéristiques générales du projet
+
+I.1. Situation géographique et administrative
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I.1. Situation géographique et administrative
+
+La commune de Faux-Fresnay se situe au Sud du département de Marne 
+
+dans  la  région  Grand  Est.  Elle  est  rattachée  à  la  communauté  de 
+
+communes CC Sud Marnais, regroupant 14 communes.
+
+Le projet se situe au centre de la commune à proximité du poste électrique.
+
+Localisation du projet
+
+Adresse
+
+Lieu-dit Le Haut des Taupinières
+
+Commune(s)
+
+51230 Faux-Fresnay
+
+Coordonnées 
+géographiques
+
+Parcelle(s) 
+cadastrale(s)
+
+Zone d’implantation des infrastructures de stockage d’électricité 
+par batterie et du poste électrique : 
+48°38’56.1’’N 3°58’41.0’’E
+
+Zone d’implantation des infrastructures de stockage d’électricité 
+par batterie et du poste électrique : 
+Section ZL – Numéro 15, 16, 17, 18
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I. Caractéristiques générales du projet
+
+I.2. Nature du projet
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I.2. Nature du projet
+
+La  société  CORSICA  SOLE  a  pour  projet  de  construire  un  poste  de 
+
+transformation 400/33 kV, qui permettra de délivrer sur le réseau public de 
+
+transport  d’électricité,  l’énergie  électrique  stockée  par  des  batteries 
+
+installées  sur  site  d’une  puissance  de  250  MW  et  d’une  capacité  de  500 
+
+MWh.
+
+Le  poste  de  transformation  électrique  projeté  se  composera  d’une 
+
+plateforme  gravillonnée  d’environ  0,3  ha  où  seront  disposées 
+
+les 
+
+installations  haute  tension  telles  que  :  transformateurs,  disjoncteurs, 
+
+sectionneurs, ainsi qu’un bâtiment de contrôle.
+
+La plateforme sera clôturée par une clôture réglementaire d’une hauteur de 
+
+2,60 m et d’un portail verrouillé.
+
+La  plateforme  gravillonnée  du  poste  de  transformation  permet  de  réduire 
+
+les risques électriques tout en étant perméable à l’eau. Seule l’emprise du 
+
+transformateur  400kV  et  du  bâtiment  seront  imperméabilisés.  Ceux-ci 
+
+seront  positionnés  sur  des  dalles  béton.  Les  pistes  seront  réalisées  avec 
+
+des  matériaux  perméables  à 
+
+l’eau  de 
+
+type  grave  concassée.  Le 
+
+remblaiement  en  matériaux  d’apport  permet  d’obtenir  les  caractéristiques 
+
+attendues  pour  la  plateforme  et  les  pistes  vis-à-vis  de  la  circulation  des 
+
+engins  et 
+
+l’utilisation  des  grues  de 
+
+levage  pour 
+
+l’installation  des 
+
+équipements, tout en offrant une perméabilité suffisante.
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I.2. Nature du projet
+
+Pour  la  zone  de  stockage,  seule  l’emprise  des  fondations  en  béton,  sur 
+
+lesquelles  seront  positionnés 
+
+les  équipements  de  stockage,  sera 
+
+imperméabilisée.  Les  plateformes  en  bétons  intégreront  un  réseau  de 
+
+collecte des eaux pluviales et/ou d’extinction.
+
+Des  aménagements  pourront  être  effectués  pour  la  gestion  des  eaux 
+
+pluviales (noues d’infiltration par exemple) afin de limiter l’impact du projet 
+
+sur le régime des écoulements naturels des terrains avec les opérations de 
+
+terrassement et l’imperméabilisation, même si limitée, d’une partie du site.
+
+Les  terrassements  du  site  seront  gérés  en  déblais/remblais  limitant  la 
+
+production de déchets.
+
+Cependant,  la  réalisation  des  fondations  et  des  ouvrages  de  gestion  des 
+
+eaux  pluviales  pourra  générer  un  excédent  de  matériaux.  Ces  déblais 
+
+seront  évacués  vers  des  centres  de  prise  en  charge  adaptés.  La  terre 
+
+végétale de surface sera réutilisée sur place.
+
+Les travaux de terrassement concernent principalement la zone d’emprise 
+
+du  poste  électrique.  Concernant  la  zone  de  stockage,  les  travaux  de 
+
+terrassement  seront  limités  par  l’installation  des  équipements  sur  les 
+
+fondations en béton.
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I.2. Nature du projet
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I. Caractéristiques générales du projet
+
+I.3. Objectifs du projet
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I.3. Objectifs du projet
+
+Le  projet  consiste  en  la  construction  d’un  poste  de  transformation 
+
+électrique  privé  HTA/HTB,  dont 
+
+la 
+
+tension  maximale  est  de 
+
+400kV permettant  de  raccorder  au  réseau  nos  installations  de  stockage 
+
+d'énergie par batteries.
+
+Ces  équipements  de  stockage  seront  situés  à  proximité  directe  du  poste 
+
+électrique à créer. 
+
+Celui-ci permettra de délivrer, sur le réseau public de transport d'électricité, 
+
+l'énergie  électrique  stockée  par  les  batteries  installées  sur  site  d'une 
+
+puissance  de  250  MW  et  d'une  capacité  de  500MWh.  L'installation  sera 
+
+raccordée  au  poste  électrique  Faux-Fresnay  par  une  liaison  électrique 
+
+souterraine. Le  tracé  définitif  sera  validé  par  le  préfet  sur  proposition  de 
+
+RTE, suite à la phase de concertation (fuseau de moindre impact).
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+ 
+I.3. Objectifs du projet
+
+Le stockage d'énergie électrique, en injection et/ou en soutirage, permet de 
+
+:
+
+▪ Contribuer  au  réglage  de  la  fréquence  du  réseau,  en  participant  aux 
+
+mécanismes  de 
+
+réserve  primaire 
+
+(FCR)  et  secondaire 
+
+(aFFR) 
+
+contractualisé  avec  le  gestionnaire  du  réseau  de  transport  électrique, 
+
+RTE. 
+
+▪ Participer  au  mécanisme  de  capacité  (CRM)  pour  certifier  de  la 
+
+puissance disponible sur le réseau. 
+
+▪ Participer aux mécanismes d'ajustement et de gestion des congestions. 
+
+▪ Stocker, en période de forte production, et déstocker, en période de forte 
+
+consommation, la production d'énergies renouvelables (éolien et solaire) 
+
+afin de mieux favoriser leur intégration sur le réseau.
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I. Caractéristiques générales du projet
+
+I.4. Déroulé du projet
+a. Phase chantier
+b. Phase exploitation
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I.4.a Phase chantier
+
+▪  
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I.4.a Phase chantier
+
+RTE  assurera  le  raccordement  via  une  liaison  souterraine  400kV,  en 
+
+bordure  de  champs  agricoles,  entre  le  poste  existant  RTE  et  le  point  de 
+
+raccordement,  et  la  création  d’une  cellule  d’arrivée  au  sein  du  poste 
+
+Faux-Fresnay.  Le  raccordement  en  souterrain  permet  de  dispenser  le 
+
+projet  de  portiques  électriques  d’une  hauteur  de  16  m  ainsi  que  des 
+
+pylônes électriques.
+
+▪ Pour l’installation de stockage, les travaux dureront environ 8 mois.
+
+▪ Pour  la  liaison  souterraine  400  kV  de  raccordement  entre  le  poste 
+
+existant RTE et le site du projet, les travaux sont évalués à 6 mois.
+
+▪ Pour  les  travaux  au  poste  RTE  existant,  les  travaux  sont  évalués  à  6 
+
+mois : création d’une cellule d’arrivée et éventuellement d’un bâtiment de 
+
+relayage.
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I.4.b. Phase exploitation
+
+Le site sera clôturé et interdit au public.
+
+Durant  sa  phase  d’exploitation,  il  n’y  aura  pas  de  présence  humaine 
+
+permanente.
+
+Le  site  sera  télésurveillé  et  piloté  24h/24h.  Des  visites  de  contrôle  et 
+
+d’entretien  seront  effectuées  régulièrement.  La  maintenance  sera  réalisée 
+
+par  un  personnel  compétent  ayant  reçu  les  formations  techniques  et  de 
+
+sécurité nécessaires.
+
+Ces installations n’émettent aucun gaz, liquide ou solide.
+
+La ventilation utilisée pour contrôler la température des unités de stockage 
+
+émet un léger bruit qui sera audible en bordure de projet, mais qui devient 
+
+inaudible au-delà de 100 à 150 m.
+
+Une étude acoustique pourra être réalisée au moment de la préparation du 
+
+permis  de  construire,  mais  il  est  à  noter  que  le  projet  est  situé  dans  une 
+
+zone  agricole  non  habitée,  à  proximité  d’un  poste  électrique  qui  émet 
+
+lui-même du bruit. L’émergence sonore de la centrale de stockage sera de 
+
+ce fait négligeable et bien en deçà des limites réglementaires.
+
+La  durée  d’exploitation  du  poste  de  transformation  et  des  installations  de 
+
+stockage projetées serait d’au moins 30 ans.
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I. Caractéristiques générales du projet
+
+I.5. Chiffres clés
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I.5. Chiffres clés
+
+▪  
+
+2
+
+1,5ha
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I. Caractéristiques générales du projet
+
+I.6. Engagement
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+I.6. Engagement
+
+Corsica  Sole  s’engage  à  s’assurer  d’un  chantier  et  d’un  projet  respectueux  de  l’environnement, 
+notamment via  l’application d’un certain nombre de mesures/actions telles que :  
+
+- la maintenance préventive du matériel et des engins
+
+- l’étanchéification des aires d'entrepôts de matériaux, de ravitaillement, de lavage
+
+- l’interdiction de tout entretien ou réparation mécanique en dehors des aires spécifiquement dédiées
+
+- le stockage du carburant, confinement et maintenance du matériel sur des aires aménagées à cet effet. 
+
+En  cas  de  fuite  accidentelle  de  produits  polluants,  des  moyens  seront  disponibles  afin  de  circonscrire 
+rapidement  la  pollution  générée  par  les  entreprises  de  travaux  (par  épandage  de  produits  absorbants 
+(sable) ; et/ou raclage du sol en surface et transport des sols pollués vers des sites de traitement agréés ; 
+et/ou par utilisation de kits antipollution équipant tous les engins ; le transport des produits souillés sera 
+mené conformément aux procédures communiquées par le fournisseur). 
+
+Les  mesures  de  protection  des  milieux  et  dispositifs  de  préservation  feront  l’objet  d’un  encadrement 
+important lors de la mise en œuvre et de suivis / contrôles réguliers lors de l’intégralité de la phase de 
+travaux par le maître d’œuvre et le naturaliste en charge du suivi de chantier. 
+
+Concernant le poste de transformation, des bacs étanches seront installés sous tous les appareils contenant 
+de  l’huile  et  notamment  les  transformateurs,  afin  d’éviter  tout  risque  de  pollution  en  cas  de  fuite 
+accidentelle  d’huile.  Ces  bacs  seront  raccordés  à  une  fosse  déportée  où  l’huile  piégée  est  ensuite 
+récupérée et exportée pour recyclage par une entreprise spécialisée.
+
+Tel que le projet de poste électrique est défini, celui-ci ne devrait pas impacter, de manière notable, les 
+eaux  de  ruissellement  et  leur  infiltration  dans  le  sol  compte  tenu  des  mesures  de  réduction  adoptées 
+(pistes perméables à l’eau, réduction des surfaces imperméabilisées). 
+
+Pour le projet de stockage d’énergie par batterie, un réseau de collecte des eaux pluviales et d’incendie 
+sera mis en place sur site. Ce réseau sera réalisé à l’aide de caniveaux de collecte et de regards reliés à un 
+réseau enterré afin de collecter les eaux de ruissellement et les acheminer jusqu’au bassin de rétention.
+
+Confidentiel – Tous droits réservés à CORSICA SOLE
+
+ 
+ 
+

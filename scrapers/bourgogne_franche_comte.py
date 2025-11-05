@@ -1,53 +1,175 @@
-# regions/bourgogne_franche_comte.py
+#!/usr/bin/env python3
 """
-Scraper DREAL Bourgogne-Franche-Comté - VERSION FINALE PRODUCTION
-Utilise l'API gatew-evaluation-environnementale.developpement-durable.gouv.fr
+Scraper DREAL Île-de-France - VERSION PRODUCTION COMPLÈTE
+Architecture: Départements → Années → Tableau Projets (HIÉRARCHIE 3 NIVEAUX)
+
+Structure DREAL IDF:
+- Niveau 1: Main page → 8 départements IDF
+- Niveau 2: Page département → années (2018-2025)
+- Niveau 3: Page année/département → tableau 5 colonnes (NO pagination)
+
+EXCEPTION 2025+:
+- Année < 2025: Scrape site régional (https://www.drieat.ile-de-france.developpement-durable.gouv.fr)
+- Année ≥ 2025: Scrape site régional + API portail national (https://evaluation-environnementale.ecologie.gouv.fr)
+
+Tableau structure (5 colonnes):
+  1. N° formulaire + fichiers CERFA (PDF)
+  2. Commune et intitulé projet ← FILTRE BESS ICI
+  3. Date réception
+  4. Date limite décision
+  5. Décision (PDF)
+
+Filtre BESS:
+  ✓ "stockag" + ("électricité" OU "énergie")
+  ✓ "batter", "bess", "accumulateur"
+  ✗ Exclure: carrière, déchet, gaz, carburant
+
+Extraction:
+  - url_cerfa: depuis colonne 1
+  - url_decision: depuis colonne 5
+  - Orphelins: gardés avec URL vide
+  - Année: extraite du PDF (priorité DÉCISION > CERFA)
+  - Project Key: SHA1(titre + dept + year)
+
+Usage:
+    from scrapers.ile_de_france import discover_projects
+    
+    projects = discover_projects(
+        year="2024",      # optionnel
+        client=http_client,
+        dept="77"         # optionnel
+    )
 """
 import re
 import time
 import hashlib
 import logging
+import httpx
 from typing import List, Optional, Dict, Tuple
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
+from pathlib import Path
+from datetime import datetime
+
 from selectolax.parser import HTMLParser
 
 from models import Project
 
 logger = logging.getLogger(__name__)
 
-DELAY = 0.6
-MAX_PAGES = 150
+# ============ Configuration ============
+DELAY = 0.5  # Respectueux du serveur
+MAX_WORKERS = 2
 
-# Site régional (projets avant 26/11/2024)
-REGIONAL_SEED = "https://www.bourgogne-franche-comte.developpement-durable.gouv.fr/decisions-cas-par-cas-projet-dossiers-deposes-r669.html"
+BASE_URL = "https://www.drieat.ile-de-france.developpement-durable.gouv.fr"
+MAIN_PAGE = "/suivi-des-demandes-d-examen-au-cas-par-cas-pour-le-r659.html"
 
-# API nationale (projets après 26/11/2024)
+# API nationale (2025+)
 NATIONAL_API_BASE = "https://gatew-evaluation-environnementale.developpement-durable.gouv.fr/api/PublishedDocument/Get"
 NATIONAL_PORTAL_BASE = "https://evaluation-environnementale.ecologie.gouv.fr"
 
-BFC_DEPTS = ["21", "25", "39", "58", "70", "71", "89", "90"]
+# 8 départements Île-de-France
+DEPARTMENTS = {
+    "75": ("paris-75-r687.html", "Paris (75)"),
+    "77": ("seine-et-marne-77-r691.html", "Seine-et-Marne (77)"),
+    "78": ("yvelines-78-r692.html", "Yvelines (78)"),
+    "91": ("essonne-91-r693.html", "Essonne (91)"),
+    "92": ("hauts-de-seine-92-r688.html", "Hauts-de-Seine (92)"),
+    "93": ("seine-saint-denis-93-r689.html", "Seine-Saint-Denis (93)"),
+    "94": ("val-de-marne-94-r690.html", "Val-de-Marne (94)"),
+    "95": ("val-d-oise-95-r694.html", "Val-d'Oise (95)"),
+}
 
-def _sha1(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()
+# IDF codes pour filtrer API nationale
+IDF_DEPTS = ["75", "77", "78", "91", "92", "93", "94", "95"]
 
-def _sleep():
-    time.sleep(DELAY)
 
-def _get_html(client, url: str) -> Tuple[str, str]:
-    logger.info(f"GET {url}")
-    html, final_url = client.get_text(url)
-    _sleep()
-    return html, final_url
+# ============ Utils ============
 
-def _is_bess_text(text: str) -> bool:
-    """Détection BESS optimisée"""
-    if not text:
+def _sha1(text: str) -> str:
+    """Hash SHA1 pour project_id"""
+    return hashlib.sha1(text.encode("utf-8")).hexdigest()
+
+
+def _is_bess_project(title: str) -> bool:
+    """
+    Valide si projet est vraiment BESS (stockage d'énergie électrique)
+    
+    Critère INCLURE:
+      - "stockag" + ("électricité" OU "énergie")
+      - "batter" + "stockag"
+      - "bess"
+      - "accumulateur"
+      - Code NAF 2925
+    
+    Critère EXCLURE:
+      - carrière, déchet, gaz, carburant, fioul
+    """
+    combined = title.lower()
+    
+    # Critères d'inclusion BESS
+    has_storage = "stockag" in combined or "stock énerg" in combined
+    has_battery = (
+        "batter" in combined or "bess" in combined or
+        re.search(r"\b2925(-?2)?\b", combined) is not None or
+        "accumulateur" in combined or
+        ("énergie" in combined and "stockag" in combined) or
+        ("électricité" in combined and "stockag" in combined)
+    )
+    
+    is_bess = has_storage or has_battery
+    
+    if not is_bess:
+        logger.debug(f"[BESS-REJECT] {title[:60]}...")
         return False
-    t = text.lower()
-    has_storage = "stockag" in t
-    has_battery = any(k in t for k in ["batter", "bess", "accumulateur", "lithium", "électricité", "énergie"])
-    is_excluded = any(k in t for k in ["carburant", "déchet", "gaz naturel"])
-    return has_storage and has_battery and not is_excluded
+    
+    # Critères d'exclusion (NOT BESS)
+    excluded_keywords = [
+        "carrière", "carriere", "déchet", "décheterie", "dechet",
+        "carburant", "fuel", "gasoil", "essence",
+        "gaz naturel", "propane", "butane", "fioul"
+    ]
+    
+    is_excluded = any(k in combined for k in excluded_keywords)
+    
+    if is_excluded:
+        logger.debug(f"[BESS-EXCLUDE] {title[:60]}...")
+        return False
+    
+    logger.debug(f"[BESS-OK] {title[:60]}...")
+    return True
+
+
+def _extract_year_from_url(url: str) -> str:
+    """Extrait l'année depuis l'URL du PDF (YYYY-XXXX pattern)"""
+    if not url:
+        return "2025"
+    
+    filename = url.split("/")[-1].lower()
+    match = re.search(r"^(\d{4})[_-]", filename)
+    if match:
+        return match.group(1)
+    
+    return "2025"
+
+
+def _extract_text_from_html(html_str: str) -> str:
+    """Extrait texte depuis HTML (retire les tags)"""
+    text = re.sub(r"<[^>]+>", "", html_str)
+    return " ".join(text.split()).strip()
+
+
+def _extract_first_href_from_html(html_str: str) -> Optional[str]:
+    """
+    Extrait le premier href depuis du HTML
+    Utilise regex car plus fiable que selectolax pour les HTML mal formés
+    """
+    if not html_str:
+        return None
+    
+    # Cherche href="..." dans le HTML
+    match = re.search(r'href="([^"]+)"', html_str)
+    return match.group(1) if match else None
+
 
 def _dept_from_text(text: str) -> str:
     """Extrait code département depuis texte"""
@@ -61,27 +183,15 @@ def _dept_from_text(text: str) -> str:
     if m:
         return m.group(1)
     
-    # Noms départements
-    dept_map = {
-        "sens": "89", "yonne": "89", "ligny": "89",
-        "drée": "21", "dree": "21", "vieillmoulin": "21", "côte-d'or": "21",
-        "gy": "70", "haute-saône": "70", "haute-saone": "70",
-        "tonnerre": "89", "doubs": "25", "jura": "39",
-        "nièvre": "58", "saône-et-loire": "71", "belfort": "90"
-    }
-    
-    text_lower = text.lower()
-    for name, code in dept_map.items():
-        if name in text_lower:
-            return code
-    
     return ""
+
 
 def _years_in_text(text: str) -> List[int]:
     """Extrait années depuis texte"""
     return [int(y) for y in re.findall(r"\b(20\d{2})\b", text or "")]
 
-# ============ API Portail National ============
+
+# ============ API Portail National (2025+) ============
 
 def _call_national_api(
     year_target: int,
@@ -89,12 +199,13 @@ def _call_national_api(
 ) -> List[Project]:
     """
     Appelle API gatew-evaluation-environnementale.developpement-durable.gouv.fr
+    pour récupérer projets 2025+ (depuis 26/11/2024)
     
-    Structure JSON découverte:
+    Structure JSON API:
     {
-      "projectTitle": "SENS (89) - Projet de stockage...",
-      "department": "89-Yonne",
-      "municipality": "Sens (89)",
+      "projectTitle": "Île-de-France - Projet de stockage...",
+      "department": "77-Seine-et-Marne",
+      "municipality": "Vernou (77)",
       "referenceNumber": "007184/KK P",
       "publishedDate": "2025-10-20T15:54:21.96251",
       "documentId": 12248
@@ -102,17 +213,15 @@ def _call_national_api(
     """
     logger.info(f"[API NATIONALE] Recherche année={year_target}")
     
-    import httpx
-    
     projects = []
     
     try:
         # Paramètres API
         params = {
             "start": 0,
-            "length": 100,
+            "length": 200,
             "descending_order_id": "true",
-            "place": "Bourgogne-Franche-Comté",
+            "place": "Île-de-France",
             "searchAll": "stockage"
         }
         
@@ -142,19 +251,22 @@ def _call_national_api(
             combined = f"{project_title} {department} {municipality}"
             
             # Vérifier BESS
-            if not _is_bess_text(combined):
+            if not _is_bess_project(combined):
+                logger.debug(f"[API] NON-BESS: {project_title[:60]}")
                 continue
             
             # Vérifier année
             years = _years_in_text(published_date or combined)
             if year_target not in years:
+                logger.debug(f"[API] Année {years} ≠ {year_target}")
                 continue
             
             # Extraire département
             dept_code = _dept_from_text(department or municipality or project_title)
             
-            # Vérifier département BFC
-            if dept_code and dept_code not in BFC_DEPTS:
+            # Vérifier département IDF
+            if dept_code and dept_code not in IDF_DEPTS:
+                logger.debug(f"[API] Dept {dept_code} ∉ IDF")
                 continue
             
             # Filtre département utilisateur
@@ -169,11 +281,13 @@ def _call_national_api(
             # Créer projet
             project = Project(
                 project_id=_sha1(url or reference_number or project_title),
-                region="bourgogne-franche-comte",
+                region="ile-de-france",
                 dept=dept_code or "",
                 year=str(year_target),
-                project_title=project_title,
-                project_url=url
+                project_title=project_title[:200],
+                project_url=url,
+                url_cerfa=None,  # API nationale n'a pas CERFA séparé
+                url_decision=url if url else None
             )
             
             projects.append(project)
@@ -185,215 +299,409 @@ def _call_national_api(
     logger.info(f"[API NATIONALE] Résultat: {len(projects)} projets")
     return projects
 
-# ============ Site Régional (avant 26/11/2024) ============
 
-def _closest_item_block(a_node):
-    n = a_node
-    for _ in range(4):
-        if n is None:
-            break
-        if n.tag in ("li", "article", "div"):
-            return n
-        n = n.parent
-    return a_node.parent or a_node
+# ============ NIVEAU 1: Extraction des départements ============
 
-def _extract_entries(list_html: str, base_url: str) -> List[Dict]:
-    tree = HTMLParser(list_html)
-    out = []
-    seen = set()
+def _fetch_main_page(client) -> Tuple[str, str]:
+    """Récupère page principale avec listing des 8 départements"""
+    url = urljoin(BASE_URL, MAIN_PAGE)
+    logger.info(f"[NIV 1] GET départements: {url}")
+    html, final_url = client.get_text(url)
+    time.sleep(DELAY)
+    return html, final_url
+
+
+def _extract_departments_from_html(html: str, base_url: str) -> Dict[str, str]:
+    """
+    Parse page principale et extrait URLs des 8 départements IDF
     
-    for a in tree.css("a"):
-        href = a.attributes.get("href", "")
-        if not href or not re.search(r"-a\d+\.html", href):
+    Returns: {dept_code: full_url}
+    """
+    tree = HTMLParser(html)
+    departments = {}
+    
+    # Cherche tous les liens avec pattern "XXXX-NN-rNNN.html"
+    for link in tree.css("a"):
+        href = link.attributes.get("href", "")
+        text = link.text() or ""
+        
+        if not href or not text:
             continue
         
-        url = urljoin(base_url, href)
-        if url in seen:
+        # Cherche numéro de département: "Paris (75)"
+        dept_match = re.search(r"\((\d{2})\)", text)
+        if not dept_match:
             continue
-        seen.add(url)
         
-        link_text = (a.text() or "").strip()
-        block = _closest_item_block(a)
-        item_text = block.text(separator=" ").strip() if block else link_text
+        dept_code = dept_match.group(1)
         
-        out.append({"url": url, "link_text": link_text, "item_text": item_text})
+        # Valider c'est un lien département (pas une rubrique générique)
+        if not re.search(r"-r\d{3,4}\.html$", href):
+            continue
+        
+        full_url = urljoin(base_url, href)
+        departments[dept_code] = full_url
+        logger.debug(f"  Dept {dept_code}: {href}")
     
-    return out
+    logger.info(f"  ✓ {len(departments)} départements trouvés")
+    return departments
 
-def _page_year_band(entries: List[Dict]) -> Tuple[Optional[int], Optional[int]]:
-    years = []
-    for e in entries:
-        years.extend(_years_in_text(e["item_text"]))
-    return (min(years), max(years)) if years else (None, None)
 
-def _find_next(html: str, base: str) -> Optional[str]:
-    tree = HTMLParser(html)
-    for a in tree.css("a"):
-        if "suivant" in (a.text() or "").lower():
-            href = a.attributes.get("href")
-            if href:
-                return urljoin(base, href)
-    return None
+# ============ NIVEAU 2: Extraction des années par département ============
 
-def _best_title(tree: HTMLParser) -> str:
-    h1 = tree.css_first("h1")
-    return h1.text().strip() if (h1 and h1.text().strip()) else ""
+def _fetch_department_page(client, dept_url: str) -> Tuple[str, str]:
+    """Récupère page département avec listing des années"""
+    logger.info(f"[NIV 2] GET années: {dept_url}")
+    html, final_url = client.get_text(dept_url)
+    time.sleep(DELAY)
+    return html, final_url
 
-def _is_bess_page(html: str) -> Tuple[bool, str]:
-    tree = HTMLParser(html)
-    title = _best_title(tree)
-    body = tree.text(separator=" ")[:4000]
-    return (_is_bess_text(title) or _is_bess_text(body)), title
 
-def _scrape_regional_site(
-    client,
-    year_target: int,
-    dept_filter: Optional[str],
-    options: Dict
-) -> List[Project]:
+def _extract_years_from_html(html: str) -> Dict[str, str]:
     """
-    Scrape site régional DREAL BFC
-    Contient uniquement projets déposés AVANT le 26 novembre 2024
+    Parse page département et extrait URLs des années
+    
+    Pattern: "2025-cas-par-cas-77-a13125.html" → {"2025": full_url}
+    
+    Returns: {year: full_url}
     """
-    logger.info(f"[SITE RÉGIONAL] année={year_target}")
+    tree = HTMLParser(html)
+    years = {}
     
-    # Pour 2025+, projets uniquement sur portail national
-    if year_target >= 2025:
-        logger.info("[SITE RÉGIONAL] Année ≥2025 → projets sur portail national uniquement")
-        return []
+    # Cherche liens "YYYY-cas-par-cas-NN-aXXXX.html"
+    for link in tree.css("a"):
+        href = link.attributes.get("href", "")
+        text = link.text() or ""
+        
+        if not href or not text:
+            continue
+        
+        # Pattern: YYYY-cas-par-cas-NN-aXXXX.html
+        year_match = re.search(r"^(\d{4})-cas-par-cas", href)
+        if not year_match:
+            continue
+        
+        year = year_match.group(1)
+        years[year] = href  # Conserver URL relative (urljoin fait dans le caller)
+        logger.debug(f"  Year {year}: {href}")
     
-    max_pages = int(options.get("max_pages", MAX_PAGES))
-    url = REGIONAL_SEED
-    seen = set()
-    page_idx = 0
+    logger.info(f"  ✓ {len(years)} années trouvées")
+    return years
+
+
+# ============ NIVEAU 3: Parsing du tableau des projets ============
+
+def _fetch_year_page(client, year_url: str) -> Tuple[str, str]:
+    """Récupère page année/département avec tableau des projets"""
+    logger.info(f"[NIV 3] GET tableau: {year_url}")
+    html, final_url = client.get_text(year_url)
+    time.sleep(DELAY)
+    return html, final_url
+
+
+def _parse_projects_table(html: str, base_url: str, year: str, dept: str) -> List[Dict]:
+    """
+    Parse le tableau 5 colonnes et extrait projets BESS
+    
+    Structure tableau:
+      <table>
+        <tr><td>CERFA PDF</td><td>Commune et intitulé</td><td>Date réc</td><td>Date lim</td><td>Décision PDF</td></tr>
+    
+    Args:
+      html: contenu HTML de la page année/département
+      base_url: URL de base pour urljoin
+      year: année (ex: "2024")
+      dept: code département (ex: "77")
+    
+    Returns:
+      Liste de dictionnaires projets BESS
+    """
     projects = []
     
-    while url and url not in seen and page_idx < max_pages:
-        seen.add(url)
-        page_idx += 1
-        
-        try:
-            html, final_url = _get_html(client, url)
-        except Exception as e:
-            logger.error(f"[page {page_idx}] Erreur: {e}")
-            break
-        
-        entries = _extract_entries(html, final_url)
-        y_min, y_max = _page_year_band(entries)
-        
-        logger.info(f"[page {page_idx}] années={y_min}-{y_max} entrées={len(entries)}")
-        
-        # Navigation optimisée
-        if y_min and y_min > year_target:
-            url = _find_next(html, final_url)
-            continue
-        
-        if y_max and y_max < year_target:
-            logger.info(f"[STOP] Plage temporelle dépassée")
-            break
-        
-        # Filtrer candidats BESS
-        candidates = [
-            e for e in entries 
-            if _is_bess_text(e["item_text"]) and 
-            (year_target in _years_in_text(e["item_text"]) or not _years_in_text(e["item_text"]))
-        ]
-        
-        logger.info(f"[page {page_idx}] Candidats BESS: {len(candidates)}")
-        
-        # Analyser fiches
-        for entry in candidates:
-            try:
-                fiche_html, fiche_url = _get_html(client, entry["url"])
-            except:
-                continue
-            
-            is_bess, title = _is_bess_page(fiche_html)
-            if not is_bess:
-                continue
-            
-            dept_code = _dept_from_text(title + " " + fiche_url)
-            
-            if dept_filter and dept_code != dept_filter.zfill(2):
-                continue
-            
-            project = Project(
-                project_id=_sha1(fiche_url),
-                region="bourgogne-franche-comte",
-                dept=dept_code,
-                year=str(year_target),
-                project_title=title,
-                project_url=fiche_url
-            )
-            
-            projects.append(project)
-            logger.info(f"[RÉGIONAL] ✓ {title[:60]}...")
-        
-        url = _find_next(html, final_url)
-        if not url:
-            break
+    # Cherche le tableau
+    tree = HTMLParser(html)
+    table = tree.css_first("table.spip, table")
     
-    logger.info(f"[SITE RÉGIONAL] Résultat: {len(projects)} projets")
-    return projects
-
-# ============ API Plugin Principale ============
-
-def discover_projects(
-    year: str,
-    client,
-    dept: Optional[str] = None,
-    seed_url: Optional[str] = None,
-    options: Optional[Dict] = None
-) -> List[Project]:
-    """
-    API principale scraper Bourgogne-Franche-Comté
-    
-    Stratégie:
-    - ≤2024: Site régional DREAL BFC
-    - ≥2024: API portail national (projets après 26/11/2024)
-    - Fusion avec dédoublonnage
-    """
-    try:
-        year_target = int(year)
-    except:
-        logger.error(f"Année invalide: {year}")
+    if not table:
+        logger.warning(f"  ⚠️  Aucun tableau trouvé")
         return []
     
-    opts = options or {}
+    rows = table.css("tr")
+    logger.info(f"  Lignes du tableau: {len(rows)}")
+    
+    # Skip header (première ligne)
+    data_rows = rows[1:] if rows else []
+    
+    for idx, row in enumerate(data_rows):
+        try:
+            cells = row.css("td")
+            
+            if len(cells) < 5:
+                logger.debug(f"    Row {idx}: {len(cells)} colonnes, skip")
+                continue
+            
+            # Extraire le HTML brut des cellules (plus fiable)
+            # car cells[X].html peut avoir des problèmes de parsing
+            cell_cerfa_html = cells[0].html if hasattr(cells[0], 'html') else str(cells[0])
+            cell_title_html = cells[1].html if hasattr(cells[1], 'html') else str(cells[1])
+            cell_date_reception_html = cells[2].html if hasattr(cells[2], 'html') else str(cells[2])
+            cell_date_limite_html = cells[3].html if hasattr(cells[3], 'html') else str(cells[3])
+            cell_decision_html = cells[4].html if hasattr(cells[4], 'html') else str(cells[4])
+            
+            # Extraction titre
+            title_text = _extract_text_from_html(cell_title_html).strip()
+            
+            if not title_text:
+                logger.debug(f"    Row {idx}: titre vide, skip")
+                continue
+            
+            # ===== FILTRE BESS =====
+            if not _is_bess_project(title_text):
+                logger.debug(f"    Row {idx}: ❌ NON-BESS")
+                continue
+            
+            logger.info(f"    Row {idx}: ✅ BESS - {title_text[:70]}")
+            
+            # Extraction URLs (CORRIGÉ: utiliser regex sur HTML brut)
+            url_cerfa = _extract_first_href_from_html(cell_cerfa_html)
+            if url_cerfa:
+                url_cerfa = urljoin(base_url, url_cerfa)
+            
+            url_decision = _extract_first_href_from_html(cell_decision_html)
+            if url_decision:
+                url_decision = urljoin(base_url, url_decision)
+            
+            # Dates
+            date_reception = _extract_text_from_html(cell_date_reception_html)
+            date_limite = _extract_text_from_html(cell_date_limite_html)
+            
+            # Année depuis DÉCISION > CERFA (priorité)
+            final_year = year
+            if url_decision:
+                final_year = _extract_year_from_url(url_decision)
+            elif url_cerfa:
+                final_year = _extract_year_from_url(url_cerfa)
+            
+            # Project key pour groupage
+            project_key = _sha1(f"{title_text}-{dept}-{final_year}")
+            
+            projects.append({
+                "project_key": project_key,
+                "title": title_text,
+                "url_cerfa": url_cerfa,
+                "url_decision": url_decision,
+                "date_reception": date_reception,
+                "date_limite": date_limite,
+                "year": final_year,
+                "dept": dept
+            })
+            
+        except Exception as e:
+            logger.warning(f"    Row {idx} parse error: {e}")
+            continue
+    
+    logger.info(f"  Projets BESS trouvés: {len(projects)}")
+    return projects
+
+
+# ============ Conversion vers Project objects ============
+
+def _build_project_object(proj_dict: Dict) -> Project:
+    """Crée objet Project depuis dict interne"""
+    
+    # URL principale: CERFA si dispo, sinon DÉCISION
+    main_url = proj_dict["url_cerfa"] or proj_dict["url_decision"] or ""
+    
+    return Project(
+        project_id=proj_dict["project_key"],
+        region="ile-de-france",
+        dept=proj_dict["dept"],
+        year=proj_dict["year"],
+        project_title=proj_dict["title"][:200],
+        project_url=main_url,
+        url_cerfa=proj_dict["url_cerfa"],
+        url_decision=proj_dict["url_decision"]
+    )
+
+
+# ============ API Principale ============
+
+def discover_projects(
+    year: Optional[str] = None,
+    client=None,
+    dept: Optional[str] = None,
+    seed_url: Optional[str] = None
+) -> List[Project]:
+    """
+    API principale Île-de-France - HIÉRARCHIE 3 NIVEAUX + API NATIONALE 2025+
+    
+    ARCHITECTURE:
+      1. Récupère page principale → extrait 8 départements
+      2. Pour chaque département:
+         a. Récupère page département → extrait années (2018-2025)
+         b. Pour chaque année:
+            i. SI année < 2025: scrape tableau régional + filtre BESS
+            ii. SI année ≥ 2025: appelle API portail national
+    
+    RETOURNE:
+      Liste d'objets Project avec clés:
+        - project_id: SHA1(titre + dept + year)
+        - region: "ile-de-france"
+        - dept: Code département (ex: "77")
+        - year: Année (extraite du PDF ou API)
+        - project_title: Commune et intitulé
+        - project_url: URL CERFA ou DÉCISION
+        - url_cerfa: URL CERFA (ou None)
+        - url_decision: URL DÉCISION (ou None)
+    
+    PARAMÈTRES OPTIONNELS:
+      - year: filtrer par année (ex: "2024")
+      - dept: filtrer par département (ex: "77")
+      - client: HTTPClient depuis utils.py
+      - seed_url: NON UTILISÉ pour cette région
+    """
     
     logger.info(
-        f"\n{'='*60}\n"
-        f"SCRAPER BOURGOGNE-FRANCHE-COMTÉ\n"
-        f"Année: {year_target}\n"
-        f"Département: {dept or 'TOUS'}\n"
-        f"{'='*60}"
+        f"\n{'='*70}\n"
+        f"SCRAPER ÎLE-DE-FRANCE (HIÉRARCHIE 3 NIVEAUX + API 2025+)\n"
+        f"Année filtre: {year or 'TOUTES'}\n"
+        f"Dept filtre: {dept or 'TOUS (8 depts)'}\n"
+        f"Filtre BESS: ACTIVÉ\n"
+        f"URL formulaires CERFA + Décisions\n"
+        f"Regroupement: 1 ligne/projet (titre + dept + year)\n"
+        f"Année < 2025: Site régional | Année ≥ 2025: API nationale\n"
+        f"{'='*70}\n"
     )
     
-    # Site régional (≤2024)
-    regional = _scrape_regional_site(client, year_target, dept, opts)
-    
-    # API nationale (≥2024)
-    national = []
-    if year_target >= 2024:
-        national = _call_national_api(year_target, dept)
-    
-    # Fusion avec dédoublonnage
-    seen_urls = set()
     all_projects = []
     
-    for proj in regional + national:
-        if proj.project_url not in seen_urls:
-            seen_urls.add(proj.project_url)
-            all_projects.append(proj)
+    try:
+        # ============ NIVEAU 1: Récupère départements ============
+        
+        main_html, main_url = _fetch_main_page(client)
+        depts_extracted = _extract_departments_from_html(main_html, BASE_URL)
+        
+        if not depts_extracted:
+            logger.error("❌ Aucun département trouvé")
+            return []
+        
+        # Filtre département si demandé
+        depts_to_process = {}
+        if dept:
+            if dept in depts_extracted:
+                depts_to_process[dept] = depts_extracted[dept]
+                logger.info(f"  ✓ Filtre appliqué: dept {dept}")
+            else:
+                logger.error(f"  ❌ Département {dept} non trouvé")
+                return []
+        else:
+            depts_to_process = depts_extracted
+        
+        logger.info(f"  Départements à traiter: {list(depts_to_process.keys())}\n")
+        
+        # ============ NIVEAU 2 & 3: Traite chaque département ============
+        
+        for dept_code, dept_url in depts_to_process.items():
+            try:
+                logger.info(f"{'─'*70}\n[DÉPARTEMENT {dept_code}]\n")
+                
+                # Récupère page département
+                dept_html, dept_final_url = _fetch_department_page(client, dept_url)
+                years_extracted = _extract_years_from_html(dept_html)
+                
+                if not years_extracted:
+                    logger.warning(f"  ⚠️  Aucune année trouvée")
+                    continue
+                
+                # Filtre année si demandé
+                years_to_process = {}
+                if year:
+                    if year in years_extracted:
+                        years_to_process[year] = years_extracted[year]
+                        logger.info(f"  ✓ Filtre appliqué: year {year}\n")
+                else:
+                    years_to_process = years_extracted
+                
+                # Traite chaque année
+                for year_str, year_rel_url in years_to_process.items():
+                    try:
+                        logger.info(f"[ANNÉE {year_str}]")
+                        year_int = int(year_str)
+                        
+                        projects = []
+                        
+                        # STRATÉGIE: année < 2025 → site régional | année ≥ 2025 → API nationale
+                        if year_int < 2025:
+                            # Scrape site régional
+                            year_url = urljoin(dept_final_url, year_rel_url)
+                            year_html, year_final_url = _fetch_year_page(client, year_url)
+                            
+                            projects = _parse_projects_table(
+                                year_html,
+                                year_final_url,
+                                year_str,
+                                dept_code
+                            )
+                        else:
+                            # Appelle API nationale pour 2025+
+                            logger.info(f"  [API NATIONALE] Année {year_str} (≥2025)")
+                            national_projects = _call_national_api(year_int, dept_code)
+                            
+                            # Convertir en dict interne pour cohérence
+                            for proj in national_projects:
+                                projects.append({
+                                    "project_key": proj.project_id,
+                                    "title": proj.project_title,
+                                    "url_cerfa": proj.url_cerfa,
+                                    "url_decision": proj.url_decision,
+                                    "date_reception": "",
+                                    "date_limite": "",
+                                    "year": proj.year,
+                                    "dept": proj.dept
+                                })
+                        
+                        all_projects.extend(projects)
+                        logger.info("")
+                        
+                    except Exception as e:
+                        logger.error(f"  ❌ Year {year_str} FAIL: {e}")
+                        continue
+            
+            except Exception as e:
+                logger.error(f"  ❌ Dept {dept_code} FAIL: {e}")
+                continue
+        
+        # ============ Conversion vers Project objects ============
+        
+        project_objects = []
+        
+        # Dédupliquer par project_key
+        unique_projects = {}
+        for proj in all_projects:
+            key = proj["project_key"]
+            if key not in unique_projects:
+                unique_projects[key] = proj
+        
+        logger.info(f"\n{'='*70}\nDéduplication: {len(all_projects)} → {len(unique_projects)} uniques\n")
+        
+        for proj_dict in unique_projects.values():
+            try:
+                proj_obj = _build_project_object(proj_dict)
+                project_objects.append(proj_obj)
+            except Exception as e:
+                logger.warning(f"Project object creation FAIL: {e}")
+                continue
+        
+        # Résumé final
+        logger.info(
+            f"{'='*70}\n"
+            f"RÉSUMÉ ÎLE-DE-FRANCE\n"
+            f"Total projets BESS: {len(project_objects)}\n"
+            f"{'='*70}\n"
+        )
+        
+        return project_objects
     
-    logger.info(
-        f"\n{'='*60}\n"
-        f"RÉSUMÉ BOURGOGNE-FRANCHE-COMTÉ\n"
-        f"Année: {year_target}\n"
-        f"Projets BESS trouvés: {len(all_projects)}\n"
-        f"  - Site régional: {len(regional)}\n"
-        f"  - Portail national: {len(national)}\n"
-        f"{'='*60}\n"
-    )
-    
-    return all_projects
+    except Exception as e:
+        logger.error(f"❌ Scraper FAIL: {e}")
+        return []

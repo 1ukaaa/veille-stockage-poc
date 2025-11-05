@@ -1,5 +1,6 @@
 """
-Fonctions utilitaires partagées
+Fonctions utilitaires partagées - VERSION OPTIMISÉE
+Inclus: AdaptiveHTTPClient, PersistentCache, cache PDFs, Document AI
 """
 import os
 import re
@@ -12,14 +13,15 @@ import zipfile
 import mimetypes
 import logging
 import threading
-from typing import Tuple, Optional, List
+import random
+import pickle
+from typing import Tuple, Optional, List, Dict
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
+from datetime import datetime
 
 from google.oauth2 import service_account
 from google.auth.transport.requests import Request
-from datetime import datetime
-
 
 import httpx
 from selectolax.parser import HTMLParser
@@ -35,7 +37,7 @@ class HTTPDownloadTooLarge(Exception):
     """Raised when a download exceeds the configured size limit."""
 
 
-# ============ HTTP Client ============
+# ============ HTTP Client STANDARD ============
 
 class HTTPClient:
     """Client HTTP avec rate limiting"""
@@ -116,21 +118,116 @@ class HTTPClient:
         self.client.close()
         logger.info(f"HTTP client closed ({self._request_count} requests)")
     
-    # AJOUT : Context manager methods
     def __enter__(self):
-        """Entrée du context manager"""
         return self
     
     def __exit__(self, exc_type, exc_val, exc_tb):
-        """Sortie du context manager"""
         self.close()
         return False
+
+
+# ============ HTTP Client ADAPTATIF - 🚀 NOUVEAU ============
+
+class AdaptiveHTTPClient(HTTPClient):
+    """Client HTTP avec réduction intelligente des délais et backoff exponentiel
+    
+    Stratégie:
+    - Démarre avec base_delay faible (0.15s au lieu de 0.4s)
+    - Succès → délai réduit progressivement (-2% par requête)
+    - Rate limit (429) → délai augmenté exponentiellement (backoff)
+    - User-Agent rotation pour éviter blocages
+    
+    Utilisation:
+        # À la place de HTTPClient(0.4)
+        client = AdaptiveHTTPClient(base_delay=0.15, max_delay=0.5)
+    """
+    
+    def __init__(self, base_delay: float = 0.15, max_delay: float = 0.5):
+        super().__init__(base_delay)
+        self.base_delay = base_delay
+        self.max_delay = max_delay
+        self.consecutive_errors = 0
+        self.user_agents = [
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
+        ]
+    
+    def _rotate_user_agent(self):
+        """Rotation User-Agent pour éviter fingerprinting"""
+        ua = random.choice(self.user_agents)
+        self.client.headers["User-Agent"] = ua
+    
+    def _respect_rate_limit(self):
+        """Override: Ajoute jitter au délai"""
+        if self.delay <= 0:
+            return
+        
+        # Jitter: variation aléatoire 85-115%
+        jitter = random.uniform(0.85, 1.15) * self.delay
+        
+        with self._lock:
+            now = time.monotonic()
+            wait = jitter - (now - self._last_request_end)
+        
+        if wait > 0:
+            time.sleep(wait)
+    
+    def get_text(self, url: str, max_retries: int = 2) -> Tuple[str, str]:
+        """Override avec gestion d'erreur adaptative"""
+        
+        for attempt in range(max_retries):
+            try:
+                self._rotate_user_agent()
+                
+                # Appel parent
+                with self._request_lock:
+                    self._respect_rate_limit()
+                    logger.info(f"GET {url}")
+                    response = self.client.get(url)
+                    response.raise_for_status()
+                    text = response.text
+                    final_url = str(response.url)
+                    self._record_request()
+                
+                # Succès : réduire délai progressivement
+                self.consecutive_errors = 0
+                self.delay = max(0.1, self.delay * 0.98)
+                
+                return text, final_url
+            
+            except httpx.HTTPStatusError as e:
+                if e.response.status_code == 429:  # Rate limited
+                    self.consecutive_errors += 1
+                    wait_time = min(self.max_delay, self.base_delay * (2 ** self.consecutive_errors))
+                    logger.warning(
+                        f"Rate limited (429) - Attendre {wait_time:.2f}s "
+                        f"(tentative {attempt+1}/{max_retries})"
+                    )
+                    time.sleep(wait_time)
+                elif e.response.status_code in (500, 502, 503, 504):
+                    # Erreurs serveur - retry
+                    if attempt < max_retries - 1:
+                        logger.warning(f"Erreur serveur {e.response.status_code} - retry...")
+                        time.sleep(1)
+                    else:
+                        raise
+                else:
+                    raise
+            except Exception as e:
+                if attempt == max_retries - 1:
+                    raise
+                logger.debug(f"Retry {attempt+1}/{max_retries}: {e}")
+                time.sleep(0.5)
+        
+        raise RuntimeError("Impossible d'accéder à l'URL après retries")
+
 
 # ============ Texte ============
 
 def slugify(text: str, max_length: int = 80) -> str:
-    """Convertit une chaîne en slug valide pour nom de fichier"""
-    text = re.sub(r"[^\w\-\.]+", "-", text.strip(), flags=re.I)
+    """Convertit une chaîne en slug valide"""
+    text = re.sub(r"[^\w\-.]+", "-", text.strip(), flags=re.I)
     text = re.sub(r"-+", "-", text).strip("-")
     return (text[:max_length] or "file").lower()
 
@@ -168,7 +265,7 @@ def extract_text_pdfminer(pdf_bytes: bytes) -> str:
 
 
 def extract_text_pymupdf(pdf_bytes: bytes) -> str:
-    """Extraction PDF avec PyMuPDF (fallback)"""
+    """Extraction PDF avec PyMuPDF"""
     try:
         doc = fitz.open(stream=pdf_bytes, filetype="pdf")
         texts = [page.get_text("text") or "" for page in doc]
@@ -180,111 +277,21 @@ def extract_text_pymupdf(pdf_bytes: bytes) -> str:
 
 
 def extract_pdf_robust(pdf_bytes: bytes) -> Tuple[str, str]:
-    """
-    Extraction PDF robuste avec cascade de méthodes
-    Returns: (text, method_used)
-    """
-    # Tentative 1: pdfminer
+    """Extraction PDF robuste - Returns: (text, method_used)"""
     text = extract_text_pdfminer(pdf_bytes)
     if not is_poor_text(text):
         return text, "pdfminer"
     
-    # Tentative 2: PyMuPDF
     text = extract_text_pymupdf(pdf_bytes)
     if not is_poor_text(text):
         return text, "pymupdf"
     
-    # Tentative 3: Document AI (si configuré)
     if settings.DOCAI_PROCESS_URL:
         text = docai_extract_text(pdf_bytes, mime_type="application/pdf")
         if text.strip():
             return text, "docai"
     
     return "", "failed"
-
-
-# ============ Document AI ============
-
-class ServiceAccountTokenManager:
-    """Gestion tokens Service Account - ZÉRO expiration"""
-    
-    def __init__(self):
-        """Charge les credentials depuis le fichier JSON"""
-        if not settings.SERVICEACCOUNTKEY.exists():
-            raise FileNotFoundError(
-                f"Fichier clé manquant: {settings.SERVICEACCOUNTKEY}\n"
-                "Télécharge service-account-key.json depuis Google Cloud Console"
-            )
-        
-        self.credentials = service_account.Credentials.from_service_account_file(
-            str(settings.SERVICEACCOUNTKEY),
-            scopes=['https://www.googleapis.com/auth/cloud-platform']
-        )
-        self._access_token = None
-        self._expiry_timestamp = 0
-    
-    def get_access_token(self) -> str:
-        """Obtient un token valide (auto-rafraîchi si expiré)"""
-        now = time.time()
-        
-        # Vérifier si token valide pour au moins 60s de plus
-        if self._access_token and self._expiry_timestamp - now > 60:
-            return self._access_token
-        
-        # Générer nouveau token (Google le fait automatiquement)
-        self.credentials.refresh(Request())
-        self._access_token = self.credentials.token
-        self._expiry_timestamp = now + (self.credentials.expiry - datetime.now()).total_seconds()
-        
-        logger.info(f"Service Account token généré")
-        return self._access_token
-
-
-# Instance globale
-token_manager = ServiceAccountTokenManager()
-
-
-def docai_extract_text(file_bytes: bytes, mime_type: str = "application/pdf") -> str:
-    """Extraction via Google Document AI"""
-    if not settings.DOCAI_PROCESS_URL:
-        logger.warning("Document AI not configured")
-        return ""
-    
-    try:
-        token = token_manager.get_access_token()
-    except Exception as e:
-        logger.error(f"OAuth2 token error: {e}")
-        return ""
-    
-    body = {
-        "rawDocument": {
-            "content": base64.b64encode(file_bytes).decode("ascii"),
-            "mimeType": mime_type,
-        },
-        "skipHumanReview": True
-    }
-    
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Content-Type": "application/json"
-    }
-    
-    try:
-        with httpx.Client(timeout=settings.TIMEOUT) as client:
-            response = client.post(settings.DOCAI_PROCESS_URL, headers=headers, json=body)
-            
-            if response.status_code >= 400:
-                logger.error(f"Document AI HTTP {response.status_code}")
-                return ""
-            
-            data = response.json()
-    except Exception as e:
-        logger.error(f"Document AI request failed: {e}")
-        return ""
-    
-    document = data.get("document", {})
-    return document.get("text", "")
-
 
 # ============ Extraction ZIP ============
 
@@ -328,7 +335,8 @@ def extract_zip_archive(zip_bytes: bytes, output_dir: Path) -> List[dict]:
     return extracted_files
 
 
-# ============ Cache ============
+
+# ============ Cache Simple ============
 
 class SimpleCache:
     """Cache simple basé sur fichiers"""
@@ -338,16 +346,13 @@ class SimpleCache:
         self.cache_dir.mkdir(parents=True, exist_ok=True)
     
     def get_key(self, url: str) -> str:
-        """Génère une clé de cache depuis une URL"""
         return hashlib.sha256(url.encode()).hexdigest()
     
     def exists(self, key: str, category: str = "pdfs") -> bool:
-        """Vérifie si un fichier est en cache"""
         cache_path = self.cache_dir / category / f"{key}.cache"
         return cache_path.exists()
     
     def save(self, key: str, data: bytes, category: str = "pdfs"):
-        """Sauvegarde en cache"""
         cache_dir = self.cache_dir / category
         cache_dir.mkdir(parents=True, exist_ok=True)
         cache_path = cache_dir / f"{key}.cache"
@@ -356,7 +361,6 @@ class SimpleCache:
             f.write(data)
     
     def load(self, key: str, category: str = "pdfs") -> Optional[bytes]:
-        """Charge depuis le cache"""
         cache_path = self.cache_dir / category / f"{key}.cache"
         
         if not cache_path.exists():
@@ -365,17 +369,28 @@ class SimpleCache:
         with open(cache_path, "rb") as f:
             return f.read()
 
-# ============ Cache Persistant (Optionnel) ============
 
-import pickle
-from pathlib import Path as PathLib
+# ============ Cache Persistant - 🚀 NOUVEAU ============
 
 class PersistentCache:
-    """Cache persistant sur disque (évite re-scraping entre exécutions)"""
+    """Cache persistant sur disque (évite re-scraping entre exécutions)
     
-    def __init__(self, cache_file: PathLib = settings.CACHE_DIR / "scraper_cache.pkl"):
+    Utilisation:
+        cache = PersistentCache()
+        if url in cache.cache:
+            html, url = cache.cache[url]
+        else:
+            html, url = client.get_text(url)
+            cache.set(url, (html, url))
+        cache.save()  # À la fin
+    """
+    
+    def __init__(self, cache_file: Path = None):
+        if cache_file is None:
+            cache_file = settings.CACHE_DIR / "scraper_cache.pkl"
+        
         self.cache_file = cache_file
-        self.cache = self._load()
+        self.cache: Dict[str, Tuple[str, str]] = self._load()
     
     def _load(self) -> dict:
         """Charge cache depuis disque"""
@@ -383,7 +398,7 @@ class PersistentCache:
             try:
                 with open(self.cache_file, 'rb') as f:
                     cache = pickle.load(f)
-                logger.info(f"Cache loaded: {len(cache)} entries")
+                logger.info(f"✓ Cache loaded: {len(cache)} URLs")
                 return cache
             except Exception as e:
                 logger.warning(f"Cache load failed: {e}")
@@ -395,23 +410,97 @@ class PersistentCache:
         try:
             with open(self.cache_file, 'wb') as f:
                 pickle.dump(self.cache, f)
-            logger.info(f"Cache saved: {len(self.cache)} entries")
+            logger.info(f"✓ Cache saved: {len(self.cache)} URLs")
         except Exception as e:
             logger.error(f"Cache save failed: {e}")
     
-    def get(self, key: str) -> Optional[tuple]:
-        """Récupère depuis cache"""
+    def get(self, key: str) -> Optional[Tuple[str, str]]:
         return self.cache.get(key)
     
-    def set(self, key: str, value: tuple):
-        """Ajoute au cache"""
+    def set(self, key: str, value: Tuple[str, str]):
         self.cache[key] = value
     
     def clear(self):
-        """Vide le cache"""
         self.cache = {}
         if self.cache_file.exists():
             self.cache_file.unlink()
+
+
+# ============ Document AI (inchangé) ============
+
+class ServiceAccountTokenManager:
+    """Gestion tokens Service Account"""
+    
+    def __init__(self):
+        if not settings.SERVICEACCOUNTKEY.exists():
+            raise FileNotFoundError(
+                f"Fichier clé manquant: {settings.SERVICEACCOUNTKEY}"
+            )
+        
+        self.credentials = service_account.Credentials.from_service_account_file(
+            str(settings.SERVICEACCOUNTKEY),
+            scopes=['https://www.googleapis.com/auth/cloud-platform']
+        )
+        self._access_token = None
+        self._expiry_timestamp = 0
+    
+    def get_access_token(self) -> str:
+        now = time.time()
+        
+        if self._access_token and self._expiry_timestamp - now > 60:
+            return self._access_token
+        
+        self.credentials.refresh(Request())
+        self._access_token = self.credentials.token
+        self._expiry_timestamp = now + (self.credentials.expiry - datetime.now()).total_seconds()
+        
+        logger.info(f"Service Account token généré")
+        return self._access_token
+
+
+token_manager = ServiceAccountTokenManager()
+
+
+def docai_extract_text(file_bytes: bytes, mime_type: str = "application/pdf") -> str:
+    """Extraction via Google Document AI"""
+    if not settings.DOCAI_PROCESS_URL:
+        logger.warning("Document AI not configured")
+        return ""
+    
+    try:
+        token = token_manager.get_access_token()
+    except Exception as e:
+        logger.error(f"OAuth2 token error: {e}")
+        return ""
+    
+    body = {
+        "rawDocument": {
+            "content": base64.b64encode(file_bytes).decode("ascii"),
+            "mimeType": mime_type,
+        },
+        "skipHumanReview": True
+    }
+    
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json"
+    }
+    
+    try:
+        with httpx.Client(timeout=settings.TIMEOUT) as client:
+            response = client.post(settings.DOCAI_PROCESS_URL, headers=headers, json=body)
+            
+            if response.status_code >= 400:
+                logger.error(f"Document AI HTTP {response.status_code}")
+                return ""
+            
+            data = response.json()
+    except Exception as e:
+        logger.error(f"Document AI request failed: {e}")
+        return ""
+    
+    document = data.get("document", {})
+    return document.get("text", "")
 
 # AJOUTER À LA FIN DE utils.py
 
