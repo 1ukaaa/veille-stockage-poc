@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "input_file": "out/analyzed/analyzed_bretagne_2024.csv",
+    "output_file": "/Users/lukamauvignant/Library/Mobile Documents/com~apple~CloudDocs/veille-stockage-poc/out/enriched/enriched_bretagne_2024.csv",
+    "timestamp": "2025-11-05 15:54:27",
+    "duration_seconds": 29.5,
+    "projects_processed": 4
+  },
+  "statistics": {
+    "permits_found": 0,
+    "high_confidence": 0,
+    "avg_confidence": 0.0
+  }
+}

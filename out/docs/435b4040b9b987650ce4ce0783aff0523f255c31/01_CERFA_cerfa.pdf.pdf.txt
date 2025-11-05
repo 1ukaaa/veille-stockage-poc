@@ -1,0 +1,1020 @@
+Ce formulaire sera publié sur le site internet de l’autorité chargée de l’examen au cas par cas. 
+
+Avant de remplir cette demande, lire attentivement la notice explicative.
+
+Ce document est émis par le ministère en charge de l’écologie.
+
+Ce formulaire peut se remplir facilement sur ordinateur. Si vous ne disposez pas du logiciel adapté, vous 
+
+pouvez télécharger Adobe Acrobat Reader gratuitement via ce lien 
+
+Date de réception : 
+
+Dossier complet le : 
+
+N° d’enregistrement :
+
+/
+
+/
+
+/
+
+/
+
+Construction d'une installation de stockage d'énergie par batteries sur la commune de DOMLOUP (Ile-et-Vilaine)
+
+Nom 
+
+Prénom(s)
+
+Dénomination 
+
+AFR34
+
+N° SIRET  
+
+9
+
+1
+
+3
+
+4
+
+5
+
+9
+
+0
+
+4
+
+6
+
+Raison sociale
+
+AFR34
+
+Type de société (SA, SCI...)
+
+Société par actions simplifiée
+
+Représentant de la personne morale :
+
+ Madame
+
+ Monsieur
+
+Nom 
+
+Foulard
+
+Prénom(s)
+
+Benjamin
+
+0  9    0    4   2    0    2   5G2025012290 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N° de catégorie et sous-catégorie
+
+Caractéristiques du projet au regard des seuils et critères de la catégorie
+
+32°
+39°a
+
+Création d'un site de stockage d'énergie par batterie comprenant la création d'un
+poste de transformation 225kV/33kV et dont la surface plancher est de 1,4ha.
+Création d'un site de stockage d'énergie par batterie comprenant la création d'un
+poste de transformation 225kV/33kV et dont la surface plancher est de 1,4ha.
+
+  Non
+
+  Non
+
+Ce projet de stockage d'énergie est porté par la société AFR34, appartenant à la société AMARENCO France.
+Le stockage d'énergie est un élément clé de la transition énergétique en France et s'inscrit dans les objectifs du
+SCoT, du Pacte Electrique Breton et du SRADDET de la Bretagne.
+Ce projet, d'intérêt public majeur (article L211-2-1 du code de l'énergie et L411-2-1 du code de l'environnement),
+répond aux besoins de sécurisation de l'approvisionnement du réseau électrique Français et aux services associés
+(mécanisme de capacité, maintien de fréquence, tension, flexibilité...) lors des pics de consommation d'électricité
+qui vont devenir de plus en plus fréquents avec l'augmentation de la part des énergies renouvelables (énergies
+intermittentes) dans le mix énergétique français, et l'augmentation des besoins en électricité avec notamment le
+développement de la mobilité électrique. Il permet ainsi d'optimiser les infrastructures énergétiques en lissant la
+demande et l'offre et ainsi éviter le renforcement coûteux d'infrastructures de production ou de transport d'électricité.
+Cette capacité de stockage sera également utilisée afin de permettre une meilleure intégration des énergies
+renouvelables sur le réseau en stockant leur énergie en période de forte production et en la restituant en période de
+forte consommation.
+
+Construction d'une installation de stockage d'énergie électrique par batterie Lithium-ion d'une puissance de 110MW
+et d'une capacité de 220MWh. Le projet s'implante sur des parcelles proches au poste RTE existant de
+DOMLOUP et sont actuellement exploitées en agriculture. La surface clôturée du projet est de 1,66ha. L'installation
+sera raccordée au poste électrique RTE 225kV de DOMLOUP par une liaison en 225kV enterrée d'une
+longueur de 500m environ qui s'étendra sur les parcelles du projet, passera sous la voie ferrée et sur les parcelles
+du poste RTE.
+L'installation se composera d'une plateforme imperméabilisée permettant d'accueillir 54 conteneurs équipés de
+batteries et d'équipements électrique et de sécurité associés, 27 onduleurs, 12 transformateurs 33kV/690V et 4
+postes électriques secondaires. D'autres équipements viendront compléter le projet: un bâtiment de pilotage, un
+bungalow, un conteneur de stockage de matériel, 2 citernes incendie de 120m3 chacune associées à une aire
+d'aspiration, une piste de circulation périphérique en graves compactées, une noue étanche, une noue végétalisé,
+un bassin de gestion des eaux pluviales. Une clôture de 2m de haut et 2 portails ceintureront le site. Une
+intégration paysagère sera réalisée avec l'aide d'un architecte et bureau d’études environnement. A ce stade, il a
+été envisagé une intégration paysagère et sonore par des haies. Aucune démolition n'est prévue.
+
+  
+ 
+  
+ 
+ 
+ 
+Les travaux de la centrale dureront environ 12 mois:
+- Installation de la base vie du chantier, aménagement de l'accès, délimitation et sécurisation du site (clôture),
+- Décapage et léger terrassement du sol (si besoin) : travail d'une pelle mécanique et camions bennes,
+- Réalisation des fondations avec la venue d'une toupie béton (faible profondeur <1m, à confirmer selon retour des
+études géotechniques) puis dallage béton permettant de recevoir les équipements, le transformateur HTB.
+ - Réalisation du bâtiment de pilotage, la salle de réunion, zone de stationnement puis acheminement et mise en
+place (par levage) des équipements électrique, des conteneurs de batterie, des onduleurs, des transformateurs,
+des groupes de refroidissement,
+- Pose des câbles dans les tranchées réalisées à la mini pelle ou trancheuse (remblais et pose grillage avertisseur),
+-Construction du transformateur principal de puissance HTB 225kV : une fosse sera construite en béton banché
+sous le transformateur de puissance ainsi qu’une fosse déportée afin de récupérer son huile en cas de fuite
+accidentelle. Le transformateur sera installé au moyen d’un grue mobile de forte capacité de levage.
+
+RTE mènera de son côté les travaux suivants:
+ - Création de la liaison souterraine 225kV en 630mm² d'environ 500m entre la cellule dans le poste RTE et le point
+de raccordement sur site. Un forage dirigée sous la voie ferrée sera réalisé sans incidence sur celle-ci,
+ - Au niveau du poste électrique RTE, une extension du jeu de barres est prévue avec la création d'une cellule
+d'arrivée. Ces travaux se feront au sein du poste existant et seront menés par RTE.
+Les travaux sont estimés entre 6 et 12 mois environ.
+
+-Gravillonnage final et aménagement paysager
+
+Pendant sa phase d'exploitation, le site est entièrement automatisé et sera piloté à distance. En effet, un système
+de management (BMS) sera mis en place au niveau des batteries et, à plus grande échelle, au niveau des
+containers et du site. Ce système électronique assurera 3 fonctions en parallèle:
+ - premièrement une surveillance et un contrôle permanent du site de stockage d'électricité afin d'assurer un
+fonctionnement normal et en toute sécurité.
+ - deuxièmement, ce système administrera les charges et décharges des équipements en fonction des informations
+du réseau électrique, transmises en temps réel par RTE, tout en gérant les limites de tension afin d'optimiser la
+durée de vie de la batterie.
+ - Troisièmement, ce système aura également un rôle de sécurité en contrôlant en continu un ensemble de
+paramètres, notamment électriques, en adaptant la gestion du site et, si nécessaire, en intervenant pour prendre en
+compte un défaut constaté (déconnexion d'une batterie ou d'un container).
+Cette gestion sera automatiquement couplée à une astreinte 24h/24 et 7j/7. Le personnel d'astreinte pourra
+intervenir à tout moment à distance ou se rendre sur place en cas de nécessité selon les informations qu'il recevra
+en temps réel. Cette gestion à distance est notamment rendue possible par les nombreuses informations
+enregistrées en continu sur le site : température des équipements, taux de charge,…
+En parallèle de ce fonctionnement normal, un plan de maintenance préventive sera mis en place permettant de
+réaliser des contrôles réguliers et réglementaires environ une fois par an.
+L'entretien des espaces vert et haies d'intégration paysagère se feront de manière régulière tout au long de l'année.
+
+En fin d'exploitation (30 ans), le site sera totalement démantelé et remis en état en vue d'y retrouver une activité
+agricole.
+
+ La décision de l’autorité chargée de l’examen au cas par cas devra être jointe au(x) dossier(s) d’autorisation(s).
+
+autorisation d'installation classée pour la protection de l'environnement (ICPE); autorisation de loi sur l'eau (IOTA);
+permis de construire (PC)
+
+Grandeurs caractéristiques du projet
+
+Valeurs
+
+Emprise foncière
+Emprise clôturée
+Hauteur des clôtures
+Surface artificialisée
+Surface imperméabilisée
+
+1.9 ha
+1.66 ha
+2m
+1.66 ha
+1.39 ha
+
+Adresse et commune d’implantation
+
+Numéro :  
+
+    Voie :  
+
+Lieu-dit : 
+
+Localité : 
+Code postal :  
+
+    BP :  
+
+    Cedex :  
+
+Coordonées géographiques[1]
+
+Long. :  
+
+  °   
+
+ ’  
+
+ ”  
+
+  Lat. :  
+
+  °   
+
+ ’  
+
+ ”  
+
+Pour les catégories 5° a), 6° a), b) et c), 7°a), 9°a), 10°,11°a) b),12°,13°, 22°, 32°, 33°, 34°, 35°, 36°, 37°, 38°, 43° 
+
+a), b) de l’annexe à l’article R. 122-2 du code de l’environnement
+
+Point de départ : Long. :  
+
+0 1
+
+  °   
+
+3 2
+
+ ’  
+
+5 1
+
+ ”  
+
+O
+
+  Lat. :  
+
+4 8
+
+  °   
+
+0 5
+
+ ’  
+
+4 6
+
+ ”  
+
+N
+
+Point de d’arrivée : Long. : 
+
+0 1
+
+  °  
+
+3 2
+
+ ’ 
+
+5 1
+
+O
+
+ ” 
+
+  Lat. : 
+
+4 8
+
+  °  
+
+0 5
+
+ ’ 
+
+4 6
+
+N
+
+ ” 
+
+Communes traversées :
+
+ DOMLOUP
+
+Précisez le document d’urbanisme en vigueur et les zonages auxquels le projet est soumis :
+
+Parcelles du projet couvertes par le Plan Local d'Urbanisme (PLU) de la commune de DOMLOUP : zone A
+agricole.
+
+ Joignez à votre demande les annexes n°2 à 6.
+
+  Oui       
+
+  Non
+
+  Oui       
+
+  Non
+
+[1] Pour l’outre-mer, voir notice explicative.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+chaque direction régionale. 
+
+la liste des sites internet où trouver les données environnementales par région utiles pour remplir le formulaire.
+
+Le projet se situe-t-il :
+
+Oui Non
+
+Lequel/Laquelle ?
+
+Les ZNIEFF les plus proches se situent à plus de 2km:
+- à environ 3.4km au sud (BOIS DE GERVIS),
+- à 4.5km au sud-ouest (BOIS DE SOEUVRES)
+- 3.98km au nord (MARAIS ET PRAIRIES DE LA MOTTE)
+- 7.3km m au Nord (FORET DE RENNES).
+
+Dans une zone naturelle 
+d’intérêt écologique, 
+
+type I ou II (ZNIEFF) ?
+
+En zone de montagne ?
+
+Dans une zone couverte par 
+un arrêté de protection de 
+
+Sur le territoire d’une 
+commune littorale ?
+
+Dans un parc national, un 
+parc naturel marin, une 
+réserve naturelle (nationale 
+ou régionale), une zone de 
+conservation halieutique ou 
+un parc naturel régional ?
+
+ 
+Le projet se situe-t-il :
+
+Oui Non
+
+Lequel/Laquelle ?
+
+Le projet est à plus de 2.4 km des monuments historiques les plus
+proches.
+
+L’étude cartographique a montré l’absence de zones humides
+présentes de manière certaine sur les terrains du projet. Toutefois, le
+RPDZH recense des zones humides potentielles sur ce terrain.
+Aucun sondage réalisé sur le terrain n’a cependant permis de localiser
+de zone humide (Cf. Diagnostic cartographique et pédologique de
+zones humides).
+
+La vulnérabilité au risque d’inondation est qualifiée de faible et aucun
+plan de prévention des risques inondation (PPRi) n’est en vigueur sur
+la commune. Par ailleurs, le site d’étude n’est pas concerné par le
+risque remontée de nappes.
+
+Sur un territoire couvert 
+par un plan de prévention 
+du bruit, arrêté ou le 
+cas échéant, en cours 
+d’élaboration ?
+
+Dans un bien inscrit au 
+patrimoine mondial ou sa 
+zone tampon, un monument 
+historique ou ses abords 
+ou un site patrimonial 
+remarquable ?
+
+Dans une zone humide ayant 
+fait l’objet d’une délimitation ?
+
+Dans une commune couverte 
+par un plan de prévention des 
+risques naturels prévisibles 
+(PPRN) ou par un plan 
+de prévention des risques 
+technologiques (PPRT) ?
+
+Si oui, est-il prescrit ou 
+approuvé ?
+
+Dans un site ou sur des sols 
+pollués ?
+
+Dans une zone de répartition 
+des eaux ?
+
+Dans un périmètre de 
+protection rapprochée d’un 
+captage d’eau destiné  à la 
+consommation humaine ou 
+d’eau minérale naturelle ?
+
+Dans un site inscrit ?
+
+Le projet se situe-t-il dans 
+ou à proximité :
+
+Oui Non
+
+Lequel et à quelle distance ?
+
+Le site Natura 2000 le plus proche se situe à 7,3km m au Nord du
+projet (« Complexe forestier Rennes-Liffré-Chevré, Étang et lande
+d'Ouée, forêt de Haute Sève).
+
+D’un site Natura 2000 ?
+
+Veuillez compléter le tableau suivant :
+
+Incidences potentielles
+
+Oui Non
+
+s
+e
+c
+r
+u
+o
+s
+s
+e
+R
+
+Engendre-t-il des 
+prélèvements d’eau ?
+Si oui, dans quel 
+milieu ?
+
+Impliquera-t-il 
+des drainages/ou 
+
+prévisibles des masses 
+d’eau souterraines ?
+
+matériaux ?
+
+matériaux ?
+
+Si oui, utilise-t-il les 
+
+du sol ou du sous-sol ?
+
+De quelle nature ? De quelle importance ? 
+Appréciez sommairement l’impact potentiel
+
+Le projet ne nécessite pas d'eau pour son activité. De l'eau du
+réseau public sera utilisé uniquement lors du remplissage des
+réserves incendie (120m3x2=240m3). A noter que pour une bonne
+implantation et maintien des haies paysagères, un arrosage sera
+nécessaire les premières années. Un cuve mobile sera alors
+acheminée sur le site par la société en charge de l'entretien. Aucun
+prélèvement d'eau n'est prévu dans le milieu naturel.
+
+La mise en place du projet va nécessiter des terrassements sur le
+site, la création d'un bassin de gestion des eaux ainsi que la mise en
+place de fondation pour certains équipements (bâtiment de pilotage,
+transformateur principal notamment). Ces travaux resteront
+superficiels et ne sont pas de nature à impacter le contexte
+hydrogéologique
+
+Les terrassements du site seront gérés autant que possible en
+déblais/remblais limitant la production de déchets. La réalisation des
+fondations, de la liaison électrique souterraine et des ouvrages de
+gestion des eaux pluviales pourra générer un excédent de matériaux.
+Les déblais seront évacués vers des centres de prise en charge
+adaptés.
+En phase exploitation, le projet n'émet aucun produit (gaz, liquide ou
+solide).
+
+Un apport de matériaux de carrière sera nécessaire pour la
+réalisation de la plateforme du site et de ses pistes de circulation.
+
+En phase exploitation, le projet ne requière aucun apport de
+ressources naturelles.
+
+De quelle nature ? De quelle importance ? 
+Appréciez sommairement l’impact potentiel
+
+Seuls des sanitaires pourraient être raccordés au réseau
+d'alimentation en eau si toutefois ce réseau était disponible.
+L'assainissement se ferait dans ce cas par une fosse indépendante.
+
+Incidences potentielles
+
+Oui Non
+
+s
+e
+c
+r
+u
+o
+s
+s
+e
+R
+
+Est-il en adéquation 
+avec les ressources 
+
+les équipements 
+d’alimentation 
+
+assainissement ?
+
+Les zones présentant des enjeux ont été évitées. De plus les travaux
+respecteront un calendrier précis pour ne pas impacter la faune et la
+flore. Ainsi le projet n'aura aucun impact sur la biodiversité.
+
+Le site Natura 2000 le plus proche se situe à 7,3km m au Nord du
+projet (« Complexe forestier Rennes-Liffré-Chevré, Étang et lande
+d'Ouée, forêt de Haute Sève).
+
+Le site est éloigné et n'a pas de connexion direct avec le projet.
+
+Le site minimise au maximum sa surface d'implantation à1,66ha de
+parcelle agricole.
+
+aucun PPRT ne concerne le site. En revanche, le projet peut
+présenter un risque d'incendie pouvant générer des émanations
+toxiques. La notice d'analyse des risques montre que les mesures
+mises en place (prévention, protection et intervention) permettent de
+maîtriser parfaitement ce risque. Ce dernier est considéré comme
+acceptable. La notice d'analyse des risques est disponible en annexe.
+
+La vulnérabilité au risque d’inondation est qualifiée de faible et aucun
+plan de prévention des risques inondation (PPRi) n’est en vigueur sur
+le territoire communal. Par ailleurs, le site d’étude n’est pas concerné
+par le risque d’inondation par remontée de nappe.
+
+Le site d’étude n’est pas localisé dans une zone à aléa pour le
+phénomène de retrait-gonflement des argiles.
+
+l
+
+e
+r
+u
+t
+a
+n
+u
+e
+
+i
+l
+i
+
+M
+
+d’entraîner des 
+
+dégradations, des 
+destructions de la 
+
+continuités écologiques ?
+
+Si le projet est situé 
+dans ou à proximité 
+d’un site Natura 2000, 
+
+d’avoir un impact sur 
+
+inscrit(e) au Formulaire 
+Standard de Données 
+du site ?
+
+Engendre-t-il la 
+consommation 
+d’espaces naturels, 
+agricoles, forestiers, 
+maritimes ?
+
+Est-il concerné 
+par des risques 
+technologiques ?
+
+s
+e
+u
+q
+s
+R
+
+i
+
+Est-il concerné par des 
+risques naturels ?
+
+Engendre-t-il des 
+risques sanitaires ?
+
+Est-il concerné par des 
+risques sanitaires ?
+
+ 
+ 
+De quelle nature ? De quelle importance ? 
+Appréciez sommairement l’impact potentiel
+
+La phase travaux engendre des déplacements de camions pour
+amener le matériel et les matériaux sur site et évacuer les déblais.
+Les camions emprunteront le réseau de voies communales et de
+chemins, desservis par les routes départementales D286 ou D292.
+En exploitation, le site ne nécessite pas de présence humaine. La
+fréquence des interventions pour l'entretien, la maintenance et le
+contrôle sera occasionnelle.
+
+Les sources de bruit sont les transformateurs et systèmes de
+refroidissement des conteneurs batteries et onduleurs. L'habitation la
+plus proche est à >150m au nord du site. Les travaux seront le jour.
+
+Les installations respecteront les normes et ne générera pas de
+nuisance sonore supplémentaire que le poste RTE existant à
+proximité.
+
+Incidences potentielles
+
+Oui Non
+
+Engendre-t-il des 
+déplacements/des 
+
+Est-il concerné par des 
+
+Engendre-t-il des 
+
+Est-il concerné par des 
+
+s
+e
+c
+n
+a
+s
+u
+N
+
+i
+
+Engendre-t-il des 
+
+Est-il concerné par des 
+
+Engendre-t-il des 
+
+Est-il concerné 
+par des émissions 
+
+Engendre-t-il des rejets 
+
+Engendre-t-il des rejets 
+
+Si oui, dans quel 
+
+Les travaux de compactage de matériaux seront source de vibrations
+lors de la réalisation des plateformes et pistes. Aucune vibration n'est
+engendrée en phase exploitation.
+
+Aucun éclairage permanent n'est prévu sur le site. Un éclairage
+ponctuel sera possible pour une intervention de sécurité ou de
+maintenance.
+
+En phase de construction, la réglementation sur les émissions
+atmosphériques des moteurs sera respectée.
+En phase d'exploitation, le projet ne sera pas de nature à
+compromettre la qualité de l'air en fonctionnement normal. En cas
+d'incendie, les batteries seront susceptibles d'émettre des fumées
+dont les concentrations sont inférieures aux seuils de toxicité. Ces
+éléments seront décrits dans une analyse de risque et remis à
+l'administration dans le cadre de l'instruction du projet.
+
+En phase travaux les entreprises prendront toutes les dispositions
+visant à éviter les rejets liquides.
+
+En phase exploitation les eaux de pluies seront collectées dans des
+fossés puis dirigées vers un bassin d'infiltration.
+
+i
+
+s
+n
+o
+s
+s
+m
+É
+
+i
+
+Incidences potentielles
+
+Oui Non
+
+De quelle nature ? De quelle importance ? 
+Appréciez sommairement l’impact potentiel
+
+i
+
+s
+n
+o
+s
+s
+m
+É
+
+i
+
+/
+
+e
+r
+d
+a
+C
+e
+n
+o
+m
+
+i
+
+i
+r
+t
+a
+P
+
+l
+
+n
+o
+i
+t
+a
+u
+p
+o
+P
+e
+
+/
+
+i
+
+v
+
+e
+d
+
+Engendre-t-il des 
+
+Engendre-t-il la 
+production de déchets 
+non dangereux, inertes, 
+dangereux ?
+
+de porter atteinte 
+au patrimoine 
+architectural, culturel, 
+archéologique et 
+paysager ?
+
+Engendre-t-il des 
+
+activités humaines 
+(agriculture, 
+
+aménagements), 
+notamment l’usage du 
+sol ?
+
+En phase chantier, la réglementation en vigueur concernant la
+prévention et la gestion des déchets sera respectée.
+En phase exploitation, le site et la liaison souterraines ne généreront
+pas de déchet. Les batteries seront renouvelées dès que nécessaire
+(en moyenne tous les 15 ans).Un plan de recyclage est prévu en fin
+de vie des batteries.
+
+Le projet s’inscrit dans un paysage horizontal agricole avec des
+activités industrielles qui ponctuent également ce territoire. Le projet
+est situé à côté d'un poste RTE et d'une voie ferrée. Une haie
+paysagère viendra masquer la visibilité tout autour du site. Le design
+des éléments techniques sera choisit de manière à s'intégrer au
+paysage.
+
+Le projet s’implante principalement sur des parcelles agricoles sur
+une surface totale de 1,66ha.
+Le projet est optimisé afin de prendre un minimum d’espace sur ces
+parcelles agricoles. Les surfaces non exploitées sont privilégiées afin
+de limiter l’impact sur l’exploitation agricole.
+
+  Non
+
+Si oui, décrivez lesquelles :
+
+ 
+  
+ 
+  Non
+
+Si oui, décrivez lesquelles :
+
+Les incidences sur les milieux physique, naturel, humain, ainsi que sur le paysage ont été étudiées. Une analyse
+des risques a également été menée.
+Le projet n'est pas de nature à générer des incidences sur l'environnement. La mise en place de mesure de
+réduction permettra d'assurer cela. Les incidences sont considérées comme négligeables, nulles voir positives
+d'après les études menées. Le risque technologique lié au projet est considéré comme acceptable.
+Par ailleurs, l'activité projetée est soumise à la réglementation des Installations Classées pour la Protection de
+l'Environnement (ICPE). Ainsi, l'activité devra se conformer aux prescriptions applicables sur les ICPE et
+notamment sur les installations en déclaration au titre de la rubrique 2925-2.
+
+Les principales mesures permettant d'éviter et de réduire les incidences sur l'environnement sont:
+- Baliser et éviter les secteurs à enjeux (boisement, haies, cours d'eau) et respecter le calendrier écologique en
+phase chantier.
+- Assurer une gestion efficace des eaux pluviales pour permettre leur infiltration dans le sol, via un bassin
+d'infiltration (dont le dimensionnement exact sera obtenu après la réalisation d'une étude hydraulique). Ce bassin
+vient en compensation de la surface imperméabilisée
+- Mettre en place un dispositif de sécurité sur les installations en tenant compte des préconisations du SDIS et de la
+réglementation ICPE pour l'intervention des équipes de secours.
+- Assurer une gestion efficace des eaux d'incendie. En cas d'incendie, les eaux utilisées par les pompiers
+ruisselleront en direction de la noue étanche pour éviter leur pénétration dans le milieu naturel et des changements
+de coefficients d'eau dans les sols.
+- Eviter une implantation aux abords des lignes électriques HT et maintenir leur servitudes.
+- Assurer la gestion de la flore invasive.
+- Intégrer au mieux le projet dans son environnement par la plantation d'une haie / d'arbres en périphérie du site.
+- Prendre en compte les prescriptions acoustiques afin de respecter au mieux les seuils réglementaires d'émissions
+sonores (une distance à minima de 100m est requise sans dispositif d'isolation acoustique).
+Des notes d'analyse des risques et de synthèse sont annexées et apportent des précisions quant à ces mesures.
+
+  
+ 
+environnementale ou qu’il devrait en être dispensé ? Expliquez pourquoi.
+
+L'installation d'un site de stockage d'énergie électrique de grande capacité ne peut se faire qu'à proximité d'un
+poste électrique appartenant au réseau électrique RTE ayant une tension supérieure ou égale à 225 kV. De plus, le
+projet de stockage d’électricité par batterie localisé sur la commune de Domloup s’inscrit dans un contexte rural.
+Afin de prendre en compte les enjeux environnementaux du secteur d'implantation, plusieurs expertises ont été
+menées dont les rapports sont présentés en annexe. Ces différentes études ont permis d'élaborer un projet qui
+s'intègre au mieux dans son environnement sans engendrer d'incidences notables sur l’environnement naturel, le
+paysage et les populations. Le risque industriel est également maîtrisé.
+
+Document CERFA n°14734 intitulé « informations nominatives relatives au maître d’ouvrage ou 
+pétitionnaire » -  non publié.
+
+Objet
+
+au cas par cas.
+
+Un plan de situation au 1/25 000 ou, à défaut, à une échelle comprise entre 1/16 000 et 1/64 000 (Il 
+
+Au minimum, 2 photographies datées de la zone d’implantation, avec une localisation cartographique 
+des prises de vue, l’une devant permettre de situer le projet dans l’environnement proche et l’autre de 
+le situer dans le paysage lointain.
+
+l’article R. 122-2 du code de l’environnement un projet de tracé ou une enveloppe de tracé
+
+de photos aériennes datées et complétées si nécessaire selon les évolutions récentes, à une échelle 
+
+avoisinants ainsi que les canaux, plans d’eau et cours d’eau
+
+Si le projet est situé dans un site Natura 2000, un plan de situation détaillé du projet par rapport à ce 
+site. Dans les autres cas, une carte permettant de localiser le projet par rapport aux sites Natura 2000 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+ 
+parties auxquelles elles se rattachent.
+
+Note de risque
+
+Objet
+
+Diagnostic pédologique et ZH
+
+Note de synthèse
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Je certifie sur l’honneur l’exactitude des renseignements ci-dessus 
+
+Nom  
+
+Foulard
+
+Prénom 
+
+Benjamin
+
+Qualité du signataire 
+
+Chef de projet développement Stockage
+
+À  
+
+Fait le 
+
+/
+
+/
+
+      Signature du (des) demandeur(s)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

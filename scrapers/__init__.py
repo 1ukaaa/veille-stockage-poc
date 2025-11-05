@@ -11,6 +11,7 @@ AVAILABLE_REGIONS = {
     "grand-est": "grand_est", 
     "hauts-de-france": "hauts_de_france",
     "ile-de-france": "ile_de_france",
+    "bretagne": "bretagne",
 }
 
 
