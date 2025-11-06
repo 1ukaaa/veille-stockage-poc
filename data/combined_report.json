@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "timestamp": "2025-11-05T15:55:37.942050",
-    "input_dir": "out/enriched",
+    "timestamp": "2025-11-06T16:38:49.244980",
+    "input_dir": "out\\enriched",
     "output_file": "data/combined.csv",
-    "num_files": 19,
+    "num_files": 22,
     "deduplication_strategy": "keep_best"
   },
   "statistics": {
-    "rows_input": 84,
-    "rows_output": 83,
+    "rows_input": 92,
+    "rows_output": 91,
     "rows_removed_duplicates": 1,
-    "deduplication_rate": 1.2
+    "deduplication_rate": 1.1
   },
   "files_processed": [
     "enriched_auvergne-rhone-alpes_2023.csv",
@@ -31,6 +31,9 @@
     "enriched_ile-de-france_2025.csv",
     "enriched_normandie_2023.csv",
     "enriched_normandie_2024.csv",
-    "enriched_normandie_2025.csv"
+    "enriched_normandie_2025.csv",
+    "enriched_pays-de-la-loire_2023.csv",
+    "enriched_pays-de-la-loire_2024.csv",
+    "enriched_pays-de-la-loire_2025.csv"
   ]
 }

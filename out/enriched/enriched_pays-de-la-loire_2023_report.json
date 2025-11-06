@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "input_file": "out\\analyzed\\analyzed_pays-de-la-loire_2023.csv",
+    "output_file": "C:\\Users\\lmauvignant\\OneDrive - EDF Renouvelables\\Documents\\veille-stockage-poc\\out\\enriched\\enriched_pays-de-la-loire_2023.csv",
+    "timestamp": "2025-11-06 16:38:28",
+    "duration_seconds": 33.9,
+    "projects_processed": 4
+  },
+  "statistics": {
+    "permits_found": 0,
+    "high_confidence": 0,
+    "avg_confidence": 0.0
+  }
+}

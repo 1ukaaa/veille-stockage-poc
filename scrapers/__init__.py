@@ -12,6 +12,8 @@ AVAILABLE_REGIONS = {
     "hauts-de-france": "hauts_de_france",
     "ile-de-france": "ile_de_france",
     "bretagne": "bretagne",
+    "nouvelle-aquitaine": "nouvelle_aquitaine",
+    "pays-de-la-loire": "pays_de_la_loire",
 }
 
 
