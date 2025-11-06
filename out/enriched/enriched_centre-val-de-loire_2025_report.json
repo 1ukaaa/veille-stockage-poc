@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "input_file": "out\\analyzed\\analyzed_centre-val-de-loire_2025.csv",
+    "output_file": "C:\\Users\\lmauvignant\\OneDrive - EDF Renouvelables\\Documents\\veille-stockage-poc\\out\\enriched\\enriched_centre-val-de-loire_2025.csv",
+    "timestamp": "2025-11-06 17:44:46",
+    "duration_seconds": 80.3,
+    "projects_processed": 8
+  },
+  "statistics": {
+    "permits_found": 0,
+    "high_confidence": 0,
+    "avg_confidence": 0.0
+  }
+}

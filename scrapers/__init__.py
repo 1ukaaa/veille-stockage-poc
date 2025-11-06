@@ -14,6 +14,7 @@ AVAILABLE_REGIONS = {
     "bretagne": "bretagne",
     "nouvelle-aquitaine": "nouvelle_aquitaine",
     "pays-de-la-loire": "pays_de_la_loire",
+    "centre-val-de-loire": "centre_val_de_loire",
 }
 
 
