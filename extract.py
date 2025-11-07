@@ -140,6 +140,17 @@ def find_document_links(html: str, base_url: str) -> List[Dict]:
     return unique_docs
 
 
+DOC_URL_PATTERN = re.compile(r"\.(pdf|zip)(?:$|[?#])", re.I)
+PORTAL_VIEW_PATTERN = re.compile(r"evaluation-environnementale\.ecologie\.gouv\.fr/.*/view-document/(\d+)", re.I)
+PORTAL_API_BASE = "https://gatew-evaluation-environnementale.developpement-durable.gouv.fr"
+PORTAL_DOCUMENT_ENDPOINT = f"{PORTAL_API_BASE}/api/Document/GetPublishedDocumentById"
+PORTAL_ATTACHMENT_ENDPOINT = f"{PORTAL_API_BASE}/api/Attachment/PublishedDownload"
+
+
+def is_document_url(url: str) -> bool:
+    return bool(DOC_URL_PATTERN.search((url or "").lower()))
+
+
 def classify_document(label: str, url: str) -> str:
     """Classifie un document selon son label/URL"""
     text = f"{label} {url}".lower()
@@ -292,6 +303,93 @@ def download_urls_for_project(
     return downloaded
 
 
+def expand_project_documents(
+    project_id: str,
+    urls: List[str],
+    http_client: HTTPClient,
+    max_per_page: int = 6
+) -> List[str]:
+    """
+    Convertit les URLs d'un projet en vraie liste de documents.
+    - Si l'URL pointe directement vers un PDF/ZIP → conservée.
+    - Sinon, on scrape la page et on récupère les liens PDF/ZIP.
+    """
+    document_urls: List[str] = []
+    seen = set()
+
+    def add_url(u: str):
+        norm = u.split("#")[0]
+        if norm not in seen:
+            seen.add(norm)
+            document_urls.append(u)
+
+    for url in urls:
+        if is_document_url(url):
+            add_url(url)
+            continue
+
+        portal_matches = extract_portal_documents(url, http_client)
+        if portal_matches:
+            for doc in prioritize_documents(portal_matches):
+                add_url(doc["url"])
+            continue
+
+        try:
+            html, final_url = http_client.get_text(url)
+        except Exception as exc:
+            logger.warning(f"[{project_id}] Impossible de récupérer la page {url}: {exc}")
+            continue
+
+        links = find_document_links(html, final_url)
+        if not links:
+            logger.warning(f"[{project_id}] Aucun PDF trouvé sur la page {url}")
+            continue
+
+        prioritized = prioritize_documents(links)
+        for doc in prioritized[:max_per_page]:
+            add_url(doc["url"])
+
+    return document_urls
+
+
+def extract_portal_documents(url: str, http_client: HTTPClient) -> List[Dict]:
+    """Détecte les URLs du portail évaluation-environnementale et retourne les pièces jointes."""
+    match = PORTAL_VIEW_PATTERN.search(url or "")
+    if not match:
+        return []
+
+    document_id = match.group(1)
+    api_url = f"{PORTAL_DOCUMENT_ENDPOINT}?id={document_id}"
+
+    try:
+        payload, _ = http_client.get_text(api_url)
+        data = json.loads(payload)
+    except Exception as exc:
+        logger.warning(f"[PortalDoc {document_id}] API error: {exc}")
+        return []
+
+    attachments = data.get("attachments") or []
+    documents: List[Dict] = []
+
+    for attachment in attachments:
+        attachment_id = attachment.get("Id")
+        if not attachment_id:
+            continue
+        download_url = f"{PORTAL_ATTACHMENT_ENDPOINT}?ctsFileId={attachment_id}"
+        documents.append(
+            {
+                "url": download_url,
+                "label": attachment.get("Name", f"attachment-{attachment_id}"),
+                "ext": attachment.get("Extension", "pdf").lower(),
+            }
+        )
+
+    if not documents:
+        logger.warning(f"[PortalDoc {document_id}] Aucun fichier joint détecté via l'API")
+
+    return documents
+
+
 # ============ Extraction Parallèle ============
 
 def extract_document_worker(args: Tuple) -> Tuple[str, str, str, str]:
@@ -323,9 +421,14 @@ def process_project_optimized(
     - Combine et analyse
     """
     project_id = project_data["project_id"]
-    urls = project_data["urls"]  # ⭐ LISTE d'URLs
+    raw_urls = project_data["urls"]  # Peut être mixte (pages + PDFs)
+    resolved_urls = expand_project_documents(project_id, raw_urls, http_client)
     
-    logger.info(f"Processing: {project_data['project_title'][:60]} ({len(urls)} URLs)")
+    if not resolved_urls:
+        logger.warning(f"[{project_id}] Aucun document exploitable trouvé")
+        return None
+    
+    logger.info(f"Processing: {project_data['project_title'][:60]} ({len(resolved_urls)} docs)")
     
     # Dossier sortie
     output_dir = settings.OUTPUT_DIR / "docs" / project_id
@@ -334,7 +437,7 @@ def process_project_optimized(
     # ===== ÉTAPE 1: Télécharge TOUTES les URLs =====
     downloaded_docs = download_urls_for_project(
         project_id,
-        urls,
+        resolved_urls,
         http_client,
         cache
     )
@@ -391,7 +494,8 @@ def process_project_optimized(
         "region": project_data["region"],
         "dept": project_data["dept"],
         "year": project_data["year"],
-        "n_urls": len(urls),
+        "n_urls": len(raw_urls),
+        "urls_input": raw_urls,
         "urls_processed": list(downloaded_docs.keys())
     }
     
@@ -407,7 +511,7 @@ def process_project_optimized(
     # ===== ÉTAPE 4: Construction Analysis =====
     return Analysis(
         project_id=project_id,
-        project_url=urls[0],  # URL principale (première)
+        project_url=raw_urls[0] if raw_urls else resolved_urls[0],
         project_title=project_name,
         dept=project_data["dept"],
         region=project_data["region"],

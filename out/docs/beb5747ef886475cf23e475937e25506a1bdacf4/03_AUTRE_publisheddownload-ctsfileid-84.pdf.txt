@@ -1,0 +1,789 @@
+Template Word Clean-Horizon 
+
+Rapport sécurité incendie – 
+Système de stockage par batterie 
+Li-ion 
+
+Projet sur la commune d’Artigues (83) 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+Sommaire 
+
+Contexte et présentation du projet ........................................................................ 3 
+
+Solutions adoptées pour le système de stockage d’énergie ..................................... 5 
+
+Enceintes de stockage ..................................................................................................................................................... 5 
+
+Système de conversion d’énergie ................................................................................................................................... 7 
+
+Mesures de protection et de lutte contre l’incendie ............................................... 8 
+
+Conception de la solution de stockage ............................................................................................................................ 8 
+Systèmes de détection .................................................................................................................................................... 8 
+
+Systèmes de lutte contre l’incendie suite à un emballement thermique ........................................................................ 9 
+
+Compatibilité du projet avec les exigences nationales .......................................... 12 
+
+Accès au site et accès au réseau incendie ............................................................. 14 
+
+Implantation du projet .................................................................................................................................................. 14 
+Surfaces concernées ..................................................................................................................................................... 16 
+
+Desserte en eau ............................................................................................................................................................ 16 
+
+Annexe n°1 : Certifications détenues par la solution Saft Intensium Flex ............... 17 
+
+Annexe n°2 : Certifications détenues par le skid SMA série MVPS 4000-S2 ............ 19 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+  Contexte et présentation du 
+
+projet 
+
+Le présent rapport présente les principales mesures de sécurité incendie relatives au système 
+
+de stockage localisé dans la commune d’Artigues (Var) aux coordonnées suivantes :  43°33'02"N 
+
+5°48'36"E. 
+
+L’établissement de ce rapport s‘aligne avec l’adoption exponentielle de solutions de stockage 
+
+par  batteries  lithium-ion  en  France  et  les  réglementations  actuelles  ainsi  que  futures  afin 
+
+d’assurer un maximum de mesures de détection et lutte contre tout événement d’emballement 
+
+thermique  pouvant  mener  à  un  feu  de  batterie  et  éviter  sa  propagation  aux  structures 
+
+avoisinantes.  
+
+Le  système  de  stockage  concerné  aura  un  dimensionnement  de  24  MW  /  72  MWh  et  sera 
+
+raccordé  sur  des  départs  existants  30  kV  du  poste  HTB  Provencialis.  Le  système  utilisera  le 
+
+transformateur  30 
+
+kV 
+
+/  225 
+
+kV  existant  du  poste  HTB  Provencialis. 
+
+La 
+
+Figure 1: Plan de masse du système de stockage, présente un plan de masse préliminaire pour 
+
+ce  système  de  batterie  de  24  MW.  La  batterie  sera  connectée  au  Réseau  de  transport 
+
+d'électricité (RTE). 
+
+3 
+
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+Figure 1: Plan de masse du système de stockage 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+  Solutions adoptées pour le 
+système de stockage d’énergie 
+
+ Enceintes de stockage 
+
+La solution Intensium Flex a été retenue dans le cadre préliminaire de ce projet. Fournie par 
+SAFT, cette solution a une capacité installée de 5.1 MWh et se présente sous la forme d’un 
+
+conteneur de 20 pieds (cf. 
+
+Figure 1Figure 2 ci-dessous). 
+
+Figure 2: Solution Intensium Flex (5.1 MWh) 
+
+Chacun  de  ces  conteneurs  est  doté  d’un  total  de  80  modules  de  batteries,  chaque  module 
+
+contenant 52 cellules pour un total de 4 160 cellules par système Intensium Flex.  
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+Cette solution est équipée d’un système de refroidissement liquide en circuit fermé, assurant 
+
+une efficacité optimale et un échange thermique au plus près des modules.  
+
+Figure 3. Composants principaux d'un système Intensium Flex 
+
+6 
+
+Système de refroidissement liquide a ery  anagement System (système de ges on) odules de ba eries ranchements électriques 
+ 
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+ Système de conversion d’énergie 
+
+Le  système  de conversion d’énergie est composé  d’un onduleur bidirectionnel permettant le 
+
+passage d’un courant continu (niveau batterie) à un courant alternatif (sinusoïdal), similaire au 
+
+signal  électrique  au  niveau  du  réseau  public.  De  même,  cet  onduleur  est  connecté  à  un 
+
+transformateur  qui  permettra  d’assurer  une  élévation  de  la  tension  électrique  au  niveau 
+
+adéquat requis par le gestionnaire du réseau de transport (63 kV pour ce projet).  
+
+La solution retenue est fournie à cette étape préliminaire est celle du constructeur allemand 
+SMA  et  fait  partie  de  la  série  MVPS  4000-S2.  Sous  format  skid1,  cette  solution  incorpore 
+
+l’onduleur, le transformateur ainsi que les cellules HTA (ring main unit). 
+
+Figure 4. Système de conversion d’énergie retenu 
+
+1 Terme en anglais correspondant à un châssis métallique sur lequel sont fixés différents équipements, permettant ainsi de tran sporter aisément un 
+équipement complet “prêt à l'emploi". 
+
+7 
+
+ nduleur ransformateurCellules   A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+   esures de protection et de 
+
+lutte contre l’incendie 
+
+ Conception  de 
+
+la  solution  de 
+
+stockage 
+
+La solution de stockage par batterie est dotée d’un ensemble de mesures assurant la détection 
+
+d’un événement d’emballement thermique ainsi que des mesures de lutte passives et actives 
+
+contre un incendie.  
+
+Systèmes de détection 
+
+Le tout premier maillon de sécurité incendie est celui de la détection, assurée par le système de 
+
+gestion de la batterie (battery management system ou BMS) et les détecteurs de fumée et de 
+
+chaleur. 
+
+Le  BMS  assure  une  toute  première  détection  des  signaux  liés  à  un  emballement  thermique 
+
+comme les fluctuations anormales de tension, intensité et température au niveau des cellules. 
+
+Si tel est le cas, les   S permettent une coupure automatique de l’alimentation électrique des 
+cellules avec remontée d’un signal d’alerte à l’opérateur du projet via système SCADA2. 
+
+Chaque « colonne » du système Intensium Flex, regroupant 8 modules, est dotée d’un détecteur 
+
+de fumée ainsi qu’un détecteur de chaleur. Ces deux composants permettent de détecter un 
+
+événement  d’emballement  thermique  dès  les  premiers  instants  en  décelant  les  premières 
+
+hausses de température ainsi que les fumées dues à la combustion de l’électrolyte.  
+
+2 SCADA: Le système de contrôle et d’acquisition de données en temps réel (SCADA) (en anglais : Supervisory Control And Data Acquisition est un 
+système de contrôle qui permet la collecte des données à partir de capteurs et de dispositifs à l'intérieur du système de stockage (tels que la tension 
+de  la  batterie,  le  courant,  la  température,  l'état  de  charge),  le  contrôle  à  distance  du  fonctionnement  du  système  de  stockage  par  les  opérateurs 
+(charge, décharge, ajustement des sorties d'énergie), et l'acquisition de données. 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+Figure 5. Disposition des détecteurs et dispositif d'extinction dans un système Intensium Flex 
+
+Systèmes de lutte contre l’incendie suite à 
+
+un emballement thermique 
+
+Lutte  passive :  Le  système  est  doté  de  mesures  pour  atténuer  la  propagation  en  cas  de 
+
+défaillance thermique : 
+
+•  arrières thermiques et évacuation de chaleur aux niveaux des cellules et des modules. 
+
+• Système de suppression d'incendie (FSS) primaire (azote) qui éteint le feu et agit également 
+
+pour évacuer les gaz dangereux par la soupape de surpression. 
+
+•  Système  de  suppression  d'incendie  à  l'eau  pour  atténuer  la  propagation  de  chaleur  à  plus 
+
+grande échelle. 
+
+• Un espacement suffisant pour éviter la propagation d'un conteneur à un autre.  
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+Figure 6. Systèmes de lutte passive pour les solutions Saft 
+
+Lutte active : le système est doté d’un dispositif d'extinction d'incendie par aérosol. 
+
+L'agent extincteur libéré par ce dispositif est principalement composé de particules ultrafines de 
+
+sel de potassium. Le sel de potassium est considéré comme l'un des agents extincteurs les plus 
+
+efficaces, et son mécanisme d'extinction est similaire à celui de l’halon, qui éteint les incendies 
+
+en empêchant la réaction chimique en chaîne complexe de la combustion ou de l'explosion. La 
+
+réaction en chaîne de la combustion nécessite la participation des radicaux OH, H et O, et les 
+
+particules ultrafines de sel de potassium peuvent rapidement consommer ces radicaux libres et 
+
+empêcher la réaction en chaîne de la combustion de se produire. 
+
+Protocole opératoire en cas d’incident :  
+
+Le protocole opératoire du système de sécurité incendie est présenté dans la Figure 7. 
+
+À  la  suite  d’un  emballement  thermique,  le  BMS  détecte  les  tous  premiers  signes  de 
+
+l’emballement  thermique,  procède  à  une  coupure  de  l’alimentation  du  système  de  stockage 
+
+d’énergie (SSE) et notifie l’opérateur du SSE par remontée de l’alerte via système SCADA. 
+
+Si cette action a été insuffisante et que l’emballement thermique s’est déjà amorcé, les systèmes 
+
+de détection (fumée et chaleur) sont déclenchés. Lorsqu'un seul détecteur est déclenché, on 
+
+parle d'une alarme incendie de niveau 1. Lorsque les deux détecteurs sont déclenchés, il s'agit 
+
+d'une alarme incendie de deuxième niveau (niveau 2). 
+
+Le système d'extinction par aérosol interagit avec le système de gestion de la batterie (BMS). 
+
+Dans le cas d’une alarme du niveau 2, et passé un certain délai préconfiguré par le fournisseur 
+
+10 
+
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+de la solution de stockage, l'aérosol est libéré, toutes les armoires électriques du système sont 
+
+maintenues hors service et un signal est envoyé au système de gestion des urgences. 
+
+Figure 7. Diagramme logique du processus opératoire du système de sécurité incendie3 
+
+Phases d'intervention  
+
+En plus des informations relayées par système SCADA à l’opérateur du système de stockage, ces 
+dernières sont également affichées au sein du poste de contrôle disposé à une distance de 7 
+mètres des unités de stockage4. Facilement identifiable et accessible par les services de secours, 
+le poste de contrôle est également doté d’une coupure générale (arrêt d’urgence), d’un plan du 
+site et d’un moyen de communication entre les SDIS et le poste de surveillance de l’installation. 
+
+L’existence d’alarmes visuelles permet à toute personne sur site de détecter au plus vite l’unité 
+affectée en cas d’incident et de faire remonter cette information. Cette personne est ensuite 
+apte à porter assistance aux services de secours, le cas échéant. 
+
+3 ** Sous la nomenclature ICPE 2925-2, les solutions de stockage certifiées sous la norme UL 9540A sont dispensées de l’exigence d’installation d’un 
+système de refroidissement par eau (injection d’eau à l’intérieur des modules ou aspersion d’eau au plus près des modules).   
+4 Sous la nomenclature ICPE 2925-2, le poste de contrôle doit être situé à une distance supérieure ou égale à 7 m des aires de charge. 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+  Compatibilité du projet avec 
+
+les exigences nationales 
+
+Le tableau ci-dessous récapitule l’ensemble des exigences listées sous la nouvelle version de la 
+
+nomenclature  ICPE  2925-2  ainsi  que  les  propriétés  retenues  pour  le  projet  sous  étude.  Ces 
+
+exigences prennent en compte le fait que la solution est certifiée UL 9540 A. 
+
+La norme UL 9540 A documente les caractéristiques d'incendie des batteries afin d'améliorer la 
+
+conception des installations et empêcher la propagation de feu de batterie à quatre niveaux de 
+
+test : de cellule à cellule, de module à module, d’unité en unité (rack), de conteneur à conteneur. 
+
+Les essais consistent à déclencher un emballement thermique à un des niveaux susmentionnés, 
+
+dans un système complet et entièrement chargé, et d’étudier son impact sur le système adjacent 
+
+(identique  au  premier  mais  sans  aucun  module  à  l'intérieur),  sur  les  murs  avoisinants  et  sur 
+
+l'enceinte du système. 
+
+La  solution  de  stockage  considérée  est  en  adéquation  avec  la  réglementation  en  vigueur 
+
+(projet d’arrêté ICPE 2925-2 en sa version datant du 07 Novembre 2023). 
+
+12 
+
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+Distance vis-à-vis des 
+limites du site 
+
+Distance enceintes-
+transformateurs 
+
+Moyens de lutte contre 
+l’incendie : 
+
+▪  Refroidissement 
+▪  Extinction 
+
+Réserves d’eau à la 
+disposition des SDIS 
+
+Tableau 1 : Exigences ICPE et compatibilité du projet de stockage à cette norme 
+
+Exigences ICPE 2925-2 
+
+Propriété retenue pour le projet sous étude 
+
+Compatible ? 
+
+7 mètres 
+
+3 mètres 5 
+
+7 mètres vis-à-vis des limites côté Ouest et 7 m 
+vis-à-vis de la limite de propriété au Nord 
+
+7 mètres 
+
+Les solutions certifiées sous la norme UL 9540A sont 
+exemptées des exigences mentionnées dans l’Article 
+4.1 du texte de l’arrêté. 
+
+Le système est équipé d’un système d’extinction 
+par aérosol ainsi que des mesures passives 
+(panneau anti-explosion, système de fixation des 
+portes) 
+
+Oui 
+
+Oui 
+
+Oui 
+
+ oute installation à moins de 70 m d’un ouvrage ou 
+d’une construction doit être desservie par un appareil 
+d’incendie (bouche, poteaux, etc.) situé à moins de 
+100 m de celle-ci et assurant un débit minimal de 
+60m3/h sous une pression minimale d’1 bar pour 2 
+heures au moins. A défaut, une réserve d’eau d’au 
+moins 120 m3 devrait être mise à disposition.  
+
+Réserve d’eau de 120 m3 considérée.  
+
+Oui 
+
+Systèmes de détection 
+
+Capteurs de température et détecteurs de fumée 
+avec transmission d’alarme au poste de contrôle 
+
+Détecteurs de chaleurs et détecteurs de fumée 
+avec transmission d’alarme au poste de contrôle. 
+
+Systèmes d’alerte 
+
+Dispositifs d’alerte sonores et visuels. Cette 
+prescription ne s'applique pas aux installations pour 
+lesquelles aucune personne n’est présente sur le site. 
+
+Pas de présences permanentes prévues sur site. 
+Le système sera opéré à distance. 
+
+Oui 
+
+Oui 
+
+5 Exigence de conformité aux normes NF C15 100, NF C13 200 et NF EN IEC 61936 1 en vigueur 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+  Accès au site et accès au 
+
+réseau incendie  
+
+ Implantation du projet 
+
+Le système de stockage sera installé sur la parcelle B307 à Artigues. Cette parcelle correspond 
+
+à une zone disponible proche du poste HTB2 Provencialis. La parcelle B307 est délimitée à 
+
+l’ uest par une route. 
+
+Figure 8. Plan de la parcelle zone d’implantation 
+
+Le système de stockage de 24 MW / 72 MWh sera installé sur 6 500 m2 de la parcelle (voir Figure 
+
+9. Schéma d'implantation du projet de stockage). Le site ne peut en aucun cas être étendu car il 
+
+est limitrophe à une zone Natura 2000. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+Figure 9. Schéma d'implantation du projet de stockage 
+
+La route principale qui longe la parcelle à l’ouest permet d’avoir un accès facile aux camions de 
+secours et de pompiers. Un espace de stationnement de 200 m2 (25m x 8m) pour les pompiers 
+a été prévu à côté du réservoir d’eau de 120 m3.  
+
+La largeur de la route d’accès au site existante est de 6m.  
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+ Surfaces concernées 
+
+Comme précédemment indiqué dans la section 4 du présent rapport et, au vu des distanciations 
+
+considérées, le projet ne dispose pas de murs coupe-feu.  
+
+Entre chaque conteneur batterie, 7 m ont été considérés comme requis par le SDIS83, en accord 
+
+avce la norme ICPE 2925 pour des systèmes vérifiant la norme UL9540A. Entre les conteneurs 
+
+batteries la limite de propriété, 7 m ont été considérés comme requis par la norme ICPE 2925 
+
+pour les systèmes vérifiant la norme UL9540A. Une distance de 7 m a également été considérée 
+
+entre les conteneurs batterie et le passage interne à la parcelle afin d’éviter tout encombrement 
+
+ainsi que toute restriction d’accès au poste.  
+
+Entre les conteneurs batteries, systèmes de conversion, salle de contrôle (avec transformateur 
+
+auxiliaire et cellules) et le chemin de câble du système éolien, une marge de 5 m a été considérée 
+
+à partir des câbles extérieurs de la ligne de transport d’électricité. 
+
+Le  réservoir d’eau de 120 m3 a été  placé  au même  niveau de  que  les systèmes de  batteries 
+
+tandis que la cuve d’eaux usées est placée en contrebas du système de batteries. 
+
+La hauteur des conteneurs Intensium Flex et du skid SMA est de 2.9 m.  
+
+ Desserte en eau 
+
+Le système de stockage par batterie sera accompagné d’une réserve d’eau de 120 m3 comme 
+
+requis par l’ICPE 2925-2. 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+  Annexe n°1 : Certifications 
+
+détenues par la solution Saft 
+Intensium Flex 
+
+Le produit Intensium Flex est certifié sous les normes suivantes : 
+
+▪ 
+
+▪ 
+
+▪ 
+
+▪ 
+
+ISO3874 : Exigences et dimensions pour les dispositifs d’arrimage et de fixation utilisés 
+
+dans le transport intermodal 
+
+ISO668 : Exigences de dimensions et prescriptions de résistance des conteneurs 
+
+intermodaux de transport 
+
+ISO1419-1 : Exigences des symboles graphiques pour représenter les types d’usinage et 
+
+opérations de fabrications sur les dessins techniques 
+
+ISO12944-1 : Principes généraux et classification des environnements corrosifs pour la 
+
+protection des structures métalliques par système de peinture 
+
+▪  NEMA250-2020 : Exigences de construction et de protection pour les enveloppes 
+
+d’équipements électriques jusqu’à 1000V 
+
+▪  NFPA70E : Exigences de sécurité pour le travail électrique 
+▪  NFPA855 : Exigences de sécurité pour l’installation, l’entretien et l’utilisation des systèmes 
+
+de stockage par batterie 
+
+▪  NFPA2001 : Exigences pour les systèmes de protection incendie utilisant des agents 
+
+propres destinés à éteindre les incendies sans endommager les équipements sensibles 
+
+▪  NFPA72 : Exigences pour les systèmes de détection et alarme incendie, incluant la 
+
+conception, l’installation, la maintenance et le fonctionnement 
+
+▪  UN38.3 : Méthode d’essais pour évaluer la sécurité des batteries au lithium lors de leur 
+
+transport 
+
+▪  UL9540 A : Méthode d'essai pour évaluer la propagation des incendies par emballement 
+
+thermique dans les systèmes de stockage d'énergie par batterie 
+
+▪  UL1973 : Norme pour les batteries destinées à être utilisées dans des applications de 
+
+stockage stationnaire, d'alimentation auxiliaire de véhicule, et d’alimentation de train 
+
+électrique léger (Light Electric Rail ou LER) 
+
+▪  UL60730-1 : Exigences de sécurité pour les dispositifs automatiques de commande 
+▪  UL50E : Exigences de performance supplémentaire pour les enveloppes électriques 
+
+utilisées en extérieur ou en environnements exigeants 
+
+▪ 
+
+IEEE693 : Recommandations pour la conception sismique des équipement industriels 
+
+17 
+
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+▪  EN54-2 : Exigences pour les centrales de détection incendie, incluant leur conception, 
+
+performances, essais et installation dans les systèmes de sécurité incendie 
+
+▪  EN54-4 : Exigences relatives aux alimentations électriques de sécurité utilisées dans les 
+
+systèmes de détection et d’alarme incendie, garantissant leur fiabilité en cas de coupure 
+
+de courant 
+
+▪ 
+
+IEC62619 : Accumulateurs alcalins et autres accumulateurs à électrolyte non acide –
+
+Exigences de sécurité pour les accumulateurs au lithium pour utilisation dans des 
+
+applications industrielles 
+
+▪ 
+
+▪ 
+
+▪ 
+
+▪ 
+
+▪ 
+
+▪ 
+
+▪ 
+
+▪ 
+
+IEC60529 : Exigences en termes de degrés de protection offerts par les enveloppes des 
+
+équipements électriques contre la pénétration de corps solides et de liquides 
+
+IEC62443-4-2 : Exigences de cybersécurité pour les composants techniques utilisés dans les 
+
+systèmes d’automatisation industrielle 
+
+IEC62477-1 : Exigences de sécurité applicables aux systèmes et matériels électroniques de 
+
+conversion de puissance 
+
+IEC60721-3-4 : Conditions environnementales auxquelles un équipement peut être exposé 
+
+lors de son utilisation en environnement industriel fixe non-climatisé 
+
+IEC60664-1 : Exigences en termes de dimensionnement des isolations électriques pour les 
+
+équipements fonctionnant à des tensions inférieures ou égales à 1000V en basse tension 
+
+IEC61000-6-2 : Exigences d’immunité électromagnétique pour les équipements électriques 
+
+et électroniques utilisées en environnement industriel 
+
+IEC61000-6-4 : Exigences de compatibilité électromagnétique en émission pour les 
+
+équipement électriques et électroniques utilisées en environnement industriel 
+
+IEC61000-6-5 : Exigences d’immunité électromagnétique pour les équipements électriques 
+
+utilisées en environnement industriel sévères 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Template Word Clean-Horizon – Système de stockage par batterie Li-ion 
+
+  Annexe n°2 : Certifications 
+détenues par le skid S A série 
+ VPS 4000-S2  
+
+Le système de conversion d’énergie MVPS 4000-S2 est certifié sous les normes suivantes : 
+
+▪ 
+
+▪ 
+
+▪ 
+
+IEC  60076 :  Norme  sur  la  conception,  la  fabrication,  les  essais  et  la  mise  en  service  des 
+
+transformateurs de puissance, couvrant les aspects électriques, mécaniques et thermiques. 
+
+IEC  62271-200 :  Norme  pour  les  appareillages  à  courant  alternatif  sous  enveloppe 
+
+métallique pour des tensions nominales comprises entre 1 kV à 52 kV 
+
+IEC  62271-202 :  Norme  pour  les  appareillages  à  haute  tension,  en  particulier  les  postes 
+
+préfabriqués haute tension/basse tension 
+
+▪  EN50588-1 : Norme sur les transformateurs de moyenne puissance 50 Hz, dont la tension 
+
+ne dépasse pas 36 kV
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+

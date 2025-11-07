@@ -1,0 +1,3554 @@
+Notice écologique
+
+Commune  : Saint-Maximin-la-Sainte-Baume (83)
+
+Projet de stockage d'énergie par batteries
+
+CERM-3647-82-EC 
+
+Juillet 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4 :  Extrait cartographie SRCE de la région Provence-Alpes-Côte d’Azur (PACA) .................. 9 
+Figure 5 : Photographie des terrains du projet illustrant la parcelle cultivée (source : GoogleMaps – 
+06/2023) ........................................................................................................................... 13 
+Figure 6 : Photographies de la ZIP (source : GoogleMaps – 06/2023) ........................................ 13 
+
+Sommaire 
+
+1. PRESENTATION DU PRE-DIAGNOSTIC ECOLOGIQUE ................................................................................ 3
+1.1. METHODES UTILISEES .................................................................................................................................... 3 
+1.1.1. Bibliographie utilisée, bases de données consultées et organismes rencontrés .............................. 3 
+1.1.2. Le site d’étude .................................................................................................................................. 3 
+2. ANALYSE DES DONNEES BIBLIOGRAPHIQUES ISSUES D’AUTRES PROJETS ................................................ 3
+
+3. ANALYSE DES PORTERS A CONNAISSANCE DE L’ETAT ET DES COLLECTIVITES TERRITORIALES ................. 4
+3.1. LE RESEAU NATURA 2000 ............................................................................................................................. 4 
+3.2. LES ZNIEFF ................................................................................................................................................ 4 
+3.3. RESERVES NATURELLES .................................................................................................................................. 5 
+3.4. PARCS NATURELS .......................................................................................................................................... 5 
+3.5. ZONE D’IMPORTANCE POUR LA CONSERVATION DES OISEAUX (ZICO) ..................................................................... 5 
+3.6. LES ARRETES DE PROTECTION DE BIOTOPE (APB) ............................................................................................... 5 
+3.7. LES ESPACES NATURELS SENSIBLES (ENS) ......................................................................................................... 6 
+3.8. LES PLANS NATIONAUX D’ACTION (PNA) ......................................................................................................... 6 
+3.9. LES ZONES HUMIDES ..................................................................................................................................... 6 
+3.10. LES ESPACES DES CONSERVATOIRES D’ESPACES NATURELS .................................................................................. 7 
+3.11. RECAPITULATIF DES ZONES NATURELLES SIGNALEES D’INTERET OU REGLEMENTEES ................................................... 7 
+3.12. FONCTIONNEMENT ECOLOGIQUE LOCAL .......................................................................................................... 9 
+4. CONSULTATION DES BASES DE DONNEES .............................................................................................. 11
+
+5. ANALYSE DE LA PARCELLE PHOTO-INTERPRETATION ............................................................................. 12
+5.1. LES HABITATS DE VEGETATION ....................................................................................................................... 12 
+5.2. LA FAUNE .................................................................................................................................................. 15 
+5.2.1. Les oiseaux ..................................................................................................................................... 15 
+5.2.2. Les mammifères (hors Chiroptères) ................................................................................................ 15 
+5.2.3. Les Chiroptères ............................................................................................................................... 15 
+5.2.4. Les reptiles ...................................................................................................................................... 15 
+5.2.5. Les amphibiens ............................................................................................................................... 15 
+5.2.6. Les invertébrés ............................................................................................................................... 15 
+6. CONCLUSION ......................................................................................................................................... 16
+
+Liste des planches graphiques 
+PLANCHE 1 : Zonages environnementaux ................................................................................ 8 
+PLANCHE 2 : Fonctionnement écologique local ....................................................................... 10 
+PLANCHE 3 : Typologies d’habitats ....................................................................................... 14 
+PLANCHE 4 : Enjeux écologiques pressentis ........................................................................... 17 
+PLANCHE 5 : Photomontage depuis le sud de la RD 560 .......................................................... 19 
+PLANCHE 6 : Photomontage depuis le nord de la RD 560 ......................................................... 20 
+PLANCHE 7 : Photomontage éloigné depuis les hauteurs de Saint-Maximin-la-Sainte-Baume ....... 21 
+
+Listes des figures : 
+
+Figure 1 :  Photographie de la zone d’implantation du projet depuis le sud de la RD 560 ............... 3 
+Figure 2 :  Aire d’étude écologique .......................................................................................... 3 
+Figure 3 :  Zones humides potentielles .................................................................................... 6 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 20232Préambule 
+
+NEOEN  a  mandaté  CERMECO  pour  réaliser  un  prédiagnostic  écologique  par  photo-interprétation  et 
+analyse bibliographique dans le cadre d’un projet de centrale de stockage énergétique sur la commune 
+de Saint-Maximin-la-Sainte-Baume dans le département du Var (83).  
+
+Le projet se localise dans un contexte rural/péri-urbain en périphérie du bourg de Saint-Maximin-la-
+Sainte-Baume  à  environ  1,5  km  au  nord  en  bordure  immédiate  de  la  RD  560.  L’emprise  du  projet 
+s’étend sur des parcelles majoritairement agricoles et cultivées ainsi que sur une friche rudérale au 
+sud d’une superficie totale d’environ 2 ha (parcelles AK-114, 115, 404, 406).  
+
+Une étude des zonages environnementaux a également été réalisée. Enfin, une analyse par photo-
+interprétation des parcelles concernées par le projet a été réalisée afin d’évaluer succinctement les 
+sensibilités écologiques majeures.  
+
+1.1.2. Le site d’étude 
+
+L’expertise écologique est menée à diverses échelles selon les sensibilités et les milieux concernés. 
+Les aires d’études sont donc définies en fonction de ces précisions d’investigations. En ce qui concerne 
+les zonages environnementaux, l’étude est réalisée à l’échelle de l’aire d’étude écologique représentée 
+par un rayon de 5km autour des terrains du projet. En ce qui concerne la consultation des bases de 
+données  naturalistes,  la  commune  de  Saint-Maximin-la-Sainte-Baume  est  l’échelle  retenue  pour 
+l’analyse.  Enfin,  l’analyse  plus  fine  des  faciès  d’habitat  par  photo-interprétation  est  réalisée 
+exclusivement sur les parcelles concernées par le projet et leurs environs immédiats.   
+
+Figure 1 :  Photographie de la zone d’implantation du projet depuis le sud de la RD 560 
+(Source : NEOEN) 
+
+Ce rapport présente ainsi les principales sensibilités écologiques connues dans le secteur du projet, en 
+relation avec une analyse de la bibliographie et des terrains du projet par photo-interprétation. 
+
+1. PRESENTATION DU PRE-DIAGNOSTIC ECOLOGIQUE
+
+Le projet n’étant pas soumis à étude d’impact environnementale, dans le cadre de ce pré-diagnostic, 
+une  analyse  des  données  bibliographiques  ainsi  qu’une  expertise  par  photo-interprétation  a  été 
+réalisée courant du mois de juillet 2023 par un écologue de CERMECO, l’objectif étant d’identifier les 
+principales sensibilités écologiques du périmètre d’étude et de concevoir un projet respectueux vis-
+à-vis  de  la  biodiversité.  En  effet,  la  prévention  des  atteintes  au  milieu  naturel  est  au  cœur  de 
+l’évaluation des impacts sur l’environnement.  
+
+1.1. Méthodes utilisées 
+
+1.1.1. Bibliographie utilisée, bases de données consultées et organismes 
+
+rencontrés 
+
+Figure 2 :  Aire d’étude écologique 
+
+Afin  de  connaitre  et  d’intégrer  les  sensibilités  écologiques  de  la  zone  d’étude,  diverses  bases  de 
+données ont été consultées, le 11/07/2023 : 
+
+2. ANALYSE DES DONNEES BIBLIOGRAPHIQUES ISSUES
+
+Silene 
+Faune France 
+INPN 
+SINP 
+GéoNature 
+Tela-botanica 
+
+D’AUTRES PROJETS 
+
+Aucune étude environnementale spécifique à ce site n’a pu être trouvée. Une recherche des études 
+environnementales  des  parcs  éoliens,  photovoltaïques  et  autres  aménagements  voisins  a  été 
+
+effectuée, en vain. Les seuls documents trouvés ne permettent pas d’en extraire des éléments relatifs 
+aux milieux naturels et à la biodiversité locale des terrains concernés par le présent projet. 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 202333. ANALYSE DES PORTERS A CONNAISSANCE DE L’ETAT
+
+ET DES COLLECTIVITES TERRITORIALES 
+
+Il est important de connaître la localisation des zones de fort intérêt écologique placées à proximité du projet afin 
+de  pouvoir,  dans  un  premier  temps  identifier  les  espèces  végétales  ou  animales  sensibles  potentiellement 
+présentes sur le site et également, dans un second temps, définir les relations qui pourraient exister entre le site 
+et les zones d’intérêt et/ou réglementées proches. 
+
+L’analyse de ces zonages environnementaux est réalisée dans un rayon de 5 km autour des 
+parcelles  du  projet  correspondant  à  l’aire  d’étude  écologique  (cf.  Figure  2  :    Aire  d’étude 
+écologique, p.7) 
+
+3.1. Le réseau Natura 2000 
+
+Il s’agit d’un ensemble de sites naturels désignés par leur rareté et par la biodiversité qu’ils abritent. Au travers 
+de la Directive Oiseaux (création de Zones de Protection Spéciales (ZPS)) et de la Directive Habitats-Faune-Flore 
+(création  de  Zones  Spéciales  de  Conservation  (ZSC)),  le  réseau  Natura 2000  œuvre  pour  la  préservation  des 
+espèces et des milieux naturels. 
+
+Les terrains du projet  se localisent à l’écart du réseau Natura 2000. Aucun site Natura 2000  n’est 
+présent  au  sein  de  l’aire  d’étude  écologique  de  la  zone  d’implantation  du  projet.  Le  zonage 
+Natura 2000 (ZSC) le plus proche est distant d’environ 9,1 km au sud-est. Il s’agit du site « Massif 
+de la Sainte-Baume » (FR9301606) qui est régit par la Directive Habitats.  
+
+Le  zonage  (ZPS)  le  plus  proche  est  distant  d’environ  10,2 km  au  nord-ouest.  Il  s’agit  du  site 
+« Montagne Sainte-Victoire » (FR9310067) qui est régit par la Directive Oiseaux. 
+
+  Aucun  lien  n’est  à  mettre  en  évidence  entre  les  terrains  du  projet  et  les  zonages  du 
+
+réseau Natura 2000. 
+
+3.2. Les ZNIEFF 
+
+Les  Zones  Naturelles  d’Intérêt  Écologique,  Faunistique  et  Floristique  (ZNIEFF)  ont  pour  but  d’améliorer  la 
+connaissance  des  milieux  naturels  pour  une  meilleure  prise  en  compte  des  richesses  de  l’écosystème  dans  les 
+projets  d’aménagement.  Les  ZNIEFF  de  type  1  sont  des  secteurs  de  superficie  limitée  et  caractérisés  par  leur 
+intérêt biologique remarquable. Les ZNIEFF de type 2 couvrent une plus grande superficie et correspondent à des 
+espaces préservés ayant de fortes potentialités écologiques.  
+
+Dans un rayon de 5 km autour des terrains étudiés (correspondant à l’aire d’étude écologique) on 
+retrouve une ZNIEFF de type I et trois ZNIEFF de type II.  
+
+ZNIEFF de type I 
+
+Une ZNIEFF de type I est située au sein de l’aire d’étude écologique : 
+
+« Mare de l’Etendard » (930020262) situé à environ 3,1 km au sud-est. Il s’agit comme 
+son nom l’indique d’une petite dépression (environ 6 hectares) irrégulièrement inondée 
+selon les années.  
+
+Les habitats déterminants ZNIEFF cités dans le zonage « Mare de l’Etendard » 
+
+Nom de l’habitat (EUNIS) 
+
+Code EUNIS 
+
+Gazons méditerranéens amphibies à 
+Crypsis 
+Tapis de Renouée amphibie 
+Communautés méditerranéennes 
+amphibies à petites herbacées 
+
+C3.423 
+
+C1.2415 
+
+C3.4218 
+
+Potentialité de présence au 
+sein des terrains étudiés ou 
+ses environs proches 
+
+Nulle 
+
+Nulle 
+
+Nulle 
+
+Les espèces déterminantes ZNIEFF citées dans le zonage « Mare de l’Etendard » 
+
+Nom vernaculaire 
+
+Nom scientifique 
+
+Crustacés 
+
+- 
+
+Linderiella massaliensis 
+
+Phanérogames 
+
+Héliotrope couché 
+
+Heliotropium supinum 
+
+Salicaire à trois bractées 
+
+Lythrum tribracteatum 
+
+Potentialité de présence au 
+sein des terrains étudiés ou 
+ses environs proches 
+
+Nulle en l’absence de milieux 
+favorables 
+
+Nulle en l’absence de milieux 
+favorables 
+Nulle en l’absence de milieux 
+favorables 
+
+Les autres espèces citées dans le zonage du site ZNIEFF « Mare de l’Etendard » 
+
+Nom vernaculaire 
+
+Nom scientifique 
+
+Amphibiens 
+
+Pélodyte ponctué 
+
+Pelodytes punctatus 
+
+- 
+
+Crustacés 
+
+Lepidurus apus 
+
+Potentialité de présence au 
+sein des terrains étudiés ou 
+ses environs proches 
+
+Nulle en l’absence de milieux 
+favorables 
+
+Nulle en l’absence de milieux 
+favorables 
+
+Les milieux de cette ZNIEFF sont donc de nature différente de ceux des terrains du projet et aucun 
+lien apparent n’est présent entre eux. Ainsi, les espèces ainsi que les habitats déterminants ayant 
+justifiés les délimitations de ce zonage ne peuvent être retrouvés sur les terrains du projet. 
+
+ZNIEFF de type II 
+
+Trois ZNIEFF de type II sont situées au sein de l’aire d’étude écologique : 
+
+la  plus  proche  se  localise  à  environ  2,5  kilomètres  au  sud-ouest :  « Montagne  du 
+Regagnas – Pas de la Couelle – Mont Olympe – Mont Aurélien » (930012467). Il s’agit 
+comme son nom l’indique d’une chaîne montagneuse de plus de 3 700 ha connue pour 
+abriter  des  populations  faunistiques,  floristiques  et  phytosociologiques  patrimoniales 
+inféodées au massif ;   
+« Le Cauron et ses affluents » (930020306) situé à environ 3,8 km au sud-est. Il s’agit 
+d’un site d’une superficie d’environ 94 ha correspondant au lit du cours du Cauron depuis 
+sa source jusqu’à la confluence avec l’Argens ; 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 20234« Vallée de l’Argens » (930012479) situé à environ 4,5 km au nord-est. Il s’agit d’un site 
+de plus de 2 800 hectares correspondant au lit du cours d’eau de l’Argens ainsi que ses 
+habitats rivulaires (ripisylves, prairies humides, bras morts etc.).  
+
+  Les terrains du projet sont situés à distance de tout zonage de réserve naturelle régionale 
+
+ou nationale. 
+
+Les habitats déterminants ZNIEFF cités dans le zonage « Mare de l’Etendard » 
+
+3.4. Parcs naturels 
+
+Nom de l’habitat (EUNIS) 
+
+Code EUNIS 
+
+Communautés méditerranéennes 
+annuelles des sols superficiels 
+Landes en coussinets à Genista lobelii et 
+G.pulchella 
+
+E1.313 
+
+F7.4456 
+
+Potentialité de présence au 
+sein des terrains étudiés ou 
+ses environs proches 
+Très faible à nulle au niveau de la 
+friche rudérale  
+
+Nulle 
+
+Un espace protégé est « un espace géographique clairement défini, reconnu, consacré et géré, par tout moyen 
+efficace,  juridique  ou  autre,  afin  d'assurer  à  long  terme  la  conservation  de  la  nature  ainsi  que  les  services 
+écosystémiques et les valeurs culturelles qui lui sont associés » selon l'Union Internationale pour la Conservation 
+de la Nature (UICN).  Les « espaces protégés » peuvent être protégés réglementairement, contractuellement, 
+au  titre  d’engagements  internationaux  ou  Européens  ou  par  maîtrise  foncière.  La  classification  en  « parc 
+naturel »  permet  la  protection  contractuelle  d’un  site.  Il  existe  trois  types  de  parcs  naturels :  parc  naturel 
+national, régional et marin. 
+
+Les espèces faunistiques déterminantes ZNIEFF citées dans le zonage « Montagne du 
+Regagnas – Pas de la Couelle – Mont Olympe – Mont Aurélien » 
+
+Un zonage de Parc Naturel Régional (PNR) est situé au sein de l’aire d’étude écologique. Il s’agit du 
+PNR de la Sainte-Baume situé au plus proche à environ 2,5 km au sud-ouest des terrains du projet.  
+
+Nom vernaculaire 
+
+Nom scientifique 
+
+Moiré provençal 
+
+Sablé de la Luzerne 
+
+Rollier d’Europe 
+
+Lépidoptères 
+
+Erebia epistygne 
+
+Polyommatus dolus 
+
+Oiseaux 
+
+Coracias garrulus 
+
+Pie-grièche à tête rousse 
+
+Lanius senator 
+
+Traquet oreillard 
+
+Oenanthe hispanica 
+
+Tortue d’Hermann 
+
+Lézard ocellé 
+
+Reptiles 
+
+Testudo hermanni 
+
+Timon lepidus 
+
+Potentialité de présence au 
+sein des terrains étudiés ou 
+ses environs proches 
+
+Nulle en l’absence de milieux 
+favorables 
+Très faible 
+
+Faible en transit 
+Très faible à nulle en l’absence de 
+strate arbustive 
+Très faible à nulle en l’absence de 
+strate arbustive 
+
+Nulle 
+Nulle en l’absence de milieux 
+favorables 
+
+Les milieux de cette ZNIEFF sont donc de nature différente de ceux des terrains du projet et aucun 
+lien apparent n’est présent entre eux. Ainsi, les espèces ainsi que les habitats déterminants ayant 
+justifiés les délimitations de ce zonage ne peuvent être retrouvés sur les terrains du projet. 
+
+  L’étude des ZNIEFF fait apparaitre des espèces ainsi que des habitats de natures différents 
+de ceux des terrains du projet. De ce fait, la probabilité de présence est majoritairement 
+évaluée comme très faible à nulle.  
+
+3.3. Réserves Naturelles 
+
+Une  réserve  naturelle  nationale  (RNN)  ou  régionale  (RNR)  est  un  outil  de  protection  à  long  terme  d‘espaces, 
+d’espèces  et  d’objets  géologiques  rares  ou  caractéristiques,  ainsi  que  de  milieux  naturels  fonctionnels  et 
+représentatifs  de  la  diversité  biologique  en  France.  Les  réserves  naturelles  régionales  présentent  les  mêmes 
+caractéristiques que les réserves naturelles nationales, à ceci près qu'elles sont classées par le Conseil régional 
+pour une durée limitée  (renouvelable) et que certaines activités ne peuvent pas être réglementées (la chasse, la 
+pêche, l'extraction de matériaux). 
+
+Aucune réserve naturelle n’est présente au sein de l’aire d’étude écologique du projet (5 km). 
+
+Ce PNR occupe une superficie d’environ 84 367 ha répartis entre les départements des Bouches-du-
+Rhône et du Var autour du massif du même nom.  
+Cependant,  aucun  lien  apparent  n’est  à  mettre  en  évidence  entre  ce  parc  naturel  régional  et  les 
+terrains du projet.  
+
+  Les  terrains  du  projet  sont  situés  à  distance  de  tout  Parc  naturel  et  aucun  lien  n’est  à 
+
+mettre en évidence entre le PNR Sainte-Baume et les terrains du projet. 
+
+3.5. Zone d’Importance pour la Conservation des Oiseaux (ZICO) 
+
+Les  ZICO  sont  des  zones  comprenant  des  milieux  importants  pour  la  vie  de  certains  oiseaux  (aires  de 
+reproduction, de mue, d'hivernage, zones de relais de migration). Ces zones ne confèrent aux sites concernés 
+aucune protection réglementaire. En revanche, il est recommandé une attention particulière à ces zones lors de 
+l'élaboration de projets d'aménagement ou de gestion. 
+
+Aucune  ZICO  n’est  présente  au  sein  de  l’aire  d’étude  écologique.  La  plus  proche  étant  la  ZICO  « 
+Montagne Sainte-Victoire » (00238) située à environ 13,3 km au nord-ouest des terrains du projet. 
+
+  Les terrains du projet sont situés à distance de tout zonage ZICO. 
+
+3.6. Les Arrêtés de Protection de Biotope (APB) 
+
+Les arrêtés de protection de biotope sont des aires protégées à caractère réglementaire, qui ont pour objectif de 
+prévenir, par des mesures réglementaires spécifiques de préservation de leurs biotopes, la disparition d’espèces 
+protégées. 
+
+Aucun Arrêtés de Protection de Biotope (APB) n’est présent au sein de l’aire d’étude écologique. 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 202353.7. Les Espaces Naturels Sensibles (ENS) 
+
+Les  Espaces  Naturels  Sensibles  (ENS)  ont  pour  objectif  de  préserver  la  qualité  des  sites,  des 
+paysages, des milieux naturels et des champs d’expansion des crues et d’assurer la sauvegarde des 
+habitats  naturels  ;  mais  également  d’aménager  ces  espaces  pour  être  ouverts  au  public,  sauf 
+exception  justifiée  par  la  fragilité  du  milieu  naturel.  Les  territoires  ayant  vocation  à  être  classés 
+comme Espaces Naturels Sensibles « doivent être constitués par des zones dont le caractère naturel 
+est  menacé  et  rendu  vulnérable,  actuellement  ou  potentiellement,  soit  en  raison  de  la  pression 
+urbaine  ou  du  développement  des  activités  économiques  et  de  loisirs,  soit  en  raison  d'un  intérêt 
+particulier, eu égard à la qualité du site, ou aux caractéristiques des espèces animales ou végétales 
+qui s'y trouvent ». 
+
+Six Espaces Naturels Sensibles (ENS) gérés par le département du Var (83) sont présents au sein de 
+l’aire d’étude écologique de la zone d’implantation du projet (5 km). Il s’agit des sites suivants :  
+
+la  plus  proche  se  localise  à  environ  1,2  kilomètres  au  sud :  « Jardin  de  l’Enclos » 
+(ENS302).  Il  s’agit  comme  son  nom  l’indique  d’un  jardin  situé  dans  le  centre-ville  de 
+Saint-Maximin-la-Sainte-Baume  étroitement  lié  à  la  Basilique  Sainte-Marie-Madeleine. 
+D’une superficie d’environ 2,2 ha, les habitats et le contexte ayant justifié la classification 
+de cet espace en ENS sont différents des parcelles du projet ; 
+« Saint-Mitre »  (ENS303),  situé  à  environ 2  km  au  nord-ouest,  ce  site  ENS  d’une 
+superficie d’environ 4,3 ha est notamment connu pour abriter des squamates protégés 
+tels que le Lézard ocellé. Cependant, les habitats des terrains de la zone d’implantation 
+ne sont pas favorables à l’accueil de cette espèce de reptile inféodée aux milieux naturels 
+secs et ouverts ; 
+« Colline de Deffends » (ENS301), situé à environ 2,2 km au sud-ouest sur les hauteurs 
+de Saint-Maximin-la-Sainte-Baume, le  site  couvre une  superficie d’environ 14,5 ha. Le 
+site  appartient  aux  contreforts  du  Mont  Aurélien,  qui  est  un  véritable  réservoir  de 
+biodiversité. Cependant, aucun lien n’existe entre cet ENS, ce réservoir et les terrains du 
+projet ; 
+« Les  Rabinets »  (ENS68),  situé  à  environ 2,4  km  au  nord-ouest,  ce  site  ENS  d’une 
+superficie d’environ 4,3 ha est notamment connu pour abriter des squamates protégés 
+tels que le Lézard ocellé. Cependant, les habitats des terrains de la zone d’implantation 
+ne sont pas favorables à l’accueil de cette espèce de reptile ; 
+« Le  Gascon »  (ENS290),  situé  à  environ  3,5  km  au  nord,  ce  site  représente  une 
+superficie d’environ 100 ha. Il s’agit d’une ancienne charbonnière actuellement laissé en 
+évolution  libre  constituant  aujourd’hui  une  forêt  ancienne  à  croissance  très  lente.  De 
+nombreuses espèces de chiroptères et de rapaces y ont notamment trouvées refuge ; 
+« Vallon de la Figuière » (ENS304), situé à environ 4,7 km au sud-ouest, ce site d’environ 
+200 ha est reconnu pour sa flore remarquable adaptée aux milieux secs et arides. Des 
+espèces de papillons remarquables sont également connues (ex : la Proserpine).  
+
+De nombreux ENS sont considérés comme des sites et paysages pittoresques (« Jardin de l’Enclos », 
+« Saint-Mitre »,  « Colline  de  Deffends »  et  « Les  Rabinets »),  c’est-à-dire  que  la  raison  de  leur 
+classement en ENS est plus associée à leur caractère paysager plus qu’à leur richesse écologique.  
+D’autres ENS tels que « Le Gascon » ou encore le « Vallon de la Figuière » sont des sites d’utilités 
+fonctionnelles.  C’est-à-dire  qu’il  s’agit  d’espaces  naturels  relativement  préservés  et  essentiels  à  la 
+biodiversité locale. Cependant, ces espaces sont situés à distance des terrains du projet et aucun lien 
+apparent n’est à relever entre ces espaces naturels et la zone d’implantation du projet.  
+
+  Aucune relation apparente n’existe entre ces Espaces Naturels Sensibles départementaux 
+
+et les terrains du projet. 
+
+3.8. Les Plans Nationaux d’Action (PNA) 
+
+Un Plan National d’Action (PNA) est un document regroupant les mesures à mettre en œuvre pour la préservation 
+des espèces qu’il cible. 
+
+Aucun zonage PNA n’est localisé au sein de l’aire d’étude éloignée du présent projet. 
+
+3.9. Les zones humides 
+
+D’après les travaux des laboratoires de recherche UMR SAS et de l’INRA d’Orléans et d’Agrocampus-
+Ouest, la carte recensant les milieux contenant potentiellement des zones humides, sur la base de 
+critères  géomorphologiques  et  climatiques  (en  date  de  2014),  recense  la  zone  d’implantation  du 
+projet comme secteur à très forte probabilité d’humidité (cf. Figure 3 :  Zones humides potentielles). 
+Cette modélisation montre que des zones humides sont potentiellement présentes sur la totalité de 
+l’emprise du projet ainsi qu’au sein de ses abords immédiats.  
+
+Cependant, d’après les différents inventaires zones humides réalisés au sein du secteur d’étude (Atlas 
+des zones humides de la région Sud Provence-Alpes-Côte d’Azur proposé par le SIT du PNR Région 
+Sud), aucune zone humide effective n’est actuellement identifiée au sein ou à proximité immédiate 
+des terrains du projet.  
+
+Figure 3 :  Zones humides potentielles 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 20236  En l’état des connaissances actuelles sur les zones humides du secteur d’étude, aucune 
+zone  humide  effective  n’est  recensée  au  sein  ou  à  proximité  immédiate  des  terrains  du 
+projet.  
+
+3.10. Les espaces des Conservatoires d’Espaces Naturels 
+
+Afin de valoriser et de gérer certains espaces naturels, les Conservatoires d’Espaces Naturels (CEN) acquièrent 
+ou conventionnent des parcelles présentant de manières avérée ou potentielle des sensibilités écologiques. 
+
+Aucun site CEN n’est présent au sein de l’aire d’étude écologique du projet (5 km). 
+
+3.11. Récapitulatif des zones naturelles signalées d’intérêt ou 
+
+réglementées 
+
+Au sein de l’aire d’étude écologique de 5 km autour des terrains de la zone d’implantation potentielle 
+du projet on retrouve les zonages environnementaux suivants :  
+
+Synthèse des zonages environnementaux présents dans l’aire d’étude écologique 
+
+Identifiant 
+
+Nom 
+
+Intérêt(s) 
+
+Distance par rapport au 
+projet 
+
+ZNIEFF de type I 
+
+930020262 
+
+Mare de l’Etendard 
+
+Habitats, faune, flore 
+
+3,1 km au sud-est 
+
+ZNIEFF de type II 
+
+930012467 
+
+Montagne du Regagnas – Pas de la Couelle – 
+Mont Olympe – Mont Aurélien  
+
+Habitats, faune, flore 
+
+2,5 km au sud-ouest 
+
+930020306 
+
+Le Cauron et ses affluents 
+
+Habitats, faune, flore 
+
+3,8 km au sud-est 
+
+930012479 
+
+Vallée de l’Argens 
+
+Habitats, faune, flore 
+
+4,5 km au nord-est 
+
+Parc Naturel Régional 
+
+FR8000053 
+
+Parc Naturel Régional la Sainte-Baume 
+
+Ecologie 
+
+2,5 km au sud-ouest 
+
+Espaces Naturels Sensibles (ENS) 
+
+ENS302 
+
+Jardin de l’Enclos 
+
+ENS303 
+
+Saint-Mitre 
+
+ENS301 
+
+Colline de Deffends 
+
+ENS68 
+
+Les Rabinets 
+
+Sites et paysages 
+pittoresques 
+
+Sites et paysages 
+pittoresques 
+
+Sites et paysages 
+pittoresques 
+
+Sites et paysages 
+pittoresques 
+
+1,2 km au sud 
+
+2 km au nord-ouest 
+
+2,2 km au sud-ouest 
+
+2,4 km au nord-ouest 
+
+ENS290 
+
+Le Gascon 
+
+Sites d’utilités fonctionnelles 
+
+3,5 km au nord 
+
+ENS304 
+
+Vallon de la Figuiere 
+
+Sites d’utilités fonctionnelles 
+
+4,7 km au sud-ouest 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 20237PLANCHE 1 : Zonages environnementaux 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 202383.12. Fonctionnement écologique local 
+
+Dans le cadre de l’étude du fonctionnement écologique, les données issues de la Trame verte et bleue de la région 
+Provence-Alpes-Côte d’Azur (volet biodiversité du SRCE) ont été adaptées au niveau local. En effet, l’échelle plus 
+resserrée de l’analyse permet d’identifier d’autres réservoirs locaux mais également d’infirmer le rôle de continuité 
+écologique de certains corridors repérés au niveau régional. 
+
+Le fonctionnement écologique d’un site consiste à étudier l’organisation de l’espace (la mosaïque des 
+éléments du territoire et la façon dont tous ces éléments sont reliés entre eux), en sachant que la 
+complexité,  la  diversité,  la  connectivité  et  finalement  l’hétérogénéité  du  territoire  conditionnent  la 
+biodiversité. 
+
+L’étude du fonctionnement écologique du site passe par une analyse à une échelle assez large afin 
+de  repérer  les  potentiels  flux  d’espèces  d’un  réservoir  à  un  autre  puis  à  une  aire  d’étude  plus 
+resserrée. 
+
+Au titre de la cartographie des éléments et objectifs de la Trame verte et bleue du Schéma régional 
+de  cohérence  écologique  (SRCE)  de  Provence-Alpes-Côte  d’Azur,  la  zone  d’implantation  du  projet 
+n’est pas incluse dans un réservoir de biodiversité et n’est traversée par aucun corridor écologique 
+identifié  à  l’échelle  régionale.  Cependant,  elle  est  située  au  sein  de  l’espace  de  fonctionnalité  des 
+cours d’eau. Il faudra donc  veiller à ne pas impacter le  réseau hydrographique locale, notamment 
+représenté par le ruisseau intermittent situé en bordure immédiate à l’ouest des terrains du projet.  
+
+De  plus,  de  nombreux  obstacles  à  la  continuité  (déplacements  pour  la  biodiversité)  sont  identifiés 
+autour de la zone d’implantation potentielle du projet. C’est notamment le cas de la RD 560 situé à 
+proximité immédiate à l’est des terrains du projet ou encore du poste électrique situé en face des 
+terrains.  Au  sud  de  la  ZIP,  le  bourg  de  Saint-Maximin-la-Sainte-Baume  est  également  un  secteur 
+considéré comme un obstacle à la continuité écologique.  
+
+Du fait du contexte péri-urbain dans lequel évolue la ZIP, les enjeux liés au fonctionnement écologique 
+des milieux sont relativement restreint. Le contexte urbanisé et anthropique du site et de ses environs 
+pourrait expliquer sa non-intégration au sein d’un quelconque réservoir biologique identifié au titre 
+de la Trame Verte et Bleue régionale du SRCE. Cependant, le secteur d’étude ainsi que ses environs 
+immédiats sont catégorisés comme appartenant à l’espace de fonctionnalité des cours d’eau.  
+
+Site 
+d’étude 
+
+Figure 4 :  Extrait cartographie SRCE de la région Provence-Alpes-Côte d’Azur (PACA)  
+
+  Aucun réservoir ou corridor écologique n’a été inventorié au niveau des terrains du projet 
+par le SRCE de la région Provence-Alpes-Côte d’Azur. Cependant, les terrains du projet et 
+leurs environs sont considérés comme espace de fonctionnalité des cours d’eau.  
+
+  Il faudra donc veiller dans le cadre du projet  à ne pas impacter le  ruisseau intermittent 
+situé  en  bordure  immédiate  à  l’ouest  des  terrains  étudiés  (cf.  PLANCHE  3 :  Typologies 
+d’habitats, p.14).    
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 20239 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLANCHE 2 : Fonctionnement écologique local 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 2023104. CONSULTATION DES BASES DE DONNEES
+
+Probabilité de présence de la faune potentielle à enjeu au sein de l’emprise du projet 
+
+Les  principales  bases  de  données  locales  ont  ensuite  été  parcourues  afin  d’identifier  de  potentiels 
+enjeux du site du projet.  
+
+Nom vernaculaire 
+
+Nom binomial 
+
+Source 
+
+Seules les espèces présentant des enjeux pouvant être significatifs sont présentées ci-après. 
+
+Flore 
+
+Les  bases  de  données  naturalistes  (Silene,  SINP…),  ont  été  consultées  pour  compléter  la  liste  des 
+espèces potentielles. Cependant, en ce qui concerne les espèces floristiques, au vu de la nature des 
+terrains étudiés  et de l’activité qu’ils  occupent  (majoritairement parcelle agricole cultivée), aucune 
+espèce  remarquable  n’est  susceptible  d’être  retrouvée  au  sein  de  l’emprise  du  projet  et  de  ses 
+alentours.  
+
+Faune 
+
+Pour  la  faune,  plusieurs  sources  de  données  ont  été  prises  en  compte,  le  portail  en  ligne  Silene, 
+Géonature, Faune France, INPN, … 
+
+Seules les données les plus remarquables sont reprises dans le tableau ci-après en citant la source 
+d’information.  
+
+Chaque  espèce  est  colorée  en  fonction  de  son  niveau  d’enjeu  régional  c’est-à-dire  à  partir  de  la 
+classification établie par les listes rouges régionales de la région Provence-Alpes-Côte d’Azur.  
+
+e
+g
+u
+o
+r
+e
+t
+s
+i
+L
+
+l
+
+e
+a
+n
+o
+g
+é
+r
+
+i
+
+EN 
+
+VU 
+
+NT 
+
+LC 
+
+DD / NA 
+
+Aigle botté 
+
+Hieraaetus pennatus 
+
+Oiseaux 
+
+Alouette des champs 
+
+Alauda arvensis 
+
+Alouette lulu 
+
+Lullula arborea 
+
+Bruant proyer 
+
+Emberiza calandra 
+
+Bruant zizi 
+
+Emberiza cirlus 
+
+Chardonneret élégant 
+
+Carduelis carduelis 
+
+Circaète Jean-le-Blanc 
+
+Circaetus gallicus 
+
+Cisticole des joncs 
+
+Cisticola juncidis 
+
+Faucon crécerelle 
+
+Falco tinnunculus 
+
+Fauvette passerinette 
+
+Sylvia cantillans 
+
+Fauvette pitchou 
+
+Sylvia undata 
+
+Fauvette mélanocéphale 
+
+Sylvia melanocephala 
+
+Hirondelle de fenêtre 
+
+Delichon urbicum 
+
+Pour  les  mammifères  (chiroptères  compris)  en  l’absence  de  liste  rouge  régionale,  les  enjeux  sont 
+évalués à dire d’experts. Les enjeux sont colorés de la manière suivantes :  
+
+Hirondelle rustique 
+
+Hirundo rustica 
+
+x
+u
+e
+n
+E
+
+j
+
+x
+u
+a
+c
+o
+
+l
+
+Fort 
+
+Modéré 
+
+Faible 
+
+Linotte mélodieuse 
+
+Carduelis cannabina 
+
+Martinet noir 
+
+Apus apus 
+
+Milan noir 
+
+Milvus migrans 
+
+Milan royal 
+
+Pernis apivorus 
+
+Outarde canepetière 
+
+Tetrax tetrax 
+
+Pipit farlouse 
+
+Anthus pratensis 
+
+Faune France 
+Silene 
+INPN 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+Faune France 
+Silene 
+Faune France 
+Silene 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+
+Probabilité de 
+présence dans 
+l’emprise 
+
+Très faible en transit 
+
+Modérée 
+
+Modérée 
+
+Faible 
+
+Faible 
+
+Faible en chasse ou en 
+transit  
+
+Modérée en chasse 
+
+Modérée 
+
+Modérée en chasse ou en 
+transit  
+
+Très faible en l’absence de 
+strate arbustive 
+
+Très faible en l’absence de 
+strate arbustive 
+
+Très faible en l’absence de 
+strate arbustive 
+
+Modérée en vol 
+
+Modérée en vol 
+
+Modérée 
+
+Modérée en vol 
+
+Modérée en chasse ou 
+transit 
+
+Modérée en chasse ou 
+transit 
+
+Faible 
+
+Faible 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 202311 
+ 
+ 
+ 
+ 
+Nom vernaculaire 
+
+Nom binomial 
+
+Source 
+
+Rollier d’Europe 
+
+Coracias garrulus 
+
+Tarier pâtre 
+
+Saxicola rubicola 
+
+Mammifères 
+
+Hérisson d’Europe 
+
+Erinaceus europaeus 
+
+Lapin de Garenne 
+
+Oryctolagus cuniculus 
+
+Minioptère de Schreibers 
+
+Miniopterus schreibersii 
+
+Pipistrelle commune 
+
+Pipistrellus pipistrellus 
+
+Pipistrelle de Nathusius 
+
+Pipistrellus nathusii 
+
+Reptiles 
+
+Couleuvre de Montpellier 
+
+Malpolon monspessulanus 
+
+Couleuvre à échelons 
+
+Zamenis scalaris 
+
+Tortue d’Hermann 
+
+Testudo hermanni 
+
+Psammodrome d’Edwards 
+
+Psammodromus edwarsianus 
+
+Seps strié 
+
+Chalcides striatus 
+
+Lézard à deux raies 
+
+Lacerta bilineata 
+
+Amphibiens 
+
+Rainette méridionale 
+
+Hyla meridionalis 
+
+Pélodyte ponctué 
+
+Pelodytes punctatus 
+
+Damier de la Succise 
+
+Euphydryas aurinia 
+
+Agrion de Mercure 
+
+Coenagrion mercuriale 
+
+Insectes 
+
+Probabilité de 
+présence dans 
+l’emprise 
+
+Faible en transit 
+
+Modérée 
+
+Très faible au niveau du 
+bosquet au nord-est 
+
+Modérée 
+
+Modérée en chasse ou 
+transit 
+Modérée en chasse ou 
+transit 
+Modérée en chasse ou 
+transit 
+
+Très faible 
+
+Très faible 
+
+Nulle 
+
+Très faible à nulle 
+
+Très faible à nulle 
+
+Faible 
+
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+
+Faune France 
+Silene 
+Faune France 
+Silene 
+Silene 
+INPN 
+Silene 
+INPN 
+Silene 
+INPN 
+
+Silene 
+Faune France 
+INPN 
+Faune France 
+Silene 
+INPN 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+Silene 
+Faune France 
+
+Faune France 
+Silene 
+INPN 
+Faune France 
+Silene 
+INPN 
+
+Silene 
+INPN 
+Silene 
+INPN 
+
+Très faible au niveau du 
+cours d’eau à l’ouest de la 
+parcelle 
+
+Très faible au niveau du 
+cours d’eau à l’ouest  
+
+Très faible 
+
+Faible au niveau du cours 
+d’eau à l’ouest 
+
+Un  cortège  d’espèces  avifaunistiques  liées  aux  milieux  ouverts  et  semi-ouverts  sont  les  plus 
+susceptibles  de  fréquenter  la  zone  d’implantation  ainsi  que  l’aire  d’étude  écologique.  Toutefois,  la 
+faible surface de la ZIP, l’activité agricole en son sein (fauche annuelle estivale) ainsi que l’absence 
+d’une  strate  arbustive  et  arborée  au  sein  d’un  territoire  péri-urbain  limitent  les  possibilités 
+d’installation pour un certain nombre d’espèces, en particulier les espèces à large territoire. La ZIP 
+peut  néanmoins  servir  de  lieu  de  passage,  de  repos  et  de  nourrissage  notamment  pour  certaines 
+espèces d’oiseaux et de chiroptères.  
+
+5. ANALYSE DE LA PARCELLE PHOTO-INTERPRETATION
+
+Une analyse par photo-interprétation à partir des photographies aériennes a été réalisée dans le cadre 
+de cette mission, dans l’objectif d’appréhender les potentiels enjeux écologiques locaux.  
+
+Cette étude n’a pas pour vertu d’être précise et exhaustive, mais bien de caractériser globalement les 
+potentiels enjeux écologiques des terrains concernés par le projet.  
+
+Ainsi, une caractérisation par grandes typologies d’habitats au niveau des parcelles expertisées 
+et  de  leurs  environs  immédiats  a  été  réalisée.  Il  est  rappelé  que  seule  une  session  d’analyse  par 
+photo-interprétation a été menée, ce qui ne permet pas de déterminer avec précision l’ensemble des 
+habitats  de  végétation  de  chaque  parcelle.  Il  s’agit  donc  ici  d’une  analyse  sommaire  mettant  en 
+évidence les principales unités écologiques au sein de chacune des parcelles étudiées.  
+Il en est de même pour la faune pour laquelle aucune session de terrain n’a été faite, ce qui ne permet 
+pas  de  mettre  en  évidence  la  présence  d’espèces  remarquables.  De  ce  fait,  seule  une  tendance 
+d’enjeux écologiques est ici proposée à chaque typologie d’habitat en prenant en compte le contexte 
+local  au  sein  duquel  la  parcelle  évolue  ainsi  que  les  données  bibliographiques  précédemment 
+présentées.  
+
+D’un point de vue général, aucun inventaire écologique de terrain n’a été réalisé, de ce fait, il n’est 
+pas possible de conclure sur la présence d’espèces présentant d’importants enjeux écologiques au sein 
+des parcelles étudiées. Toutefois, au vu des espèces recensées dans les différentes bases de données 
+naturalistes au sein de la commune de Saint-Maximin-la-Sainte-Baume, les secteurs les plus sensibles 
+pour la faune sont représentés par les milieux rivulaires, les milieux humides, les boisements ainsi que 
+les milieux ouverts et semi-ouverts naturels.  
+
+5.1. Les habitats de végétation 
+
+Suite  à  l’analyse  par  photo-interprétation,  les  parcelles  concernées  par  le  projet  se  composent 
+essentiellement  de  cultures  (parcelles  recensées  au  RPG  2021  en  tant  que  culture  d’orge  d’hiver) 
+ainsi qu’une friche rudérale au sud représentée par une parcelle non recensée au RPG mais n’étant 
+ni naturelle ni agricole.  
+
+Il est important de mentionner la présence en bordure immédiate d’un ruisseau intermittent à l’ouest 
+des terrains étudiés ainsi que la présence d’un bosquet au nord-est. Ces habitats de végétation sont 
+plus  favorables  à  l’accueil  d’une  diversité  phytosociologique  et  écologique  intéressante.  Il  faudra 
+veiller dans le cadre de la réalisation des travaux à ne pas impacter ces habitats voisins aux parcelles 
+concernées par le présent projet (cf. PLANCHE 3 : Typologies d’habitats, p.14).  
+
+De ce fait, l’essentiel des espèces végétales qui sont présentes au sein des terrains du projet doivent 
+être communes et ubiquistes.  
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 202312Figure 5 : Photographie des terrains du projet illustrant la parcelle cultivée (source : GoogleMaps – 
+06/2023) 
+
+Figure 6 : Photographies de la ZIP (source : GoogleMaps – 06/2023) 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 202313PLANCHE 3 : Typologies d’habitats 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 2023145.2. La faune 
+
+5.2.5. Les amphibiens 
+
+Les  terrains  du  projet  ne  sont  pas  favorables  à  l’accueil  d’une  grande  diversité  d’espèces 
+d’amphibiens.  Cependant,  le  ruisseau  situé  en  bordure  immédiate  à  l’ouest  des  terrains  du  projet 
+pourrait  être  un  corridor  de  déplacement  ainsi  qu’un  habitat  de  privilégié  pour  certaines  espèces. 
+D’après la bibliographie, certaines espèces pourraient être présentes au sein du secteur d’étude.  
+
+Le site d’étude n’est pas favorable à l’accueil de ce cortège d’espèce. Cependant, il faudra veiller dans 
+le cadre du projet, à matérialiser un recul vis-à-vis du cours d’eau afin de ne pas impacter ce corridor 
+écologique aquatique important pour les espèces d’amphibiens locales.  
+
+5.2.6. Les invertébrés 
+
+Les terrains du projet sont majoritairement agricoles. L’activité agricole au sein des terrains n’est pas 
+favorable  pour  présenter  une  diversité  entomologique  importante.  En  effet,  le  cortège  d’espèce 
+localement retrouvé doit être relativement commun et ubiquiste. La diversité reste limitée notamment 
+du fait de la faible qualité floristique ainsi que de la perturbation de la zone par l’activité agricole et 
+le contexte urbain au sein duquel elle évolue.    
+
+Seule la zone de friche au sud du projet ainsi que le ruisseau bordant les terrains du projet à l’ouest 
+sont des secteurs plus favorables pour ce cortège faunistique. Des espèces à enjeux tel que l’Agrion 
+de Mercure pourraient notamment y être observées. Il faudra donc veiller, dans le cadre du projet à 
+ne  pas  impacter  le  ruisseau  et  ses  abords  immédiats  afin  de  ne  pas  impacter  la  faune  et  la  flore 
+inféodées à ce milieu.  
+
+En dehors du ruisseau et de la friche, les terrains du projet représentent un habitat peu attractif pour 
+ce cortège d’espèce.  
+
+5.2.1. Les oiseaux 
+
+Au vu de la nature des terrains étudiés, des données bibliographiques, des données naturalistes de 
+la commune et du contexte au sein duquel la parcelle évolue, la richesse avifaunistique semble être 
+relativement réduite.  
+
+En l’absence de milieux naturels préservés, d’une strate arbustive et buissonnante, de boisements 
+ou  encore  de  milieux  aquatiques  et  humides,  la  diversité  avifaunistique  des  terrains  du  projet  est 
+compromise. Les espèces d’oiseaux potentiellement présentes doivent utiliser les parcelles seulement 
+en phase de transit, d’alimentation et de repos.  
+
+De  ce  fait,  les  terrains  de  l’emprise  du  projet  sont  peu  attractifs  pour  les  espèces  avifaunistiques 
+potentiellement présentes.  
+
+5.2.2. Les mammifères (hors Chiroptères) 
+
+D’après le recueil des données naturalistes recensées sur la commune de Saint-Maximin-la-Sainte-
+Baume, peu d’espèces de mammifères à enjeux sont susceptibles de fréquenter les terrains du projet. 
+En  effet,  des  espèces  sont  potentiellement  présentes  comme  le  Chevreuil  européen  et  le  Sanglier 
+mais ces dernières ne représentent pas d’enjeux à l’échelle locale. Cependant, le Hérisson d’Europe 
+ainsi  que  le  Lapin  de  Garenne  sont  des  espèces  mammalogiques  à  enjeux  susceptibles  d’être 
+présentes  au  sein  ou  aux  abords  immédiats  des  terrains  du  projet.  Le  Hérisson  d’Europe  peut 
+potentiellement être présent au niveau du bosquet en bordure immédiate au nord-est des parcelles 
+étudiées. Cependant, la présence de la RD 560 en bordure immédiate à l’est représente un obstacle 
+à la continuité écologique des espèces, notamment des micromammifères. Le Lapin de garenne quant 
+à lui pourra réinvestir les terrains du projet une fois l’aménagement mis en place.  
+
+De ce fait, les parcelles concernées par le projet ne semblent pas être des habitats privilégiés pour 
+les espèces de mammifères locales potentiellement présentes.  
+
+5.2.3. Les Chiroptères 
+
+D’après les données bibliographiques, certaines espèces de chiroptères sont recensées dans le secteur 
+d’étude. Cependant, la zone ne dispose d’aucun arbre et d’aucune habitation. De ce fait, aucun gîte 
+à chiroptères (arboricole et anthropophile) n’est présent au sein de la ZIP ou à ses abords immédiats. 
+Certains chiroptères pourraient tout de même être présents au sein de la ZIP en période de chasse 
+ou de transit.  
+
+5.2.4. Les reptiles 
+
+Les  parcelles  du  projet  ne  semblent  pas  attractives  pour  le  cortège  des  squamates.  En  effet,  les 
+parcelles cultivées ne sont pas des habitats de reproduction pour les différentes espèces de serpents, 
+lézards et tortues potentiellement présents d’après le recueil des données naturalistes.   
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 2023156. CONCLUSION
+
+Cette  note  écologique  a  permis  d’évaluer  la  très  faible  sensibilité  des  terrains  du  projet  pour  la 
+biodiversité.  
+
+Les terrains du projet sont occupés par des terrains agricoles (ancienne zone de dépôt de matériaux) 
+dans un contexte très perturbé dominé par l’activité agricole et humaine. La localisation géographique 
+ainsi  que  la  pression  de  l’usage  des  parcelles  concernées  leurs  confères  une  très  faible  qualité 
+écologique.  
+
+Ce pré-diagnostic a démontré une très faible sensibilité écologique au niveau des parcelles concernées 
+par le présent projet de centrale de stockage énergétique. Les analyses bibliographiques et de photo-
+interprétations réalisées dans le cadre de cette mission ne se valent pas exhaustifs mais illustrent les 
+principaux enjeux pressentis localement. Des inventaires terrains permettraient d’affiner les résultats 
+exposés et donner une finesse notamment vis-à-vis des enjeux écologiques et des préconisations de 
+préservation de la biodiversité locale. 
+
+Ainsi, la carte de synthèse des enjeux pressentis ci-après n’est qu’indicative (cf. PLANCHE 4 : Enjeux 
+écologiques pressentis, p.17). 
+
+De  manière  générale,  les  terrains  du  projet  ne  semblent  pas  représenter  d’enjeux  écologiques 
+particulier. De plus, des mesures de précaution simples sont à mettre en œuvre pour ne pas dégrader 
+les habitats d’intérêts écologiques locaux situés en bordure immédiate des terrains du projet (ruisseau 
+intermittent à l’ouest et bosquet au nord-est).  
+
+L’analyse des typologies d’habitats et des espèces potentiellement présentes au sein des parcelles 
+étudiées est synthétisée dans le tableau ci-après : 
+
+Synthèse des enjeux écologiques 
+
+Habitat 
+Parcelle cultivée 
+Friche rudérale 
+Ruisseau 
+
+Végétation 
+Très faible 
+Très faible 
+Faible 
+
+TOTAL 
+
+Faune 
+Très faible 
+Très faible 
+Faible 
+
+Synthèse 
+Très faible 
+Très faible 
+Faible 
+Très faible 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 202316PLANCHE 4 : Enjeux écologiques pressentis 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 202317Afin d’illustrer le faible impact du projet sur la biodiversité et d’avoir un meilleur aperçu des caractéristiques de ce dernier, les photomontages suivants permettent d’illustrer le projet de 
+centrale de stockage d’énergie situé en bordure de la RD 560 sur la commune de Saint-Maximin-la-Sainte-Baume.  
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 202318E T A T   I N I T I A L
+
+S I M U L A T I O N
+
+S I M U L A T I O N
+
+A V E C   A M É N A G E M E N T
+
+P R O J E T
+
+N
+
+PLANCHE 5 : Photomontage depuis le sud de la RD 560 (source : NEOEN) 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 202319E T A T   I N I T I A L
+
+B A S I L I Q U E
+
+S I M U L A T I O N
+
+B A S I L I Q U E
+
+S I M U L A T I O N
+
+A V E C   A M É N A G E M E N T
+
+B A S I L I Q U E
+
+P R O J E T
+
+N
+
+Z O O M   X   2 0 0 %
+
+Z O O M   X   2 0 0 %
+
+Z O O M   X   2 0 0 %
+
+PLANCHE 6 : Photomontage depuis le nord de la RD 560 (source : NEOEN) 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 202320E T A T   I N I T I A L
+
+P R O J E T
+
+~2,2 km
+
+S I M U L A T I O N
+
+E T A T   I N I T I A L
+
+S I M U L A T I O N
+
+Z O O M   X   3 0 0 %
+
+B A S I L I Q U E
+
+N
+
+B A S I L I Q U E
+
+B A S I L I Q U E
+
+PLANCHE 7 : Photomontage éloigné depuis les hauteurs de Saint-Maximin-la-Sainte-Baume (source : NEOEN) 
+
+Projet de stockage énergétique - Note écologiqueCommune de Saint-Maximin-la-Sainte-Baume (83)CERM-3647-82-EC  / Juillet 202321Notice paysagère et urbanistique
+
+Commune  :  Saint-Maximin-la-Sainte-Baume (83)
+
+Projet de stockage d'énergie par batteries
+
+SOE-3647.2-PY 
+
+Août 2023
+
+                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sommaire 
+
+1. PREAMBULE 
+
+1. Préambule ................................................................................................................................... 2 
+
+Le contexte 
+
+La  Société  NEOEN  a  mandaté  le  bureau  d’études  SOE  pour  réaliser  une  notice  paysagère  et 
+urbanistique  pour  un  projet  de  stockage  d’énergie  qui  se  situerait  sur  une  aire  d’étude  dans  le 
+département du Var, sur la commune de Saint-Maximin-la-Sainte-Baume (83). 
+
+Pour synthétiser, cette étude aura pour objectifs: 
+
+  D’appréhender le contexte paysager dans lequel s’inscrit le projet, 
+  De mener un recueil bibliographique afin d’identifier les grandes unités du paysage et enjeux 
+
+connus sur le territoire concerné,  
+
+  D’identifier les contraintes urbanistiques liées à un tel projet et de vérifier sa compatibilité. 
+
+2. Composition des études ............................................................................................................... 3 
+
+2.1. Cahier des charges de la notice paysagère et urbanistique ................................................................... 3 
+
+2.2. Sources des données ........................................................................................................................... 3 
+
+3. LE PROJET ET LES ENJEUX A PRIORI DE SON ENVIRONNEMENT ..................................................... 4 
+
+3.1. Le projet de stockage d’énergie et son contexte .................................................................................. 4 
+
+3.2. Les enjeux paysagers, patrimoniaux et urbanistiques........................................................................... 5 
+
+4. La notice paysagère et urbanistique ............................................................................................. 6 
+
+4.1. Situation géographique et administrative ............................................................................................ 6 
+
+4.2. Paysage et patrimoine ...................................................................................................................... 14 
+
+5. Conclusion : les enjeux et SENSIBILITES DE L’AIRE d’ETUDE ......................................................... 31 
+
+Table des illustrations 
+
+PLANCHE 1. Situation géographique de la zone d'implantation potentielle (ZIP)..........................  4
+PLANCHE 2. Photographie aérienne de la ZIP (sous fond cadastral)...........................................  6
+PLANCHE 3. PLU de la commune de Saint-Maximin-la-Sainte-Baume  ......................................  10
+PLANCHE 4. Présence hydrographique.................................................................................  15
+PLANCHE 5. Typologie du couvert végétal............................................................................  16
+PLANCHE 6. Organisation du territoire.................................................................................  17
+PLANCHE 7. Unités paysagères du Var  ................................................................................  18
+PLANCHE 8.  Eléments patrimoniaux  ....................................................................................  21
+PLANCHE 9. Aire d’étude paysagère rapprochée  ...................................................................  22
+PLANCHE 10.  Intervisibilités théoriques  ...............................................................................  24
+PLANCHE 11.  Contexte paysager à l’état initial de la zone d’étude  ..........................................  25
+PLANCHE 12. Plan de masse du projet.................................................................................  26
+PLANCHE 13. Simulation avec les batteries de stockage du contexte paysager de la zone d’étude27
+PLANCHE 14. Simulation avec les batteries de stockage ainsi qu’une haie du contexte paysager de
+la zone d’étude.................................................................................................................  28
+PLANCHE 15. Synthèse des enjeux visuels pressentis............................................................  30
+
+2Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. COMPOSITION DES ETUDES 
+
+Les intervenants sur l’étude ont été les suivants : 
+
+2.1. Cahier des charges de la notice paysagère et urbanistique 
+
+Il s’agira de réaliser une notice paysagère et urbanistique du projet de stockage d’énergie, étude de 
+phase amont, qui portera sur un territoire pressenti, situé dans le Var, au nord-est de Marseille, sur 
+une étendue agricole d’environ 2 hectares. 
+
+Les  données  et  études  préexistantes  pouvant  concerner  le  territoire  ou  le  paysage  local  seront 
+collectées,  les  diverses  unités  et  profils  paysagers  seront  analysés  et  cartographiés  et  les  inter-
+visibilités théoriques seront établies. 
+
+Ces  données  seront  collectées  par  analyse  bibliographique,  exploitation  de  bases  de  données, 
+consultation directe de certains services de l’état, …et pour certaines thématiques par données fournis 
+par le maître d’ouvrage du terrain (photos, photomontages, …). 
+
+Intervenants 
+
+Structure 
+
+Fonction 
+
+Expérience en BE 
+
+AL. Lassalle 
+
+C. Monneau  
+S. Régal 
+
+G. Borrego 
+
+O. Farrugia 
+
+SOE 
+
+SOE 
+SOE 
+
+SOE 
+
+SOE 
+
+Responsable du pôle eau et 
+environnement – contrôle qualité 
+Cheffe de projet environnement 
+Cheffe de projet paysage 
+Chargée d’études paysage et 
+environnement 
+Gérant – Contrôle qualité  
+
+7 ans 
+
+13 ans 
+4 ans 
+
+0,5 an 
+
+28 ans 
+
+2.2. Sources des données 
+
+2.2.1. Documents remis par le Maître d’Ouvrage 
+
+Les thématiques et données recueillies dans le cadre de la présente notice paysagère et urbanistique 
+seront les suivantes : 
+
+Dans le cadre de la présente mission, les documents graphiques remis au cours du mois de juillet 
+2023 ont été les suivants : 
+
+Données collectées et sources de données 
+
+Paysage,  patrimoine 
+culturel et historique 
+
+Compatibilité avec les 
+Plans, programmes, 
+schémas,… 
+
+geoportail.fr 
+Atlas des paysages 
+DREAL Provence-Alpes-Côte-d’Azur 
+Relevés de terrain du maître d’ouvrage 
+Mérimée 
+Atlas des Patrimoines 
+Monumentum.fr 
+DRAC Provence-Alpes-Côte-d’Azur / SRA / PLU 
+PLU (ou autre document d’urbanisme) / PLUi / SCOT 
+SDAGE / SAGE 
+SRADDET 
+Le plan climat-air-énergie 
+
+Le rapport de restitution de la mission comprendra essentiellement des tableaux de synthèse, des 
+planches cartographiques issues de l’exploitation du SIG (Qgis), de planches photographiques (avec 
+intégration au SIG), ainsi que la description de la méthodologie retenue, avec la présentation des 
+limites de la notice paysagère et urbanistique. 
+
+2.1.1. Auteurs de l’étude 
+
+Cette étude a été rédigée par le bureau d’études : 
+
+SOE Ingénierie Conseil 
+
+28bis rue du Cdt Chatinières 
+82100 CASTELSARRASIN 
+05 63 04 43 81 
+
+  Présentation du projet de stockage 
+  Photos et photomontages de la parcelle et du futur projet 
+
+2.2.2. Documents généraux, sites Internet, … consultés 
+
+Dans le  cadre de la présente  mission, les documents généraux, sites Internet,  services divers, … 
+consultés ont été les suivants : 
+  www.géoportail.fr 
+  www.geoportail-urbanisme.gouv.fr 
+  www.cadastre.gouv.fr 
+  http://st-maximin.fr/services-municipaux/urbanisme/ 
+  http://www.caprovenceverte.fr/ 
+  http ://www.paysprovenceverteverdon.fr/ 
+  https://www.paysprovenceverteverdon.fr/schema-de-coherence-territoriale/le-scot-en-
+
+vigueur/ 
+
+  https://www.rhone-mediterranee.eaufrance.fr/gestion-de-leau/sdage-2022-2027-en-
+
+vigueur 
+
+  https://www.prefectures-regions.gouv.fr/provence-alpes-cote-dazur/Grands-dossiers/Le-
+
+SRADDET 
+
+  https://monumentum.fr/ 
+  http://atlas.patrimoines.culture.fr/atlas/trunk/ 
+  Base Merimée 
+  https://www.paca.developpement-durable.gouv.fr/atlas-paysages-du-var-a13268.html  
+  Google maps 
+
+3Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. LE PROJET ET LES ENJEUX A PRIORI DE SON 
+ENVIRONNEMENT 
+
+3.1. Le projet de stockage d’énergie et son contexte 
+
+Dans le cadre de la recherche d’un nouveau site de stockage de l’énergie, à destination  du Var, la 
+Société  NEOEN  souhaite  appréhender le contexte paysager  et urbanistique  dans lequel s’inscrit le 
+projet  qui se localiserait sur une aire d’étude   placée  à environ 1,5  km au nord du centre-ville de 
+Saint-Maximin-la-Sainte-Baume et d’une surface de l’ordre de  2  hectares. Les parcelles concernées 
+par le projet  sont les suivantes  :  AK 114,  AK 115, AK 404  et AK  406.
+
+Localisé sur  des terres agricoles, ce secteur est directement desservi par la  RD  560.
+
+Il s’agit d’un territoire agricole, dont la majorité est recensé au RPG 2021 en tant que culture d’orge 
+d’hiver. La partie sud de la zone d'implantation potentielle (ZIP), qui correspond à la parcelle AK 
+404,  n’est pas recensée  au RPG.
+
+PLANCHE 1. Situation géographique de la ZIP 
+
+4Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2. Les enjeux paysagers, patrimoniaux et urbanistiques 
+
+Compte  tenu  des  caractéristiques  du  projet  et  de  son  environnement,  les  principaux  enjeux 
+patrimoniaux, paysagers et urbanistiques qui devront être étudiés et présentés dans le rapport 
+de mission seront les suivants : 
+
+les  plans,  schémas,  programmes,  documents  d’urbanisme,  …  qui  régissent  et 
+réglementent l’usage du sol, l’activité projetée, la planification des territoires, … 
+
+les  enjeux  et  sensibilité  du  paysage  local  du  fait  d’un  contexte  de  plaine  relativement 
+ouvert, 
+
+le  patrimoine  architectural,  culturel,  archéologique,  …dans  un  contexte  de  proximité 
+avec  le  centre-ville  de  Saint-Maximin-la-Sainte-Baume  et  de  co-visibilité  avec  la  Basilique-
+Sainte-Marie. 
+
+5Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. LA NOTICE PAYSAGERE ET URBANISTIQUE 
+
+4.1. Situation géographique et administrative 
+
+4.1.1. Situation géographique 
+
+Les bases de données, sources d’informations, … consultées pour rédiger ce paragraphe ont été les 
+suivantes : 
+
+  www.géoportail.fr 
+  www.geoportail-urbanisme.gouv.fr 
+  www.cadastre.gouv.fr 
+
+Région 
+
+Département 
+
+Provence-Alpes-Côte d’Azur 
+
+Var (83) 
+
+Commune 
+
+Saint-Maximin-la-Sainte-Baume 
+
+Coordonnées géographiques 
+approchées du centre de l’aire 
+d’étude 
+(dans le système Lambert 93) 
+
+Cadastre 
+
+Occupation du sol  
+
+X = 931948 
+Y = 6267327 
+Z = 286 m NGF 
+
+AK 114 
+AK 115 
+AK 404 
+AK 406 
+
+Terres agricoles majoritairement recensées 
+au RPG 2021 comme de l’orge d’hiver 
+(toutes les parcelles sauf AK 404) 
+
+La  zone  d’implantation  potentielle  d’environ  2  hectares  se  localise  sur  la  commune  de  Saint-
+Maximin-la-Sainte-Baume (83) qui appartient à l’arrondissement de Brignoles et qui fait partie du 
+canton  de  Saint-Maximin-la-Sainte-Baume  et  de  la  Communauté  d'agglomération  de  la  Provence 
+Verte. 
+
+PLANCHE 2. Photographie aérienne de la ZIP (sous fond cadastral) 
+
+6Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1.2. Compatibilité du projet avec l’affectation des sols, articulation avec 
+
+les plans, schémas et programmes 
+
+Les bases de données, sources d’informations, … consultées pour rédiger ce paragraphe ont été les 
+suivantes : 
+
+  http://www.geoportail-urbanisme.gouv.fr 
+  http://st-maximin.fr/services-municipaux/urbanisme/ 
+  http://www.caprovenceverte.fr/ 
+  http ://www.paysprovenceverteverdon.fr/ 
+  https://www.paysprovenceverteverdon.fr/schema-de-coherence-territoriale/le-scot-en-
+
+vigueur/ 
+
+  https://www.rhone-mediterranee.eaufrance.fr/gestion-de-leau/sdage-2022-2027-en-
+
+vigueur 
+
+  https://www.prefectures-regions.gouv.fr/provence-alpes-cote-dazur/Grands-dossiers/Le-
+
+SRADDET 
+
+4.1.2.1. Compatibilité avec les documents d’urbanisme  
+
+PLU de Saint-Maximin-la-Sainte-Baume 
+
+La commune de Saint-Maximin-la-Sainte-Baume dispose d’un Plan Local d’Urbanisme approuvé par 
+délibération  du  Conseil  Municipal  le  19/01/2016  et  dont  la  dernière  modification  (n°5)  a  été 
+approuvée en date du 01/02/2019. 
+
+La  ZIP  située  sur  Saint-Maximin-la-Sainte-Baume  est  classée  au  zonage  du  PLU  de  la  commune 
+comme zone « agricole » (A).  
+
+Le règlement écrit du PLU précise pour la zone Agricole A : 
+
+ARTICLE A 1 - Occupations et utilisations du sol interdites  
+
+Toutes occupations et utilisations du sol sont interdites à l’exception de celles prévues à l’article A2. 
+L’extraction de terre végétale, le dépôt de déchets non liés à un usage agricole, la cabanisation, le 
+remblai sauvage et l’implantation de centrales photovoltaïques au sol y sont strictement interdits. 
+Toute nouvelle construction est interdite dans le secteur Ap.  
+
+ARTICLE A 2 - Occupations et utilisations du sol soumises à des conditions particulières  
+
+En  zone  A  et  à  l’exclusion  des  secteurs  Ap,  seules  peuvent  être  autorisées  les  occupations  et 
+utilisations du sol ci-après selon l’une des conditions particulières suivantes : 
+
+A. 2.1. A condition qu’ils soient directement nécessaires à l’exploitation agricole (telle que définie 
+en  annexe  1)  en  respectant  le  caractère  de  la  zone,  et  qu'ils  soient  regroupés  autour  du  siège 
+d’exploitation :  
+
+  Les  bâtiments  d’exploitation,  installations  ou  ouvrages  techniques  nécessaires  à  la 
+
+production agricole ;  
+
+  Les constructions à usage d’habitation, l'extension ou la réhabilitation des constructions à 
+usage  d'habitation  existantes  ainsi  que  les  bâtiments  ou  constructions  qui  leur  sont 
+
+complémentaires  (piscine,  local  technique,  réserve  d'eau,  etc.),  dans  la  limite  d’une 
+construction  par  exploitation  et  d’une  Surface  de  Plancher  maximale  totale  de  300  m2 
+(extensions  comprises),  sous  réserve  de  l’existence  d’au  moins  un  bâtiment  technique 
+soumis à permis de construire régulièrement édifié à proximité du lieu projeté pour édifier 
+étendre  ou  réhabiliter  cette  construction.  Ce  principe  de  proximité  pourra  ne  pas  être 
+appliqué en cas d’impossibilité technique, juridique ou économique dûment démontrée ; 
+  Les  constructions  nécessaires  à  l'accueil  journalier  des  salariés  de  l'exploitation,  dans  la 
+limite de ce qu'impose la législation sur le travail (vestiaires, sanitaire, réfectoire, salle de 
+repos, …) ; 
+
+  Les installations classées pour la protection de l’environnement 
+
+A. 2.4.A condition qu’ils soient directement nécessaires aux services publics :  
+
+les installations, constructions ou ouvrages techniques, y compris ceux relevant 
+de la réglementation sur les installations classées, sous réserve de démontrer la 
+nécessité technique de leur implantation en zone agricole et qu'ils ne portent pas 
+atteinte au caractère de la zone.  
+les  aménagements,  constructions,  ouvrages  et  installations  liées  à  l'exploitation  de 
+l'autoroute et de sa mise en sécurité.  
+les constructions et installations nécessaires à l’exploitation et au développement du réseau 
+public de transport d’électricité, ainsi que les affouillements et les exhaussements qui leur 
+sont liés, à la condition que la nécessité technique de leur implantation en zone agricole 
+soit démontrée et qu'ils ne portent pas atteinte au caractère de la zone. 
+
+A.2.5. Conformément aux dispositions de l'article L.151-12 du Code de l'Urbanisme : 
+
+  Les constructions à usage d'habitation peuvent faire l'objet d'une extension dès lors que 
+cette extension ne compromet pas l'activité agricole et qu'elle soit limitée conformément 
+aux dispositions de l'article A8. 
+
+  Les  constructions  annexes  à  ces  constructions  à  usage  d'habitation  (cf  définition  en 
+dispositions générales) sont autorisées aux conditions d'être limitées à 60m2 d'emprise au 
+sol, d'être limitées à une hauteur de 3,5 mètres, d'être implantées dans un rayon de 30 
+mètres autour de la construction d'habitation, et qu'elles ne compromettent pas l'activité 
+agricole ou la qualité paysagère du site.  
+
+A.2.6.  A  condition  qu’ils  présentent  un  intérêt  architectural  ou  patrimonial  et  conformément  à 
+l’article L 123-1-5 du Code de l’Urbanisme est autorisé le changement de destination des bâtiments 
+identifiés au document graphique du PLU et recensés dans le rapport de présentation dès lors que 
+ce  changement  de  destination  ne  compromet  pas  l’exploitation  agricole  et  sous  réserve  de  l'avis 
+conforme  de  la  Commission  Départementale  de  Préservation  des  Espaces  Agricoles,  Naturels  et 
+Forestiers. 
+
+Dans l'ensemble de la zone A et dans ses différents secteurs, les occupations et utilisations du sol 
+ne sauraient être acceptées sans la prise en compte du risque d'incendie de forêt dans le cadre des 
+dispositions de l'article R111-2 du Code de l'Urbanisme. Elles doivent être accompagnées par la mise 
+en œuvre des dispositions de l'article R111-5 du Code de l'Urbanisme au titre de l'accessibilité des 
+moyens de secours. Une étude au cas par cas sera nécessaire afin de déterminer la compatibilité du 
+projet  envisagé  avec  les  règles  de  sécurité  (emplacement  sur  le  terrain,  accès,  point  d'eau...)  et 
+certaines dispositions constructives pourront être demandées pour certaines constructions. 
+
+7Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ARTICLE A 3 - Conditions de desserte des terrains par les voies publiques ou privées et 
+d'accès aux voies ouvertes au public  
+
+Les  voies  de  desserte  doivent  être  conformes  aux  exigences  de  sécurité  sans  que  la  largeur 
+carrossable de la voie soit inférieure à 4 mètres. Cette largeur peut ne pas être exigée sur toute la 
+longueur de la voie s’il est prévu des aires de croisement. 
+
+Des implantations différentes peuvent être admises :  
+
+  pour les extensions de bâtiments existants implantés avec des retraits différents  
+  pour les constructions, ouvrages techniques ou installations nécessaires au fonctionnement 
+
+des services publics ou concourant aux missions des services publics. 
+
+Toute installation, construction ou clôture ne pourra être implantée à moins de trois mètres de l’axe 
+des canaux d’irrigation.  
+
+ARTICLE  A  4  –  Conditions  de  desserte  des  terrains  par  les  réseaux  publics  d’eau, 
+d’électricité et d’assainissement  
+
+ARTICLE A 6 - Implantation des constructions par rapport aux limites séparatives.  
+
+A. 4.1. Eau 
+
+Les  constructions  doivent  être  raccordées  au  réseau  public  d’alimentation  en  eau  potable  (AEP) 
+lorsqu’il  existe.  En  l’absence  de  possibilité  réelle  de  raccordement  sur  le  réseau  public  AEP,  les 
+constructions ou installations autorisées à l’article A2 peuvent être alimentées, par captage, forage 
+ou puits particuliers ou tout autre ouvrage autorisé conformément à la réglementation en vigueur. 
+Afin de satisfaire à la protection des usages, l'implantation d'un puits ou d'un forage devra respecter 
+une distance minimale de 35 mètres par rapport à toute installation d'assainissement non collectif 
+existante.  
+
+La  distance  comptée  horizontalement  de  tout  point  d’une  construction  au  point  de  la  limite 
+séparative qui en est le plus rapproché doit être au moins égale à la moitié de la différence d’altitude 
+entre ces deux points sans pouvoir être inférieure à 4 mètres.  
+
+ARTICLE  A  7  -  Implantation  des  constructions  les  unes  par  rapport  aux  autres  sur  une 
+même propriété  
+
+L’implantation  des  constructions  se  fera  en  extension  ou  au  minimum  à  4  mètres  des  bâtiments 
+techniques existants.  
+
+A. 4.2. Électricité  
+
+ARTICLE A 8 - Emprise au sol des constructions  
+
+Tous travaux de branchement à un réseau d’électricité basse tension non destinés à desservir les 
+bâtiments et installations admis à l'article A2 ou à un usage agricole sont interdits.  
+
+A. 4.3. Assainissement  
+
+Les  constructions  doivent  être  raccordées  au  réseau  public  d’assainissement  lorsqu’il  existe.  En 
+l’absence de possibilité réelle de raccordement sur le réseau public, l’assainissement non collectif 
+est autorisé conformément à la réglementation en vigueur. L’évacuation des eaux usées non traitées 
+est interdite. 
+
+L'emprise au sol des extensions des constructions à usage d'habitation visées à l'article A-2-5 est 
+limitée à 30% de l'emprise au sol de la construction initiale, à l'exception des constructions à usage 
+d'habitation  nécessaires  à  une  exploitation  agricole  où  les  extensions  sont  autorisées  dans  un 
+maximum total de 300 m2 de surface de plancher.  
+Dans le secteur Ac, l’emprise au sol des constructions est limitée à 50% de l'unité foncière.  
+Dans les autres zones et secteurs, cet article n’est pas réglementé  
+
+ARTICLE A 9 - Hauteur maximale des constructions  
+
+ARTICLE A 5 - Implantation des constructions par rapport aux voies et emprises publiques  
+
+1 - Condition de mesure :  
+
+En dehors des espaces urbanisés, les constructions ou installations sont interdites dans une bande :  
+
+  de 100 mètres de l’axe de l’A8  
+  de 75 mètres de l’axe des RDN7, RD 560 et RD 3  
+
+Cette interdiction ne s'applique pas :  
+
+  aux constructions ou installations liées ou nécessaires aux infrastructures routières ; 
+  aux services publics exigeant la proximité immédiate des infrastructures routières ; 
+  aux bâtiments d'exploitation agricole ; 
+  aux réseaux d'intérêt public.  
+
+Au  sein  des  espaces  urbanisés,  les  constructions  ou  installations  doivent  être  implantées  à  une 
+distance au moins égale à :  
+
+  50m par rapport à l'axe de l'autoroute A8 
+  35m par rapport à l'axe des RDN7, RD560 et RD 3 
+  15m par rapport à l'axe des autres routes départementales 
+  5m par rapport à l'alignement des autres voies publiques  
+
+La hauteur doit être mesurée du point le plus bas de la base de chaque façade, jusqu'à l'égout des 
+couvertures. Sur les terrains en pente, la hauteur de chaque façade ne doit pas dépasser un plan 
+parallèle au sol naturel avant travaux, plan situé à une hauteur égale à la hauteur absolue.  
+
+2 - Hauteur absolue :  
+
+Pour les constructions à usage d'habitation, la hauteur ne devra pas excéder 7 mètres à l’égout du 
+toit.  
+Pour  les  bâtiments  techniques,  la  hauteur  ne  devra  pas  excéder  5  mètres  à  l’égout  du  toit  et  8 
+mètres  au  faîtage.  Toutefois,  cette  disposition  ne  s’applique  pas  aux  bâtiments  agricoles  dont  la 
+spécificité technique dûment justifiée nécessite une hauteur différente.  
+
+ARTICLE A 10 - Aspect extérieur des constructions et aménagements de leurs abords  
+
+En  fonction  des  caractéristiques  locales,  l’aspect  extérieur  des  constructions,  leurs  dimensions  et 
+l’aménagement  de  leurs  abords  devront  contribuer  à  la  qualité  architecturale  et  à  l’insertion 
+
+8Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Le  projet  nécessite  la  proximité  avec  un  important  point  de  raccordement  au  réseau.  Le  poste 
+électrique  RTE  qui  se  trouve  à  proximité  du  projet  est  donc  crucial  pour  installer  ce  système  de 
+stockage.  
+
+  Le  projet  est  donc  compatible  avec  le  règlement  du  PLU  de  Saint-Maximin-la-Sainte-
+
+Baume. 
+
+  Il comporte de nombreux avantages et services rendus au réseau, et est situé à proximité 
+d’un poste électrique RTE, emplacement crucial pour installer ce système de stockage. 
+
+harmonieuse  des  constructions  dans  le  milieu  environnant,  conformément  aux  dispositions  de 
+l'article  R.  111-21.  Il  est  nécessaire,  pour  les  abords  de  prévoir  des  aménagements  végétaux 
+correspondant à l’objectif d’harmonisation.  
+Les  installations  nécessaires  à  la  production  d'électricité  photovoltaïque  sont  autorisées,  sous 
+réserve  qu’elles  soient  intégrées  ou  posées  sur  les  toitures  des  bâtiments  techniques  agricoles 
+existants ou à construire et que la fonction agricole principale de ces bâtiments n'en soit pas affectée. 
+Le pétitionnaire devra démontrer que l'activité de production d'énergie photovoltaïque ne vient pas 
+en concurrence des activités agricoles de l’exploitation.  
+Les panneaux photovoltaïques doivent présenter des proportions et dimensions harmonieuses. Leurs 
+équipements  et  accessoires  de  raccordement  et  de  distribution  doivent  être  intégrés  dans  la 
+construction ou masqués. 
+
+ARTICLE A 11 – Obligations imposées aux constructeurs en matière de réalisation d’aires 
+de stationnement  
+
+Non réglementé  
+
+ARTICLE  A  12  –  Obligations  imposées  aux  constructeurs  en  matière  de  réalisation 
+d’espaces libres, d’aires de jeux et de loisirs, et de plantations  
+
+Non réglementé  
+
+ARTICLE  A  13  -  Obligations  imposées  aux  constructions,  travaux,  installations  et 
+aménagements, en matière de performances énergétiques et environnementales  
+Non règlementé  
+
+ARTICLE  A  14  -  Obligations  imposées  aux  constructions,  travaux,  installations  et 
+aménagements,  en  matière  d'infrastructures  et 
+réseaux  de  communications 
+électroniques.  
+
+Non règlementé 
+
+Ces  zones  A  du  PLU  de  Saint-Maximin-la-Sainte-Baume  sont  compatibles  avec 
+l’implantation  d’installations,  constructions  ou  ouvrages  techniques,  y  compris  ceux 
+relevant de la réglementation sur les installations classées, sous réserve de démontrer la 
+nécessité technique de leur implantation en zone agricole et qu'ils ne portent pas atteinte 
+au caractère de la zone.   
+
+Le projet de stockage d’énergie via batteries, rentre donc dans ce cadre. 
+
+Le  projet  de  stockage  d’énergie  est  d’intérêt  collectif,  il  permet  de  rendre  plusieurs  services  au 
+réseau, notamment :  
+
+  Stabiliser  le  réseau  en  assurant  en  continu  l’équilibre  entre  la  production  et  la 
+
+consommation ; 
+
+  Fiabiliser le réseau électrique durant les périodes de forte tension ; 
+  Assurer l’approvisionnement électrique des industriels et particuliers à moindres coûts ; 
+  Permettre une meilleure intégration des futures capacités renouvelables.  
+
+9Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLANCHE 3. PLU de la commune de Saint-Maximin-la-Sainte-Baume 
+
+10Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+4.1.2.2. Plan Climat Air Energie Territorial (PCAET)  
+
+Le Plan Climat Air Énergie Territorial (PCAET), est un outil de planification à la fois stratégique et 
+opérationnel,  qui  permet  aux  collectivités  d’aborder  l’ensemble  de  la  problématique  air-énergie-
+climat  sur  leur  territoire.  Il  a  pour  but  d'atténuer  le  changement  climatique,  de  développer  les 
+énergies renouvelables et maîtriser la consommation d'énergie.  
+
+  La  commune  de  Saint-Maximin-la-Sainte-Baume  est  concernée  par  le  SCoT  Provence 
+
+Verte Verdon, applicable depuis septembre 2020. 
+
+  Le projet de stockage d’énergie est en accord avec les ambitions du SCOT Provence Verte 
+
+Verdon. 
+
+La Communauté d’Agglomération Provence Verte (CAPV) a approuvé le PCAET 2022-2027 en mars 
+2023. 
+
+aquatiques  
+
+4.1.2.4.1. Articulation avec le SDAGE Rhône-Méditerranée  
+
+4.1.2.4. Articulation avec les mesures de protection et de gestion concernant les milieux 
+
+Le plan d’action du PCET de la CAPV en marche mentionne notamment les objectifs suivants :  
+
+  Favoriser l’autonomie énergétique du territoire et de ses habitant ; 
+  Rénover les bâtiments privés, encourager la sobriété dans les usages de l’énergie et réduire 
+
+Généralités  
+
+la précarité énergétique ;  
+
+  Accroître  la  production  et  l’usage  des  énergies  renouvelables  dans  le  respect  de  la 
+
+biodiversité, du patrimoine et des paysages. 
+
+La  loi  sur  l'eau  du  3  janvier  1992  a  demandé  à  chaque  comité  de  bassin  d'élaborer  un  Schéma 
+Directeur d'Aménagement et de Gestion des Eaux (SDAGE) pour fixer les grandes orientations d'une 
+gestion équilibrée et globale des milieux aquatiques et de leurs usages.  
+
+  Le projet de stockage d’énergie est en accord avec les ambitions et objectifs du PCAET 
+de la CAPV, à travers la mise en œuvre et la promotion d’actions de maîtrise de l’énergie 
+et le développement des énergies renouvelables. 
+
+Révisé tous les 6 ans, le SDAGE fixe les conditions pour concilier le développement et l’aménagement 
+des territoires avec les objectifs de préservation et restauration des milieux aquatiques.  
+
+4.1.2.3. Schéma de Cohérence Territoriale (SCoT) 
+
+Le SCoT est le document de planification stratégique à l’échelle des grands territoires, encadrant les 
+documents  de  planification  locaux.  Autant  que  possible,  il  est  élaboré  sur  le  périmètre  d’un  ou 
+plusieurs bassin(s) de vie, espace dont les dimensions sont pertinentes pour assurer la cohérence 
+entre les enjeux d’aménagement et les différentes politiques sectorielles.  
+C’est un outil qui intègre les différents enjeux au territoire quels qu’ils soient : agriculture, forêt, 
+paysage,  cadre  de  vie,  tourisme,  environnement,  habitat  et  services...  qui  correspondent  aux 
+problématiques des territoires ruraux.  
+
+SCoT Provence Verte Verdon 
+
+Le SCoT Provence Verte Verdon est conçu sur un territoire de plus de 121 000 habitants. Il inclut 
+43 communes,  comprenant la commune de Saint-Maximin-la-Sainte-Baume.  La révision du  SCoT 
+Provence Verte Verdon a été approuvée le 30 janvier 2020 et rendue exécutoire en septembre 2020. 
+
+Le SCoT contient 3 documents : 
+
+  Le rapport de présentation ; 
+  Le Projet d’Aménagement et de Développement Durable (PADD) ; 
+  Le Document d’Orientation et d’Objectifs (DOO). 
+
+Au sein de son PADD, le SCoT Provence Verte Verdon affiche son ambition à « Valoriser les sources 
+d’énergies renouvelables », ce qui permettrait « l’amélioration du bilan énergétique du territoire », 
+qui est une autre de ses ambitions.  
+
+Au sein du DOO, le SCoT Provence Verte Verdon décrit sa volonté de « développer des filières locales 
+de  production  d’énergies  renouvelables  et  diversifier  le  mix  énergétique »  et  pour  cela  «  La 
+production d’un mix d’énergies renouvelables est recherchée par diversification des sources ».   
+
+De ce fait, pour donner suite à la mise en place du SDAGE 2016-2021, une nouvelle version révisée 
+de celui-ci a émergé dès le second semestre 2018. Le 18 mars 2022, le comité de bassin a adopté le 
+SDAGE 2022-2027 qui fixe la stratégie pour l'atteinte du bon état des milieux aquatiques en 2027 et 
+a  donné  un  avis  favorable  au  programme  de  mesures  (PDM)  qui  définit  les  actions  à  mener  pour 
+atteindre cet objectif. Ces documents sont entrés en vigueur le 4 avril 2022 suite à la publication au 
+Journal officiel de la République française de l'arrêté d'approbation du préfet du 21 mars 2022. 
+
+Le SDAGE 2022-2027 fixe les grandes priorités, appelées « orientations fondamentales » (au nombre 
+de 9), de gestion équilibrée de la ressource en eau. 
+
+Le PDM accompagne le SDAGE. Il rassemble les actions par territoire nécessaires pour atteindre le 
+bon état des eaux. Pour 2027, le SDAGE vise 67 % des milieux aquatiques en bon état écologique, 
+98% des nappes souterraines en bon état quantitatif, et 97 % des milieux aquatiques contre 88% 
+des  nappes  souterraines,  en  bon  état  chimique,  soit  une  nette  augmentation  des  objectifs  depuis 
+2019. 
+
+Objectifs de bon état fixés dans le SDAGE Rhône-Méditerranée 2022-2027  
+(Source : SDAGE Rhône-Méditerranée) 
+
+11Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Programme de mesures du SDAGE  
+
+  La Planification Régionale de l’Intermodalité (PRI).  
+
+Un  programme  de  mesures  (PDM)  est  associé  à  ce  SDAGE.  Il  traduit  ses  dispositions  sur  le  plan 
+opérationnel en listant les actions à réaliser au niveau des territoires pour atteindre ses objectifs. 
+
+Le PDM mis en place sur le secteur du projet est celui du sous-bassin « Côtiers Côte D’azur ». 
+
+Les principales mesures de ce territoire sont les suivants : 
+
+  Limiter  les  apports  en  pesticides  agricoles  et/ou  utiliser  des  pratiques  alternatives  au 
+
+traitement phytosanitaire ; 
+
+  Réhabiliter  et  ou  créer  un  réseau  d'assainissement  des  eaux  usées  hors  Directive  ERU 
+
+(agglomérations de toutes tailles) ; 
+
+  Réaliser une opération de restauration de grande ampleur de l'ensemble des fonctionnalités 
+
+d'un cours d'eau et de ses annexes ; 
+
+  Mettre en place un dispositif d'économie d'eau dans le domaine de l'agriculture ; 
+  Mettre en place un dispositif d'économie d'eau auprès des particuliers ou des collectivités ; 
+Instruire une procédure d'autorisation dans le cadre de la loi sur l'eau sur la ressource. 
+ 
+
+  Le secteur est concerné par le PDM du sous-bassin « Côtiers Côte D’azur ». 
+
+4.1.2.4.2. Articulation avec le SAGE 
+
+Un SAGE (Schéma d’Aménagement et de Gestion des Eaux) est un outil de planification, institué par 
+la loi sur l'eau de 1992, visant la gestion équilibrée et durable de la ressource en eau. 
+Déclinaison du SDAGE à une échelle plus locale, il vise à concilier la satisfaction et le développement 
+des différents usages (eau potable, industrie, agriculture, ...) et la protection des milieux aquatiques, 
+en tenant compte des spécificités d'un territoire.  
+
+Le  SRADDET  a  une  portée  prescriptive.  Il  est  notamment  opposable  aux  SCoT,  PLU,  cartes 
+communales et chartes des PNR qui devront être compatibles avec les règles générales du fascicule 
+de  ce  schéma  (article  L.  451-3  du  chapitre  1e  du  Code  général  des  collectivités  territoriales).  Le 
+SRADDET  est  compatible  avec  le  SDAGE,  en  application  de  l'article  L.  212-1  du  code  de 
+l'environnement. 
+
+Le SRADDET est composé d'un rapport consacré aux objectifs du schéma, d'un fascicule regroupant 
+les règles générales et de documents annexes.  
+
+Sont développés par la suite les éléments en lien avec la transition énergétique. Ces éléments 
+sont intégrés au sein du 3ème axe « Conforter la transition environnementale et énergétique : vers 
+une  économie  de  la  ressource »  de  la  première  ligne  directrice  :  « Renforcer  et  pérenniser 
+l’attractivité du territoire régional », notamment avec l’orientation 1 : « Vers un nouveau référentiel 
+de production et de consommation, vers une société post-carbone ».  
+
+Développement des énergies renouvelables  
+
+Le projet s’inscrit dans les règles suivantes :  
+
+  LD1-OBJ19 A « Identifier, justifier et valoriser le potentiel de développement des énergies 
+renouvelables et de récupération du territoire en développant les équipements de pilotage 
+énergétique intelligents et de stockage » 
+
+  LD1-OBJ19 B « Développer la production des énergies renouvelables et de récupération et 
+des  équipements  de  stockage  afférents,  en  mettant  en  œuvre  des  mesures »  dont 
+notamment « en faveur de l’innovation […] en soutenant les démonstrateurs, en particulier 
+pour  la  méthanisation/gazéification,  l’hydrogène,  le  solaire  à  condensation,  les  réseaux 
+intelligents et le stockage de l’énergie ». 
+
+La commune de Saint-Maximin-la-Sainte-Baume n’est pas concernée par un SAGE.  
+
+Enjeux liés aux espaces agricoles et forestier 
+
+  Le secteur n’est pas concerné par un SAGE. 
+
+4.1.2.5. Articulation avec le Schéma Régional d’Aménagement, de Développement Durable 
+
+et d’Egalité des Territoires (SRADDET) 
+
+4.1.2.5.1. Au niveau régional  
+
+La loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (ou loi 
+NOTRe)  renforce  les  compétences  des  régions  et  des  établissements  publics  de  coopération 
+intercommunale  (EPCI).  Elle  a  notamment  créé  un  nouveau  schéma  de  planification :  le  Schéma 
+Régional de l’aménagement, de développement durable et d’égalité des territoires (SRADDET). Le 
+SRADDET Provence-Alpes-Côte d'Azur a été approuvé par arrêté préfectoral en date du 15 octobre 
+2019.  
+
+Le SRADDET Provence-Alpes-Côte d'Azur intègre : 
+
+  Le Schéma Régional de Cohérence Ecologique (SRCE) ; 
+  Le Schéma Régional Climat, Air, Energie (SRCAE) ; 
+  Le Plan régional de prévention et de gestion des déchets (PRPGD) ; 
+  La Planification Régionale des infrastructures de transport ; 
+
+La  règle  LD2-OBJ49 B  a pour but « Identifier les espaces agricoles à  enjeux  et à potentiel sur la 
+base d'un ou des critères suivants :  
+
+  Potentiel agronomique ou valeur économique  
+  Potentiel d'agriculture urbaine et périurbaine 
+  Cultures identitaires → Productions labellisées 
+  Espaces pastoraux  
+
+et  favoriser  la  mise  en  place  des  dispositifs  de  protection  réglementaire  à  une  échelle 
+intercommunale ».                     
+
+La  règle  LD-OBJ16  A vise  à  « Favoriser  les  activités,  les  aménagements  et  les  équipements 
+favorables à la gestion durable, multifonctionnelle et dynamique de la forêt » 
+
+La  zone  d'implantation  potentielle  du  projet  s’inscrit  en  majorité  sur  des  parcelles 
+agricoles recensées au Registre Parcellaire Graphique (RPG) 2021 comme culture d’orge 
+d’hiver (parcelles AK 114, AK 115 et AK 406). Seule la parcelle AK 404 n’est pas recensée 
+au RPG 2021, elle est en friche depuis plus de 10 ans. 
+
+A noter que le projet est totalement réversible et une remise en état agricole de la parcelle 
+a été intégrée dans les engagements entre le maitre d’ouvrage et le propriétaire. 
+
+12Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+Aussi,  à   noter   que  la  présence   du   poste   source   de   Saint-Maximin-la-Sainte-Baume  à 
+proximité immédiate  du projet (environ 20 m à l’est, de l’autre côté de la RD  560)  ainsi 
+que  quelques  constructions existantes  isolées  (habitation, hangar agricole, ...).
+
+Ces  parcelles  ne  sont  donc  pas  a  priori  une  occupation  privilégiée  par  le  SRADDET  et
+devront encesens  être  justifiée  de  manière  particulièrement  détaillée  selon  la  séquence  ERC  et
+la  prise encomptedes espaces agricoles et les activités associées.
+
+ La   règle   LD1-OBJ19   B  «  Développer   la   production   des   énergies   renouvelables   et   de 
+récupération   et   des   équipements   de   stockage   afférents,   en   mettant   en   œuvre   des 
+mesures  » 
+ les 
+démonstrateurs, en particulier pour la méthanisation/gazéification, l’hydrogène, le solaire
+à   condensation,   les   réseaux   intelligents   et  le   stockage   de   l’énergie  »  est   en   totale 
+adéquation avec le présent projet de stockage d’énergie via batteries.
+
+ l’innovation  […]  en 
+
+ notamment 
+
+ soutenant 
+
+ faveur 
+
+ dont 
+
+ «  en 
+
+ de 
+
+ La   zone   d'implantation   potentielle   du   projet   s’inscrit   en  majorité  sur   des   parcelles 
+agricoles, recensées au Registre Parcellaire Graphique (RPG) 2021 comme orge d’hiver.
+Or, le SRADDET  PACA  vise à préserver et réduire la consommation de surfaces agricoles,
+forestières ou naturelles, à  noter que  le projet est totalement réversible et  une  remise en 
+état agricole de la parcellea été intégrée dans les engagements entre le maitre d’ouvrage 
+et le propriétaire.
+
+ Enfin,  à   noter   que le projet de batteries, d'intérêt public majeur, vient s'implanter en 
+
+continuité   du   poste   source   de   Saint-Maximin-la-Sainte-Baume à environ 20 m à l’est, 
+de l’autre côté de la RD  560.
+
+13Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2. Paysage et patrimoine 
+
+4.2.2. Contexte paysager 
+
+L’analyse  paysagère  a  été  élaborée  à  partir  d’analyses  bibliographiques,  d’interprétations 
+cartographiques et photographiques.  
+
+Les bases de données, sources d’informations, … consultées pour rédiger ce paragraphe ont été les 
+suivantes : 
+
+  Monumentum 
+  Atlas des patrimoines 
+  Base Merimée 
+  Atlas des paysages du Var 
+
+4.2.1. Les aires d’études paysagères 
+
+Le paysage est « une partie de territoire telle que perçue par les populations, dont le caractère résulte 
+de  l’action  de  facteurs  naturels  et/ou  humains  et  de  leurs  interrelations  »,  d’après  la  Convention 
+Européenne du Paysage. Elle reconnaît également le paysage en tant que « composante essentielle 
+du cadre de vie des populations, expression de la diversité de leur patrimoine  commun culturel  et 
+naturel, et fondement de leur identité ».  
+
+Le paysage est le reflet d’une culture locale, il est le résultat d’un mode de pensée et d’action d’une 
+société sur un territoire. Le contexte paysager de l’Etat Initial de l’Environnement considère la réalité 
+sensible  d’un  terrain  au  travers  une  attention  à  l’existant,  aux  données  physiques,  aux  vivants 
+humains et non-humains, aux usages, aux représentations et aux perceptions des paysages par les 
+populations. Les paysages sont façonnés par l’homme et évoluent au fil du temps. 
+
+L’unité paysagère de la zone potentielle d’implantation correspond à  une grande  cuvette allongée, 
+partagée entre terres agricoles et terres urbanisées. La plaine d’altitude 250-300 mètres est limitée 
+par  des  reliefs  de  450-550  mètres.  Les  fonds  très  plats  autour  de  Saint-Maximin  deviennent  plus 
+modelés près de la commune de Tourves. 
+
+La  commune  de  Saint-Maximin-la-Sainte-Baume  est  constituée  par  les  deux  hauts  bassins  de 
+l’Argens, et du Caramy (son affluent) dont les cours ont ici des directions opposées. Le basculement 
+se fait au niveau de Tourves situé à la sortie des gorges du Caramy. Les lits des cours d’eau ont été 
+corsetés et les sols drainés par tout un réseau des canaux et fossés (PLANCHE 4).  
+
+Le paysage, correspondant à un espace ouvert et agricole, est lié par deux voies régionales. Les deux 
+grands rideaux arborés en végétation rivulaire sont raccordés à la trame végétale qui suit ruisseaux 
+et  fossés  :  haies,  lignes  de  cannes,  arbres  isolés,  entre  les  champs.  Lors  du  dernier  recensement 
+agricole, en 2020, la Surface Agricole Utilisée de la commune de Saint-Maximin-la-Sainte-Baume est 
+de 1102 hectares, soit environ 17% du territoire communal. Elle a diminué de 5,1% entre 2010 et 
+2020. Le nombre d’exploitations a aussi diminué (- 27,5 %), passant de 80 en 2010 à 58 en 2020. 
+La vigne domine l’unité paysagère, occupant deux tiers des parcelles. Les grandes cultures jouent un 
+rôle  secondaire  mais  se  maintiennent  plus  facilement.  Le  reste  est  occupé  par  quelques  cultures 
+fourragères,  horticoles  (légumes)  et  des  oliveraies.  L’espace  forestier  (presque  entièrement  privé) 
+est  assez  fragmenté  dans  la  plaine,  sauf  sur  les  pourtours  où  l’on  rencontre  quelques  forêts  plus 
+étendues, notamment à proximité des Monts Auréliens et au Nord de la Plaine. Les boisements sont 
+composés de feuillus (chêne pubescent) souvent en peuplement mixte avec des conifères (Pin d’Alep) 
+(PLANCHE 5). 
+
+Cette analyse paysagère se déploie sur deux aires d’études :  
+
+  L’aire d’étude paysagère étendue définit les caractéristiques générales du territoire, évoque 
+le grand paysage, les unités paysagères, les monuments et patrimoines historiques, les sites 
+protégés et l’ensemble des autres lieux remarquables. 
+
+  L’aire d’étude paysagère rapprochée montre les perceptions visuelles aux abords et depuis 
+
+la ZIP et relève les éléments de paysage spécifiques du site1. 
+
+Les villes ont été placées sur la voie romaine, à l’écart des rivières, au cours et au débit capricieux, 
+et  des  terres  cultivées,  sur  un  éperon  rocheux  ou  un  ressaut  du  relief.  Elles  ont  en  commun  une 
+silhouette  forte  qui  s’impose  au  regard.  Elles  ont  chacune  un  centre  ancien  médiéval  fortifié,  aux 
+nombreuses fontaines et aux rues étroites. Mais leur histoire et leur vocation est différente : Saint- 
+Maximin s’est développé comme centre religieux et lieu de pèlerinage, autour de la Basilique Sainte-
+Marie-Madeleine et du couvent royal qui dominent la ville (PLANCHE 6. Organisation du territoire). 
+
+Une seconde partie développe les sensibilités visuelles liées à la zone d’implantation du projet dans 
+les  aires  d’études  paysagères.  Elle  permet  de  proposer  une  synthèse  des  enjeux  d’intervisibilités 
+théoriques et de covisibilités théoriques de la zone d’implantation du projet dans son environnement. 
+
+La grande route (N7) et l’autoroute (A8) suivent le même fuseau que la voie romaine (Via Aurelia) 
+qui reliait Rome et Narbonne. Une ancienne voie de chemin de fer est en place et visible, en pied de 
+versant ubac, entre Saint-Maximin et Brignoles (PLANCHE 6). 
+
+  Au-delà  de  3  km,  les  études  montrent  que  la  perception  du  stockage  de  batteries  d’un 
+périmètre très réduit de l’ordre d’environ 2 hectares est réduite à celle d’un « motif en gris 
+» qui se fond dans le paysage.  
+
+A  l’échelle  du  territoire  d’étude,  les  grands  ensembles  géographiques  régionaux  se  distinguent  en 
+unités paysagères. Une unité paysagère définit notre périmètre d’étude : « la plaine de Saint-Maximin 
+et de Brignoles », dans laquelle se situe le projet (PLANCHE 7). 
+
+  L’aire  d’étude  paysagère  étendue  se  situe  sur  l’unité  paysagère  « La  plaine  de  Saint-
+
+Maximin et de Brignoles ».  
+
+1 Il s’agit des éléments physiques et symboliques de l'espaces bâtis et non bâtis tel que des affleurements rocheux, des haies 
+bocagères, des murets en pierre sèche, des artefacts manifeste de l’histoire du lieu. 
+
+14Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLANCHE 4. Présence hydrographique 
+
+15Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+PLANCHE 5. Typologie du couvert végétal 
+
+16Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+PLANCHE 6. Organisation du territoire 
+
+17Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+PLANCHE 7. Unités paysagères du Var 
+
+18Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+4.2.2.1. Caractéristiques de l’aire d’étude paysagère étendue 
+
+Chaque entité ou unité paysagère est un morceau de territoire au sein duquel le système paysager 
+est  défini  par  l’ensemble  des  caractères  de  relief,  d’hydrographie,  d’occupation  du  sol,  de  forme 
+d’habitat et présente une homogénéité d’aspect qui répond à une même logique. Elle  se distingue 
+des unités voisines par une différence de présence, d’organisation ou de forme de ces caractères. 
+
+A  l’échelle  de  l’aire  d’étude  paysagère  étendue,  3  unités  paysagères  se  déclinent :  « La  plaine  de 
+Saint-Maximin et de Brignoles », « Les collines de Rians » et « Le centre Var ».  
+
+Les  collines  de  Rians  sont  des  plaines  agricoles  aux  cultures  variées,  avec  des  collines  densément 
+boisées et ainsi peu traversées, avec des villages aux silhouettes attrayantes et un habitat en hameau 
+clairsemé.  
+
+Au sud, la surface agricole utilisée est moyenne et se maintient depuis 20 ans. La culture est dominée 
+par la vigne, à la présence stable, notamment grâce à l’augmentation des surfaces en AOC et de la 
+taille des exploitations (au détriment du nombre d’exploitants). Il y a également des grandes cultures 
+qui se maintiennent. 
+
+L’habitat  se  concentre  dans  les  zones  de  plaines,  rarement  sous  forme  de  villes  ou  villages  mais 
+essentiellement sous forme de hameaux clairsemés. 
+
+  La plaine de Saint-Maximin et de Brignoles 
+
+  Le centre Var 
+
+La plaine de Saint-Maximin et de Brignoles se situe à l’ouest du département du Var, elle s’allonge 
+sur une trentaine de kilomètre, de la ville de Pourcieux à celle de Brignoles, comprenant la ville de 
+Saint-Maximin-la-Sainte-Baume, elle englobe donc la majorité la zone d’étude étudiée. 
+
+Bien que plat, un léger relief apparait sur les extrémités est, nord-ouest et sud-ouest de l’aire d’étude 
+paysagère étendue, qui concordent avec les habitations.  
+
+Le  bourg  de  Saint-Maximin-la-Sainte-Baume,  situé  sur  une  légère  élévation  de  terrain  en  butte,  a 
+profité de zones particulières pour s’y implanter. 
+
+Saint-Maximin-la-Sainte-Baume est desservi par la A8, traversant l’aire d’étude de l’ouest au sud-
+est, par la DN 7, traversant le sud de l’aire d’étude et par la RD 560 traversant l’aire d’étude du nord 
+au sud. Ces routes ouvrent des vues sur la plaine du Var.  
+
+La partie nord-est de l’aire d’étude paysagère étendue fait partie de l’unité paysagère centre Var.  
+
+Le  centre  Var  est  constitué  d’eau  omniprésente,  des  fonds  de  vallons  verdoyants  et  des  villages 
+perchés. Les cultures remontent sur les versants en terrasses de vigne. 
+
+À  l’Ouest,  le  plateau  des  collines  de  Rians  présente  comme  un  glacis  boisé  et  un  dénivelé  d’une 
+centaine de mètres au-dessus d’un fossé aux sources de l’Argens. Au Sud, le dernier rebord collinaire 
+surplombe les bassins de Brignoles et Saint-Maximin, puis suit la dépression permienne.  
+
+La  surface  agricole  utilisée  est  assez  importante,  entre  10  et  30%  des  surfaces  communales  en 
+moyenne,  et  elle  a  plutôt  tendance  à  se  stabiliser,  voire  à  augmenter  depuis  20  ans.  Dans  de 
+nombreux  cas,  la  vigne  constitue  la  principale  culture.  Dans  d’autres  cas,  la  vigne  est  absente  ou 
+occupe un rôle secondaire derrière les grandes cultures et/ou les cultures fourragères, ces dernières 
+se développant fortement. Dans la partie de l’aire d’étude paysagère étendue concernée, on constate 
+plutôt un mix des deux.  
+
+L’urbanisation est diffuse, surtout à l’est, avec la zone pavillonnaire de la commune de Saint-Maximin-
+la-Sainte-Baume. A plus petite échelle, l’urbanisation est aussi diffuse à l’ouest de l’aire d’étude. Au 
+sud,  l’urbanisation  est  plus  concentrée.  Cette  urbanisation  peut  participer  à  la  fermeture  des 
+perceptions visuelles (exemple à l’est, où les perceptions de la commune d’Ollières sont probablement 
+obstruées par les habitations de Saint-Maximin-la-Sainte-Baume).  
+
+Les  villages  sont  placés  au  sommet  de  buttes  dominant  les  cours  d’eau  ou  au  pied  de  falaises  où 
+resurgissent des sources. Les formes des constructions sont simples et verticales dans les villages ; 
+les teintes des enduits à la chaux restent sobres (jaune clair ou beige). Les tuiles vernissées peuvent 
+orner les toitures des clochers ou des maisons de maîtres. Les grands domaines agricoles, souvent 
+viticoles, sont dans un écrin végétal et entourés d’un mur de clôture. 
+
+Cette plaine est un large territoire mi-agricole mi-urbanisé. Une grande partie de l’aire d’étude est 
+occupée par une activité agricole, mais l’occupation du sol diffère selon les secteurs. La vigne domine, 
+surtout dans la partie nord, tandis que c’est plus diversifié dans la partie sud, avec notamment de la 
+culture de blé, d’autre luzerne ou encore des prairies. 
+
+  Les  terrains  du  projet  sont  implantés  au  sein  de  « La  plaine  de  Saint-Maximin  et  de 
+
+Brignoles ». 
+
+  Certains  éléments  du  paysage  favorisent  l’ouverture  ou  la  fermeture  des  perceptions 
+
+visuelles au sein de l’aire d’étude. 
+
+Quelques ruisseaux accompagnés par moment de leur ripisylve, ainsi que quelques bosquets ou haies, 
+ferment les perceptions visuelles. 
+
+4.2.2.2. Sites, paysages et patrimoine 
+
+Les cultures, selon leur stade de croissance, peuvent aussi conditionner les perceptions visuelles selon 
+les  secteurs  (culture  de  maïs  plus  ou  moins  haut  ou  vignes  par  exemple).  A  contrario,  certaines 
+prairies ou cultures rases dans l’aire d’étude favorisent les vues sur de longues distances. 
+
+  Les collines de Rians 
+
+Une petite partie de l’aire d’étude paysagère  étendue (nord-ouest) fait partie de l’unité paysagère 
+des collines de Rians.  
+
+En application de l’article R.111-27 du code de l’urbanisme, le projet peut être refusé ou n'être accepté 
+que sous réserve de l'observation de prescriptions spéciales si les constructions, par leur situation, leur 
+architecture, leurs dimensions ou l'aspect extérieur des (...) ouvrages à édifier (...), sont de nature à porter 
+atteinte au caractère ou à l'intérêt des lieux avoisinants, aux sites, aux paysages naturels ou urbains ainsi 
+qu'à la conservation des perspectives monumentales ». 
+
+19Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2.2.2.1. Monuments historiques 
+
+De  nombreux  monuments  historiques  inscrits  ou  classés  sont 
+recensés dans le secteur. Ils sont essentiellement localisés au sein 
+des villes et villages et correspondent, dans la majorité des cas, à 
+des édifices religieux. 
+
+Le monument le plus proche de l’aire d’étude est le « Couvent des 
+Dominicains  »,  monument  classé  par  arrêté  du  03/07/1969, 
+localisé à 1,4 km au sud de la zone. 
+
+En application de l’article Articles L621-30 du Code du patrimoine, 
+les  alentours  d’un  monument  historique  susceptibles  de 
+contribuer à sa conservation ou à sa mise en valeur sont protégés 
+au titre des abords. 
+-   La protection au titre des abords s'applique à tout immeuble, bâti ou 
+non bâti, situé dans un périmètre délimité par l'autorité administrative 
+dans les conditions fixées à l'article L. 621-31.  
+ En l'absence de périmètre délimité, la protection au titre des 
+abords s'applique à tout immeuble, bâti ou non bâti, visible du 
+monument  historique  ou  visible  en  même  temps  que  lui  et 
+situé à moins de cinq cents mètres de celui-ci. 
+
+- 
+
+Figure 1. Couvent des Dominicains 
+(source : monumentum.fr) 
+
+Aire d’étude 
+
+Nom 
+
+Statut du 
+monument 
+
+Commune 
+
+Distance par rapport à 
+la zone d’implantation 
+potentielle 
+
+Aire d’étude 
+Rapprochée 
+~ 1,07 km² 
+
+Aire d’étude 
+étendue 
+~ 29,9 km² 
+
+Il n’existe aucun monument historique classé, inscrit ou partiellement inscrit 
+au sein de l’aire d’étude paysagère rapprochée 
+
+Couvent des 
+Dominicains 
+
+Partiellement 
+classé 
+
+Saint-Maximin-la-
+Sainte-Baume 
+
+1,4 km au sud de la ZIP 
+
+Partiellement 
+classé et 
+partiellement 
+inscrit 
+
+Classé  
+
+Hôtel de ville 
+
+Basilique 
+Sainte-Marie-
+Madeleine 
+
+Baptistère 
+
+Inscrit 
+
+Tour de 
+l'Horloge 
+
+Inscrit 
+
+Saint-Maximin-la-
+Sainte-Baume 
+
+1,5 km au sud de la ZIP 
+
+Saint-Maximin-la-
+Sainte-Baume 
+
+Saint-Maximin-la-
+Sainte-Baume 
+
+Saint-Maximin-la-
+Sainte-Baume 
+
+1,5 km au sud de la ZIP 
+
+1,5 km au sud de la ZIP 
+
+1,6 km au sud de la ZIP 
+
+La ZIP ne se superpose à aucun périmètre de protection des monuments historique. Aucun 
+avis de l'Architecte des Bâtiments de France sera nécessaire pour ce projet vis-à-vis des 
+monuments historiques. 
+
+4.2.2.3. Sites et paysages inscrits ou classés 
+
+Les sites inscrits et classés, au titre de la protection du paysage, sont éloignés de la zone d’étude. 
+Les plus proches sont : 
+
+  « Chapelle  Notre  Dame  du  Revest  »,  site  classé  situé  à  Esparron,  à  environ  14,1  km  au 
+nord-ouest de l’aire d’étude et également inscrit en tant que Monument Historique (1926) ;  
+
+  « Le  lac  du  Grand  Laoucien  »,  site  classé  également  situé  sur  la  commune  de  La 
+
+Roquebrussanne, à environ 19 km au sud-est de l’aire d’étude. 
+
+La  ZIP  ne  se  superpose  à  aucun  site  et  paysage  inscrit  ou  classé.  Aucun  avis  de  l’Architecte  des 
+Bâtiments de France sera nécessaire pour ce projet vis-à-vis des sites et paysages inscrits ou classés. 
+Aucune autre autorisation spéciale préalable du Ministère chargé des sites, après avis de la DREAL, 
+de  la  DRAC  (Service  Territorial  de  l’Architecture  et  du  Patrimoine  du  département)  et  de  la 
+Commission Départementale de la Nature, des Paysages et des Sites (CDNPS) ne sera nécessaire. 
+
+4.2.2.4. Autres sites remarquables 
+
+La zone d’étude n’inclut aucun Site Patrimonial Remarquable (SPR). Le plus proche se situe à environ 
+12 km au nord de l’aire d’étude, vers la commune de Saint-Martin-de-Pallières.  
+
+4.2.2.5. Vestiges et sites archéologiques 
+
+En application de l’article L510-1 du Code du patrimoine 
+Constituent des éléments du patrimoine archéologique tous les vestiges, biens et autres traces de l'existence de 
+l'humanité, y compris le contexte dans lequel ils s'inscrivent, dont la sauvegarde et l'étude, notamment par des 
+fouilles ou des découvertes, permettent de retracer le développement de l'histoire de l'humanité et de sa relation 
+avec l'environnement naturel. 
+
+La zone d’étude n’est concernée par aucune zone de présomption de prescription archéologique. 
+
+En application de l’article L521-1 du Code du Patrimoine, l'archéologie préventive « (…) a pour objet 
+d'assurer,  à  terre  et  sous  les  eaux,  dans  les  délais  appropriés,  la  détection,  la  conservation  ou  la 
+sauvegarde par l'étude scientifique des éléments du patrimoine archéologique affectés ou susceptibles 
+d'être affectés par les travaux publics ou privés concourant à l'aménagement. Elle a également pour 
+objet l'interprétation et la diffusion des résultats obtenus.»  
+
+  Le monument historique le plus proche se situe à environ 1,4 km au sud de l’aire d’étude. 
+  L’avis de l'Architecte des Bâtiments de France n’est pas nécessaire pour ce projet. 
+  Le site inscrit le plus proche se localise à environ 14,1 km au nord-ouest de l’aire d’étude. 
+  La zone d’étude n’inclut aucun site patrimonial remarquable. 
+  La  zone  d’étude  n’est  concernée  par  aucune  zone  de  présomption  de  prescription 
+
+archéologique. 
+
+20Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLANCHE 8. Eléments patrimoniaux 
+
+21Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+4.2.2.6. Présentation de l’aire d’étude paysagère rapprochée  
+
+Les  perceptions  paysagères  des  abords  immédiats  du  site  sont  en  partie  conditionnées  par  les 
+éléments structurants du territoire local, évoqués précédemment. 
+
+Les éléments fondateurs à l’échelle de l’aire d’étude rapprochée sont les suivants : 
+
+  La topographie : au milieu d’une plaine ; 
+  L’hydrographie : le ruisseau des Fontaines, cours d'eau naturel non navigable de 5,82 km, 
+prenant sa source dans la commune de Saint-Maximin-la-Sainte-Baume et se jetant dans 
+La Meyronne au niveau de la commune de Saint-Maximin-la-Sainte-Baume ; 
+
+  La couverture végétale : Espaces ouverts marqués par des prairies, des vignes, quelques 
+
+boisements et cultures. Le maillage bocager est relativement faible ; 
+
+  Empreinte domestique : pas de présence d’élevage bovins ou autre race ; 
+  Infrastructures et transports : Voies de dessertes locales qui mènent aux lieux-dits habités 
+
+et à la commune voisine ainsi qu’un chemin agricole ; 
+
+  Lieux-dits et habitations « Douze Deniers » et « Régalette » ; 
+  Poste électrique RTE. 
+
+PLANCHE 9. Aire d’étude paysagère rapprochée 
+
+22Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+4.2.2.6.1. Perceptions du site dans son environnement 
+
+La visibilité se définit dès lors qu’un observateur a la possibilité de voir tout ou une partie de la zone 
+d’implantation potentielle du projet depuis un espace donné.  
+
+Intervisibilité : 
+
+On parle d’« intervisibilité » ou de « champ de visibilité » lorsque la zone d’implantation du projet et 
+un lieu donné sont visibles de la ZIP depuis l'autre lieu et vice-versa. 
+Le  terme  d’«  intervisibilité  »  s’applique  au  cas  général  de  visibilité  entre  un  projet  et  un  élément 
+particulier  du  paysage  présentant  un  enjeu  (habitation,  routes,  chemins  de  randonnée,  lieu 
+touristique, point de vue remarquable…).  
+
+Covisibilité : 
+
+La notion de « covisibilités » est à réserver aux monuments historiques. Elle désigne deux éléments 
+(projet et monument historique) mis en relation par un même regard (l'un étant visible à partir de 
+l'autre, ou les deux pouvant être embrassés par un même regard). 
+
+Intervisibilités théoriques 
+
+Les  parties  précédentes  ont  permis  de  repérer  au  sein  des  aires  d’étude  paysagères  les  lieux 
+d’habitations ou d’usage régulier, le patrimoine historique et les sites remarquables ou protégés. La 
+carte des intervisibilités potentielles permet de repérer les  visibilités théoriques avant de contrôler 
+sur  site,  les  plans  de  composition  dans  lesquels  la  zone  d’implantation  potentielle  est  susceptible 
+d’être perçue.  
+
+La carte des intervisibilités théoriques est uniquement basée sur la topographie du secteur. Les zones 
+n’offrant  aucune  perception  possible  sur  le  site  sont  incolores  et  seules  les  zones  de  visibilités 
+théoriques sur le seul critère du relief apparaissent de couleur jaune. 
+
+Les  perceptions  possibles  de  la  zone  d’implantation  potentielle  sont  également  limitées  par  la 
+présence d’un écran végétal (bocage, lisière boisée, forêt) ou d’écrans bâtis (hangars, habitats). Les 
+intervisibilités effectives de la ZIP dans le territoire doivent donc être analysées sur le terrain et ne 
+sont pas précisées dans la planche des intervisibilités théoriques (PLANCHE 10).  
+
+La  cartographie  des  intervisibilités  théoriques  révèle  des  visibilités  potentielles  assez  fortes, 
+principalement à l’ouest de la ZIP.  
+
+La  ville  de  Saint-Maximin-la-Sainte-Baume  ainsi  que  plusieurs  lieux-dits,  hameaux,  randonnées 
+balisées présentent des intervisibilités théoriques avec la ZIP.  
+
+Cette répartition des visibilités est caractéristique d’un horizon vallonné aperçu depuis une plaine.  
+
+23Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLANCHE 10. Intervisibilités théoriques 
+
+24Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+Sensibilité visuelle et perceptions du site depuis les aires d’études  
+
+Les sensibilités visuelles de la zone d’étude s’organisent en fonction de la topographie, de la végétation et de l’aménagement du territoire (urbanisation). 
+
+Depuis la zone d’étude, sont visibles des habitations de la commune de Saint-Maximin-la-Sainte-Baume, un poste électrique, la basilique Sainte-Marie-Madeleine et la RD 560. 
+
+PLANCHE 11. Contexte paysager à l’état initial de la zone d’étude  
+
+25Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+Insertion du projet dans le paysage  
+
+Des photomontages ont été réalisés afin de montrer l’insertion du projet dans le paysage.  Deux simulations ont été réalisées par l’agence COMPOSITE, une en insérant les batteries de stockage dans le paysage 
+(PLANCHE 13) et une autre en ajoutant des mesures paysagères telles que des haies afin de diminuer l’impact visuel du projet sur le paysage (PLANCHE 14). 
+
+Plusieurs mesures paysagères ont en effet été mises en place dans le cadre du projet, visibles dans la deuxième simulation, afin de créer un masque visuel autour de la zone de projet, avec notamment le 
+choix :  
+
+  De la typologie d'arbres (décrite en suivant),  
+  De leur emplacement : sur tout le linéaire clôturé du projet, 
+  Du linéaire d'arbres : environ 580 mètres linéaires.  
+
+Les essences suivantes seront ainsi intégrées sur le site conformément à l’existant : 
+
+  Petit arbre : Olea europaea Cipressino (olivier à port fastigié utilisé en brise-vue) ; 
+  Petit arbre : Quercus ilex (le chêne vert, très naturel, persistant et se taillant bien pour conserver une proportion de haie bocagère) ; 
+  Arbuste : Viburnum tinus (laurier tin, naturellement présent dans les friches de la plaine comme en bosquet de garrigue) ; 
+  Arbuste : Rhamnus alaternus (le Nerprun alaterne, arbuste persistant également « local » et qui se marie bien avec le laurier tin en formation naturelle).  
+
+PLANCHE 12. Plan de masse du projet
+
+26Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+PLANCHE 13
+
+PLANCHE 13. Simulation avec les batteries de stockage du contexte paysager de la zone d’étude
+
+27Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+PLANCHE 14. Simulation avec les batteries de stockage ainsi qu’une haie du contexte paysager de la zone d’étude  
+
+28Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enjeux visuels pressentis 
+
+D’après les intervisibilités théoriques et les panoramas présentés, les sensibilités visuelles pressenties 
+ont été attribués à chaque lieu de perception théorique identifié. Ils prennent en compte la distance 
+à la zone d’implantation potentielle du projet (note comprise de 0 à 6), la fréquentation (note de 0 à 
+3), le type de vue : en contrebas, rasante, surplombante (note de 1 à 3), la valeur patrimoniale (note 
+de 0 à 2) et la perception dynamique (note de 0 à -2). Une « note expert » permettant de nuancer 
+le score initial en fonction du ressenti paysager vient compléter la détermination de l’enjeu (note de 
+-2 à 2). La caractérisation des enjeux est réalisée sur la base de la notation suivante :   
+
+Note d'enjeux 
+
+Note 
+
+Nul 
+
+Négligeable 
+
+Très faible 
+
+Faible 
+
+Modéré 
+
+Fort 
+
+Très fort 
+
+0 
+
+ 1 
+
+2 à 3 
+
+4 à 5 
+
+6 à 7 
+
+8 à 10 
+
+>10 
+
+A noter que ces perceptions sont théoriques et seraient à confirmer via une analyse terrain 
+plus poussée.
+
+Les sensibilités visuelles ont été définies à partir de la cartographie des intervisibilités  théoriques qui 
+considère uniquement la topographie. Ainsi les sensibilités visuelles sont  sur-évaluées. En effet, de 
+nombreuses   intervisibilités   effectives   sont   masquées   de   manière   partielle   ou   en   totalité   par   la 
+présence de végétation et de bâtiments.
+
+Thèmes  
+
+Voiries 
+
+Aire 
+d’étude 
+rapprochée 
+
+Habitations 
+
+Evaluation des enjeux pressentis 
+Intervisibilités depuis la RD 560. Enjeux évalués comme TRES FORTS. 
+Intervisibilités depuis la RD 70. Enjeux évalués comme TRES FORTS. 
+Intervisibilités depuis le chemin dit d’Herboux et un chemin agricole à 
+l’ouest de la ZIP, ainsi que sur l’ancien chemin des Barjols. Les enjeux 
+sont évalués comme FORT.  
+Quelques habitations de la commune de Saint-Maximin-la-Sainte-Baume 
+possèdent des intervisibilités totale avec la ZIP. Les enjeux sont évalués 
+comme TRES FORTS. 
+Quelques habitations de la commune de Saint-Maximin-la-Sainte-Baume 
+et  des  habitations  des  lieu-dit  « Douze  Deniers »  et  « Regalette » 
+possèdent  des  intervisibilités  partielles  avec  la  ZIP.  Les  enjeux  sont 
+évalués comme FORTS. 
+
+Patrimoine  
+
+Aucun monument historique n’a été relevé. 
+
+Voiries 
+
+Aire 
+d’étude 
+étendue 
+
+Habitations 
+
+Depuis l’autoroute A8, les enjeux d’intervisibilités sont évalués comme 
+MODERES A FORTS. 
+Depuis  la  nationale  DN  7,  les  enjeux  d’intervisibilités  sont  évalués 
+comme FAIBLES. 
+Depuis  la  départementale  RD  560,  les  enjeux  d’intervisibilités  sont 
+évalués comme FAIBLES. 
+Depuis les habitations aux abords du bourg de Saint-Maximin-la-Sainte-
+Baume, les enjeux d’intervisibilités sont évalués de à TRES FAIBLES. 
+Depuis les lieux-dits de « Douze Deniers » « Régalette » et « l’Enclos » 
+les enjeux d’intervisibilités sont évalués comme FAIBLES 
+Depuis  le  lieu-dit  de  «  St-Mitre  Madon  »,  « La  Courtoise »  et 
+« Barcelone »  les  enjeux  d’intervisibilités  sont  évalués  comme  TRES 
+FAIBLES. 
+Avec  Google  Street  View  dont  les  photos  datent  de  juillet  2022,  on 
+constate qu’au pied de chaque monument historique, dont la Basilique-
+Sainte-Marie-Madelaine, les éléments bâtis cachent toute perception en 
+direction de la ZIP. En revanche, la ZIP est potentiellement visible depuis 
+la partie haute de la Basilique mais qui n’est pas accessible au public. 
+Les 5 monuments historiques relevés au sein de l’aire d’étude étendue 
+ne présentent donc aucune covisibilité avec la ZIP depuis leur pied. Les 
+enjeux sont évalués comme NULS depuis leur pied.2 
+
+A noter aussi la présence d’un poste électrique à environ 16 m de la zone d’implantation potentielle 
+et l'abscence de mesure paysagère pour minimiser cette installation dans le paysage local.
+
+Patrimoine  
+
+Figure 2. Google Street View datant du juin 2023 du poste électrique proche de la ZIP 
+
+2  Une vérification devra être faite via une visite de terrain, en allant au pied de la basilique en question 
+
+29Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Incidences visuelles résiduelles après application de mesures paysagères 
+
+Grâce aux mesures paysagères mises en place dans le cadre du projet, et notamment l’implantation 
+d’une haie sur 580 ml, ce dernier sera beaucoup moins visible. Seules les installations électriques les 
+plus hautes seront visibles. 
+
+Les incidences visuelles résiduelles seront alors a priori les suivantes : 
+
+A noter que les perceptions au niveau des voiries sont dynamiques, sur un laps de temps 
+réduit le temps du trajet. 
+
+Thèmes  
+
+Evaluation des incidences visuelles résiduelles pressenties 
+
+Voiries 
+
+Aire 
+d’étude 
+rapprochée 
+
+Habitations 
+
+Intervisibilités depuis la RD 560. Incidences FORTES. 
+Intervisibilités depuis la RD 70. Incidences FORTES. 
+Intervisibilités depuis le chemin dit d’Herboux et un chemin agricole à 
+l’ouest de la ZIP, ainsi que sur l’ancien chemin des Barjols. Incidences 
+MODEREES.  
+Quelques habitations de la commune de Saint-Maximin-la-Sainte-Baume 
+possèdent  des  intervisibilités  totale  avec  la  ZIP.  Incidences  TRES 
+FORTES. 
+Quelques habitations de la commune de Saint-Maximin-la-Sainte-Baume 
+et  des  habitations  des  lieu-dit  « Douze  Deniers »  et  « Regalette » 
+possèdent des intervisibilités partielles avec la ZIP. Incidences FORTES 
+à MODEREES. 
+
+Patrimoine  
+
+Aucun monument historique n’a été relevé. 
+
+Voiries 
+
+Aire 
+d’étude 
+étendue 
+
+Habitations 
+
+Patrimoine  
+
+Depuis  l’autoroute  A8,  les  incidences  d’intervisibilités  sont  évaluées 
+comme MODEREES. 
+Depuis la nationale DN 7, les incidences d’intervisibilités sont évaluées 
+comme FAIBLES. 
+Depuis  la  départementale RD  560,  les  incidences  d’intervisibilités  sont 
+évalués comme FAIBLES. 
+Depuis les habitations aux abords du bourg de Saint-Maximin-la-Sainte-
+Baume,  les  incidences  d’intervisibilités  sont  évalués  de  à  TRES 
+FAIBLES. 
+Depuis les lieux-dits de « Douze Deniers » « Régalette » et « l’Enclos » 
+les incidences d’intervisibilités sont évalués comme FAIBLES 
+Depuis  le  lieu-dit  de  «  St-Mitre  Madon  »,  « La  Courtoise »  et 
+« Barcelone » les incidences d’intervisibilités sont évalués comme TRES 
+FAIBLES. 
+Avec  Google  Street  View  dont  les  photos  datent  de  juillet  2022,  on 
+constate qu’au pied de chaque monument historique, dont la Basilique-
+Sainte-Marie-Madelaine, les éléments bâtis cachent toute perception en 
+direction de la ZIP. En revanche, la ZIP est potentiellement visible depuis 
+la partie haute de la Basilique mais qui n’est pas accessible au public. 
+Les 5 monuments historiques relevés au sein de l’aire d’étude étendue 
+ne présentent donc aucune covisibilité avec la ZIP depuis leur pied. Les 
+enjeux sont évalués comme NULS depuis leur pied. 
+
+PLANCHE 15. Synthèse des enjeux visuels pressentis 
+
+30Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A l’issue de la réalisation de la notice paysagère et urbanistique, il apparaît que les principaux enjeux et sensibilités sont les suivants : 
+
+5. CONCLUSION : LES ENJEUX ET SENSIBILITES DE L’AIRE D’ETUDE 
+
+Thèmes 
+
+Evaluation des enjeux 
+
+Commentaires 
+
+Situation administrative et urbanistique 
+
+PLU 
+
+Plan Climat Air Énergie Territorial 
+(PCAET) 
+
+Modéré 
+
+Faible 
+
+Le projet est compatible en l’état avec le PLU de la commune de Saint-Maximin-la-Sainte-Baume. Le projet de stockage d’énergie est d’intérêt collectif, 
+il permet de rendre plusieurs services au réseau électrique, et doit s'implanter à proximité immédiate du poste électrique RTE, ici situé à moins de 20 m 
+à l’est du présent projet.  
+
+Le projet de stockage d’énergie est en accord avec les ambitions et objectifs du PCAET de la Communauté d’Agglomération Provence Verte, à travers 
+la mise en œuvre et la promotion d’actions de maîtrise de l’énergie et le développement des énergies renouvelables. 
+
+Schéma de Cohérence Territoriale (SCoT) 
+
+Faible 
+
+Le projet de stockage d’énergie est en accord avec le SCOT Provence Verte Verdon. 
+
+Articulation avec le SDAGE Rhône-
+Méditerranée 
+
+Faible 
+
+La ZIP est concernée par le PDM du sous-bassin « Côtiers Côte D’azur ». 
+
+Articulation avec le SAGE  
+
+Nul 
+
+La ZIP n’est pas concernée par un SAGE.  
+
+Articulation avec le Schéma Régional 
+d’Aménagement, de Développement 
+Durable et d’Egalité des Territoires 
+(SRADDET) 
+
+Modéré 
+
+Paysage 
+
+Contexte paysager 
+
+Faible 
+
+Patrimoine culturel et archéologique  
+
+Faible 
+
+Sensibilités visuelles pressenties 
+
+Modéré à très fort selon les 
+secteurs  
+
+La règle LD1-OBJ19 B « Développer la production des énergies renouvelables et de récupération et des équipements de stockage afférents, en mettant 
+en  œuvre  des  mesures »  dont  notamment  « en  faveur  de  l’innovation […] en  soutenant  les  démonstrateurs,  en  particulier  pour  la 
+méthanisation/gazéification, l’hydrogène, le solaire à condensation, les réseaux intelligents et le stockage de l’énergie » est en totale adéquation avec 
+le présent projet de stockage d’énergie via batteries. 
+La zone d'implantation potentielle du projet s’inscrit en majorité sur des parcelles agricoles, recensées au Registre Parcellaire Graphique (RPG) 2021 
+comme orge d’hiver. Or, le SRADDET PACA vise à préserver et réduire la consommation de surfaces agricoles, forestières ou naturelles. 
+Le projet de stockage de batteries devra éviter au maximum les impacts sur les milieux et espèces menacées, et le porteur de projet devra s’engager à 
+justifier explicitement la mise en œuvre des dernières composantes de la séquence ERC (soit Réduire et/ou Compenser) si nécessaires. 
+Mesures prises par le porteur de projet : le projet est totalement réversible et une remise en état agricole de la parcelle a été intégrée 
+dans les engagements entre le maitre d’ouvrage et le propriétaire.  
+
+L’aire d’étude est incluse dans l’unité paysagère dénommée « La plaine de Saint-Maximin et Brignoles ».  
+Bien  que  plat,  un  léger  relief  apparait  sur  les  extrémités  est,  nord-ouest  et  sud-ouest  de  l’aire  d’étude  paysagère  étendue,  qui  concordent  avec  les 
+habitations.  
+Une grande partie de l’aire d’étude est occupée par une activité agricole, la vigne domine, surtout dans la partie nord, tandis que c’est plus diversifié 
+dans la partie sud, avec notamment de la culture de blé, d’autre luzerne ou encore des prairies. 
+Certains éléments du paysage favorisent l’ouverture ou la fermeture des perceptions visuelles au sein de l’aire d’étude. 
+
+Le monument historique le plus proche se situe à environ 1,4 km au sud de l’aire d’étude.  
+Le site inscrit le plus proche se localise à environ 14,1 km au nord-ouest de l’aire d’étude. 
+La zone d’étude n’inclut aucun site patrimonial remarquable. 
+La zone d’étude n’est concernée par aucune zone de présomption de prescription archéologique. 
+Les enjeux visuels pressentis sont variables allant de nuls  à très forts. Les principales visibilités vers le projet de stockage se dégagent depuis la RD 560,
+passant au pied de la ZIP, de la RD 70 et des habitations de la commune de Saint-Maximin-la-Sainte-Baume se trouvant dans l’aire d’étude paysagère 
+rapprochée.  Les 5 monuments historiques relevés au sein de l’aire d’étude étendue ne présentent aucune covisibilité avec la ZIP  depuis leur pied. Bien 
+qu’on aperçoive  la  Basilique-Sainte-Marie-Madelaine depuis la ZIP, à son pied, grâce à Google Street View on constate que  les éléments bâtis cachent 
+toute perception en direction de la  ZIP. En revanche, la ZIP est potentiellement visible depuis  la partie haute de la Basilique, cependant, cette partie  n’est 
+pas accessible au public.  Une vérification devra être faite via une visite de terrain, en allant au pied de la  Basilique en question.
+Mesure prise par le porteur de projet  afin de réduire l’impact visuel  :  mise en place  d’une haie végétale comme écran visuel  sur environ 
+580 mètres linéaires, soit sur la totalité de ll'enceinte clôturée du projet.
+
+31Projet destockage d'énergieCommune de Saint-Maximin-la-Sainte-Baume (83) - Notice paysagère et urbanistiqueEI 3647.2/ Août 2023                                                                                                                                                                                                                                                                                       
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

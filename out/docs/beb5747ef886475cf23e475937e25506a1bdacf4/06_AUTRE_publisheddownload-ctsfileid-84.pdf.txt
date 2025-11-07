@@ -1,0 +1,6385 @@
+PRO20220093 
+
+Document du 30/01/2023 
+
+ EXPERTISE l INGÉNIERIE l FAUNE l FLORE l MILIEUX NATURELS 
+
+2023 
+
+PROJET DE CONSTRUCTION D’UNE 
+CENTRALE PHOTOVOLTAÏQUE AU SOL 
+SUR LA COMMUNE D’ARTIGUES (83) 
+
+PRÉDIAGNOSTIC ÉCOLOGIQUE 
+
+ECODELTA 
+
+www.ecoter.fr 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FICHE DE RAPPORT 
+
+COORDONNÉES 
+
+Libellé mission 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Ar-
+tigues (83) 
+Prédiagnostic écologique 
+
+Maître d’ouvrage 
+
+ECODELTA 
+
+Maître d’œuvre ou assistance 
+
+- 
+
+Interlocuteur 
+
+Loïc DUBOUIS 
+
+Référence maître d’ouvrage 
+
+- 
+
+ECOTER 
+
+Coordonnées 
+
+Groupement 
+
+Référence devis 
+
+Chef de projet 
+
+Contrôle qualité 
+
+Référence dossier 
+
+ECOTER 
+9, rue Adrien Bertrand 
+26110 Nyons 
+Tel : 04 75 26 34 60 
+www.ecoter.fr 
+SARL au Capital de 25 000 € 
+510048366 RCS Romans 
+
+Mandataire :  
+ECOTER 
+Sous-traitant (s) :  
+- 
+
+DEVIS_20221216_O1_SC 
+
+Kévin QUEUILLE  
+
+Étienne IORIO 
+
+PRO20220093 
+
+Version 
+
+Document du 30/01/2023 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOMMAIRE 
+
+INTRODUCTION ..................................................................................................................................................................... 6 
+
+MÉTHODE GÉNÉRALE.......................................................................................................................................................... 8 
+I 
+INTERVENANTS ..................................................................................................................................................................................................... 9 
+II  SYNTHÈSE DE LA CONNAISSANCE .................................................................................................................................................................... 9 
+
+PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT ........................................................................................ 11 
+I 
+CONTEXTE GÉNÉRAL DU PROJET ................................................................................................................................................................... 12 
+II  DÉFINITION DES ZONES D’ÉTUDES ................................................................................................................................................................. 12 
+III  PÉRIMÈTRES DE PROTECTION ET D’INVENTAIRES POUR LE PATRIMOINE NATUREL ............................................................................ 15 
+IV  LA TRAME VERTE ET BLEUE RÉGIONALE ....................................................................................................................................................... 25 
+
+SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES ................................................................................... 27 
+PRÉAMBULE ........................................................................................................................................................................................................ 28 
+I 
+II 
+FLORE ................................................................................................................................................................................................................... 28 
+IV  FAUNE .................................................................................................................................................................................................................. 32 
+
+DIAGNOSTIC ILLUSTRE DE LA VISITE DE TERRAIN ...................................................................................................... 44 
+I 
+PRÉAMBULE ........................................................................................................................................................................................................ 45 
+II  REPORTAGE PHOTOGRAPHIQUE .................................................................................................................................................................... 47 
+
+CONCLUSION DU PRÉDIAGNOSTIC ÉCOLOGIQUE ........................................................................................................ 50 
+
+BIBLIOGRAPHIE .................................................................................................................................................................. 53 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INDEX DES CARTES 
+
+Localisation de la zone d’étude ............................................................................................................................................... 13 
+Carte 1. 
+Présentation de la zone d’étude .............................................................................................................................................. 14 
+Carte 2. 
+Localisation des périmètres de protection contractuelle ......................................................................................................... 16 
+Carte 3. 
+Localisation des périmètres de protection par la maîtrise foncière ......................................................................................... 18 
+Carte 4. 
+Localisation des périmètres d’inventaires ............................................................................................................................... 20 
+Carte 5. 
+Localisation des autres zonages du patrimoine naturel .......................................................................................................... 22 
+Carte 6. 
+Localisation des zones humides officielles .............................................................................................................................. 24 
+Carte 7. 
+Situation de la zone d’étude au sein de la Trame Verte et Bleue régional .............................................................................. 26 
+Carte 8. 
+Carte 9. 
+Physionomie simplifiée des habitats naturels de la zone d’étude immédiate .......................................................................... 46 
+Carte 10.  Évaluation préliminaire de l’intérêt écologique de la zone d’étude .......................................................................................... 52 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+INTRODUCTION 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+6 
+
+  
+ 
+ 
+ 
+ 
+ 
+ INTRODUCTION 
+
+INTRODUCTION 
+
+La société ECODELTA développe un projet de construction de centrale photovoltaïque au sol sur la commune d’Artigues (83). 
+
+Ce type de projet est notamment soumis à étude d’impact. C’est dans ce cadre qu’ECODELTA a missionné le bureau d’études ECOTER 
+« Écologie et Territoires » afin de réaliser l’évaluation des impacts sur les volets « Faune, Flore et Milieux naturels ».  
+
+Cette évaluation est construite en 6 temps :  
+
+▪  Établissement d’un pré-diagnostic révélant l’état de la connaissance sur les milieux naturels ; 
+▪  Réalisation d’expertises naturalistes afin de compléter et mettre à jour cette connaissance et – plus globalement – afin de disposer 
+
+d’un diagnostic complet sur la zone de projet et ses abords ; 
+
+▪  Formalisation du diagnostic écologique et hiérarchisation des enjeux ; 
+▪  Étude des impacts des différentes variantes envisagées sur les milieux naturels ; 
+▪  Étude des impacts du projet retenu sur les milieux naturels et en particulier les enjeux ayant une portée réglementaire ; 
+▪  Proposition de mesures adaptées afin de supprimer, réduire et compenser les impacts du projet sur les milieux naturels et les es-
+
+pèces protégées, puis établissement d’une liste complémentaire de mesures d’accompagnement.  
+
+Cette progression est conforme aux attendus réglementaires et en particulier au respect de la séquence ERCA « Éviter, Réduire, Com-
+penser, Accompagner ». 
+
+Ce document s’inscrit dans la première étape du projet (analyse de l’état initial) et correspond au pré-diagnostic.  
+
+Son objectif est de dresser un premier état des lieux des sensibilités écologiques de la zone d’étude d’un point de vue des milieux 
+naturels, de la faune et de la flore sans présager du projet (analyse des caractéristiques intrinsèques de la zone d’étude). Il permet de 
+prévenir au plus tôt le maître d’ouvrage en cas de forte contrainte. Il a également l’intérêt d’orienter au mieux les recherches des experts 
+sur le terrain, notamment en cas de forte potentialité d’espèces protégées, d’espèces remarquables, etc. 
+
+Cette analyse se base sur le travail de terrain d’un expert écologue qui est intervenu 12 journées sur une zone élargie englobant la 
+présente zone d’étude. Cette visite a consisté à :  
+
+▪  Prendre connaissance du site, 
+▪  Établir une pré-cartographie des milieux, 
+▪  Identifier les principaux enjeux par secteurs, 
+▪  Pré-cartographier ces enjeux (vision écologique globale). 
+
+REMARQUE IMPORTANTE 
+
+Ce document ne constitue en aucun cas un état initial complet, mais permet une première approche des enjeux écologiques 
+présents et/ou pressentis de la zone d’étude. 
+
+Aperçu des habitats de type pelouses situés dans la zone d’étude – ECOTER 2023 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+7 
+
+ 
+ 
+ 
+MÉTHODE 
+GÉNÉRALE 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+8 
+
+  
+ 
+ 
+ 
+ 
+ 
+ MÉTHODE GÉNÉRALE 
+
+INTERVENANTS 
+
+I  
+Le tableau suivant présente les personnes intervenues pour cette étude : 
+
+Intervenants 
+
+Structures 
+
+Objet de l’intervention 
+
+LISTE DES INTERVENANTS 
+
+Kévin QUEUILLE 
+
+Océane VELLOT 
+
+Étienne IORIO 
+
+ECOTER 
+
+ECOTER 
+
+ECOTER 
+
+Chef de projet de la mission, expertises naturalistes, 
+rédaction du rapport 
+
+Rédaction du rapport, cartographies 
+
+Contrôle qualité, méthodes et suivi de la mission  
+
+II   SYNTHÈSE DE LA CONNAISSANCE 
+L’étape de pré-diagnostic a permis de récolter les données naturalistes existantes et disponibles. Ces données ne sont pas exhaustives, 
+par manque de prospection sur le secteur précis du projet ou manque de diffusion de l’information. Elles ne reflètent donc pas la réalité 
+mais constituent un état de connaissance au moment de la réalisation de ce dossier. 
+
+Le pré-diagnostic a permis d’appréhender les premiers enjeux du site et permettra dans un second temps d’orienter les efforts de 
+recherche lors des inventaires. L’élaboration du pré-diagnostic s’est déroulée en trois étapes : 
+
+ÉTAPE 1 : Recherche des différents statuts de protection et/ou d’inventaires sur et à proximité de la zone d’étude 
+
+Pour cela les données cartographiques disponibles sur le site de la  Direction régionale de l’environnement, de l’aménagement et du 
+logement de la région PACA (http://carmen.developpement-durable.gouv.fr) ainsi que la zone d’implantation du projet ont été projetées 
+sous Système d’Information Géographique (SIG - QGIS). Les fiches descriptives ainsi que, dans la mesure du possible, les autres docu-
+ments de ces zonages ont été consultés (documents d’objectifs, plans de gestion, etc.). Ce dossier fait la présentation synthétique de 
+ces différents zonages. 
+
+ÉTAPE 3 : Visite de terrain 
+
+Cette première visite de terrain (réalisée pendant 12 jours en août, septembre et octobre 2022 sur une zone d’étude élargie englobant la 
+présente zone d’étude) complète les données recueillies par l’analyse bibliographique et les consultations. Elle permet d’évaluer la qualité 
+des différents types de milieux du territoire concernés par le projet. 
+
+Un travail de recherche et d’analyse de la bibliographie a été réalisé en parallèle de toutes les phases précitées. Il a eu pour objet de 
+compléter l’art des connaissances (géographiques et naturalistes) à l’échelle de la zone d’étude mais aussi de son périmètre proche à 
+éloigné. Pour ce faire, différents documents ont été exploités (atlas, monographies, rapports d’études, thèses, articles scientifiques et 
+techniques, etc.) et divers sites Internet consultés.  
+
+La synthèse de l’ensemble des données permet une première définition des enjeux potentiels au droit de la zone d’étude et 
+assure ainsi une bonne prise en compte des enjeux très en amont, ainsi qu’une orientation des écologues dans leurs pros-
+pections de terrain pour une expertise plus efficace. 
+
+ÉTAPE 4 : Définition des enjeux pressentis 
+
+Les espèces pressenties dans la zone d’étude sont classés selon leur niveau d’enjeu. Par enjeu, nous entendons les espèces ou 
+habitats sur lesquels sera mise la priorité de conservation, quand bien même le projet ne porterait pas atteinte à cet enjeu. Il s’agit 
+donc à cette étape de se détacher du projet. Les risques liés aux impacts du projet étant détaillés en seconde partie lors de l’évaluation 
+des impacts et ne sont pas intégrés dans l’évaluation des enjeux des espèces dans la zone d’étude. 
+
+Cet enjeu pour la zone d’étude est défini sur la base de trois paramètres : l’intérêt patrimonial, l’enjeu local de conservation et l’utilisation 
+de la zone d’étude. 
+
+◼ 
+
+L’intérêt patrimonial 
+
+L’évaluation du degré de patrimonialité précise l'importance reconnue d'une espèce d'une manière globale. Elle est faite à partir des 
+données disponibles dans la littérature et sur avis d’expert. Elle correspond à une analyse polythétique où sont pris en compte : 
+
+▪ 
+▪ 
+
+Le statut de protection réglementaire (protections départementales, régionales et nationales) ; 
+Le  statut  Natura  2000  des  habitats  naturels  et  des  espèces  considérées  (espèces  inscrites  à  l’Annexe  I  de  la  Directive 
+« Oiseaux » et aux Annexes II et IV de la Directive « Habitats, Faune, Flore », et habitats inscrits à l’Annexe I de la Directive 
+« Habitats, Faune, Flore ») ; 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+9 
+
+ 
+ 
+ 
+ MÉTHODE GÉNÉRALE 
+
+▪ 
+▪ 
+▪ 
+▪ 
+▪ 
+
+Le statut ZNIEFF des habitats naturels et des espèces dans la région considérée ; 
+L’existence de Listes rouges européennes, nationales et régionales ; 
+La fréquence d’occurrence : « rareté » de l’espèce ; 
+L’endémisme ; 
+La rareté de l’habitat à l’échelle : locale, de la petite région naturelle, du département et de la région, du territoire national, de 
+l’Europe. 
+
+◼ 
+
+L’Enjeu Local de Conservation 
+
+Il précise l'état de conservation d'une espèce au niveau local (à l'échelle de la région ou lorsque c'est possible du département ou 
+encore d'une zone biogéographique ou d’une petite région naturelle). Il est défini à dire d’expert et résulte de la comparaison et de la 
+mise en perspective au sein d’un tableau ou d’une matrice de croisement : 
+
+▪  De la valeur patrimoniale des habitats naturels ou des espèces considérées aux échelles locale et globale ; 
+▪  Des risques et menaces qui pèsent sur ceux-ci, également aux échelles locale et globale. 
+
+L’enjeu local de conservation est ensuite affiné par l’expert en intégrant des notions de dynamique de population, de synécologie et 
+d’autoécologie. 
+
+Selon la probabilité de présence, l’écologie des espèces potentielles à enjeu et le niveau de cet enjeu (basé sur l'analyse précédente), 
+l'expert va hiérarchiser les enjeux potentiels sur les habitats simplifiés qui seront définis à l’échelle de la zone d'étude immédiate.  
+
+Cinq classes d’espèces potentielles à enjeu sont ainsi déterminées : 
+
+CLASSES D’ENJEUX* 
+
+Niveau d’enjeux 
+
+Majeur 
+
+Fort 
+
+Modéré 
+
+Faible 
+
+Très faible 
+
+Définition de la classe 
+
+Présence potentielle 
+d'au moins une espèce à 
+enjeu majeur dans la 
+zone d’étude, pouvant 
+réaliser tout ou partie de 
+son cycle sur ce secteur. 
+
+Présence potentielle 
+d'au moins d'une espèce 
+à enjeu fort dans la zone 
+d’étude, pouvant réaliser 
+tout ou partie de son 
+cycle sur ce secteur 
+
+Présence potentielle 
+d'au moins une espèce à 
+niveau d'enjeu modéré 
+dans la zone d’étude, 
+pouvant réaliser tout ou 
+partie de son cycle sur 
+ce secteur. 
+
+Présence potentielle 
+d'au moins une espèce à 
+niveau d'enjeu faible 
+dans la zone d’étude, 
+pouvant réaliser tout ou 
+partie de son cycle sur 
+ce secteur. 
+
+Cortège supposé 
+d’espèces banales sur le 
+secteur concerné. 
+
+*À l’issue du futur diagnostic complet qui sera réalisé à la bonne période du calendrier écologique des groupes étudiés, il est possible que des éléments tels qu’une diversité 
+notable (= richesse spécifique (très) élevée pour le secteur géographique considéré) entrent aussi en compte dans la hiérarchisation d’un enjeu dédié pour les habitats 
+présents. Cette notion est cependant très difficile à prévoir et n’est donc pas envisagée lors du pré-diagnostic. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRÉSENTATION 
+DU PROJET 
+ET DE SON 
+ENVIRONNEMENT 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+11 
+
+  
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+I   CONTEXTE GÉNÉRAL DU PROJET 
+
+I.1   LOCALISATION DU PROJET 
+
+La zone d’étude se situe sur la commune d’Artigues dans le département du Var (83) en région Provence-Alpes-Côte d’Azur. Elle se situe 
+au sein de la petite région naturelle du « Centre Var pays Brignolais » (source : IRSTEA). 
+
+I.2   CONTEXTE ÉCOLOGIQUE GÉNÉRAL 
+
+Le territoire dans lequel s’inscrit le projet est un massif typique de l’arrière-pays méditerranéen. Il est caractérisé par la dominance de 
+boisements thermophiles de chênes verts et pubescents, en alternance avec de vastes zones de pelouses à Brachypode et garrigues, 
+plus ou moins en cours de fermeture. 
+
+I.3   À PROPOS DU PROJET 
+
+Le projet consiste à construire une centrale photovoltaïque au sol sur la commune d’Artigues (83). 
+
+Le projet sera détaillé à l’étape de l’évaluation des impacts. 
+
+II   DÉFINITION DES ZONES D’ÉTUDES 
+
+Zone d’étude immédiate 
+
+La zone d’étude immédiate a été établie en fonction des données transmises par le maître d’ouvrage, afin d’être en capacité d’analyser 
+les impacts directs et indirects sur la zone de projet et aux abords. Ce zonage a fait l’objet d’échanges et d’une validation avec le maître 
+d’ouvrage afin de s’assurer que l’ensemble des opérations liées à l’aménagement soient bien intégrées à ladite zone d’étude. Elle repré-
+sente une superficie de 90 ha. 
+
+Zone d’étude rapprochée 
+
+Dans  le  cadre  de  cette  étude,  la  zone  d’étude  rapprochée  correspond  à  un  périmètre  de  150 mètres  autour  de  la  zone  d’étude 
+immédiate. Elle répond à l’objectif de délimiter un espace supplémentaire au sein duquel des expertises complémentaires peuvent 
+être effectuées en cas de besoin : recherches complémentaires d’espèces protégées/patrimoniales observées au sein de la zone d’étude 
+immédiate afin de relativiser les observations effectuées sur la zone d’étude immédiate, etc. 
+
+Zone d’étude éloignée 
+
+Dans le cadre de cette étude, la zone d’étude éloignée correspond à un périmètre de 5 kilomètres autour de la zone d’étude immé-
+diate. Il correspond essentiellement à l’échelle d’analyse sur carte des enjeux fonctionnels et éventuellement à quelques échantillon-
+nages possibles en fonction des enjeux naturalistes identifiés par l’étude de la bibliographie et la consultation de personnes ressources 
+(cas d’une colonie de chiroptères par exemple). Les  interventions de terrain dans ce périmètre se font sur avis d’expert d’ECOTER, 
+encore une fois afin de mieux cerner le contexte du projet et d’en relativiser les observations. 
+
+Les zones d’étude sont cartographiées ci-après. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+12 
+
+ 
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+Carte 1.  Localisation de la zone d’étude   
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+13 
+
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+Carte 2.  Présentation de la zone d’étude 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+14 
+
+ 
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+III   PÉRIMÈTRES DE PROTECTION ET D’INVENTAIRES POUR LE 
+
+PATRIMOINE NATUREL 
+
+Le législateur a élaboré plusieurs outils de connaissance et de protection de l’environnement dont les périmètres réglementaires et d’in-
+ventaires qui sont exposés dans le Code de l’Environnement ou dans le Code de l’Urbanisme. La désignation de ces périmètres s’appuie 
+généralement sur la présence d’espèces ou d’habitats remarquables voire de certaines fonctions écologiques sensibles. 
+
+Parmi ces inventaires et classements, on identifie sur et à proximité du projet : 
+
+III.1   LES PÉRIMÈTRES DE PROTECTION 
+
+III.1.1   Protection réglementaire 
+
+Aucun périmètre de protection réglementaire n’est situé dans ou à proximité de la zone d’étude. 
+
+III.1.2   Protection contractuelle 
+
+Les périmètres de protection contractuelle recensés sur et aux environs du projet sont les suivants : 
+
+▪  NATURA 2000 // Zone Spéciale de Conservation (ZSC) : Créé en application de la directive européenne « Habitats-Faune-
+Flore » de 1992. Les habitats naturels et les espèces inscrits à cette directive permettent la désignation d’une ZSC intégré au 
+réseau européen Natura 2000. Ce réseau de sites qui s’étend sur toute l’Europe vise une politique cohérente de préservation 
+des espèces et des habitats naturels listés comme d’intérêt communautaire.  
+
+▪  NATURA 2000 // Zone de Protection Spéciale (ZPS) : Créée en application de la directive européenne « Oiseaux » de 1979 
+abrogée par la directive européenne « Oiseaux » de 2009. La présence d’oiseaux listés en annexe I de cette directive permet 
+la désignation en ZPS. Les ZPS font partie, avec les Zones Spéciales de Conservation (ZSC), du réseau européen Natura 
+2000. Ce réseau de sites qui s’étend sur toute l’Europe vise une politique cohérente de préservation des espèces et des habitats 
+naturels listés comme d’intérêt communautaire. 
+
+Le tableau ci-après présente ces périmètres : 
+
+PÉRIMÈTRES DE PROTECTION CONTRACTUELLE 
+
+Type 
+
+Numéro 
+Libellé 
+
+ZSC 
+
+N°FR9301605 
+Montagne 
+Sainte Victoire 
+
+ZPS 
+
+N°FR9310067 
+Montagne 
+Sainte Victoire 
+
+Commentaires 
+
+La  montagne  de  la  Sainte-Victoire  regroupe  une  végétation  mésoméditerranéenne 
+(groupements de falaises et d'éboulis) et des groupements euroméditerranéens (landes à 
+Genêt de Lobel). La flore, d'affinité orophile, présente des éléments rares pour la France. 
+Les  zones  karstiques,  les  milieux  ouverts  et  les  vieilles  forêts  constituent  un  complexe 
+d'habitats favorables aux chiroptères. Un vaste territoire forestier continu permet la prise en 
+compte d'une entité fonctionnelle du plus grand intérêt. 
+
+Divers types de milieux sont représentés sur la Montagne de la Sainte-Victoire : falaises et 
+barres rocheuses, éboulis, crêtes dénudées, forêts de feuillus et de conifères, garrigues, 
+petites plaines agricoles, plan d'eau. La mosaïque créée par ces différents milieux offre des 
+conditions très propices à l'avifaune méditerranéenne. Le site est ainsi fréquenté par près 
+de  150  espèces  d'oiseaux  dont  une  vingtaine  d'espèces  présentent  un 
+intérêt 
+communautaire. Il accueille notamment plusieurs espèces de grands  rapaces, telles que 
+l'Aigle de Bonelli (2 couples nicheurs) et l'Aigle royal (1 couple nicheur), nichant dans les 
+falaises et prospectant les vastes espaces alentour en quête de proies. Les secteurs très 
+ouverts,  notamment  les  pelouses  sommitales et  les  flancs  rocheux,  accueillent  diverses 
+espèces  patrimoniales  de  passereaux  :  Bruant  ortolan,  Pipit  rousseline,  Alouette  lulu, 
+Traquet oreillard, etc. 
+
+La carte suivante localise ces périmètres. 
+
+Distance 
+minimale et 
+situation par 
+rapport à la zone 
+d’étude 
+immédiate 
+
+Une partie dans 
+la ZE immédiate 
+
+Surface totale / 
+Surface concernée 
+par la zone d’étude 
+immédiate 
+
+32 759 ha 
+- 
+3,1 ha 
+
+Une partie dans 
+la ZE immédiate 
+
+15 459 ha 
+- 
+3,1 ha 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+15 
+
+ 
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+Carte 3.  Localisation des périmètres de protection contractuelle  
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+III.1.3   Protection par la maîtrise foncière 
+
+Les périmètres de protection par la maîtrise foncière recensés sur et aux environs du projet sont les suivants : 
+
+▪  Espace Naturel Sensible (ENS) : Établi à l'initiative des départements, il a pour objectif de préserver la qualité de sites, des 
+paysages, des milieux naturels et des champs d'expansion des crues et d'assurer la sauvegarde des habitats naturels. Ils ont 
+également pour vocation d'être aménagés pour être ouverts au public, sauf exception justifiée par la fragilité du milieu naturel. 
+▪  Mesures compensatoires prescrites des atteintes à la biodiversité : Une mesure compensatoire d’atteinte à la biodiversité 
+n'intervient que sur l'impact résiduel d'un projet d'aménagement, lorsque toutes les mesures envisageables ont été mises en 
+œuvre pour éviter puis réduire les impacts négatifs sur la biodiversité. Elle vise à offrir une contrepartie positive à un impact 
+dommageable non réductible provoqué par un projet, de façon à maintenir la biodiversité dans un état équivalent ou meilleur à 
+celui observé avant sa réalisation. À savoir : seules les mesures compensatoires à visée environnementale (au sens du L.122-
+1 -III du code de l’environnement) sont représentées (par exemple, la compensation agricole collective ou la compensation 
+forestière ne sont pas concernées). Les mesures cartographiées sont celles prescrites dans un acte administratif, comme prévu 
+par l’article L.163-5 du code de l’environnement et relatif à des projets. La surface des mesures qui fait foi est celle décrite dans 
+l’acte administratif. Cette cartographie est non exhaustive. 
+
+PÉRIMÈTRES DE PROTECTION PAR LA MAITRISE FONCIÈRE 
+
+Type 
+
+Numéro 
+Libellé 
+
+Commentaires 
+
+Distance 
+minimale et 
+situation par 
+rapport à la zone 
+d’étude 
+immédiate 
+
+Surface totale / 
+Surface concernée 
+par la zone d’étude 
+immédiate 
+
+Espace Naturel 
+Sensible 
+
+« Le Gascon » 
+
+Mesures 
+compensatoires 
+prescrites des 
+atteintes de 
+biodiversité 
+
+N°3821 
+Projet Parc 
+éolien Les 
+Pallières 
+
+Les  Espaces  Naturels  Sensibles,  dits  ENS,  sont  des  sites  situés  en  milieux 
+littoraux, humides ou forestiers, remarquables par leur diversité biologique. Ils 
+sont, par nature, fragiles, rares ou menacés. Nés de la volonté de freiner l’expansion 
+urbaine sur l’ensemble du département, ils sont à disposition du public, dans un souci 
+de partage, excepté en cas d’extrême fragilité. 
+Ils sont gérés par le Département en fonction de cette fragilité. Des aménagements 
+appropriés valorisent ainsi leurs richesses et évitent une sur-fréquentation néfaste sur 
+les milieux 
+
+4 600 m au sud-
+est 
+
+Compensation en vue du projet du parc éolien Les Pallières avec dérogation 
+d’espèces 
+
+2 100 m à l’est 
+
+104,11 ha 
+- 
+0 ha 
+
+18,43 ha 
+- 
+0 ha 
+
+La carte suivante localise ces périmètres. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+17 
+
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+Carte 4.  Localisation des périmètres de protection par la maîtrise foncière  
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+18 
+
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+III.1.4   Protection au titre de conventions 
+
+Aucun périmètre de protection au titre de conventions n’est situé dans ou à proximité de la zone d’étude. 
+
+III.2   LES PÉRIMÈTRES D’INVENTAIRES 
+
+Le projet se situe sur ou aux environs des périmètres d’inventaires suivants, détaillés dans le tableau ci-après et localisés sur la carte 
+page suivante : 
+
+▪ 
+
+Zone  naturelle  d’intérêt  écologique,  faunistique  et  floristique  (ZNIEFF) :  Il  s’agit  d’un  inventaire  du  patrimoine  naturel, 
+n’impliquant pas de statut de protection. Les ZNIEFF permettent cependant d’attester de la valeur écologique d’un territoire, et 
+portent un objectif de connaissance scientifique. Elles sont de deux types : 
+-  Les ZNIEFF de type II couvrent de grandes surfaces au fonctionnement écologique préservé ; 
+-  Les ZNIEFF de type I présentent des surfaces plus limitées mais sont caractérisées par la présence d’espèces ou d’habitats 
+
+remarquables.  
+
+La carte « Périmètres d’inventaire du patrimoine naturel » donnée aux pages suivantes, localise ces différents périmètres par rapport à 
+la zone d’étude immédiate. Le tableau ci-après présente uniquement les périmètres d’inventaire du patrimoine naturel situés à proxi-
+mité de la zone d’étude immédiate. 
+
+PÉRIMÈTRES D’INVENTAIRES DU PATRIMOINE NATUREL 
+
+Type 
+
+Numéro 
+Libellé 
+
+Commentaires 
+
+Le  massif  est  caractérisé  par  son  relief  doux,  entaillé  de  vallons  peu  profonds  mais 
+encaissés. Les étendues de pelouses à Stipa donnent, au moment de leur floraison, un 
+caractère bien particulier à ce territoire. Les bois sont à dominante de Chênes blancs, avec 
+néanmoins quelques zones à Pin pignon. 
+Le site présente une formation à Genêts de Provence, intermédiaire entre celle méridionale 
+à Genêt de Lobel et celle qui la relaie vers le nord, à Genêt de Villars. Dans les vallons 
+encaissés, les escarpements bien exposés permettent l'expression d'une flore thermophile 
+comme la Doradille de Pétrarque qui abrite la Linaire à feuilles de Pâquerette (Anarrhinum 
+laxiflorum) et le Cléistogène tardif (Kengia serotina). Ces mêmes vallons permettent, dans 
+leurs  fonds,  le  développement  d'une  flore  plus  froide,  avec  la  Violette  de  Jordan  (Viola 
+jordanii)  ou  la  Gagée des  Prés  (Gagea pratensis).  La présence  de  calcaire  dolomitique 
+explique l'existence fréquente de sable parmi les débris rocheux de surface. Ces sables 
+permettent le développement localement d'une pinède de type méridional à Pin pignon, ainsi 
+que d'éléments de pelouses à Crépis de Suffren. Les grandes pelouses ondoyantes à Stipa 
+sont les dernières expressions vers le sud, à la rencontre du monde méditerranéen, des 
+formations steppiques duranciennes (Stipo Poion carniolicae).  
+Le massif de la Gardiole présente un intérêt faunistique assez marqué avec 14 espèces 
+animales patrimoniales présentes dont 5 espèces déterminantes, en particulier part 
+un cortège intéressant d’oiseaux et d’insectes. 
+
+Le site porte sur une chaine de collines parcourues par une crête orientée est ouest. Il est 
+quasi entièrement boisé, en particulier par le chêne pubescent, le chêne vert et le pin d'Alep. 
+Des garrigues et de petites barres rocheuses s'y rencontrent surtout en crête. D'anciennes 
+terrasses cultivées sont présentes en particulier  dans  les vallons.  La montagne est  peu 
+connue pour sa flore mais présente quelques espèces intéressantes comme la Fraxinelle 
+(Dictamnus  albus)  ou  le  Tabouret  précoce  (Noccaea  praecox).  Concernant  la  faune, 
+6 espèces sont patrimoniales dont 4 déterminantes : avifaune telle que l’Aigle de Bonelli 
+(Aquila  fasciata)  ou  le  Rollier  d’Europe  (Coracias  garrulus)  ou  entomofaune  comme  le 
+Criquet hérisson (Prionotropis hystrix azami) ou la Diane (Zerynthia polyxena). 
+
+N°930012468 
+Massif de la 
+Gardiole 
+
+ZNIEFF II 
+
+N°930012470 
+Montagne 
+d’Artigues 
+
+La carte suivante localise ces périmètres d’inventaires du patrimoine naturel. 
+
+Distance 
+minimale et 
+situation par 
+rapport à la zone 
+d’étude 
+immédiate 
+
+Surface totale / 
+Surface concernée 
+par la zone d’étude 
+immédiate 
+
+4 100 m à l’ouest 
+
+3587,8 ha 
+- 
+0 ha 
+
+2 500 m au nord 
+
+980,5 ha 
+- 
+0 ha 
+
+La zone d’étude immédiate n’est pas concernée directement par un quelconque périmètre d’inventaire. Toutefois, elle est entourée de 
+plusieurs périmètres d’inventaires qui témoignent de la richesse écologique du secteur. Ainsi, le secteur d’étude est susceptible d’ac-
+cueillir plusieurs espèces protégées et/ou d’intérêt patrimonial. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+Carte 5.  Localisation des périmètres d’inventaires 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+20 
+
+ 
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+III.3   AUTRES ZONAGES DU PATRIMOINE NATUREL 
+
+La zone d’étude est concernée par un autre zonage soulignant la richesse écologique du secteur : 
+
+▪  Plans  nationaux  d’action  en  faveur  des  espèces  menacées  et  leur  déclinaison  régionale  (PNA/PRA)  :  Il  s’agit  de 
+documents  d'orientation  non  opposables  visant  à  définir  les  actions  nécessaires  à  la  conservation  et  à  la  restauration  des 
+espèces les plus menacées afin de s'assurer de leur bon état de conservation. Ils répondent ainsi aux exigences des directives 
+européennes dites « Oiseaux » (79/409/CEE du 2 avril 1979) et « Habitat, Faune, Flore » (92/43/CE du 21 mai 1992) qui 
+engagent au maintien et/ou à la restauration des espèces d'intérêt communautaire dans un bon état de conservation. 
+
+Le tableau ci-après présente les autres zonages du patrimoine naturel présents dans un rayon proche du projet : 
+
+AUTRES ZONANGES DU PATRIMOINE NATUREL 
+
+Type 
+
+Numéro 
+Libellé 
+
+Commentaires 
+
+Distance minimale et situation par 
+rapport à la zone d’étude immédiate 
+
+PNA 
+
+Plan National 
+d’Action pour 
+l’Aigle de Bonelli  
+Domaine vital 
+« Est-Bouches-du-
+Rhône » 
+
+Plan National 
+d’Action en faveur 
+du Lézard ocellé 
+2020-2029 
+
+La zone d’étude appartient à l’un des domaines vitaux de l’Aigle de Bonelli cartographiés 
+dans le PNA. Ce rapace est présent en France uniquement dans le domaine méditerranéen, 
+et classé en danger d’extinction sur la liste rouge des espèces menacées de France (UICN 
+2008). Ses populations ont fortement décliné au cours de la 2nde moitié du XXe siècle, et 
+sont aujourd’hui stabilisées autour d’une trentaine de couples en Languedoc-Roussillon, 
+PACA et Rhône-Alpes. 
+Le Lézard ocellé Timon lepidus (Daudin, 1802) est le plus grand lézard de France. Il vit dans 
+des milieux secs de type méditerranéen ouverts (type steppique, garrigues, maquis ouverts, 
+vergers…)  pourvus  d’abris  en  réseaux  (rochers,  blocs,  terriers  de  lapins,  fissures).  La 
+répartition mondiale du Lézard ocellé concerne seulement quatre pays : Portugal, Espagne, 
+Italie et la France.  
+En France, l’espèce a subi un déclin généralisé et de nombreuses populations ont 
+disparu. Elle a été évaluée comme « vulnérable » sur la liste rouge des reptiles de France 
+métropolitaine (2015). À la suite du premier PNA (2012-2016), une meilleure connaissance 
+de l’espèce est maintenant disponible. Le deuxième PNA vise à optimiser les mesures en 
+faveur de la conservation de l’espèce sous l’égide de la DREAL Nouvelle-Aquitaine. 
+
+3 900m à l’ouest 
+
+0 m 
+- 
+La ZE complète entre dans son aire 
+de répartition. Toutefois sa 
+probabilité de présence est variable 
+selon les secteurs (peu probable à 
+hautement probable) 
+
+La carte suivante localise ces autres périmètres de protection du patrimoine naturel. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+21 
+
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+Carte 6.  Localisation des autres zonages du patrimoine naturel 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+22 
+
+ 
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+III.4   LES ZONES HUMIDES OFFICIELLES 
+
+La Loi sur l'eau du 3 janvier 1992 (codifiée à l'article L211-1 du Code de l'environnement) définit les zones humides comme : "terrains 
+exploités ou non, habituellement inondés ou gorgés d'eau douce, salée ou saumâtre de façon permanente ou temporaire ; la végétation, 
+quand elle existe, y est dominée par des plantes hygrophiles pendant au moins une partie de l'année".  L'objectif de cette loi est la 
+gestion équilibrée de la ressource en eau. 
+
+En réponse à cette loi, le SDAGE Rhône-Méditerranée propose plusieurs solutions : la reconnaissance réglementaire des zones humides, 
+leur restauration, leur gestion, leur surveillance, etc. Dans la pratique, leur détermination (aussi appelée "cartographie" en termes de 
+rendu) est effectuée localement à l'échelle du bassin, de la Région, voire du Département sous maîtrise d'ouvrage de l'Agence, de la 
+DREAL ou d'une collectivité départementale, etc. Leurs fournisseurs et leurs descriptions peuvent donc être diverses. 
+
+Aucune zone humide officielle définie par le Conservatoire des espaces Naturels de Provence-Alpes-Côte-d’Azur (CEN PACA) 
+n’est présente à proximité de la zone d’étude. La zone humide la plus proche se situe à presque 5 km au sud.  
+
+En revanche, trois tronçons de rivières sont observables autour des 5 km de la zone d’étude : le Vallon de Font Taillade à 2 900 m à l’est 
+et La Garène à 3500 m et le Vallat d’Ollières à 4 500 m au sud.   
+
+ZONES HUMIDES OFFICIELLES 
+
+Type 
+
+Numéro 
+Libellé 
+
+Commentaires 
+
+Zones 
+humides 
+
+N°83DPTVAR0052 
+Mare temporaire 
+des Tourettes 
+
+Zones humides ponctuelles 
+
+Distance 
+minimale et 
+situation par 
+rapport à la zone 
+d’étude 
+immédiate 
+
+4 900 m au sud 
+
+Surface totale / 
+Surface concernée 
+par la zone d’étude 
+immédiate 
+
+0,36 ha 
+- 
+0 ha 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+Carte 7.  Localisation des zones humides officielles 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+24 
+
+ 
+ 
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+IV   LA TRAME VERTE ET BLEUE RÉGIONALE 
+Le Schéma de Cohérence Écologique (SRCE) identifie les composantes des Trames Vertes et Bleues (TVB), ainsi que les enjeux régio-
+naux de préservation et restauration des continuités écologiques. 
+
+Il définit les priorités régionales à travers un plan d’actions stratégiques et propose les outils pour sa mise en œuvre. Son application doit 
+permettre d’enrayer la perte de biodiversité tout en prenant en compte les activités humaines et économiques. 
+
+On observe, selon le SRCE PACA, que la zone d’étude immédiate s’inscrit en totalité dans un contexte naturel de Réservoir de Bio-
+diversité à préserver. 
+
+La présence d’une ligne électrique à haute tension passant au-dessus de la zone est à prendre en compte et engendre un obstacle.  
+
+Aucune entité de la Trame bleue n’est identifiée sur la zone d’étude. On remarque plusieurs entités de la Trame bleue considérées 
+comme des plans d’eau à préserver au nord et au sud.  
+
+Des secteurs artificialisés sont aussi présents aux extrémités de la zone éloignée, dont 2 possèdent chacun une zone de corridor proche 
+et à préserver. Au-delà de la trame bleue, on observe également plusieurs cours d’eau avec un espace de fonctionnalité dédié.  
+
+Le futur projet devra  prendre en compte ces objectifs identifiés dans le SRCE, et ainsi  préserver les continuités écologiques 
+existantes. A l’échelle de la zone d’étude, les contraintes liées à la Trame verte peuvent être qualifiées d’importantes. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+25 
+
+ 
+ 
+ PRÉSENTATION DU PROJET ET DE SON ENVIRONNEMENT 
+
+Carte 8.  Situation de la zone d’étude au sein de la Trame Verte et Bleue régional
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+26 
+
+ 
+ 
+SYNTHESE DES 
+ÉLÉMENTS 
+RECUEILLIS 
+AVANT-
+EXPERTISES 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+27 
+
+  
+ 
+ 
+ 
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+I   PRÉAMBULE 
+L’ensemble des consultations réalisées et la visite de terrain ont permis de dresser une première liste des espèces pouvant présenter 
+un enjeu écologique pour ce projet. 
+
+Ci-après est présentée la liste des espèces à enjeux connues à proximité de la zone d’étude (sources : fiches ZNIEFF, SIC/ZSC, 
+bases de données naturalistes consultables sur Internet, études disponibles, etc.) ou potentielles à dires d’experts en l’absence de 
+données. Pour chacune, un avis indique si l’espèce mentionnée est susceptible de se retrouver dans la zone d’étude immédiate.  
+
+II   FLORE 
+
+II.1   ESPÈCES POTENTIELLES 
+
+Au total, plus de 984 taxons sont connus sur les communes d’Artigues et Ollières (83), plusieurs de ces espèces sont protégées et/ou 
+présentent un enjeu local de conservation notable. Le tableau ci-dessous récapitule les espèces végétales patrimoniales jugées poten-
+tiellement présentes dans la zone d’étude. Cette liste a été établie à partir des données communales (Source : Base de données en ligne 
+de SILENE (Conservatoire botanique national méditerranéenne de Porquerolles – (http://www.silene.eu)). 
+
+FLORE VASCULAIRE À ENJEUX POTENTIELLE DANS LA ZONE D’ÉTUDE IMMÉDIATE 
+
+Nom français 
+
+Nom scientifique 
+
+Statut de 
+protection 
+
+Statut 
+Natura 
+2000 
+
+Statut ZNIEFF 
+
+Liste rouge 
+régionale 
+(nationale) 
+
+Milieux favorables 
+
+Hiérarchisation 
+de l’enjeu de 
+conservation 
+en PACA 
+
+Pied-d'alouette 
+d'Espagne 
+
+Delphinium orientale 
+J. Gay, 1840 
+
+Achillée 
+visqueuse 
+
+Achillea ageratum L., 
+1753 
+
+- 
+
+- 
+
+Mauve 
+bisannuelle 
+
+Alcea biennis Winterl, 
+1788 
+
+Régionale 
+PACA 
+
+Ammi élevé 
+
+Ammi majus L., 1753 
+
+Muflier à fleurs 
+lâches 
+
+Anarrhinum 
+laxiflorum Boiss., 
+1838 
+
+Bifora testiculé 
+
+Bifora testiculata (L.) 
+Spreng., 1820 
+
+Buffonie à 
+petites feuilles 
+
+Bufonia tenuifolia L., 
+1753 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Chardon à 
+épingles 
+
+Carduus acicularis 
+Bertol., 1829 
+
+Régionale 
+
+PACA           
+
+Centaurée en 
+panicule à 
+nombreux 
+capitules 
+
+Centaurea paniculata 
+subsp. polycephala 
+(Jord.) Nyman, 1879 
+
+Tournesol des 
+teinturiers 
+
+Chrozophora tinctoria 
+(L.) A. Juss., 1824 
+
+- 
+
+Vélar d'Orient 
+
+Colutea brevialata 
+Lange, 1862 
+
+Conringia orientalis 
+(L.) Dumort., 1827 
+
+Crépide de 
+Suffren 
+
+Crepis suffreniana 
+(DC.) J. Lloyd, 1844 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+- 
+
+-   
+
+- 
+
+- 
+
+- 
+
+- 
+
+VU(VU) 
+
+Cultures, friches 
+
+Très fort 
+
+ (NT) 
+
+Pelouses argileuses 
+inondables l'hiver, périphérie 
+des mares et ruisseaux 
+temporaires, sur calcaire, du 
+thermo au 
+supraméditerranéen 
+
+Fort 
+
+Probable 
+
+Remarquable 
+
+ (LC) 
+
+Friches et champs incultes 
+
+Fort 
+
+Probable 
+
+- 
+
+ (LC) 
+
+Déterminante 
+
+VU(VU) 
+
+Déterminante 
+
+ (EN) 
+
+-  
+
+ (LC) 
+
+Champs et prairies 
+abandonnés. 
+Thermoméditerranéen. 
+
+Pentes rocheuses calcaires, 
+parfois dolomitiques, bien 
+exposées. 
+
+Annuelles commensales des 
+moissons 
+
+Pelouses sèches à annuelles 
+et bulbeuses souvent 
+sablonneuses ou décalcifiées 
+(Stipo capensis Trachynietea 
+distachyae) et friches plus ou 
+moins anciennes 
+
+Fort 
+
+Peu 
+probable 
+
+Fort 
+
+Probable 
+
+Fort 
+
+Peu 
+probable 
+
+Fort 
+
+Probable 
+
+Déterminante 
+
+ (LC) 
+
+Friches xérophiles 
+
+Fort 
+
+Probable 
+
+ (LC) 
+
+Pelouses xérophiles ouvertes 
+
+Fort 
+
+Probable 
+
+ (LC) 
+
+ (LC) 
+
+ (EN) 
+
+Cultures, friches, ourlets 
+thermophiles et eutrophiles 
+sur sols lourds calcaires 
+
+Chênaies pubescentes 
+thermophiles 
+
+Moissons 
+
+Crêtes, dalles rocheuses 
+pelouses argilolimoneuses 
+riches en annuelles 
+(Trachynion distachiae) aux 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Peu 
+probable 
+
+Probable 
+
+Peu 
+probable 
+
+Fort 
+
+Probable 
+
+Déterminante 
+
+ (LC) 
+
+Présence 
+dans la 
+zone 
+d'étude 
+
+Peu 
+probable 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+28 
+
+ 
+ 
+Ophrys de la 
+Drôme 
+
+Ophrys saratoi E.G. 
+Camus, 1893 
+
+Régionale 
+
+PACA           
+
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+FLORE VASCULAIRE À ENJEUX POTENTIELLE DANS LA ZONE D’ÉTUDE IMMÉDIATE 
+
+Nom français 
+
+Nom scientifique 
+
+Statut de 
+protection 
+
+Statut 
+Natura 
+2000 
+
+Statut ZNIEFF 
+
+Liste rouge 
+régionale 
+(nationale) 
+
+ (LC) 
+
+Prairies hygrophiles 
+
+Milieux favorables 
+
+étages méso et 
+supraméditerranéen 
+
+Moissons, friches 
+
+Ourlets de chênaies 
+pubescentes thermophiles 
+
+Cultures, lieux sablonneux, 
+fossés, ruisseaux temporaires 
+
+Garrigues méditerranéennes 
+basiphiles 
+
+Garrigues ouvertes, pelouses 
+steppiques 
+
+Friches, bords de chemins, 
+souvent au voisinage 
+d'habitations 
+
+Garrigue ouverte, lisières de 
+bois, talus, restanques, 
+olivettes 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   
+
+ (NT) 
+
+ (LC) 
+
+ (LC) 
+
+ (LC) 
+
+Annexe V  Remarquable 
+
+ (LC) 
+
+-   
+
+ (NT) 
+
+Remarquable 
+
+ (LC) 
+
+-   
+
+-   
+
+-   
+
+ (LC) 
+
+ (LC) 
+
+ (LC) 
+
+Pelouses, friches, 
+broussailles 
+
+Jachères 
+
+Sous-bois rocailleux 
+
+Hiérarchisation 
+de l’enjeu de 
+conservation 
+en PACA 
+
+Présence 
+dans la 
+zone 
+d'étude 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Peu 
+probable 
+
+Probable 
+
+Peu 
+probable 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Fort 
+
+Probable 
+
+Fort 
+
+Probable 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Probable 
+
+Peu 
+probable 
+
+Probable 
+
+Déterminante 
+
+ (LC) 
+
+Rocailles, garrigues, clairières 
+
+Fort 
+
+Probable 
+
+  -   
+
+  -   
+
+  -   
+
+ (LC) 
+
+ (LC) 
+
+ (LC) 
+
+Crêtes ventées calcaires 
+
+Mégaphorbiaies 
+
+Ripisylves, ourlets eutrophiles 
+et friches mésohygrophiles 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Probable 
+
+Peu 
+probable 
+
+Peu 
+probable 
+
+Déterminante 
+
+EN(EN) 
+
+Pelouses piétinées et 
+nitratées 
+
+Fort 
+
+Probable 
+
+  -   
+
+ (LC) 
+
+Friches thermophiles 
+
+Fort 
+
+Probable 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+Régionale 
+
+PACA           
+
+- 
+
+- 
+
+Régionale 
+
+PACA           
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Régionale 
+
+PACA           
+
+-  
+
+Déterminante 
+
+ (LC) 
+
+Pelouses à thérophytes 
+psammophiles 
+
+Fort 
+
+Probable 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+ - 
+
+Déterminante 
+
+VU(NT) 
+
+Mégaphorbiaies 
+
+Fort 
+
+Peu 
+probable 
+
+-   
+
+-   
+
+ (LC) 
+
+ (LC) 
+
+Pelouses steppiques ouvertes 
+basiphiles 
+
+Fort 
+
+Probable 
+
+Garrigues 
+
+Fort 
+
+Probable 
+
+Déterminante 
+
+EN(EN) 
+
+Champs cultivés, sur calcaire 
+jusqu'à l'étage montagnard 
+
+Fort 
+
+Peu 
+probable 
+
+-   
+
+ (LC) 
+
+Pelouses ouvertes 
+thermophiles 
+
+Fort 
+
+Probable 
+
+Pied-d'alouette 
+pubescent 
+
+Delphinium 
+pubescens DC., 1815 
+
+Gaillet cendré 
+
+Galium cinereum All., 
+1773 
+
+Séneçon à 
+feuilles de 
+Barbarée 
+
+Linaire élatine 
+
+Grémil ligneux 
+
+Jacobaea erratica 
+(Bertol.) Fourr., 1868 
+
+Kickxia elatine (L.) 
+Dumort., 1827 
+
+Lithodora fruticosa 
+(L.) Griseb., 1844 
+
+Narcisse à 
+feuilles de jonc 
+
+Narcissus assoanus 
+Dufour, 1830 
+
+Herbe aux 
+chats 
+
+Nepeta cataria L., 
+1753 
+
+Ophrys de 
+Provence 
+
+Ophrys provincialis 
+(H. Baumann & 
+Künkele) Paulus, 
+1988 
+
+Orobanche 
+crénelée 
+
+Orobanche crenata 
+Forssk., 1775 
+
+Pâturin 
+
+Amarinthe 
+trifide 
+
+Poa flaccidula Boiss. 
+& Reut., 1852 
+
+Prangos trifida (Mill.) 
+Herrnst. & Heyn, 
+1977 
+
+Camomille de 
+Mahon 
+
+Santolina decumbens 
+Mill., 1768 
+
+Séneçon Doria 
+
+Sison 
+
+Sisymbre à 
+nombreuses 
+cornes 
+
+Épiaire à 
+feuilles de 
+Sauge 
+
+Plumet du Cap 
+
+Senecio doria L., 
+1759 
+
+Sison amomum L., 
+1753 
+
+Sisymbrium 
+polyceratium L., 1753 
+
+Stachys germanica 
+subsp. salviifolia 
+(Ten.) Gams, 1927 
+
+Stipella capensis 
+(Thunb.) Röser & 
+Hamasha, 2012 
+
+Pigamon 
+méditerranéen 
+
+Thalictrum lucidum 
+L., 1753 
+
+Passerine 
+
+Thymelaea passerina 
+subsp. passerina (L.) 
+Coss. & Germ., 1861 
+
+Herbe du mont 
+Serrat 
+
+Thymelaea 
+sanamunda All., 
+1785 
+
+Mâche à 
+piquants 
+
+Valerianella echinata 
+(L.) DC., 1805 
+
+Véronique à 
+feuilles 
+trilobées 
+
+Veronica triloba 
+(Opiz) A. Kern., 1896 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+29 
+
+ 
+ 
+ 
+  
+  
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+FLORE VASCULAIRE À ENJEUX POTENTIELLE DANS LA ZONE D’ÉTUDE IMMÉDIATE 
+
+Nom français 
+
+Nom scientifique 
+
+Statut de 
+protection 
+
+Statut 
+Natura 
+2000 
+
+Statut ZNIEFF 
+
+Liste rouge 
+régionale 
+(nationale) 
+
+Milieux favorables 
+
+Hiérarchisation 
+de l’enjeu de 
+conservation 
+en PACA 
+
+Présence 
+dans la 
+zone 
+d'étude 
+
+Gattilier 
+
+Vitex agnus-castus 
+L., 1753 
+
+Nationale 
+Annexe II 
+
+Cléistogène 
+tardif 
+
+Cleistogenes serotina 
+(L.) Keng, 1934 
+
+Régionale 
+PACA 
+
+Fraxinelle 
+blanche 
+
+Dictamnus albus L., 
+1753 
+
+Régionale 
+PACA 
+
+Gagée de 
+Bohème 
+
+Gagea bohemica 
+(Zauschn.) Schult. & 
+Schult.f., 1829 
+
+Nationale 
+Annexe I 
+
+Gagée de 
+Lacaitae 
+
+Gagea lacaitae A. 
+Terracc., 1904 
+
+Nationale 
+Annexe I 
+
+Gagée des 
+prés 
+
+Gagea pratensis 
+(Pers.) Dumort., 1827 
+
+Nationale 
+Annexe I 
+
+Gagée des 
+champs 
+
+Gagea villosa (M. 
+Bieb.) Sweet, 1826 
+
+Nationale 
+Annexe I 
+
+Isopyre faux 
+Pigamon 
+
+Isopyrum 
+thalictroides L., 1753 
+
+Régionale 
+PACA 
+
+Luzerne en 
+forme de pelote 
+
+Medicago sativa 
+subsp. glomerata 
+(Balb.) Rouy, 1899 
+
+Régionale 
+PACA 
+
+Tulipe précoce 
+
+Tulipa raddii Reboul, 
+1822 
+
+Nationale 
+Annexe I 
+
+Violette de 
+Jordan 
+
+Viola jordanii Hanry, 
+1853 
+
+Régionale 
+PACA 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Déterminante 
+
+ (LC) 
+
+Arrières-plages, cours d'eau 
+temporaires à proximité du 
+littoral 
+
+Fort 
+
+Peu 
+probable 
+
+Déterminante 
+
+ (LC) 
+
+Pelouses xérophiles ouvertes 
+
+Modéré 
+
+Probable 
+
+Déterminante 
+
+ (LC) 
+
+- Remarquable 
+
+ (LC) 
+
+- Remarquable 
+
+ (LC) 
+
+- Remarquable 
+
+ (LC) 
+
+- Remarquable 
+
+ (LC) 
+
+Déterminante 
+
+ (LC) 
+
+- Remarquable 
+
+ (LC) 
+
+Déterminante 
+
+ (NA) 
+
+Ourlets en lisières de 
+chênaies blanches, fourrés 
+arbustifs sur escarpements 
+rocheux, souvent en fonds de 
+vallons 
+
+Pelouses rases sur vires ou 
+dalles rocheuses 
+
+Pelouses calcaires sèches de 
+préférence rocailleuses ou 
+écorchées, ensoleillées à mi-
+ombragées 
+
+Chênaies pubescentes, 
+pelouses, friches, lieux 
+rudéralisés du 
+mésoméditerranéen au 
+montagnard 
+
+Lieux cultivés, friches, 
+cimetières, rarement 
+pelouses, du 
+mésoméditerranéen au 
+montagnard 
+
+Sous-bois herbacés 
+basiphiles 
+
+Pelouses rocailleuses, lisières 
+de chênaies pubescentes ou 
+d'ostryaies 
+
+Adventice de cultures 
+extensives, pelouses, 
+broussailles 
+
+Modéré 
+
+Probable 
+
+Modéré 
+
+Probable 
+
+Modéré 
+
+Probable 
+
+Modéré 
+
+Probable 
+
+Modéré 
+
+Probable 
+
+Modéré 
+
+Peu 
+probable 
+
+Modéré 
+
+Probable 
+
+Modéré 
+
+Peu 
+probable 
+
+- Remarquable 
+
+ (LC) 
+
+Lisières de boisements 
+feuillus caducifoliés, pelouses  
+
+Modéré 
+
+Probable 
+
+Nom français et scientifique : Base de données TAXREF V16 
+Statut de protection :  
+Nationale : Arrêté modifié du 20 janvier 1982 relatif à la liste des espèces végétales protégées sur l'ensemble du territoire ; 
+Régionale (complétant la liste nationale) : 
+Arrêté du 9 mai 1994 relatif à la liste des espèces végétales protégées en région Provence-Alpes-Côte-d'Azur. Article 1 et article 2. 
+Statut Natura 2000 : Espèces inscrites à l’annexes II de la directive européenne « Habitats-Faune-Flore » 92/43/CEE. Elles peuvent être d’intérêt communautaire ou d’intérêt communautaire prioritaire (=état de conservation 
+particulièrement préoccupant à l’échelle européenne). 
+Statut ZNIEFF (PACA) : Dét. = espèces déterminantes (particulièrement importantes pour la biodiversité régionale : espèces protégées, en dangers, vulnérables ou rares) ; Rem = espèces remarquables (liste complémentaire 
+: espèces représentatives d’un habitat particulier, etc.). 
+Rareté à l’échelle de la région naturelle : Flore de la France méditerranéenne continentale (TISON et al., 2014) – Évaluation à l’échelle de la région naturelle : RR : Très rare, R : rare, PF : Peu fréquent ou disséminé, LO : 
+Localisé (à une zone géographique restreinte mais où il peut être abondant), C : Commun, CC : Très commun, D? : non revu. 
+Liste rouge nationale : Liste rouge des espèces menacées en France. Chapitre Flore vasculaire de France métropolitaine (UICN France, FCBN, AFB & MNHN, 2018) : DD = données insuffisante, LC = Préoccupation mineure, 
+NT = Quasi menacée, VU = Vulnérable, EN = En danger, CR = en danger critique, RE = disparue de métropole, EW = Éteinte à l’état sauvage, EX = Éteinte au niveau mondial. 
+Liste rouge régionale : Liste rouge de la flore vasculaire de Provence-Alpes-Côte d’Azur (NOBLE et al. 2015)  - CR = En danger critique, EN = En danger, VU = Vulnérable, NT = Quasi menacé, LC = Préoccupation 
+mineure, DD = Données manquantes. 
+Habitat observé : Habitat naturel où l’espèce a été observée sur la zone d’étude. 
+Hiérarchisation des enjeux de conservation de la flore en région Provence-Alpes-Côte d’Azur (CBNMED, mai 2017) : Cette hiérarchisation a permis de classer 3282 taxons vasculaires de la région PACA en 4 priorités 
+d’enjeu :« faible », « modéré », « fort », « très fort », dans le but de déterminer comment allouer au mieux les ressources disponibles vis-à-vis des taxons les plus vulnérables.  
+Intérêt patrimonial : Il s’agit d’une évaluation à dire d’expert où sont pris en compte le ou les statuts des espèces (statut NATURA 2000, ZNIEFF et statuts réglementaire) ainsi que leur rareté à différentes échelles (à celle de 
+la région naturelle, du département, de la région et enfin à l’échelle national voire de l’Europe).  
+ELC = Enjeu Local de Conservation : À dire d’expert. De manière globale, l’enjeu local de conservation résultera de la comparaison et de la mise en perspective de  la valeur patrimoniale des espèces à différentes échelles 
+(locale à globale) et des risques et menaces qui pèsent sur celle-ci, également à l’échelle locale et globale. 
+Présence sur la zone d’étude : Avis d’expert sur la potentialité de présence de l’espèce sur la zone d’étude. 
+Classification : Peu probable : probabilité faible de présence ; Probable : probabilité forte de présence ; Très probable : probabilité très forte de présence ; Certaine : observation de l’espèce sur le périmètre. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+30 
+
+ 
+ 
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+II.2  
+
+INTÉRÊT POTENTIEL DE LA ZONE D’ÉTUDE POUR LA FLORE 
+
+La zone d’étude immédiate couvre une vaste superficie et accueille une multitude de mosaïques composées de garrigues, de pelouses 
+rases, de chaos rocheux, de garrigues suffrutescentes, de garrigues buissonnantes, de fourrés sempervirents méditerranéens ainsi que 
+de chênaies pubescentes supra-méditerranéennes. Cet enchevêtrement de milieux est favorable à l’expression et la présence d’une 
+flore variée pouvant contenir de nombreuses espèces remarquables. 
+
+A ce titre, les zones les plus ouvertes des garrigues et pelouses sont susceptibles d’accueillir par exemple Crepis suffreniana, Litho-
+dora fruticosa, Narcissus assoanus, Ophrys provincialis, Ophrys saratoi, Prangos trifida, Stipella capensis, Thymelaeae sanamunda ainsi 
+que de nombreuses Gagées (bohemica, lacaitae, villosa). Les zones en voie de fermeture forestière et les sous-bois herbacés clairs 
+des chênaies pubescentes peuvent accueillir Galium cinereum, Poa flaccidula, Dictamnus albus, Medicago sativa ssp. glomerata ou 
+encore Viola jordanii. Enfin, les zones remaniées de bord de pistes ainsi que les secteurs riches en nitrates liés au pâturage peuvent 
+accueillir des espèces affectionnant les milieux perturbés à savoir Carduus acicularis, Alcea biennis, Nepeta cataria ou Stachys germa-
+nica subsp. Salviifolia. 
+
+Carduus acicularis – ECOTER, 2021 
+
+Viola jordanii - ECOTER, 2021 
+
+Pelouses xériques et tas de blocs rocheux 
+Photos prises dans la zone d’étude – ECOTER, 2023 
+
+Chênaies pubescentes 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+IV   FAUNE 
+
+IV.1   OISEAUX 
+
+IV.1.1   Espèces potentielles 
+
+Pour la constitution d’une liste d’espèces d’oiseaux potentiels sur le site, la recherche d’informations s’est basée sur :  
+
+L’atlas des oiseaux nicheurs de France métropolitaine (ISSA N. & MULLER Y., 2015) ; 
+L’atlas des oiseaux nicheurs de PACA (FLITTI A. et al., 2009) ; 
+
+▪ 
+▪ 
+▪  Base de données communale de la LPO PACA : http://www.faune-paca.org ; 
+▪  Plan National d’Actions en faveur de l’Aigle de Bonelli 2014-2023, coordination (CEN LR, 2013) ; 
+▪  Étude d’impact sur l’environnement – Projet éolien d’Artigues-Ollières (83) (Agence VISU, 2016) ; 
+▪  Étude d’impact sur l’environnement – Demande d’Autorisation de Défrichement- Projet éolien d’Artigues-Ollières (83) (Agence 
+
+VISU, 2017) ; 
+
+▪  Dossier de saisine du CNPN, parc éolien d’Artigues-Ollières (83) (CALIDRIS, 2021) ; 
+▪  Suivi de l’occupation de l’espace par les grands rapaces locaux sur le site éolien d’Artigues-Ollières (LPO PACA, 2020) ; 
+▪  Compte rendu annuel du suivi de la mesure A1 et des grands rapaces nicheurs locaux sur le secteur éolien d’Artigues-Ollières 
+
+(LPO PACA, 2021) ; 
+
+▪  Compte rendu des mesures R4 et S1, évaluation de l’efficacité du dispositif Safewind et suivi des rapaces sur le parc éolien 
+
+d’Artigues-Ollières (LPO PACA, 2022) ; 
+
+▪  Rapport du suivi de la migration postnuptiale sur le site du parc éolien d’Artigues-Ollières (83) (LPO PACA, 2020) ; 
+▪  Rapport du suivi de la migration postnuptiale sur le site du parc éolien d’Artigues-Ollières (83) (LPO PACA, 2021) ; 
+▪  Rapport du suivi de la migration prénuptiale sur le site du parc éolien d’Artigues-Ollières (83), printemps 2021 (LPO PACA, 
+
+2021) ; 
+
+▪  Rapport du suivi de la migration prénuptiale sur le site du parc éolien d’Artigues-Ollières (83), printemps 2022 (LPO PACA, 
+
+2022) ; 
+
+▪  Rapport du suivi de l’avifaune nicheuse sur le site du parc éolien d’Artigues-Ollières (83), printemps 2021 (LPO PACA, 2021) ; 
+▪  Suivi de l’avifaune hivernante sur le site du parc éolien d’Artigues-Ollières (83) en 2021-2022 (LPO PACA, 2022) ; 
+▪  Suivi de l’avifaune hivernante sur le site du parc éolien d’Artigues-Ollières (83) (LPO PACA, 2021) ; 
+▪  Rapport du suivi de l’avifaune nicheuse sur le site du parc éolien d’Artigues-Ollières (83), printemps-été 2022 (LPO PACA, 
+
+2022) ; 
+Les prospections liées à la réalisation du prédiagnostic écologique (ECOTER, septembre et octobre 2022). 
+
+▪ 
+
+Les prospections récentes et actuelles du suivi de l’avifaune nicheuse sur le site du parc éolien d’Artigues-Ollières ont permis de noter 
+localement la présence ou le passage de 131 espèces d’oiseaux, dont 113 sont protégées. La pression d’observation importante sur 
+le site ces dernières années et la qualité des milieux naturels méridionaux expliquent aussi l’exceptionnelle diversité d’espèces rencon-
+trées. Le tableau ci-dessous récapitule les espèces d’oiseaux patrimoniales à enjeux notables jugées potentiellement présentes dans 
+la zone d’étude. 
+
+OISEAUX PROTÉGÉS À ENJEUX OBSERVÉS OU POTENTIELS DANS LA ZONE D’ÉTUDE 
+SOURCES LPO : SUIVI DE L’AVIFAUNE SUR LE SITE DU PARC ÉOLIEN D’ARTIGUES-OLLIÈRES (83) ET ECOTER 
+
+Nom français 
+
+Nom 
+scientifique 
+
+Statut de 
+protection 
+
+Busard cendré 
+
+Aigle de Bonelli 
+
+Circus 
+pygargus 
+
+Aquila 
+fasciata 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Traquet oreillard 
+
+Oenanthe 
+hispanica 
+
+Nationale, 
+article 3 
+
+Aigle royal 
+
+Bruant ortolan 
+
+Aquila 
+chrysaetos 
+
+Emberiza 
+hortulana 
+
+Pie-grièche à 
+tête rousse 
+
+Lanius 
+senator 
+
+Pie-grièche 
+méridionale 
+
+Lanius 
+meridionalis 
+
+Fauvette 
+pitchou 
+
+Sylvia undata 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Statut 
+Natura 
+2000 
+
+Listes rouges 
+
+Nationale 
+
+Régionale 
+
+ELC 
+
+Milieux utilisés par l’espèce dans la zone d’étude 
+
+Utilisation de 
+la zone 
+d’étude 
+
+Annexe I 
+
+NT 
+
+Annexe I 
+
+EN 
+
+CR 
+
+CR 
+
+Majeur 
+
+Majeur 
+
+Milieux ouverts et semi-ouverts (garrigues, 
+pelouses) 
+
+Certaine 
+(transit) 
+
+Milieux ouverts et semi-ouverts (garrigues, 
+pelouses) 
+
+Peu probable 
+(transit) 
+
+- 
+
+EN 
+
+CR 
+
+Majeur 
+
+Milieux ouverts (garrigues, pelouses) 
+
+Annexe I 
+
+VU 
+
+Annexe I 
+
+EN 
+
+- 
+
+- 
+
+VU 
+
+EN 
+
+Annexe I 
+
+EN 
+
+VU 
+
+VU 
+
+CR 
+
+EN 
+
+VU 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Milieux ouverts et semi-ouverts (garrigues, 
+pelouses) 
+
+Milieux ouverts et semi-ouverts (garrigues, 
+pelouses) 
+
+Milieux ouverts et semi-ouverts (garrigues, 
+pelouses) 
+
+Milieux ouverts (garrigues, pelouses) 
+
+Milieux ouverts (garrigues, pelouses) et semi-
+ouverts 
+
+Probable 
+(halte 
+migratoire) 
+
+Certaine 
+
+Certaine 
+
+Certaine 
+
+Certaine 
+
+Certaine 
+
+32 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+OISEAUX PROTÉGÉS À ENJEUX OBSERVÉS OU POTENTIELS DANS LA ZONE D’ÉTUDE 
+SOURCES LPO : SUIVI DE L’AVIFAUNE SUR LE SITE DU PARC ÉOLIEN D’ARTIGUES-OLLIÈRES (83) ET ECOTER 
+
+Nom français 
+
+Nom 
+scientifique 
+
+Statut de 
+protection 
+
+Statut 
+Natura 
+2000 
+
+Listes rouges 
+
+Nationale 
+
+Régionale 
+
+ELC 
+
+Milieux utilisés par l’espèce dans la zone d’étude 
+
+Bondrée 
+apivore 
+
+Chardonneret 
+élégant 
+
+Circaète Jean-
+le-Blanc 
+
+Grand-duc 
+d'Europe 
+
+Linotte 
+mélodieuse 
+
+Pernis 
+apivorus 
+
+Carduelis 
+carduelis 
+
+Circaetus 
+gallicus 
+
+Bubo bubo 
+
+Linaria 
+cannabina 
+
+Milan royal 
+
+Milvus milvus 
+
+Pie-grièche 
+écorcheur 
+
+Rollier d'Europe 
+
+Serin cini 
+
+Lanius 
+collurio 
+
+Coracias 
+garrulus 
+
+Serinus 
+serinus 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 3 
+
+Tourterelle des 
+bois 
+
+Streptopelia 
+turtur 
+
+- 
+
+Verdier 
+d'Europe 
+
+Chloris 
+chloris 
+
+Nationale, 
+article 3 
+
+Annexe I 
+
+LC 
+
+- 
+
+VU 
+
+Annexe I 
+
+LC 
+
+Annexe I 
+
+LC 
+
+- 
+
+VU 
+
+Annexe I 
+
+VU 
+
+Annexe I 
+
+NT 
+
+Annexe I 
+
+NT 
+
+- 
+
+- 
+
+- 
+
+VU 
+
+VU 
+
+VU 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+VU 
+
+EN 
+
+VU 
+
+NT 
+
+NT 
+
+VU 
+
+VU 
+
+Modéré 
+
+Milieux boisés 
+
+Modéré 
+
+Milieux boisés et semi-ouverts 
+
+Certaine 
+
+Modéré 
+
+Milieux boisés, ouverts et semi-ouverts 
+
+Certaine 
+
+Modéré 
+
+Milieux ouverts (garrigues, pelouses) 
+
+Certaine 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Milieux ouverts (garrigues, pelouses) et semi-
+ouverts 
+
+- 
+
+Milieux ouverts et semi-ouverts (garrigues, 
+pelouses) 
+
+Certaine 
+
+Certaine 
+
+Certaine 
+
+Modéré 
+
+Milieux ouverts (friches, pelouses) 
+
+Certaine 
+
+Modéré 
+
+Milieux boisés et semi-ouverts 
+
+Certaine 
+
+Modéré 
+
+Milieux boisés et semi-ouverts 
+
+Certaine 
+
+Modéré 
+
+Milieux boisés et semi-ouverts 
+
+Certaine 
+
+Utilisation de 
+la zone 
+d’étude 
+
+Certaine 
+
+Nom français et scientifique : Base de données TAXREF V16 
+Statut de protection : Arrêté du 29 octobre 2009 fixant la liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection 
+Statut Natura 2000 : Statut des espèces inscrites à l’annexe I de la directive « Oiseaux » 2009/147/CE.6 
+Liste rouge : La Liste rouge des espèces menacées en France - Chapitre Oiseaux de France métropolitaine (2016Liste rouge régionale des oiseaux nicheurs de Provence-Alpes-Côte d’Azur (2016). Taxons menacés : CR = En 
+danger critique, EN = En danger, VU = Vulnérable / Taxons non menacés : NT = Quasi menacé, LC = Préoccupation mineure, DD = Données manquantes, NA = Non applicable. 
+ELC = Enjeu Local de Conservation : A dire d’expert. De manière globale, l’enjeu local de conservation résultera de la comparaison et de la mise en perspective de la valeur patrimoniale des espèces à différentes échelles (locale 
+à globale) et des risques et menaces qui pèsent sur celle-ci, également à l’échelle locale et globale. 
+Statuts de nidification : cf. ci-avant : Critères de détermination des statuts de nidification des oiseaux (LPO, 2009) 
+Milieux utilisés par l’espèce dans la zone d’étude : Habitat naturel ou l’espèce a été observé sur la zone. 
+Utilisation de la zone d’étude : À dire d'expert, d'après les résultats de l'expertise : ++++ = espèce très abondante sur l'ensemble de la zone d'étude, +++ = espèce abondante sur l'ensemble de la zone d'étude ou très abondante 
+sur un secteur de la zone d'étude, ++ = espèce régulière sur la zone d'étude, + = espèce occasionnelle sur la zone d'étude (quelques observations). 
+Enjeu sur la zone d’étude : Enjeu de l'espèce sur la zone d'étude. Il est défini à partir de 3 critères : l'intérêt patrimonial de l'espèce d'une manière globale (défini d'après les statuts de protection, de conservation et de rareté à 
+différentes échelles), l'enjeu local de conservation de l'espèce (défini à l'échelle locale à dire d'expert et basé sur les connaissances bibliographiques), l'utilisation de la zone d'étude par l'espèce (à dire d'expert, d'après les 
+résultats de l'expertise) (cf. Méthode de hiérarchisation des enjeux) 
+
+IV.1.2  
+
+Intérêt potentiel et avéré de la zone d’étude pour les oiseaux 
+
+(Source : Dossier de demande de dérogation visant les espèces protégées pour la construction du parc éolien d’Artigues Ol-
+lières (83) – en cours – ECOTER, 2022). 
+
+IV.1.2.1  Cortèges d’espèces à enjeux 
+
+Les deux principaux cortèges d’espèces observés sur le site correspondent aux milieux boisés (chênaies) et aux milieux ouverts et 
+semi-ouverts (garrigues, pelouses, friches). L’ensemble de ces milieux diversifiés offre aux oiseaux des habitats de reproduction et 
+d’alimentation. 
+
+Les milieux ouverts et semi-ouverts constituent typiquement l’habitat de reproduction d’espèces comme l’Alouette lulu, le Pipit rous-
+seline, la Pie-grièche méridionale, les fauvettes méditerranéennes, l’Engoulevent d’Europe, le Bruant ortolan et constituent aussi des 
+habitats favorables à la halte migratoire et l’hivernage.  
+
+Enfin, les rapaces diurnes et nocturnes, parmi lesquels la Bondrée apivore, le Circaète Jean-le-Blanc et le Busard cendré, exploitent 
+régulièrement ces milieux pour la chasse. 
+
+Les milieux boisés abritent un cortège d’espèces communes mais peuvent constituer l’habitat de reproduction de rapaces comme  la 
+Bondrée apivore, de passereaux comme le Chardonneret élégant, le Serin cini et le Verdier d’Europe. Ces habitats sont aussi favorables 
+à la halte migratoire et l’hivernage, notamment pour les groupes de passereaux et de turdidés.  
+
+A l’occasion de la migration ou lors de transits restant assez occasionnels, certaines espèces appartenant à d’autres cortèges peuvent 
+fréquenter le site d’étude (cortèges de milieux rupestres, aquatiques…). 
+
+IV.1.2.2  Rapaces diurnes 
+
+Le secteur d’étude est très fréquenté par les rapaces diurnes et nocturnes. Le Circaète Jean-le-Blanc est très fréquent localement, l’Aigle 
+royal, la Bondrée apivore, le Faucon crécerelle, le Milan noir ou encore le Busard cendré y sont observés régulièrement. Les  milieux 
+ouverts, riches en proies, sont favorables à l’alimentation tandis que les boisements sont susceptibles d’abriter les nids d’espèces comme 
+la Bondrée apivore, l’Autour des palombes et le Circaète Jean-le-Blanc. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+33 
+
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+En période de migration, le cortège de rapaces se diversifie avec la présence du Busard Saint Martin, du Busard des roseaux, du Milan 
+royal ou encore de l’Aigle botté.  
+
+IV.1.2.3  Résultats des observations lors des périodes de migration 
+
+Les  récents  suivis  de  la  migration,  effectués  en  2020,  2021  et  2022  par  la  LPO  PACA  sur  le  site  d’étude,  ont  permis  de  mettre en 
+évidence : 
+
+▪  Des flux d’oiseaux diffus et sur un front très large durant la migration prénuptiale (absence de couloirs bien définis) ; 
+▪  Plusieurs couloirs concernant les passereaux, le Pigeon ramier et le Circaète jean-le-Blanc durant la migration postnuptiale ; 
+▪  Des passages globalement faibles, notamment durant la migration prénuptiale. Les flux sont plus importants durant la migra-
+
+tion postnuptiale ; 
+
+▪  Durant la migration prénuptiale, le Martinet noir, l’Hirondelle rustique, le Pigeon ramier et le Pipit farlouse sont les espèces les 
+
+plus contactées en migration active ; 
+
+▪  Durant la migration postnuptiale, le Pigeon ramier, le Pinson des arbres et l’Hirondelle de fenêtre sont les espèces les plus 
+
+▪ 
+
+contactées en migration active ; 
+Les milieux les plus ouverts (friches, pelouses, zones rocailleuses) sont favorables à la halte migratoire de certaines espèces 
+de passereaux parmi lesquelles les plus remarquables sont le Traquet oreillard, le Monticole de roche, le Traquet motteux et la 
+Pie-grièche méridionale ; 
+
+▪  Plusieurs espèces de rapaces fréquentent de manière régulière le site d’étude lors des périodes de migration, notamment le 
+Circaète jean-le-Blanc, l’Aigle botté, la Bondrée apivore, le Milan royal, le Busard des roseaux, le Milan noir, le Faucon hobe-
+reau, le Faucon émerillon, le Busard Saint-Martin. 
+
+IV.2   CHIROPTÈRES 
+
+IV.2.1   Espèces potentielles 
+
+Le tableau ci-dessous récapitule les espèces de chiroptères jugées potentiellement présentes dans la zone d’étude. Cette liste a été 
+établie à partir des données locales suivantes : 
+
+▪  Atlas des mammifères de PACA (LPO PACA, GECEM & GCP, 2016) ; 
+▪  Cartes de répartition des chiroptères en région PACA (GCP, 2008) ; 
+▪  Le portail des données naturalistes de la DREAL PACA, SILENE Faune : http://faune.silene.eu. 
+▪  Etude  d’impact  sur  l’environnement  –  Demande  d’Autorisation  de  Défrichement-  Projet  éolien  d’Artigues-Ollières  (83)  (Agence 
+
+VISU, 2017) ; 
+
+▪  Dossier de saisine du CNPN, parc éolien d’Artigues-Ollières (83) (CALIDRIS, 2021) ; 
+▪  Expertise chiroptères, projet éolien d’Artigues et Ollières (83) (SOUSBIE, 2017) ; 
+▪  Suivi des chiroptères par l’acoustique sur le parc éolien d’Artigues-Ollières (Var) (CEN PACA, 2021). 
+
+Ces sources permettent d’assurer que toutes les espèces suivantes sont présentes de façon certaine sur la zone d’étude. 
+
+ESPÈCES DE CHIROPTÈRES POTENTIELLES DANS LA ZONE D’ÉTUDE 
+
+Nom français 
+
+Nom 
+scientifique 
+
+Statut de 
+protection 
+
+Statut 
+Natura 
+2000 
+
+Listes rouges 
+
+Nationale 
+
+Région 
+
+Murin de 
+Capaccini 
+
+Grande 
+Noctule 
+
+Myotis 
+capaccini 
+
+Nationale, 
+Article 2 
+
+Annexes 
+II et IV 
+
+Nyctalus 
+lasiopterus 
+
+Nationale, 
+article 2 
+
+Annexe 
+IV 
+
+Minioptère de 
+Schreibers 
+
+Miniopterus 
+schreibersi 
+
+Nationale, 
+Article 2 
+
+Murin de 
+Bechstein 
+
+Myotis 
+bechsteinii 
+
+Nationale, 
+Article 2 
+
+Annexes 
+II et IV 
+
+Annexes 
+II et IV 
+
+Barbastelle 
+d’Europe 
+
+Barbastella 
+barbastellus 
+
+Nationale, 
+article 2 
+
+Annexes 
+II et IV 
+
+NT 
+
+VU 
+
+VU 
+
+NT 
+
+LC 
+
+VU 
+
+NT 
+
+NT 
+
+NT 
+
+NT 
+
+Milieux favorables 
+
+ELC 
+
+Majeur 
+
+Fort 
+
+Territoire de chasse et 
+déplacement 
+
+Gîtes 
+
+Cours d’eau et leurs milieux 
+adjacents 
+
+Cavités 
+
+Prairies, canopées, vastes 
+clairières forestières. 
+
+Arbres à cavité (en 
+particulier les pins) 
+
+Présence 
+dans la 
+zone 
+d’étude 
+
+Certaine 
+
+Certaine 
+
+Fort 
+
+Lisières et chemins forestiers  Bâtiments, cavités 
+
+Certaine 
+
+Fort 
+
+Boisements 
+
+Arbres, cavités 
+
+Certaine 
+
+Fort 
+
+Lisières de boisements et 
+chemins forestiers 
+
+Bâtiments, cavités, 
+arbres (dont 
+conifères) 
+
+Certaine 
+
+Grand 
+Rhinolophe 
+
+Rhinolophu
+s 
+ferrumequin
+um 
+
+Nationale, 
+Article 2 
+
+Annexes 
+II et IV 
+
+LC 
+
+NT 
+
+Fort 
+
+Lisières, chemins forestiers, 
+clairières forestières, milieux 
+ouverts piquetés d’arbres 
+
+Bâtiments, cavités 
+
+Certaine 
+
+Oreillard 
+montagnard 
+
+Plecotus 
+macrobullaris 
+
+Nationale, 
+Article 2 
+
+Petit 
+Rhinolophe 
+
+Rhinolophus 
+hipposideros 
+
+Nationale, 
+Article 2 
+
+Annexes 
+II et IV 
+
+Annexes 
+II et IV 
+
+VU 
+
+LC 
+
+NT 
+
+NT 
+
+Fort 
+
+Fort 
+
+Lisières, chemins forestiers, 
+boisements clairs 
+
+Bâtiments, cavités, 
+arbres 
+
+Certaine 
+
+Lisières, chemins forestiers, 
+clairières forestières 
+
+Bâtiments, cavités 
+
+Certaine 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+34 
+
+ 
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+ESPÈCES DE CHIROPTÈRES POTENTIELLES DANS LA ZONE D’ÉTUDE 
+
+Nom français 
+
+Nom 
+scientifique 
+
+Statut de 
+protection 
+
+Statut 
+Natura 
+2000 
+
+Listes rouges 
+
+Milieux favorables 
+
+Nationale 
+
+Région 
+
+ELC 
+
+Territoire de chasse et 
+déplacement 
+
+Gîtes 
+
+Présence 
+dans la 
+zone 
+d’étude 
+
+Petit Murin 
+
+Myotis 
+blythii 
+
+Nationale, 
+Article 2 
+
+Annexes 
+II et IV 
+
+NT 
+
+NT 
+
+Fort 
+
+Grand Murin 
+
+Myotis 
+myotis 
+
+Nationale, 
+Article 2 
+
+Annexes 
+II et IV 
+
+LC 
+
+LC 
+
+Modéré 
+
+Noctule 
+commune 
+
+Nyctalus 
+noctula 
+
+Nationale, 
+article 2 
+
+Annexe 
+IV 
+
+VU 
+
+LC 
+
+Modéré 
+
+Lisières, chemins forestiers, 
+milieux ouverts piquetés 
+d’arbres 
+
+Lisières, chemins forestiers, 
+milieux ouverts piquetés 
+d’arbres 
+
+Lisières, chemins forestiers, 
+clairières forestières, 
+canopées, lampadaires 
+
+Bâtiments, cavités 
+
+Certaine 
+
+Bâtiments, cavités 
+
+Certaine 
+
+Bâtiments, cavités, 
+arbres 
+
+Certaine 
+
+Murin à 
+oreilles 
+échancrées 
+
+Myotis 
+emarginatus 
+
+Nationale, 
+Article 2 
+
+Annexes 
+II et IV 
+
+LC 
+
+LC 
+
+Modéré 
+
+Lisières, chemins forestiers, 
+boisements clairs 
+
+Bâtiments, cavités, 
+arbres 
+
+Certaine 
+
+Noctule de 
+Leisler 
+
+Nyctalus 
+leisleri 
+
+Nationale, 
+Article 2 
+
+Annexe 
+IV 
+
+Pipistrelle de 
+Nathusius 
+
+Pipistrellus 
+nathusii 
+
+Nationale, 
+Article 2 
+
+Annexes 
+IV 
+
+Pipistrelle 
+pygmée 
+
+Pipistrellus 
+pygmaeus 
+
+Nationale, 
+article 2 
+
+Annexe 
+IV 
+
+Sérotine 
+commune 
+
+Eptesicus 
+serotinus 
+
+Nationale, 
+article 2 
+
+Annexe 
+IV 
+
+Murin 
+cryptique 
+
+Myotis 
+crypticus 
+
+Nationale, 
+article 2 
+
+Annexe 
+IV 
+
+Murin de 
+Daubenton 
+
+Myotis 
+daubentonii 
+
+Nationale, 
+article 2 
+
+Annexe 
+IV 
+
+Pipistrelle de 
+Kuhl 
+
+Pipistrellus 
+kuhlii 
+
+Nationale, 
+article 2 
+
+Annexe 
+IV 
+
+Pipistrelle 
+commune 
+
+Pipistrellus 
+pipistrellus 
+
+Nationale, 
+article 2 
+
+Annexe 
+IV 
+
+Vespère de 
+Savi 
+
+Hypsugo 
+savii 
+
+Nationale, 
+article 2 
+
+Annexe 
+IV 
+
+Molosse de 
+Cestoni 
+
+Tadarida 
+teniotis 
+
+Nationale, 
+Article 2 
+
+Annexe 
+IV 
+
+Murin à 
+moustaches  
+
+Myotis 
+mystacinus 
+
+Nationale, 
+article 2 
+
+Annexe 
+IV 
+
+Murin 
+d’Alcathoe 
+
+Myotis 
+alcathoe 
+
+Nationale, 
+Article 2 
+
+Annexe 
+IV 
+
+Oreillard gris 
+
+Plecotus 
+austriacus 
+
+Nationale, 
+article 2 
+
+Annexe 
+IV 
+
+NT 
+
+NT 
+
+LC 
+
+NT 
+
+LC 
+
+LC 
+
+LC 
+
+NT 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+DD 
+
+LC 
+
+Modéré 
+
+Lisières, chemins forestiers, 
+clairières forestières, 
+canopées, lampadaires 
+
+Modéré 
+
+Lisières et chemins 
+forestiers, haies 
+
+Arbres à cavités 
+
+Certaine 
+
+Arbres, bâtiments 
+
+Certaine 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Boisements clairs en 
+particulier ripisylves, milieux 
+aquatiques, lisières. 
+
+Lisières, chemins forestiers, 
+clairières forestières, 
+canopées, lampadaires 
+
+Lisières, chemins forestiers, 
+boisements clairs 
+
+Boisements clairs en 
+particulier ripisylves, milieux 
+aquatiques, lisières. 
+
+Boisements, lisières 
+forestières. 
+
+Lisières, chemins forestiers, 
+clairières forestières, 
+canopées, lampadaires 
+
+Lisières, chemins forestiers, 
+boisements clairs 
+
+Lisières, chemins forestiers, 
+milieux ouverts piquetés 
+d’arbres 
+
+Arbres, bâtiments 
+
+Certaine 
+
+Bâtiments, cavités 
+
+Certaine 
+
+Bâtiments, cavités 
+
+Certaine 
+
+Arbres, ponts 
+
+Certaine 
+
+Bâtiments, cavités 
+
+Certaine 
+
+Arbres, bâtiments 
+
+Certaine 
+
+Falaises 
+
+Certaine 
+
+Falaises 
+
+Certaine 
+
+Lisières, chemins forestiers, 
+boisements clairs 
+
+Bâtiments, cavités, 
+arbres 
+
+Certaine 
+
+Boisements en particulier 
+ripisylves, milieux 
+aquatiques, lisières. 
+
+Arbres 
+
+Certaine 
+
+Lisières, chemins forestiers, 
+boisements clairs 
+
+Bâtiments, cavités, 
+arbres 
+
+Certaine 
+
+Nom français et scientifique : Base de données TAXREF V16 
+Statut de protection nationale : Arrêté du 15 septembre 2012 modifiant l'arrêté du 23 avril 2007 fixant la liste des mammifères terrestres protégés sur l'ensemble du territoire et les modalités de leur protection ; 
+Statut Natura 2000 : Statut des espèces inscrites à l’annexes II, IV et V de la directive « Habitats-faune-flore » 92/43/CEE. Ils peuvent être d’intérêt communautaire ou d’intérêt communautaire prioritaire (=état de conservation 
+particulièrement préoccupant à l’échelle européenne).  
+Liste rouge :  
+
+National : La Liste rouge des espèces menacées en France - Chapitre Mammifères de France métropolitaine (2017) ; 
+Régional : Statut de conservation et répartition géographique des mammifères méditerranéens (2009)  
+ Taxons menacés : CR = En danger critique, EN = En danger, VU = Vulnérable / Taxons non menacés : NT = Quasi menacé, LC = Préoccupation mineure, DD = Données manquantes, NA = Non applicable. 
+
+ELC = Enjeu Local de Conservation : A dire d’expert. Etat de conservation de l'espèce au niveau local (ici à l'échelle du département des Bouches du Rhône) (cf. Méthode de hiérarchisation des enjeux).  
+Milieux utilisés par l’espèce dans la zone d’étude : Habitat naturel ou l’espèce a été observé sur la zone. 
+Présence dans la zone d’étude : Avis d’expert sur la potentialité de présence de l’espèce sur la zone d’étude. 
+Classification : Peu probable : probabilité faible de présence ; Probable : probabilité forte de présence ; Très probable : probabilité très forte de présence ; Certaine : observation de l’espèce sur le périmètre 
+
+IV.2.2  
+
+Intérêt potentiel de la zone d’étude pour les chiroptères 
+
+La  zone  d’étude  s’inscrit  dans  un  contexte biogéographique  de  très  grand  intérêt  pour  les  chauves-souris,  à  l’interface  entre 
+plusieurs grands réservoirs de biodiversité exceptionnels : la Montagne Sainte-Victoire au sud-ouest, la vallée de la Durance au 
+nord-ouest et le Verdon au nord-est.  
+
+De nombreux gîtes de reproductions sont susceptibles d’être présents aux environs de la zone d’étude (cabanons agricoles, maisons 
+anciennes, arbres sénescents). La grande diversité des milieux présents (milieux forestiers, pelouses méditerranéennes, fourrés semi-
+ouverts  de  chênes  verts)  offre  des  habitats  de  chasse  riches  pour  un  cortège  diversifiée  d’espèces,  dont  de  nombreuses  espèces 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+35 
+
+ 
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+patrimoniales, rare et menacées. Les différents vallons marquant le site constituent des corridors de vol attractifs pour les chauves-souris 
+venant chasser les insectes au sein des cours d’eau temporaires. 
+
+Zone de chasse pour de nombreuses espèces de haut vol (Noctule de Leisler, 
+Vespère de Savi, Grande Noctule) mais aussi favorable au Petit Murin 
+Photo prise dans la zone d’étude – ECOTER, 2023 
+
+Les vieux arbres sénescents offrent des gîtes attractifs pour des nombreuses es-
+pèces de chauves-souris arboricoles 
+Photo prise hors de la zone d’étude – ECOTER, 2022 
+
+Les milieux forestiers clairsemés de clairières constituent des habitats de chasse particulièrement attractifs pour un riche cortège d’espèces (Oreillard gris, Grand et 
+Petit Rhinolophe, Minioptère de Schreibers, Murin de Bechstein, Barbastelle d’Europe…) 
+Photos prises dans la zone d’étude – ECOTER, 2023 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+IV.3   AUTRES MAMMIFÈRES 
+
+IV.3.1   Espèces potentielles 
+
+Sur les communes concernées par le projet, le cortège de mammifères locaux s’élèvent à environ 25 espèces. Les micromammifères 
+(Campagnols, Mulots, Pachyure, etc.) et les grands ongulés échappés de parcs de chasse (Cerf élaphe, Daim, Mouflon à manchettes, 
+etc.) participent à ces longues listes. Le tableau ci-dessous récapitule les espèces d’autres mammifères à enjeux jugées potentiellement 
+présentes dans la zone d’étude. Cette liste a été établie à partir des données communales (Sources : Faune PACA, périmètres à statuts, 
+etc.) et suite aux 1ères visites de terrain. 
+
+ESPECES DE MAMMIFERES (HORS CHIROPTERES) A ENJEUX POTENTIELLES DANS LA ZONE D'ETUDE 
+
+Nom français 
+
+Nom scientifique 
+
+Statut de 
+protection 
+
+Statut Natura 
+2000 
+
+Liste rouge 
+nationale 
+
+ELC 
+
+Milieux favorables 
+
+Utilisation de la 
+zone d’étude 
+
+Genette commune 
+
+Genetta genetta 
+
+Nationale Art 2 
+
+- 
+
+Muscardin 
+
+Muscardinus 
+avellanarius 
+
+Nationale Art 2 
+
+-LC 
+
+LC 
+
+LC 
+
+Modéré 
+
+Boisements 
+
+Très probable 
+
+Modéré 
+
+Ronciers et garrigues hautes 
+
+Peu probable 
+
+Loup gris 
+
+Canis lupus 
+
+Nationale Art 2 
+
+Annexes II et IV 
+
+VU 
+
+Modéré 
+
+Toute la zone d’étude 
+
+Très probable 
+
+Lapin de garenne 
+
+Hérisson d’Europe 
+
+Oryctolagus 
+cuniculus 
+
+Erinaceus 
+europaeus 
+
+- 
+
+Nationale Art 2 
+
+Belette d’Europe 
+
+Mustela nivalis 
+
+- 
+
+Écureuil roux 
+
+Sciurus vulgaris 
+
+Nationale Art 2 
+
+- 
+
+- 
+
+- 
+
+- 
+
+NT 
+
+LC 
+
+LC 
+
+LC 
+
+Modéré 
+
+Modéré 
+
+Localisé à quelques petites 
+garennes 
+
+Certaine 
+
+Dans les secteurs forestiers frais 
+et en bas de versants 
+
+Peu probable 
+
+Modéré 
+
+Lisières et garrigues 
+
+Peu probable 
+
+Faible 
+
+Boisements, surtout résineux 
+
+Certaine 
+
+Nom français et scientifique : Base de données TAXREF V16 
+Statut de protection : Arrêté du 15 septembre 2012 modifiant l'arrêté du 23 avril 2007 fixant la liste des mammifères terrestres protégés sur l'ensemble du territoire et les modalités de leur protection 
+Statut Natura 2000 : La Directive 92/43/CEE concernant la conservation des habitats naturels ainsi que des espèces de faune (biologie) et de la flore sauvage, plus généralement appelée directive Habitats Faune Flore 
+Liste rouge : La Liste rouge des espèces menacées en France - Chapitre Mammifères de France métropolitaine (2017) Taxons menacés : CR = En danger critique, EN = En danger, VU = Vulnérable / Taxons non menacés : 
+NT = Quasi menacé, LC = Préoccupation mineure, DD = Données manquantes, NA = Non applicable 
+ELC = Enjeu Local de Conservation : A dire d’expert. De manière globale, l’enjeu local de conservation résultera de la comparaison et de la mise en perspective de la valeur patrimoniale des espèces à différentes échelles 
+(locale à globale) et des risques et menaces qui pèsent sur celle-ci, également à l’échelle locale et globale. 
+Milieux utilisés par l’espèce dans la zone d’étude : Habitat naturel ou l’espèce a été observé sur la zone. 
+Présence sur la zone d’étude : Avis d’expert sur la potentialité de présence de l’espèce sur la zone d’étude. 
+Classification : Peu probable : probabilité faible de présence ; Probable : probabilité forte de présence ; Très probable : probabilité très forte de présence ; Certaine : observation de l’espèce sur le périmètre 
+
+IV.3.2  
+
+Intérêt potentiel de la zone d’étude pour les autres mammifères 
+
+La mosaïque de milieux naturels depuis les grandes surfaces de pelouses calcicoles jusqu’aux vieilles chênaies pubescentes, accueille 
+une belle diversité de mammifères. Avec le grand incendie qui a ravagé le secteur il y a quelques années, les populations d’espèces 
+forestières comme l’Écureuil roux ou la Genette commune ont dû marquer le pas. Les accrus forestiers denses qui repoussent servent 
+de secteurs de remises pour plusieurs espèces, notamment les ongulés. 
+
+Genette commune : l’espèce est forestière, discrète, furtive et nocturne. Elle se 
+détecte principalement grâce à ses crottiers caractéristiques, posés sur des élé-
+ments minéraux, bien en vue. 
+Photo prise hors de la zone d’étude – ECOTER, 2012 
+
+Loup gris : l’espèce est commune dans le Var. Il est très probable qu’elle transite 
+par la zone d’étude. 
+Photo prise hors de la zone d’étude – ECOTER, 2016 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+37 
+
+ 
+ 
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+Les pelouses et garrigues sont prisées par les rongeurs et de par le fait, par 
+leurs prédateurs. Photos prises dans la zone d’étude – ECOTER, 2022 
+
+Les chênaies pubescentes, qui conservent un peu de fraîcheur en été, sont pri-
+sées par de nombreuses espèces de mammifères. 
+
+IV.4   REPTILES 
+
+IV.4.1   Espèces potentielles 
+
+Le tableau ci-dessous récapitule les espèces de reptiles jugées potentiellement présentes dans la zone d’étude. Cette liste a été établie 
+à partir des données communales (Sources : Faune PACA, Silène, SHF) et suite aux 1ères visites de terrain. 
+
+ESPECES DE REPTILES POTENTIELLES DANS LA ZONE D'ETUDE 
+
+Nom français 
+
+Nom 
+scientifique 
+
+Statut de 
+protection 
+
+Statut 
+Natura 
+2000 
+
+Listes rouges 
+
+Nationale 
+
+Régionale 
+
+ELC 
+
+Milieux favorables 
+
+EN 
+
+Majeur 
+
+Tortue 
+d'Hermann 
+
+Testudo 
+hermanni 
+
+Nationale,  
+article 2 
+
+Annexes II 
+et IV 
+
+Lézard ocellé 
+
+Timon 
+lepidus 
+
+Nationale,  
+article 2 
+
+Psammodrome 
+d’Edwards 
+
+Seps strié 
+
+Couleuvre à 
+échelons 
+
+Couleuvre de 
+Montpellier 
+
+Coronelle 
+girondine 
+
+Couleuvre 
+d'Esculape 
+
+Orvet fragile 
+
+Lézard des 
+murailles 
+
+Lézard à deux 
+raies 
+
+Psammodro
+mus 
+edwarsianus 
+
+Chalcides 
+striatus 
+
+Zamenis 
+scalaris 
+
+Malpolon 
+monspessula
+nus 
+
+Coronella 
+girondica 
+
+Zamenis 
+longissimus 
+
+Anguis 
+fragilis 
+
+Podarcis 
+muralis 
+
+Lacerta 
+bilineata 
+
+Tarente de 
+Maurétanie 
+
+Tarentola 
+mauritanica 
+
+Nationale,  
+article 3 
+
+Nationale,  
+article 3 
+
+Nationale,  
+article 3 
+
+Nationale,  
+article 3 
+
+Nationale,  
+article 3 
+
+Nationale,  
+article 2 
+
+Nationale,  
+article 3 
+
+Nationale,  
+article 2 
+
+Nationale,  
+article 2 
+
+Nationale,  
+article 3 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Annexe IV 
+
+- 
+
+Annexe IV 
+
+Annexe IV 
+
+- 
+
+EN 
+
+VU 
+
+NT 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+Divers biotopes méditerranéens, 
+surtout en milieux arides ou semi-
+humides 
+
+Milieux ouverts à semi-ouverts, à 
+végétation rase ou éparse, 
+affleurements rocheux 
+
+Utilisation de la 
+zone d’étude 
+
+Peu probable 
+
+Très probable 
+
+Milieux ouverts, pelouses, 
+thymaies, bords de pistes 
+
+Milieux ouverts au couvert 
+herbacé dense, pelouses 
+
+Certaine 
+
+Certaine 
+
+Fort 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Milieux ouverts à semi-ouverts 
+
+Probable 
+
+Modéré 
+
+Milieux ouverts à semi-ouverts 
+
+Très probable 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Zones sèches, ensoleillées et 
+chaudes, milieux anthropiques 
+
+Haies, lisières forestières, sous-
+bois, boisement 
+
+Milieux ouverts, préforestiers, 
+forestiers et écotones 
+
+Espèce ubiquiste utilisant tous 
+types de milieux plus ou moins 
+naturels 
+
+Milieux ouverts, préforestiers et 
+écotones 
+
+Murs en pierres, milieux 
+anthropisés, tas de pierres 
+
+Probable 
+
+Probable  
+
+Probable 
+
+Certaine 
+
+Certaine 
+
+Probable 
+
+NT 
+
+NT 
+
+NT 
+
+NT 
+
+NT 
+
+LC 
+
+LC 
+
+DD 
+
+LC 
+
+LC 
+
+LC 
+
+Nom français et scientifique : Base de données TAXREF V16 
+Statut de protection : Arrêté du 08 janvier 2021 fixant les listes des amphibiens et des reptiles protégés sur l’ensemble du territoire et les modalités de leur protection 
+Statut Natura 2000 : La Directive 92/43/CEE concernant la conservation des habitats naturels ainsi que des espèces de faune (biologie) et de la flore sauvage, plus généralement appelée directive Habitats Faune Flore 
+Statut de rareté (Liste rouge) :  
+Nationale : Liste rouge UICN des espèces menacées en France. Reptiles et Amphibiens de France métropolitaine (2015). 
+Régionale (PACA) : Liste rouge des. Amphibiens et Reptiles de PACA (2016).  
+Taxons menacés : CR = En danger critique, EN = En danger, VU = Vulnérable / Taxons non menacés : NT = Quasi menacé, LC = Préoccupation mineure, DD = Données manquantes, NA = Non applicable 
+ELC = Enjeu Local de Conservation : A dire d’expert. De manière globale, l’enjeu local de conservation résultera de la comparaison et de la mise en perspective de la valeur patrimoniale des espèces à différentes échelles 
+(locale à globale) et des risques et menaces qui pèsent sur celle-ci, également à l’échelle locale et globale. 
+Présence sur la zone d’étude : Avis d’expert sur la potentialité de présence de l’espèce sur la zone d’étude. 
+Classification : Peu probable : probabilité faible de présence ; Probable : probabilité forte de présence ; Très probable : probabilité très forte de présence ; Certaine : observation de l’espèce sur le périmètre. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+38 
+
+ 
+ 
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+IV.4.2  
+
+Intérêt de la zone d’étude pour les reptiles 
+
+L’intérêt de la zone d’étude pour les reptiles réside dans la présence d’une  mosaïque de milieux ouverts à semi-ouverts de type 
+garrigues et pelouses. La présence de blocs rocheux et de tas de pierres au sein de ces milieux renforce leur caractère favorable. Ainsi, 
+le Lézard ocellé y est pressenti, tout comme le Psammodrome d’Edwards et le Seps strié, qui pourraient être présents au niveau des 
+zones de pelouses, de friches (pour le second) et aux bords des pistes. La présence de lisières et de bosquets est également un élément 
+favorable à l’herpétofaune locale. 
+
+Lézard ocellé 
+Photo prise hors de la zone d’étude – ECOTER, 2022 
+
+Couleuvre à échelons 
+Photo prise hors de la zone d’étude – ECOTER, 2022 
+
+Tas de pierres dans une zone ouverte 
+Photo prise dans la zone d’étude – ECOTER, 2023 
+
+Zone de garrigue, entourée de milieux semi-ouverts 
+Photo prise dans la zone d’étude – ECOTER, 2023 
+
+IV.5   AMPHIBIENS 
+
+IV.5.1   Espèces potentielles 
+
+Le tableau ci-dessous récapitule les espèces d’amphibiens jugées potentiellement présentes dans la zone d’étude. Cette liste a  été 
+établie à partir des données communales (Sources : Faune PACA, Silène, SHF) et suite aux 1ères visites de terrain. 
+
+ESPECES D’AMPHIBIENS POTENTIELLES DANS LA ZONE D'ETUDE 
+
+Nom français 
+
+Nom 
+scientifique 
+
+Statut de 
+protection 
+
+Statut 
+Natura 
+2000 
+
+Listes rouges 
+
+Nationale 
+
+Régionale 
+
+ELC 
+
+Milieux favorables 
+
+Pélodyte 
+ponctué 
+
+Pelodytes 
+punctatus 
+
+Nationale,  
+article 2 
+
+- 
+
+Alyte 
+accoucheur 
+
+Alytes 
+obstetricans  
+
+Nationale,  
+article 2 
+
+Annexe IV 
+
+Crapaud 
+calamite 
+
+Epidalea 
+calamita 
+
+Nationale,  
+article 2 
+
+Annexe IV 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Milieux ouverts. Pièces d'eaux 
+temporaires de faibles 
+profondeurs, fossés 
+
+Milieux ouverts ensoleillés, 
+ruisseau, mares 
+
+Milieux ouverts. Pièces d'eaux 
+temporaires de faibles 
+profondeurs 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+Utilisation de la 
+zone d’étude 
+
+Probable 
+
+Peu probable 
+
+Probable 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+ESPECES D’AMPHIBIENS POTENTIELLES DANS LA ZONE D'ETUDE 
+
+Nom français 
+
+Nom 
+scientifique 
+
+Statut de 
+protection 
+
+Statut 
+Natura 
+2000 
+
+Listes rouges 
+
+Nationale 
+
+Régionale 
+
+ELC 
+
+Milieux favorables 
+
+Crapaud 
+épineux 
+
+Bufo 
+spinosus 
+
+Nationale,  
+article 3 
+
+- 
+
+LC 
+
+LC 
+
+Faible 
+
+Grande diversité de milieux, 
+apprécie les grands points d'eau 
+pour sa reproduction 
+
+Utilisation de la 
+zone d’étude 
+
+Peu probable 
+
+Nom français et scientifique : Base de données TAXREF V16 
+Statut de protection : Arrêté du 08 janvier 2021 fixant les listes des amphibiens et des reptiles protégés sur l’ensemble du territoire et les modalités de leur protection 
+Statut Natura 2000 : La Directive 92/43/CEE concernant la conservation des habitats naturels ainsi que des espèces de faune (biologie) et de la flore sauvage, plus généralement appelée directive Habitats Faune Flore 
+Statut de rareté (Liste rouge) :  
+Nationale : Liste rouge UICN des espèces menacées en France. Reptiles et Amphibiens de France métropolitaine (2015). 
+Régionale (PACA) : Liste rouge des. Amphibiens et Reptiles de PACA (2016).  
+Taxons menacés : CR = En danger critique, EN = En danger, VU = Vulnérable / Taxons non menacés : NT = Quasi menacé, LC = Préoccupation mineure, DD = Données manquantes, NA = Non applicable 
+ELC = Enjeu Local de Conservation : A dire d’expert. De manière globale, l’enjeu local de conservation résultera de la comparaison et de la mise en perspective de la valeur patrimoniale des espèces à différentes échelles 
+(locale à globale) et des risques et menaces qui pèsent sur celle-ci, également à l’échelle locale et globale. 
+Présence sur la zone d’étude : Avis d’expert sur la potentialité de présence de l’espèce sur la zone d’étude. 
+Classification : Peu probable : probabilité faible de présence ; Probable : probabilité forte de présence ; Très probable : probabilité très forte de présence ; Certaine : observation de l’espèce sur le périmètre. 
+
+IV.5.2  
+
+Intérêt de la zone d’étude pour les amphibiens 
+
+L’absence de point d’eau au sein de la zone d’étude est un élément défavorable à la présence d’un riche cortège d’amphibiens. Lors des 
+fortes pluies, les bauges et les abreuvoirs mis en place par les chasseurs et les ornières sur les pistes sont susceptibles d’être des points 
+d’eau temporaires favorables pour des espèces inféodées à ces milieux telles que le Pélodyte ponctué ou le Crapaud calamite. Le reste 
+de la zone d’étude sera ensuite utilisée uniquement lors de leur phase terrestre : déplacement, hivernage, gite, etc. 
+
+Crapaud calamite 
+Photo prise hors de la zone d’étude – ECOTER, 2022 
+
+Pélodyte ponctué 
+Photo prise hors de la zone d’étude – ECOTER, 2022 
+
+Abreuvoir pour le grand gibier 
+Photo prise dans la zone d’étude – ECOTER, 2023 
+
+Bloc rocheux utilisés comme abri pour les amphibiens en phase terrestre 
+Photo prise dans la zone d’étude – ECOTER, 2022 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+IV.6   INSECTES ET AUTRES ARTHROPODES 
+
+IV.6.1   Espèces potentielles 
+
+Au total, plus de 830 taxons d’arthropodes – dont 120 lépidoptères rhopalocères, 29 odonates, 55 orthoptères et 36 araignées – sont 
+connus sur les communes concernées, plusieurs de ces espèces sont protégées et/ou présentent un enjeu local de conservation notable.  
+
+Le tableau ci-dessous récapitule les espèces d’insectes jugées potentiellement présentes dans la zone d’étude. Cette liste a été établie 
+à partir des données communales (Sources : Faune Paca, Silène Faune, INN, Artemisiae, Le Monde des insectes, Cettia, périmètres à 
+statuts) et suite aux 1ères visites de terrain. 
+
+ESPECES D’INSECTES ET AUTRES ARTHROPODES À ENJEUX POTENTIELS DANS LA ZONE D'ETUDE 
+
+Nom français 
+
+Nom 
+scientifique 
+
+Statut de 
+protection 
+
+Statut 
+Natura 
+2000 
+
+Statut 
+ZNIEFF 
+
+Listes rouges  
+
+Nationale 
+
+Régionale 
+
+ELC 
+
+Milieux favorables 
+
+Utilisation de la zone 
+d’étude 
+
+Criquet 
+hérisson 
+
+Prionotropis 
+azami 
+
+Nationale, 
+article 3 
+
+Hespérie de la 
+ballote 
+
+Muschampia 
+baeticus 
+
+Éphippigère 
+provençale 
+
+Ephippiger 
+provincialis 
+
+Hespérie de 
+l'herbe-au-vent 
+
+Muschampia 
+proto 
+
+Zygène des 
+prés 
+
+Moiré 
+provençal 
+
+Louvet 
+
+Azuré des 
+orpins 
+
+Œdipode 
+occitane 
+
+Marbré de 
+Lusitanie 
+
+Zygaena 
+trifolii 
+
+Erebia 
+epistygne 
+
+Hyponephele 
+lupina 
+
+Scolitantides 
+orion 
+
+Oedipoda 
+charpentieri 
+
+Iberochloe 
+tagis 
+
+Sténobothre 
+occitan 
+
+Stenobothrus 
+festivus 
+
+- 
+
+Pleurodirus 
+aquisextanus 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Rem 
+
+- 
+
+- 
+
+Dét 
+
+Rem 
+
+Rem 
+
+Rem 
+
+Dét 
+
+Rem 
+
+Dét 
+
+- 
+
+VU 
+
+- 
+
+LC 
+
+- 
+
+NT 
+
+NT 
+
+LC 
+
+- 
+
+NT 
+
+- 
+
+- 
+
+Écrevisse à 
+pieds blancs 
+
+Austropotamo
+bius pallipes 
+
+Nationale, 
+article 1 
+
+Annexes 
+II & V 
+
+Rem 
+
+VU 
+
+Damier de la 
+succise 
+
+Euphydryas 
+aurinia 
+provincialis 
+
+Nationale, 
+article 3 
+
+Annexe II 
+
+- 
+
+Diane 
+
+Zerynthia 
+polyxena 
+
+Nationale, 
+article 2 
+
+Annexe 
+IV 
+
+Rem 
+
+- 
+
+Rem 
+
+Proserpine 
+
+Magicienne 
+dentelée 
+
+Zerynthia 
+rumina 
+
+Saga pedo 
+
+Nationale, 
+article 3 
+
+Nationale, 
+article 2 
+
+Hespérie à 
+bandes jaunes 
+
+Pyrgus sidae 
+
+Arcyptère 
+provençale 
+
+Bourdon 
+argileux 
+
+- 
+
+Arcyptera 
+kheili 
+
+Bombus 
+argillaceus 
+
+Eurygaster 
+hottentota 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Zygène 
+cendrée 
+
+Zygaena 
+rhadamanthus 
+
+Nationale, 
+article 3 
+
+Azuré du 
+baguenaudier 
+
+Glaucopsyche 
+iolas 
+
+- 
+
+Annexe 
+IV 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Dét 
+
+Rem 
+
+Rem 
+
+- 
+
+Rem 
+
+- 
+
+NT 
+
+- 
+
+LC 
+
+LC 
+
+- 
+
+LC 
+
+- 
+
+- 
+
+- 
+
+- 
+
+EN 
+
+VU 
+
+VU 
+
+NT 
+
+VU 
+
+VU 
+
+EN 
+
+LC 
+
+EN 
+
+NT 
+
+VU 
+
+- 
+
+- 
+
+- 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+NT 
+
+- 
+
+- 
+
+LC 
+
+LC 
+
+Majeur 
+
+Milieux ouverts 
+(Pelouses sèches et 
+steppiques) 
+
+Certaine 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Fort 
+
+Milieux ouverts avec  
+
+Certaine 
+
+Milieux ouverts 
+
+Certaine 
+
+Milieux ouverts avec 
+Phlomis 
+
+Milieux ouverts 
+
+Milieux ouverts 
+
+Milieux ouverts 
+
+Milieux ouverts avec 
+sedum 
+
+Milieux ouverts 
+
+Milieux ouverts avec 
+Iberis 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Milieux ouverts 
+
+Probable 
+
+Milieux ouverts 
+
+Probable 
+
+Cours d’eau 
+
+Très peu probable 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Milieux ouverts avec 
+Céphalaire blanche 
+
+Milieux ombragés avec 
+Aristoloche à feuille 
+ronde 
+
+Milieux ouverts avec 
+Aristoloche pistoloche 
+
+Certaine 
+
+Certaine 
+
+Certaine 
+
+Modéré 
+
+Milieux ouverts 
+
+Certaine 
+
+Modéré 
+
+Milieux ouverts avec 
+potentille hérissé 
+
+Certaine 
+
+Modéré 
+
+Milieux ouverts 
+
+Certaine 
+
+Modéré 
+
+Milieux ouverts 
+
+Certaine 
+
+Modéré 
+
+Milieux ouverts 
+
+Certaine 
+
+Modéré 
+
+Modéré 
+
+Milieux ouverts avec 
+Badasse 
+
+Milieux ouverts avec 
+baguenaudier 
+
+Très probable 
+
+Probable 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+41 
+
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+ESPECES D’INSECTES ET AUTRES ARTHROPODES À ENJEUX POTENTIELS DANS LA ZONE D'ETUDE 
+
+Nom français 
+
+Nom 
+scientifique 
+
+Statut de 
+protection 
+
+Statut 
+Natura 
+2000 
+
+Statut 
+ZNIEFF 
+
+Listes rouges  
+
+Nationale 
+
+Régionale 
+
+ELC 
+
+Milieux favorables 
+
+Utilisation de la zone 
+d’étude 
+
+Lycose de 
+Narbonne 
+
+- 
+
+Capricorne 
+velouté 
+
+Hespérie des 
+cirses 
+
+Lycosa 
+tarantula 
+
+Agapanthia 
+kirbyi 
+
+Cerambyx 
+welensii 
+
+Pyrgus cirsii 
+
+Thècle du 
+frêne 
+
+Laeosopis 
+roboris 
+
+Sablé de la 
+luzerne 
+
+Polyommatus 
+dolus 
+
+Zygène de la 
+bugrane 
+
+Zygaena 
+hilaris 
+
+Ascalaphon du 
+Midi 
+
+Deleproctophy
+lla dusmeti 
+
+Némoscolus 
+de Laura 
+
+Nemoscolus 
+laurae 
+
+Scorpion 
+languedocien 
+
+Buthus 
+occitanus 
+
+Decticelle des 
+ruisseaux 
+
+Roeseliana 
+azami 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Rem 
+
+Rem 
+
+Rem 
+
+Rem 
+
+Rem 
+
+Dét 
+
+Rem 
+
+Dét 
+
+- 
+
+Rem 
+
+Rem 
+
+- 
+
+- 
+
+- 
+
+NT 
+
+LC 
+
+LC 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Agrion de 
+Mercure 
+
+Coenagrion 
+mercuriale 
+
+Nationale, 
+article 3 
+
+Annexe II 
+
+Rem 
+
+LC 
+
+- 
+
+Grand 
+Capricorne 
+
+Ascalaphe 
+loriot 
+
+Grand 
+Fourmilion 
+
+Chiffre 
+
+Nemesia 
+dubia 
+
+Cerambyx 
+cerdo 
+
+Libelloides 
+ictericus 
+
+Palpares 
+libelluloides 
+
+Fabriciana 
+niobe 
+
+Grillon 
+tintinnabulant 
+
+Eugryllodes 
+pipiens 
+
+Gomphe 
+semblable 
+
+Lucane cerf-
+volant 
+
+Gomphus 
+simillimus 
+
+Lucanus 
+cervus 
+
+- 
+
+- 
+
+Nationale, 
+article 2 
+
+Annexes 
+II & IV 
+
+- 
+
+- 
+
+Rem 
+
+Rem 
+
+- 
+
+Rem 
+
+Rem 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Annexe II 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+NT 
+
+- 
+
+LC 
+
+- 
+
+- 
+
+- 
+
+- 
+
+LC 
+
+LC 
+
+LC 
+
+LC 
+
+- 
+
+- 
+
+- 
+
+NT 
+
+LC 
+
+- 
+
+- 
+
+- 
+
+- 
+
+LC 
+
+LC 
+
+LC 
+
+- 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Milieux ouverts 
+écorchés 
+Milieux ouverts avec 
+molène 
+
+Chênaies 
+
+Milieux ouverts avec 
+potentilles 
+
+Milieux semi-ouverts 
+avec frêne 
+
+Milieux ouverts avec 
+Sainfoins 
+
+Milieux ouverts avec 
+Ononis 
+
+Milieux ouverts 
+
+Milieux ouverts 
+rocailleux à végétation 
+basse et écorchée 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Probable 
+
+Modéré 
+
+Milieux ouverts 
+
+Probable 
+
+Modéré 
+
+Modéré 
+
+Modéré 
+
+Faible 
+
+Faible 
+
+Faible 
+
+Milieux humides 
+
+Peu probable 
+
+Cours d’eau avec 
+végétation aquatique 
+
+Pentes et talus stables 
+en contexte ouvert à 
+semi-ouvert 
+
+Chênaies 
+
+Milieux ouverts 
+
+Milieux ouverts 
+
+Peu probable 
+
+Peu probable 
+
+Certaine 
+
+Probable 
+
+Probable 
+
+Faible 
+
+Milieux ouverts 
+
+Probable 
+
+Faible 
+
+Milieux ouverts 
+
+Probable 
+
+Faible 
+
+Cours d’eau 
+
+Peu probable 
+
+Très faible 
+
+Boisements 
+
+Certaine 
+
+Nom français et scientifique : Base de données TAXREF V16 
+Statut de protection : Arrêté du 23 avril 2007 fixant les listes des insectes protégés sur l'ensemble du territoire et les modalités de leur protection 
+Statut Natura 2000 : Statut des espèces inscrites à l’annexes II, IV et V de la directive « Habitats-faune-flore » 92/43/CEE. Ils peuvent être d’intérêt communautaire ou d’intérêt communautaire prioritaire (=état de conservation 
+particulièrement préoccupant à l’échelle européenne). 
+Statut ZNIEFF : Espèces déterminantes ou remarquables pour la désignation des ZNIEFF dans la région concernée. Rem = Remarquable ; Dét = Déterminant 
+Listes rouges 
+      Nationales : Liste rouge des espèces menacées en France - Chapitre Papillons de jour de France métropolitaine (2014) // Liste rouge des espèces menacées en France - Chapitre Libellules de France métropolitaine (2016) 
+// Les Orthoptères menacés en France - Liste rouge nationale et listes rouges par domaines biogéographiques (2004) 
+      Régionales (PACA) : Liste rouge régionale des papillons de jour de Provence-Alpes-Côte d'Azur (2016) // Liste rouge régionale des Odonates de Provence-Alpes-Côte d'Azur (2016) // Liste rouge régionale des Orthoptères 
+de Provence-Alpes-Côte d'Azur (2019) 
+Taxons menacés : CR = En danger critique, EN = En danger, VU = Vulnérable / Taxons non menacés : NT = Quasi menacé, LC = Préoccupation mineure, DD = Données manquantes, NA = Non applicable 
+ELC = Enjeu Local de Conservation : À dire d’expert. De manière globale, l’enjeu local de conservation résultera de la comparaison et de la mise en perspective de la valeur patrimoniale des espèces à différentes échelles 
+(locale à globale) et des risques et menaces qui pèsent sur celle-ci, également à l’échelle locale et globale. 
+Présence sur la zone d’étude : Avis d’expert sur la potentialité de présence de l’espèce sur la zone d’étude. 
+Classification : Peu probable : probabilité faible de présence ; Probable : probabilité forte de présence ; Très probable : probabilité très forte de présence ; Certaine : observation de l’espèce sur le périmètre. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+42 
+
+ 
+ 
+ 
+ 
+ SYNTHESE DES ÉLÉMENTS RECUEILLIS AVANT-EXPERTISES 
+
+IV.6.2  
+
+Intérêt de la zone d’étude pour les insectes et autres arthropodes 
+
+L’intérêt de la zone d’étude pour les insectes et autres arthropodes réside dans la présence d’une mosaïque de milieux ouverts à semi-
+ouverts, et de milieux fermés. Ces milieux thermophiles pourraient convenir à la présence de nombreuses espèces notamment à enjeu 
+local de conservation telles le Criquet Hérisson, la Proserpine, la Zygène cendrée, le Damier de la Succise, la Magicienne dentelée, 
+etc. Les chênaies pubescentes pourraient accueillir des espèces de coléoptères saproxylophages telles que les grands capricornes 
+(Cerambyx spp.) mais leurs potentialités semblent globalement limitées. 
+
+Criquet hérisson 
+Photo prise hors de la zone d’étude – ECOTER, 2022 
+
+Proserpine 
+Photo prise hors de la zone d’étude – ECOTER, 2014 
+
+Milieu ouvert bien exposé favorable à une entomofaune thermophile. 
+Photo prise dans la zone d’étude – ECOTER, 2023 
+
+Ces milieux sont particulièrement favorables au Criquet hérisson. 
+Photo prise dans la zone d’étude – ECOTER, 2023 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+43 
+
+ 
+ 
+  
+ 
+ 
+ 
+DIAGNOSTIC 
+ILLUSTRE DE LA 
+VISITE DE 
+TERRAIN 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+44 
+
+  
+ 
+ 
+ 
+ 
+ DIAGNOSTIC ILLUSTRE DE LA VISITE DE TERRAIN 
+
+I   PRÉAMBULE 
+Plusieurs jours de visite sur une zone d’étude élargie englobant la présente zone d’étude ont été effectués en août, septembre et octobre 
+2022. Le reportage photographique ci-après retranscrit le parcours de terrain. Les enjeux potentiels du point de vue des habitats naturels, 
+de la flore et de la faune sont évoqués au travers de la description des grands types de milieux rencontrés.  
+
+Cinq grands ensembles forment principalement la zone d’étude et sa périphérie. Il s’agit des groupes de milieux suivants : 
+
+▪  Milieux herbacés : divers types de pelouses sèches calcicoles ;  
+▪  Garrigues basses et hautes ; 
+▪  Fourrés xérophiles ; 
+▪  Boisements feuillus ; 
+▪  Dalles calcaires et Lapiaz. 
+
+La cartographie ci-après détaille ces grands ensembles, dans la limite des cortèges floristiques observables aux moments des passages 
+estivaux et automnaux, et localise les différents éléments décrits. 
+
+Le paragraphe suivant illustre ces grands ensembles. La cartographie ci-après permet de localiser les différents éléments décrits. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+45 
+
+ 
+ 
+ 
+ 
+ DIAGNOSTIC ILLUSTRE DE LA VISITE DE TERRAIN 
+
+Carte 9.  Physionomie simplifiée des habitats naturels de la zone d’étude immédiate 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+46 
+
+ 
+ 
+ 
+ 
+ DIAGNOSTIC ILLUSTRE DE LA VISITE DE TERRAIN 
+
+II   REPORTAGE PHOTOGRAPHIQUE 
+
+Pelouses sèches 
+
+De grandes surfaces de pelouses calcaires sèches ont subi le passage de l’incendie. Selon le contexte édaphique, la repousse est différente et les cortèges peuvent être 
+localement dominés par les Stipa spp., les Brachypodes spp. ou avoir conservé une structure de pelouse à Aphyllante de Montpellier.  
+Ce sont des habitats de grand intérêt écologique : les cortèges floristiques, ornithologiques, entomologiques, etc. y sont très diversifiés, comprenant de nombreuses 
+espèces patrimoniales et protégées. 
+
+Ces pelouses peuvent être également annuelles sur dalles calcaires, avec une période de végétation limitée au printemps. 
+
+Garrigues basses et hautes 
+
+Les garrigues basses à Thym sont assez bien distribuées. Elles représentent de nombreuses petites zones ouvertes au sein des peuplements forestiers. Elles subissent 
+régulièrement un fouissement puissant de la part des sangliers qui viennent chercher des larves d’insectes et des bulbes dans le sol. L’intérêt écologique de ces milieux 
+est important : avec la présence de cortèges floristiques, entomologiques et herpétologiques (reptiles) notables. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+47 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DIAGNOSTIC ILLUSTRE DE LA VISITE DE TERRAIN 
+
+Les garrigues hautes, composées principalement de Cistes, ont payé un lourd tribut à l’incendie. Cependant, les massifs sont en cours de repousse et peuvent consti-
+tuer des surfaces de plusieurs centaines de m². On y rencontre régulièrement la Fauvette pitchou. 
+Photos prises dans la zone d’étude – ECOTER, 2022 
+
+Fourrés xérophiles et matorrals 
+
+Les matorrals de feuillus sont le plus souvent constitués d’accrus de Chêne vert et de Chêne pubescent, issus d’une repousse ligneuse faisant suite à une coupe rase 
+ou alors à un incendie. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+48 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DIAGNOSTIC ILLUSTRE DE LA VISITE DE TERRAIN 
+
+Boisements feuillus  
+
+Les  jeunes  chênaies  pubescentes  épargnées  par  l’incendie  augurent  pour  cer-
+taines de peuplement de qualité à venir. Comme tout peuplement forestier, elles 
+demandent des interventions sylvicoles, au profit des arbres les mieux conformés 
+de l’essence objectif, et des essences compagnes, favorisant une diversité dans 
+l’étage co-dominant des boisements : Alisier torminal, Cormier, Erables, etc. 
+Photos prises dans la zone d’étude – ECOTER, 2022 et 2023 
+
+Les OLD peuvent être considérées comme des boisements clairs, mais le sous-
+étage, entretenu par gyrobroyage, ne peut être caractéristique des cortèges herba-
+cés et arbustifs locaux. 
+
+Dalles rocheuses et Lapiaz  
+
+Les lapiaz sont réguliers sur la zone d’étude, le plus souvent en mosaïque avec des milieux herbacés ou de landes. Ils ont été souvent mis à découvert par l’incendie qui 
+a ravagé la zone d’étude il y a quelques années. Ces habitats, avec toutes leurs cavités de toutes tailles, sont importants pour une partie importante de la petite faune 
+(insectes, reptiles, petits mammifères, etc.) en lui fournissant des gîtes et des caches. 
+Photos prises dans la zone d’étude – ECOTER, 2022 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+49 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONCLUSION DU 
+PRÉDIAGNOSTIC 
+ÉCOLOGIQUE  
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+50 
+
+  
+ 
+ 
+ 
+ 
+ 
+ CONCLUSION DU PRÉDIAGNOSTIC ÉCOLOGIQUE 
+
+CONCLUSION 
+
+La zone d’étude représente  une surface  totale de  90 ha sur la commune  d’Artigues. La  réalisation d’un prédiagnostic a permis de 
+recenser les grands types d’habitats naturels et semi-naturels et de hiérarchiser les enjeux écologiques avérés et pressentis. Ce travail 
+a bénéficié des connaissances naturalistes acquises à l’occasion de l’étude d’impacts relative à l’implantation de 22 éoliennes, réalisée 
+sur les milieux mitoyens. 
+
+Suite aux visites de terrain sur une zone élargie englobant la présente zone d’étude (août, septembre et octobre 2022) et aux recherches 
+bibliographiques précitées, plusieurs enjeux écologiques potentiels peuvent d’ores et déjà être mis en avant : 
+
+▪  Les zones de garrigues et de pelouses calcaires sèches présentes dans une grande partie de la zone d’étude sont susceptibles 
+d’accueillir un grand nombre d’espèces à enjeux notables et/ou protégées. C’est le cas notamment pour les insectes (Criquet 
+hérisson, Proserpine, Damier de la Succise, Magicienne dentelée notamment), pour les oiseaux (Pie-grièche méridionale, Fauvette 
+pitchou, zone de chasse de rapaces tel le Circaète-Jean-le-Blanc, le Busard cendré, etc.) et pour les reptiles (Lézard ocellé, Psam-
+modrome d’Edwards en particulier). Pour ce dernier groupe, la présence de lapiaz et tas de bloc rocheux accroît fortement l’attrac-
+tivité de ces milieux. Plusieurs espèces floristiques à enjeux sont également susceptibles d’être présentes dans ces milieux, en 
+particulier des orchidées ou les gagées ; 
+
+▪  Les secteurs arbustifs (fourrés et matorrals) présentent un intérêt écologique moindre. Toutefois, ils peuvent servir de zone 
+d’alimentation et de chasse pour les oiseaux et pour les reptiles. Certaines espèces d’insectes à enjeux peuvent également les 
+utiliser. 
+
+▪  Les boisements présents dans la zone d’étude sont des chênaies pubescentes, à différents stades d’évolution. Certaines d’entre 
+elles  présentent  ponctuellement  des  faciès  mâtures  susceptibles  de  comporter  des  arbres remarquables  et  patrimoniaux.  Ces 
+arbres hébergent une biodiversité importante dans leurs cavités naturelles, notamment des chiroptères. 
+
+▪  Les secteurs rocheux de lapiaz et de tas de cailloux sont intéressants pour de nombreuses espèces car ils leur procurent des 
+
+gîtes souterrains. Une des espèces patrimoniales pour laquelle ces habitats sont très intéressants est le Lézard ocellé. 
+
+Ces éléments permettent aujourd’hui d’élaborer une première cartographie de l’intérêt écologique de la zone d’étude. Cette analyse 
+simplifiée est provisoire et sera susceptible d’évoluer en fonction des résultats obtenus lors des futures investigations. Une première 
+carte présente l’ensemble de la zone d’étude.  
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+51 
+
+ 
+ 
+ 
+ 
+ 
+ CONCLUSION DU PRÉDIAGNOSTIC ÉCOLOGIQUE 
+
+Carte 10.  Évaluation préliminaire de l’intérêt écologique de la zone d’étude 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+52 
+
+ 
+ 
+BIBLIOGRAPHIE 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+53 
+
+  
+ 
+ 
+ 
+ 
+ 
+ BIBLIOGRAPHIE 
+
+Bibliographie générale 
+
+ASSOCIATION FRANCAISE DES INGENIEURS ECOLOGUES, 1996 – Les mesures compensatoires dans les infrastructures linéaires 
+de transport, 146 p. 
+
+ASSOCIATION FRANCAISE DES INGENIEURS ECOLOGUES, 1996 – Les méthodes d’évaluation des impacts sur les milieux, 117 p. 
+
+BCEOM, 2004 – L’étude d’impact sur l’environnement : Objectifs - Cadre réglementaire - Conduite de l’évaluation. Ed. du Ministère de 
+l’Aménagement du Territoire et de l’Environnement, 153 p. 
+
+CEREMA, 2018 – Evaluation environnementale – Guide d’aide à la décision des mesures ERC. 134 p. 
+
+DREAL PACA, 2018 – Recommandations sur le contenu du dossier de demande de dérogation « espèces protégée » pour un projet 
+d’aménagement. Note DREAL PACA/SBEP/UB – Avril 2018. 11p. 
+
+DIREN MIDI-PYRENNES & BIOTOPE, 2002 – Guide de la prise en compte des milieux naturels dans les études d’impact, 76 p. 
+
+DIREN PACA, ATELIER CORDOLEANI & ECO-MED, 2007 – Guide des bonnes pratiques ; Aide à la prise en compte du paysage et du 
+milieu naturel dans les études d’impact de carrières, 102 p. 
+
+DIREN PACA, 2009. Les mesures compensatoires pour la biodiversité ; Principes et projet de mise en œuvre en Région PACA. 55 p. 
+
+KULESZA V. (coord.), 2015 – Mémento de la Faune protégée des Alpes-Maritimes. Première édition 2015. Coédition ONF et CEN PACA. 
+151 p. 
+
+MEDDE, 2012 - « Guide espèces protégées, aménagements et infrastructures : recommandations pour la prise en compte des enjeux 
+liés aux espèces protégées et pour la conduite d'éventuelles procédures de dérogation au sens des articles L.411-1 et L.411-2 du code 
+de l'environnement dans le cadre des projets d'aménagements et d'infrastructures. », Direction de l’Eau et de la Biodiversité (DEB), 
+
+MEDDE, 2013 – Lignes directrices nationales sur la séquence éviter, réduire et compenser les impacts sur les milieux naturels. 232 p. 
+
+MTES, 2017 – Note technique du 26 juin 2017 relative à la caractérisation des zones humides. 5p. 
+
+RAMADE F. 2008 – Dictionnaire encyclopédique des sciences de la nature et de la biodiversité. Dunod, 2008, 726 p. 
+
+SALLES J.M. & COUCOUREUX S., 2012 - Habitats et espèces d’intérêt communautaire de la région Provence-Alpes-Côte d’Azur. Fiches 
+synthétiques d’information pour l’évaluation des incidences d’aménagements ou activités. DREAL PACA. 67 fiches habitats et 53 fiches 
+espèces. 
+
+Habitats naturels et Flore 
+
+BARDAT J., BIORET F., BOTINEAU M., BOULLET V., DELPECH R., GÉHU J.M., HAURY J., LACOSTE A., RAMEAU J.Cl., ROYER 
+J.M., ROUX G. & TOUFFET J., 2004 – Prodrome des végétations de France. Muséum national d'histoire naturelle, Paris, 61, 171 p. 
+
+BENSETTITI F., BOULLET V., CHAVAUDRET-LABORIE C., DENIAUD J. et al., 2005 – Cahiers d'habitats Natura 2000 : Habitats agro-
+pastoraux. La Documentation Française, Paris, 4, 445 p., 487 p. 
+
+BENSETTITI F., LOGEREAU K., VANES J. et BALMAIN C. (coord.). 2004. « Cahiers d’habitats » Natura 2000. Connaissance et gestion 
+des habitats et des espèces d’intérêt communautaire. Tome 5 - Habitats rocheux. MEDD/ MAAPAR/MNHN. Éd. La Documentation fran-
+çaise, Paris, 381 p. + cédérom. 
+
+BISSARDON M. & GUIBAL L., 1997 – CORINE biotopes. Version originale. Types d'habitats français. École nationale du génie rural des 
+eaux et forêts / Muséum national d'histoire naturelle, 217 p. 
+
+BRAUN-BLANQUET J., ROUSSINE N. & NÈGRE R., 1952 – Les groupements végétaux de la France méditerranéenne. 297 p. CNRS, 
+Paris. 
+
+CHAS E., LE DRIANT F., DENTANT C., GARRAUD L., VAN ES J., GILLOT P., REMY C., GATTUS J.-C. et QUELIN L., 2006 – Atlas des 
+plantes rares ou protégées des Hautes-Alpes. Société alpine de protection de la nature / Turriers, Naturalia Publication, 312 p. 
+
+CLAIR M. (Coord.), 2005 Cartographie des habitats naturels et des espèces végétales appliquée aux sites terrestres du réseau Natura 
+2000. Guide méthodologique. Muséum national d’histoire naturelle / Fédération des conservatoires botaniques nationaux, 66 p. 
+
+CRUON (sous la direction de), 2008 - Le Var et sa flore. Plantes rares ou protégées. Naturalia Publication, 544 p. 
+
+DIADEMA K. et NOBLE V. (sous la direction de), 2011 – La Flore des Alpes-Maritimes et de la Principauté de Monaco. Originalité et 
+diversité. Naturalia Publications, 504 p. 
+
+DIREN PACA, 2007 – Inventaire et cartographie des habitats naturels et des espèces végétales et animales dans les sites Natura 2000 
+de la région Provence-Alpes-Côte-d’Azur. Cahier des Charges pour les Inventaires Biologiques (CCIB). Document final validé par le 
+CSRPN le 24 mai 2007, 89 p. 
+
+DUSAK F. & PRAT D. (coords), 2010 – Atlas des orchidées de France. Biotope, Mèze (collection Parthénope) ; Muséum national d’histoire 
+naturelle, Paris, 400 p. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+54 
+
+ 
+ 
+ BIBLIOGRAPHIE 
+
+GAUDILLAT V., HAURY J., BARBIER B. & PESCHADOUR F., 2002 – Cahiers d'habitats Natura 2000 : Habitats humides. La Documen-
+tation Française, Paris, 3, 449 p. 
+
+GAYET G., BAPTIST F., MACIEJEWSKI L., PONCET R., BENSETTI F., 2018. Guide de détermination des habitats terrestres et marins 
+de la typologie EUNIS - version 1.0. AFB, collection Guides et protocoles, 230 p. 
+
+GIRERD B. & ROUX J.-P., 2011 – Flore du Vaucluse, troisième inventaire, descriptif, écologique et chorologique. Biotope, Mèze (Collec-
+tion Parthénope), 1024 p. 
+
+HUC S. (coord.), VAN ES J., NOBLE J., ABDULHAK S., MICHAUD H., 2016 – Liste des espèces messicoles en Provence-Alpes-Côte 
+d’Azur. Conservatoire botanique national alpin ; Conservatoire botanique national méditerranéen de Porquerolles, 22 p. 
+
+JAUZEIN P., 1995 – Flore des champs cultivés. INRA édit., Paris, 898 p. 
+
+JULVE Ph., 1998 ff.a. – Baseflor. Index botanique, écologique et chorologique de la Flore de France. Version [06/07/2018]. Programme 
+Catminat. http://perso. wanadoo.fr/ philippe. julve/catminat. htm 
+
+JULVE Ph., 1998 ff.b. – Baseveg. Répertoire synonymique des groupements végétaux de France. Version [06/07/2018]. Programme 
+Catminat. http://perso. wanadoo.fr/ philippe. julve/catminat. Htm 
+
+LE BERRE M., DIADEMA K., PIRES M., NOBLE V., DEBARROS G., GAVOTTO O. 2017 - Hiérarchisation des enjeux de conservation 
+de la flore en région Provence-Alpes-Côte-d’Azur. Rapport inédit, CBNMed, CBNA, Région Provence-Alpes-Côte d’Azur, 30 pages + 
+annexes. 
+
+LOISEL R., 1976 – La végétation de l'étage méditerranéen dans le Sud-Est continental français, Thèse université d'Aix, Marseille III, 380 
+p + annexes. 
+
+LOUVEL J., GAUDILLAT V. & PONCET L., 2013 – EUNIS, European Nature Information System, Système d’information européen sur 
+la nature. Classification des habitats. Traduction française. Habitats terrestres et d’eau douce. MNHN-DIREV-SPN, MEDDE, Paris, 289 
+p. 
+
+MEDDE, GIS Sol., 2013 – Guide pour l’identification et la délimitation des zones humides en France. Ministère de l’Écologie, du Déve-
+loppement durable et de l’Énergie, Groupement d’Intérêt Scientifique Sol, 63 p. 
+
+NOBLE V., VAN ES J., MICHAUD H., GARRAUD L. (coordination), 2015 – Liste Rouge de la flore vasculaire de Provence-Alpes-Côte 
+d’Azur – Version mise en ligne. Direction régionale de l’environnement, de l’aménagement et du logement & Région Provence-Alpes-
+Côte d’Azur, 14 p. 
+
+PIRES M. & PAVON D. (coord.), 2018 – La flore remarquable des Bouches-du-Rhône. Plantes, milieux naturels et paysages. Biotope 
+éditions, Mèze, 464 p. 
+
+RAMEAU J.-Cl., CHEVALLIER H., BARTOLI M. & GOURC J., 2001 – Cahiers d'habitats Natura 2000 : Habitats forestiers. La Documen-
+tation Française, Paris, 1 et 2, 339 p. + 423 p. 
+
+RAMADE F. 2008 – Dictionnaire encyclopédique des sciences de la nature et de la biodiversité. Dunod, 2008, 726 p. 
+
+RIVERS M.C. et al., 2019 – European Red List of Trees. Cambridge, UK and Brussels, Belgium: IUCN. viii + 60p. 
+
+ROUX J.-P. & COLL., 1995 – Livre rouge de la flore menacée de France. Tome 1 : espèces prioritaires. Muséum national d’histoire 
+naturelle, Service du patrimoine naturel, Conservatoire botanique national de Porquerolles, ministère de l’Environnement. Collection Pa-
+trimoines Naturels, Série Patrimoine génétique, 20, 486 p. 
+
+SALANON R., KULESZA R., OFFERHAUS B., 2010 – Mémento de la flore protégée des Alpes-Maritimes. Nouvelle édition 2010. ONF 
+Les Éditions du Cabri. 320 p. 
+
+TERRIN E., DIADEMA K., FORT N., 2014 - Stratégie régionale relative aux espèces végétales exotiques envahissantes en Provence-
+Alpes-Côte d'Azur et son plan d'actions. Conservatoire botanique national alpin ; Conservatoire botanique national méditerranéen de 
+Porquerolles, 339 p. + annexes. 
+
+TISON J.-M. & DE FOUCAULT B. (Coords), 2014 – Flora Gallica. Flore de France. Biotope, Mèze, xx + 1196 p. 
+
+TISON JM, JAUZEIN P. & MICHAUD H., 2014 - Flore de la France méditerranéenne continentale. CBNMed. Naturalia Publication, 2078 
+p. 
+
+UICN France, FCBN & MNHN, 2012 – La liste rouge des espèces menacées en France – Chapitre Flore vasculaire de France métropo-
+litaine : premiers résultats pour 1000 espèces, sous-espèces et variétés. Dossier électronique, 34 p. 
+
+UICN France, FCBN, MNHN & SFO, 2010 – La liste rouge des espèces menacées en France – Chapitre Orchidées de France métropo-
+litaine. Paris, France. 11 p. 
+
+UICN France, FCBN, AFB & MNHN, 2018. La Liste rouge des espèces menacées en France  – Chapitre Flore vasculaire de France 
+métropolitaine. Paris, France 
+
+UICN France, 2018. La Liste Rouge des Écosystèmes en France - Chapitre Forêts méditerranéennes de France métropolitaine, Paris, 
+France. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+55 
+
+ 
+ 
+ BIBLIOGRAPHIE 
+
+Oiseaux 
+
+BELIS W. & OLIOSO G., 2011. Aperçu diachronique de l’avifaune provençale. Faune-PACA Publication, n° 9, 237 p. 
+
+BLONDEL J., 1975 – L’analyse des peuplements d’oiseaux, élément d’un diagnostic écologique ; I. La méthode des échantillonnages 
+fréquentiels progressifs (E.F.P.). Terre et Vie 29 : 533-589. 
+
+BLONDEL B., FERRY C., FROCHOT B., 1970 - Méthode des Indices Ponctuels d’Abondance (IPA) ou des relevés d’avifaune par stations 
+d’écoute. Alauda, 38 : 55-70. 
+
+BURGER J., HIESSLER N., PONCHON C. & VINCENT-MARTIN N., 2013 – 3ème Plan national d’actions en faveur de l’Aigle de Bonelli 
+2014-2023. Ministère de l’Écologie, de l’Énergie, du Développement durable et de la Mer, 1-155, 172 p. 
+
+DUBOIS Ph.J., LE MARECHAL P., OLIOSO G. & YESOU P., 2008 – Nouvel inventaire des oiseaux de France. Ed. Delachaux et Niestlé, 
+Paris, 560 p. 
+
+FLITTI A., KABOUCHE B., KAYSER Y. et OLIOSO G., 2009, Atlas des oiseaux nicheurs de Provence-Alpes-Côte d’Azur. LPO PACA. 
+Delachaux et Niestlé, Paris, 544p. 
+
+ISSA N. & MULLER Y., 2015, Atlas des oiseaux de France métropolitaine – Nidification et présence hivernale, LPO / SEOF / MNHN. 
+Delachaux & Niestlé, Paris, deux volumes, 1408 p. 
+
+SVENSSON L. & Al., 2011 - Le guide ornitho, nouvelle édition. Delachaux et Niestlé, 446 p. 
+
+THIOLLAY J.M. & BRETAGNOLLE V., 2004 – Rapaces nicheurs de France, distribution, effectifs et conservation. Delachaux et Niestlé, 
+175 p. 
+
+UICN France, MNHN, LPO, SEOF & ONCFS, 2011 – La liste rouge des espèces menacées de France – Chapitre Oiseaux de France 
+métropolitaine. Paris, France. 
+
+Bibliographie liée au projet éolien mitoyen :  
+AGENCE VISU, 2016 – Étude d’impact sur l’environnement – Projet éolien d’Artigues-Ollières (83). 
+
+AGENCE VISU, 2017 – Étude d’impact sur l’environnement – Demande d’Autorisation de Défrichement- Projet éolien d’Artigues-Ollières 
+(83). 
+
+LPO PACA, 2020 – Rapport du suivi de la migration postnuptiale sur le site du parc éolien d’Artigues-Ollières (83). 
+
+LPO PACA, 2021 – Compte rendu annuel du suivi de la mesure A1 et des grands rapaces nicheurs locaux sur le secteur éolien d’Artigues-
+Ollières. 
+
+LPO PACA, 2021 – Rapport du suivi de la migration postnuptiale sur le site du parc éolien d’Artigues-Ollières (83). 
+
+LPO PACA, 2021 – Rapport du suivi de la migration prénuptiale sur le site du parc éolien d’Artigues-Ollières (83), printemps 2021. 
+
+LPO PACA, 2021 – Rapport du suivi de l’avifaune nicheuse sur le site du parc éolien d’Artigues-Ollières (83), printemps 2021. 
+
+LPO PACA, 2021 – Suivi de l’avifaune hivernante sur le site du parc éolien d’Artigues-Ollières (83). 
+
+LPO PACA, 2022 – Compte rendu des mesures R4 et S1, évaluation de l’efficacité du dispositif Safewind et suivi des rapaces sur le parc 
+éolien d’Artigues-Ollières. 
+
+LPO PACA, 2022 – Suivi de l’avifaune hivernante sur le site du parc éolien d’Artigues-Ollières (83) en 2021-2022. 
+
+LPO PACA, 2022 – Rapport du suivi de l’avifaune nicheuse sur le site du parc éolien d’Artigues-Ollières (83), printemps-été 2022. 
+
+Mammifères et chiroptères 
+
+BARATAUD M., 2012 – Écologie acoustique des Chiroptères d’Europe. Identification des espèces, étude de leurs habitats et comporte-
+ments de chasse. Biotope ; Muséum national d’Histoire naturelle (collection Inventaires et biodiversité), 344 p 
+
+DIETZ Ch., HELVERSEN O. et NILL D., 2009 – L’encyclopédie des chauves-souris d’Europe et d’Afrique du Nord. Delachaux & Niestlé, 
+400 p. 
+
+GCP, 2008 - Cartes de répartition des chauves-souris en région PACA 
+
+LPO PACA, GECEM & GCP, 2016 – Les Mammifères de Provence-Alpes-Côte d’Azur. Biotope, Mèze, 344 p. 
+
+PNE, CRAVE, 1995 – Faune sauvage des Alpes du Haut Dauphiné. Atlas des Vertébrés  – Tome 1 : poissons, amphibiens, reptiles, 
+mammifères. Parc national des Ecrins (PNE) / Centre de Recherches Alpins sur les Vertébrés (CRAVE), Gap, 303 p. 
+
+UICN France, MNHN & SHF, 2009 – La liste rouge des espèces menacées de France – Chapitre Mammifères de France métropolitaine. 
+Paris, France 
+
+Etude d’impact sur  l’environnement  – Demande d’Autorisation de Défrichement- Projet éolien d’Artigues-Ollières (83), Agence VISU, 
+2017 ; 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+56 
+
+ 
+ 
+ BIBLIOGRAPHIE 
+
+Bibliographie liée au projet éolien mitoyen :  
+
+CALIDRIS, 2021 – Dossier de saisine du CNPN, parc éolien d’Artigues-Ollières (83). 
+
+CEN PACA, 2021 – Suivi des chiroptères par l’acoustique sur le parc éolien d’Artigues-Ollières (Var). 
+
+SOUSBIE O, 2017 – Expertise chiroptères, projet éolien d’Artigues et Ollières (83). 
+
+Reptiles et amphibiens 
+
+ACEMAV coll., Duguet R. & Melki F. ed., 2003 - Les Amphibiens de France, Belgique et Luxembourg. Collection Parthénope, éditions 
+Biotope, Mèze (France). 480 p. 
+
+ANONYME, 2006 – Convention Relative à la Conservation de la vie sauvage et du Milieu Naturel de l’Europe ; Groupe d'experts sur la 
+conservation des amphibiens et des reptiles. Direction de la Culture et du Patrimoine culturel et naturel. 35 p. 
+
+ARNOLD N. & OVENDEN D., 2002 – Le guide herpéto ; 199 amphibiens et reptiles d’Europe. éd Delachaux & Niestlé, Paris, 288 p. 
+
+BOUR R., CHEYLAN M., CROCHET P.A., GENIEZ Ph., GUYETANT R., HAFFNER P., INEICH I., NAULLEAU G., OHLER N. & LES-
+CURE J., 2008 – Liste taxinomique actualisée des Amphibiens et Reptiles de France. Bull. Soc. Herp. Fr., 126 : 37-43. 
+
+GENIEZ P. & CHEYLAN M., 2005 – Amphibiens et Reptiles de France. CD-Rom, Educagri, Dijon. 
+
+GRAITSON E. & NAULLEAU G., 2005 – Les abris artificiels: un outil pour les inventaires herpétologiques et le suivi des populations de 
+reptiles. Bulletin de la Société Herpétologique de France 115 : 5–22. 
+
+KREINER G., 2007 – The Snakes of Europe. Edition Chimaira (Germany). 317p. 
+
+LESCURE J. & MASSARY de  J.-C. (coords), 2012 – Atlas des Amphibiens et Reptiles de France. Biotope, Mèze ; Muséum national 
+d’Histoire naturelle, Paris (collection Inventaires & biodiversité), 272 p. 
+
+MIAUD  C. & MURATET J., 2004  – Identifier les  œufs et les larves des amphibiens de France.  Coll. Techniques et pratiques, INRA 
+Editions, Paris ; 200 p. 
+
+MURATET J., 2007 – Identifier les Amphibiens de France métropolitaine, Guide de terrain. Ecodiv, France ; 291 p. 
+
+MURATET J., 2015 – Identifier les Reptiles de France métropolitaine. Ed. Ecodiv, France, 530p. 
+
+NOLLERT A. & NOLLERT C., 2003 – Guide des amphibiens d’Europe, biologie, identification, répartition. Coll. Les guides du naturaliste, 
+éd Delachaux & Niestlé, Paris ; 383 p. 
+
+PNE, CRAVE, 1995 – Faune sauvage des Alpes du Haut Dauphiné. Atlas des Vertébrés – Tome 1 : poissons, amphibiens, reptiles, 
+mammifères. Parc national des Ecrins (PNE) / Centre de Recherches Alpins sur les Vertébrés (CRAVE), Gap, 303 p. 
+
+UICN France, MNHN & SHF, 2015 – La liste rouge des espèces menacées de France  – Chapitre Reptiles et amphibiens de France 
+métropolitaine. Paris, France.  
+
+VACHER J.P & GENIEZ M., (coords) 2010 – Les Reptiles de France, Belgique, Luxembourg et Suisse. Biotope, Mèze (Collection Par-
+thénope) ; Muséum national d’Histoire naturelle, Paris, 544 p. 
+
+Insectes et autres arthropodes 
+
+BELLMANN, H. & LUQUET, G. (2009). Sauterelles, grillons et criquets d’Europe occidentale. Delachaux et Niestlé. 384 p. 
+
+BENCE, S., CHAULIAC, A., MAUREL, N. & DROUET, É. (2009). Papillons de jour - Rhopalocères et zygènes - Atlas de Provence-Alpes-
+Côte d’Azur. Naturalia. 20 p. 
+
+BENCE, S., DELAUGE, J., DUSACQ, M. & MEYER, D. (2019). Liste rouge régionale des Orthoptères de Provence-Alpes-Côte d’Azur. 
+CEN PACA & DREAL PACA. 20 p. 
+
+BENCE, S., DELAUGE, J., LAMBRET, P., MEYER, D. & HAYOT, C. (2016a). Liste rouge régionale des Odonates de Provence-Alpes-
+Côte d’Azur. Marais du Vigueirat, CEN PACA & DREAL PACA. 16 p. 
+
+BENCE, S., DELAUGE, J., RICHAUD, S., MEYER, D. & HAYOT, C. (2016b). Liste rouge régionale des papillons de jour de Provence-
+Alpes-Côte d’Azur. CEN PACA & DREAL PACA. 20 p. 
+
+BENCE, S. & RICHAUD, S. (2019). Atlas des papillons de jour et zygènes - Provence-Alpes-Côte d’Azur. Le naturographe. 544 p. 
+
+BENSETTITI, F. & GAUDILLAT, V. (2002). Cahiers d'habitats Natura 2000 : Connaissance et gestion des habitats et des espèces d’intérêt 
+communautaire - Tome 7, Espèces animales. La Documentation française. 353 p. 
+
+BOUDOT, J.-P., GRAND, D., WILDERMUTH, H. & MONNERAT, C. (2017). Les libellules de France, Belgique et Luxembourg. vol. 76. 
+Biotope. 456 p. 
+
+BOUDOT, J.-P. & KALKMAN, V. J. (2015). Atlas of the European dragonflies and damselflies. KNNV Publishing. 381 p. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+57 
+
+ 
+ 
+ BIBLIOGRAPHIE 
+
+CÁLIX, M., ALEXANDER, K. N. A., NIETO, A., DODELIN, B., et al. (2018). European red list of saproxylic beetles. Publications Office of 
+the European Union. 24 p. 
+
+CARTER, D. J. & HARGREAVES, B. (2005). Guide des chenilles d’Europe. Delachaux et Niestlé. 311 p. 
+
+CEN PACA (2017a). Liste des espèces de faune déterminantes ZNIEFF de la région PACA. 37 p. 
+
+CEN PACA (2017b). Liste des espèces de faune remarquables ZNIEFF de la région PACA. 36 p. 
+
+DEFAUT, B. & MORICHON, D. (2015). Faune n° 97 – Criquets de France (Orthoptera, Caelifera). vol. 1 (a & b). Fédération française 
+des sociétés de sciences naturelles. 738 p. 
+
+DIJKSTRA, K.-D. B. & SCHRÖTER, A. (2021). Guide des libellules de France et d’Europe. Delachaux et Niestlé. 336 p. 
+
+DOUCET, G. (2016). Clé de détermination des Exuvies des Odonates de France. 3e édition. SFO. 68 p. 
+
+GARCÍA, N., NUMA, C., BARTOLOZZI, L., BRUSTEL, H., et al. (2018). The conservation status and distribution of Mediterranean saprox-
+ylic beetles. IUCN. 72 p. 
+
+GRAND, D., BOUDOT, J.-P. & DOUCET, G. (2014). Cahier d’identification des libellules de France, Belgique, Luxembourg et Suisse - 
+2ème édition. Biotope. 136 p. 
+
+HOCHKIRCH, A., NIETO, A., GARCÍA CRIADO, M., CÁLIX, M., et al. (2016). European red list of grasshoppers, crickets and bush-
+crickets. Publications Office of the European Union. 86 p. 
+
+HOUARD, X. & JAULIN, S. (2018). Plan national d’actions 2018-2028 en faveur des papillons de jour. Opie & DREAL AURA. 64 p. 
+
+IORIO, É., DUSOULIER, F., SOLDATI, F., NOËL, F., et al. (2022). Les Arthropodes terrestres dans les études d’impact : limites actuelles 
+et propositions pour une meilleure prise en compte des enjeux de conservation. Naturae 2022, 43–99. 
+
+KALKMAN, V. J., BOUDOT, J.-P., BERNARD, R., CONZE, K.-J., et al. (2010). European red list of dragonflies. Publications Office of the 
+European Union. 38 p. 
+
+LAFRANCHIS, T. (2000). Les Papillons de jour de France, Belgique et Luxembourg et leurs chenilles. Biotope. 448 p. 
+
+LAFRANCHIS, T. (2014). Papillons de France : Guide de détermination des papillons diurnes. Diatheo. 351 p. 
+
+LAFRANCHIS, T., JUTZELER, D., GUILLOSSON, J.-Y., KAN, P. & KAN, B. (2015). La vie des papillons : Écologie, biologie et compor-
+tement des rhopalocères de France. Diatheo. 751 p. 
+
+LAMBRET, P., RONNE, C., BENCE, S., BLANCHON, Y., et al. (2017). Révision de la Liste rouge des libellules (Odonata) de Provence-
+Alpes-Côte d’Azur. Martinia 33, 37–52. 
+
+LEPIFORUM,  E.  V.  (2021).  Bestimmungshilfe  für  die  in  Europa  nachgewiesenen  Schmetterlingsarten.  Lepiforum.  https://lepifo-
+rum.org/wiki (consulté en 2022). 
+
+MOTHIRON, P. & HODDÉ, C. (2021). Les carnets du lépidoptériste français. Lépinet. https://www.lepinet.fr/ (consulté en 2022). 
+
+MOUSSUS, J.-P., LORIN, T. & COOPER, A. (2019). Guide pratique des papillons de France. Delachaux et Niestlé. 416 p. 
+
+NUMA, C., TONELLI, M., LOBO, J. M., VERDÚ, J. R., et al. (2020). The conservation status and distribution of Mediterranean dung 
+beetles. IUCN. 72 p. 
+
+OREINA (2022). Artemisiae - Lépidoptères de France. Oreina - Les papillons de France. https://oreina.org/artemisiae/  (consulté en 2022). 
+
+PAPAZIAN, M., VIRICEL, G., BLANCHON, Y. & KABOUCHE, B. (2017). Les libellules de Provence-Alpes-Côte d’Azur. Biotope. 368 p. 
+
+SARDET, É. & DEFAUT, B. (2004). Les Orthoptères menacés en France - Liste rouge nationale et listes rouges par domaines biogéo-
+graphiques. Matériaux Orthoptériques et Entomocénotiques 9, 125–137. 
+
+SARDET, É., ROESTI, C. & BRAUD, Y. (2015). Cahier d’identification des Orthoptères de France, Belgique, Luxembourg et Suisse. 
+Biotope. 304 p. 
+
+SMALLSHIRE, D. & SWASH, A. (2020). Europe’s dragonflies: a field guide to the damselflies and dragonflies. Princeton University Press. 
+360 p. 
+
+UICN FRANCE, MNHN, OPIE & SEF (2014). La Liste rouge des espèces menacées de France - Chapitre Papillons de jour de France 
+métropolitaine. 16 p. 
+
+UICN FRANCE, MNHN, OPIE & SFO (2016). La Liste rouge des espèces menacées en France - Chapitre Libellules de France métropo-
+litaine. 12 p. 
+
+VAN  SWAAY,  C.,  CUTTELOD,  A.,  COLLINS,  S.,  MAES,  D.,  et  al.  (2010).  European  red  list  of butterflies.  Publications  Office  of  the 
+European Union. 58 p. 
+
+Projet de construction d’une centrale photovoltaïque au sol sur la commune d’Artigues (83) 
+Prédiagnostic écologique 
+ECODELTA - PRO20220093- 01/2023 
+
+58 
+
+ 
+ 
+

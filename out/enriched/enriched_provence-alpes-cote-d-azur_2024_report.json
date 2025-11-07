@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "input_file": "out/analyzed/analyzed_provence-alpes-cote-d-azur_2024.csv",
+    "output_file": "/Users/lukamauvignant/Library/Mobile Documents/com~apple~CloudDocs/veille-stockage-poc/out/enriched/enriched_provence-alpes-cote-d-azur_2024.csv",
+    "timestamp": "2025-11-07 10:12:16",
+    "duration_seconds": 19.4,
+    "projects_processed": 1
+  },
+  "statistics": {
+    "permits_found": 0,
+    "high_confidence": 0,
+    "avg_confidence": 0.0
+  }
+}
