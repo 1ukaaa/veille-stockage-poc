@@ -15,6 +15,7 @@ AVAILABLE_REGIONS = {
     "nouvelle-aquitaine": "nouvelle_aquitaine",
     "pays-de-la-loire": "pays_de_la_loire",
     "centre-val-de-loire": "centre_val_de_loire",
+    "provence-alpes-cote-d-azur": "provence_alpes_cote_d_azur",
 }
 
 
