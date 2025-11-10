@@ -8,6 +8,7 @@ Outil de veille automatisée pour les projets de stockage d'énergie par batteri
 1. **Découverte** : Scraping sites DREAL par région/année
 2. **Extraction** : Téléchargement et analyse documents (PDF/ZIP)
 3. **Enrichissement** : Recherche permis de construire via IA (Gemini + Google Search)
+4. **Enrichissement v2** : Version optimisée ciblant les sites préfectoraux pour récupérer les preuves de dépôt (PC & ICPE)
 
 ## 📦 Installation
 
@@ -46,6 +47,18 @@ python extract.py --input out/projects/aura_2024.csv --output out/analyzed/aura_
 
 Étape 3 : Enrichissement permis de construire
 python enrich.py --input out/analyzed/aura_2024.csv --output out/enriched/aura_2024.csv
+
+Étape 3 bis : Enrichissement v2 dédié aux préfectures (preuves de dépôt PC + ICPE)
+python enrich_v2.py --input out/analyzed/aura_2024.csv --output out/enriched/aura_2024_v2.csv
+
+Étape 3 ter : Enrichissement v2 avec validation IA (Gemini)
+python enrich_v2.py --input out/analyzed/aura_2024.csv --use-ai --limit 5
+
+Étape 4 : Enrichissement v3 (SerpAPI + IA, recommandé pour les preuves de dépôt)
+python enrich_v3.py --input out/analyzed/aura_2024.csv --search-engine auto --use-ai --limit 5
+
+Étape 4 bis : Enrichissement v3 avec Gemini Ground Search (sans SerpAPI)
+python enrich_v3.py --input out/analyzed/aura_2024.csv --search-engine ground --ground-key $GEMINI_API_KEY --use-ai --limit 5
 
 
 ### Options Avancées
@@ -87,6 +100,23 @@ Les résultats sont exportés en CSV avec les colonnes suivantes :
 **Analyse** : + puissance_MW, energie_MWh, commune, demandeur, cas_par_cas_decision
 
 **Enrichissement** : + permit_number, permit_date, permit_source, permit_confidence
+
+**Enrichissement v2** (en plus des champs ci-dessus) :
+- permit_deposit_date, permit_issue_date, permit_summary
+- icpe_deposit_date, icpe_reference, icpe_source, icpe_confidence, icpe_summary
+- Option `--use-ai` : ajoute une validation Gemini des documents suspects pour confirmer les preuves de dépôt
+
+**Enrichissement v3** :
+- Exploite Gemini Ground Search, SerpAPI ou CSE (selon configuration) + pipeline IA Gemini
+- Même champs que v2
+- Options supplémentaires : `--search-engine {auto,cse,serpapi,ground}`, `--serpapi-key`, `--serpapi-max`, `--ground-key`, `--ground-model`, `--use-ai`
+
+## 🔑 API externes
+
+- GOOGLE_API_KEY / GOOGLE_CSE_ID : pour CSE et fallback
+- SERPAPI_KEY : pour activer le moteur SerpAPI (recommandé pour retrouver les preuves introuvables via CSE)
+- GEMINI_API_KEY : pour la validation IA (sinon réutilise GOOGLE_API_KEY si compatible)
+- GEMINI_SEARCH_KEY (optionnel) : clé dédiée au Gemini Ground Search (sinon `GEMINI_API_KEY`)
 
 ## 🔧 Régions Supportées
 
