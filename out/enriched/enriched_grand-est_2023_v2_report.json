@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "input": "out/analyzed/analyzed_grand-est_2023.csv",
+    "output": "/Users/lukamauvignant/Library/Mobile Documents/com~apple~CloudDocs/veille-stockage-poc/out/enriched/enriched_grand-est_2023_v2.csv",
+    "projects": 1,
+    "duration_seconds": 35.6
+  },
+  "statistics": {
+    "permits_found": 0,
+    "icpe_found": 0,
+    "avg_permit_confidence": 0.1,
+    "avg_icpe_confidence": 0.1
+  }
+}
