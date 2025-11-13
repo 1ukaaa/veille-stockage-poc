@@ -1,5 +1,11 @@
+__pycache__
+_backup_2025-11-04_103917
+.vscode
+cache
+data
+logs
+venv
 .venv
 .env
-cache
+.DS_Store
 veilleapi-990e97b2d10e.json
-.vscode
