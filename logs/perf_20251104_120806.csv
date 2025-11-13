@@ -1,2 +1,0 @@
-Stage,Count,Total_Duration_s,Avg_Duration_s,Min_s,Max_s,Statuses
-http_request,6,16.9,2.817,2.326,3.514,{'OK': 6}

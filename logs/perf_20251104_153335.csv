@@ -1,6 +1,0 @@
-Stage,Count,Total_Duration_s,Avg_Duration_s,Min_s,Max_s,Statuses
-http_request,353,3847.98,10.901,1.024,63.217,{'OK': 353}
-parse_html,309,0.21,0.001,0.001,0.002,{'OK': 309}
-extract_content,309,0.07,0.0,0.001,0.002,{'OK': 309}
-validate_bess,309,0.04,0.0,0.001,0.001,"{'REJECT': 302, 'ACCEPT': 7}"
-project_accepted,7,134.14,19.163,5.884,41.75,{'OK': 7}
