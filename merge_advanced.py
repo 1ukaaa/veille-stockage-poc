@@ -14,7 +14,7 @@ from datetime import datetime
 def merge_csvs_advanced(
     input_dir: str,
     output_path: str,
-    pattern: str = "enriched_*.csv",
+    pattern: str = "projets_bess_TOUTES_REGIONS_*.csv",
     on_duplicate: str = "keep_best"  # "keep_best", "keep_first", "flag"
 ) -> Dict:
     """
@@ -174,7 +174,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Fusion avancée de CSVs avec déduplication")
     parser.add_argument("--input", default="out/enriched", help="Répertoire d'entrée")
     parser.add_argument("--output", default="data/combined_all.csv", help="Fichier de sortie")
-    parser.add_argument("--pattern", default="enriched_*.csv", help="Pattern de fichiers")
+    parser.add_argument("--pattern", default="projets_bess_TOUTES_REGIONS_*.csv", help="Pattern de fichiers")
     parser.add_argument("--dedup", choices=["keep_best", "keep_first", "flag"], default="keep_best",
                         help="Stratégie de déduplication")
     args = parser.parse_args()
